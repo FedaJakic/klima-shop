@@ -19,62 +19,62 @@ const Header = () => {
   return (
     <header>
       <Navbar bg='dark' variant='dark' expand='lg' collapseOnSelect>
-        <Container>
-          <LinkContainer to='/'>
-            <Navbar.Brand>KlimaTech</Navbar.Brand>
-          </LinkContainer>
-          <Navbar.Toggle aria-controls='basic-navbar-nav' />
-          <Navbar.Collapse id='basic-navbar-nav'>
-            <Route render={({ history }) => <SearchBox history={history} />} />
-            <Nav className='ml-auto'>
-              <NavDropdown title='Klima uređaji' id='basic-nav-dropdown'>
-                <NavDropdown.Item href='#action/3.1'>
-                  Mono klima uređaji
-                </NavDropdown.Item>
-                <NavDropdown.Item href='#action/3.2'>
-                  Dual klima uređaji
+        {/* <Container> */}
+        <LinkContainer to='/'>
+          <Navbar.Brand>KlimaTech</Navbar.Brand>
+        </LinkContainer>
+        <Navbar.Toggle aria-controls='basic-navbar-nav' />
+        <Navbar.Collapse id='basic-navbar-nav'>
+          <Route render={({ history }) => <SearchBox history={history} />} />
+          <Nav className='ml-auto'>
+            <NavDropdown title='Klima uređaji' id='basic-nav-dropdown'>
+              <NavDropdown.Item href='#action/3.1'>
+                Mono klima uređaji
+              </NavDropdown.Item>
+              <NavDropdown.Item href='#action/3.2'>
+                Dual klima uređaji
+              </NavDropdown.Item>
+            </NavDropdown>
+            <LinkContainer to='/cart'>
+              <Nav.Link>Montaža i servis</Nav.Link>
+            </LinkContainer>
+            <LinkContainer to='/cart'>
+              <Nav.Link>
+                <i className='fas fa-shopping-cart'></i> Košara
+              </Nav.Link>
+            </LinkContainer>
+            {userInfo ? (
+              <NavDropdown title={userInfo.name} id='username'>
+                <LinkContainer to='/profile'>
+                  <NavDropdown.Item>Profile</NavDropdown.Item>
+                </LinkContainer>
+                <NavDropdown.Item onClick={logoutHandler}>
+                  Logout
                 </NavDropdown.Item>
               </NavDropdown>
-              <LinkContainer to='/cart'>
-                <Nav.Link>Montaža i servis</Nav.Link>
-              </LinkContainer>
-              <LinkContainer to='/cart'>
+            ) : (
+              <LinkContainer to='/login'>
                 <Nav.Link>
-                  <i className='fas fa-shopping-cart'></i> Košara
+                  <i className='fas fa-user'></i> Prijava
                 </Nav.Link>
               </LinkContainer>
-              {userInfo ? (
-                <NavDropdown title={userInfo.name} id='username'>
-                  <LinkContainer to='/profile'>
-                    <NavDropdown.Item>Profile</NavDropdown.Item>
-                  </LinkContainer>
-                  <NavDropdown.Item onClick={logoutHandler}>
-                    Logout
-                  </NavDropdown.Item>
-                </NavDropdown>
-              ) : (
-                <LinkContainer to='/login'>
-                  <Nav.Link>
-                    <i className='fas fa-user'></i> Prijava
-                  </Nav.Link>
+            )}
+            {userInfo && userInfo.isAdmin && (
+              <NavDropdown title='Admin' id='adminmenu'>
+                <LinkContainer to='/admin/userlist'>
+                  <NavDropdown.Item>Users</NavDropdown.Item>
                 </LinkContainer>
-              )}
-              {userInfo && userInfo.isAdmin && (
-                <NavDropdown title='Admin' id='adminmenu'>
-                  <LinkContainer to='/admin/userlist'>
-                    <NavDropdown.Item>Users</NavDropdown.Item>
-                  </LinkContainer>
-                  <LinkContainer to='/admin/productlist'>
-                    <NavDropdown.Item>Products</NavDropdown.Item>
-                  </LinkContainer>
-                  <LinkContainer to='/admin/orderlist'>
-                    <NavDropdown.Item>Orders</NavDropdown.Item>
-                  </LinkContainer>
-                </NavDropdown>
-              )}
-            </Nav>
-          </Navbar.Collapse>
-        </Container>
+                <LinkContainer to='/admin/productlist'>
+                  <NavDropdown.Item>Products</NavDropdown.Item>
+                </LinkContainer>
+                <LinkContainer to='/admin/orderlist'>
+                  <NavDropdown.Item>Orders</NavDropdown.Item>
+                </LinkContainer>
+              </NavDropdown>
+            )}
+          </Nav>
+        </Navbar.Collapse>
+        {/* </Container> */}
       </Navbar>
     </header>
   )
