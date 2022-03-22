@@ -59,15 +59,19 @@ const deleteProduct = asyncHandler(async (req, res) => {
 // @access  Private/Admin
 const createProduct = asyncHandler(async (req, res) => {
   const product = new Product({
-    name: 'Sample name',
+    name: 'Ime proizvoda',
     price: 0,
     user: req.user._id,
     image: '/images/sample.jpg',
-    brand: 'Sample brand',
-    category: 'Sample category',
+    brand: 'Ime branda',
+    coldEff: '2.9',
+    warmEff: '3.1',
+    energyClass: 'A++',
+    sizeOfRoom: '16-25',
+    category: 'Kategorija',
     countInStock: 0,
     numReviews: 0,
-    description: 'Sample description',
+    description: 'Opis proizvoda',
   })
 
   const createdProduct = await product.save()
@@ -84,6 +88,10 @@ const updateProduct = asyncHandler(async (req, res) => {
     description,
     image,
     brand,
+    coldEff,
+    warmEff,
+    energyClass,
+    sizeOfRoom,
     category,
     countInStock,
   } = req.body
@@ -96,6 +104,10 @@ const updateProduct = asyncHandler(async (req, res) => {
     product.description = description
     product.image = image
     product.brand = brand
+    product.coldEff = coldEff
+    product.warmEff = warmEff
+    product.energyClass = energyClass
+    product.sizeOfRoom = sizeOfRoom
     product.category = category
     product.countInStock = countInStock
 

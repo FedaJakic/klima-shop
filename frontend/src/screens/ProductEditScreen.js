@@ -16,6 +16,10 @@ const ProductEditScreen = ({ match, history }) => {
   const [price, setPrice] = useState(0)
   const [image, setImage] = useState('')
   const [brand, setBrand] = useState('')
+  const [coldEff, setColdEfficiency] = useState('')
+  const [warmEff, setWarmEfficiency] = useState('')
+  const [energyClass, setEnergyClass] = useState('')
+  const [sizeOfRoom, setSizeOfRoom] = useState('')
   const [category, setCategory] = useState('')
   const [countInStock, setCountInStock] = useState(0)
   const [description, setDescription] = useState('')
@@ -45,6 +49,10 @@ const ProductEditScreen = ({ match, history }) => {
         setPrice(product.price)
         setImage(product.image)
         setBrand(product.brand)
+        setColdEfficiency(product.coldEff)
+        setWarmEfficiency(product.warmEff)
+        setEnergyClass(product.energyClass)
+        setSizeOfRoom(product.sizeOfRoom)
         setCategory(product.category)
         setCountInStock(product.countInStock)
         setDescription(product.description)
@@ -84,6 +92,10 @@ const ProductEditScreen = ({ match, history }) => {
         price,
         image,
         brand,
+        coldEff,
+        warmEff,
+        energyClass,
+        sizeOfRoom,
         category,
         description,
         countInStock,
@@ -97,7 +109,7 @@ const ProductEditScreen = ({ match, history }) => {
         Go Back
       </Link>
       <FormContainer>
-        <h1>Edit Product</h1>
+        <h1>Uređivanje proizvoda</h1>
         {loadingUpdate && <Loader />}
         {errorUpdate && <Message variant='danger'>{errorUpdate}</Message>}
         {loading ? (
@@ -107,7 +119,7 @@ const ProductEditScreen = ({ match, history }) => {
         ) : (
           <Form onSubmit={submitHandler}>
             <Form.Group controlId='name'>
-              <Form.Label>Name</Form.Label>
+              <Form.Label>Naziv</Form.Label>
               <Form.Control
                 type='name'
                 placeholder='Enter name'
@@ -117,7 +129,7 @@ const ProductEditScreen = ({ match, history }) => {
             </Form.Group>
 
             <Form.Group controlId='price'>
-              <Form.Label>Price</Form.Label>
+              <Form.Label>Cijena</Form.Label>
               <Form.Control
                 type='number'
                 placeholder='Enter price'
@@ -127,7 +139,7 @@ const ProductEditScreen = ({ match, history }) => {
             </Form.Group>
 
             <Form.Group controlId='image'>
-              <Form.Label>Image</Form.Label>
+              <Form.Label>Slika</Form.Label>
               <Form.Control
                 type='text'
                 placeholder='Enter image url'
@@ -150,6 +162,46 @@ const ProductEditScreen = ({ match, history }) => {
                 placeholder='Enter brand'
                 value={brand}
                 onChange={(e) => setBrand(e.target.value)}
+              ></Form.Control>
+            </Form.Group>
+
+            <Form.Group controlId='coldEff'>
+              <Form.Label>Učinak hlađenja</Form.Label>
+              <Form.Control
+                type='text'
+                placeholder='(kW)'
+                value={coldEff}
+                onChange={(e) => setColdEfficiency(e.target.value)}
+              ></Form.Control>
+            </Form.Group>
+
+            <Form.Group controlId='warmEff'>
+              <Form.Label>Učinak grijanja</Form.Label>
+              <Form.Control
+                type='text'
+                placeholder='(kW)'
+                value={warmEff}
+                onChange={(e) => setWarmEfficiency(e.target.value)}
+              ></Form.Control>
+            </Form.Group>
+
+            <Form.Group controlId='energyClass'>
+              <Form.Label>Energetski razred</Form.Label>
+              <Form.Control
+                type='text'
+                placeholder='npr. A++'
+                value={energyClass}
+                onChange={(e) => setEnergyClass(e.target.value)}
+              ></Form.Control>
+            </Form.Group>
+
+            <Form.Group controlId='sizeOfRoom'>
+              <Form.Label>Veličina prostora</Form.Label>
+              <Form.Control
+                type='text'
+                placeholder='npr. 16 - 25'
+                value={sizeOfRoom}
+                onChange={(e) => setSizeOfRoom(e.target.value)}
               ></Form.Control>
             </Form.Group>
 
