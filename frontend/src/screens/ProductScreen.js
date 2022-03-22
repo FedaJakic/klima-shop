@@ -6,6 +6,7 @@ import Rating from '../components/Rating'
 import Message from '../components/Message'
 import Loader from '../components/Loader'
 import Meta from '../components/Meta'
+import ACAtributes from '../components/ACAtributes'
 import {
   listProductDetails,
   createProductReview,
@@ -60,7 +61,7 @@ const ProductScreen = ({ history, match }) => {
   return (
     <>
       <Link className='btn btn-light my-3' to='/'>
-        Go Back
+        Natrag
       </Link>
       {loading ? (
         <Loader />
@@ -73,7 +74,7 @@ const ProductScreen = ({ history, match }) => {
             <Col md={6}>
               <Image src={product.image} alt={product.name} fluid />
             </Col>
-            <Col md={3}>
+            <Col>
               <ListGroup variant='flush'>
                 <ListGroup.Item>
                   <h3>{product.name}</h3>
@@ -84,13 +85,19 @@ const ProductScreen = ({ history, match }) => {
                     text={`${product.numReviews} reviews`}
                   />
                 </ListGroup.Item>
-                <ListGroup.Item>Price: ${product.price}</ListGroup.Item>
+                <ListGroup.Item>Cijena: kn {product.price}</ListGroup.Item>
                 <ListGroup.Item>
-                  Description: {product.description}
+                  <strong>Opis proizvoda:</strong> {product.description}
                 </ListGroup.Item>
               </ListGroup>
+              <ACAtributes
+                coldEff={product.coldEff}
+                warmEff={product.warmEff}
+                energyClass={product.energyClass}
+                sizeOfRoom={product.sizeOfRoom}
+              />
             </Col>
-            <Col md={3}>
+            {/* <Col md={3}>
               <Card>
                 <ListGroup variant='flush'>
                   <ListGroup.Item>
@@ -146,9 +153,9 @@ const ProductScreen = ({ history, match }) => {
                   </ListGroup.Item>
                 </ListGroup>
               </Card>
-            </Col>
+            </Col> */}
           </Row>
-          <Row>
+          {/* <Row>
             <Col md={6}>
               <h2>Reviews</h2>
               {product.reviews.length === 0 && <Message>No Reviews</Message>}
@@ -214,7 +221,7 @@ const ProductScreen = ({ history, match }) => {
                 </ListGroup.Item>
               </ListGroup>
             </Col>
-          </Row>
+          </Row> */}
         </>
       )}
     </>

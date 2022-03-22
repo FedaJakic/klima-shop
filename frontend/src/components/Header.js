@@ -27,6 +27,17 @@ const Header = () => {
           <Navbar.Collapse id='basic-navbar-nav'>
             <Route render={({ history }) => <SearchBox history={history} />} />
             <Nav className='ml-auto'>
+              <NavDropdown title='Klima uređaji' id='basic-nav-dropdown'>
+                <NavDropdown.Item href='#action/3.1'>
+                  Mono klima uređaji
+                </NavDropdown.Item>
+                <NavDropdown.Item href='#action/3.2'>
+                  Dual klima uređaji
+                </NavDropdown.Item>
+              </NavDropdown>
+              <LinkContainer to='/cart'>
+                <Nav.Link>Montaža i servis</Nav.Link>
+              </LinkContainer>
               <LinkContainer to='/cart'>
                 <Nav.Link>
                   <i className='fas fa-shopping-cart'></i> Košara

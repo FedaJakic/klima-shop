@@ -59,6 +59,26 @@ const productSchema = mongoose.Schema(
       required: true,
       default: 0,
     },
+    coldEff: {
+      type: Number,
+      required: true,
+      default: 0,
+    },
+    warmEff: {
+      type: Number,
+      required: true,
+      default: 0,
+    },
+    energyClass: {
+      type: String,
+      required: true,
+      default: 'A',
+    },
+    sizeOfRoom: {
+      type: String,
+      required: true,
+      default: 'do 15',
+    },
     countInStock: {
       type: Number,
       required: true,
