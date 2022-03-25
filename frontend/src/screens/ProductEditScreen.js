@@ -3,6 +3,7 @@ import React, { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { Form, Button } from 'react-bootstrap'
 import { useDispatch, useSelector } from 'react-redux'
+import { Container } from 'react-bootstrap'
 import Message from '../components/Message'
 import Loader from '../components/Loader'
 import FormContainer from '../components/FormContainer'
@@ -105,142 +106,147 @@ const ProductEditScreen = ({ match, history }) => {
 
   return (
     <>
-      <Link to='/admin/productlist' className='btn btn-light my-3'>
-        Go Back
-      </Link>
-      <FormContainer>
-        <h1>Uređivanje proizvoda</h1>
-        {loadingUpdate && <Loader />}
-        {errorUpdate && <Message variant='danger'>{errorUpdate}</Message>}
-        {loading ? (
-          <Loader />
-        ) : error ? (
-          <Message variant='danger'>{error}</Message>
-        ) : (
-          <Form onSubmit={submitHandler}>
-            <Form.Group controlId='name'>
-              <Form.Label>Naziv</Form.Label>
-              <Form.Control
-                type='name'
-                placeholder='Enter name'
-                value={name}
-                onChange={(e) => setName(e.target.value)}
-              ></Form.Control>
-            </Form.Group>
+      <Container>
+        <Link to='/admin/productlist' className='btn btn-light my-3'>
+          Natrag
+        </Link>
+        <FormContainer>
+          <h1>Uređivanje proizvoda</h1>
+          {loadingUpdate && <Loader />}
+          {errorUpdate && <Message variant='danger'>{errorUpdate}</Message>}
+          {loading ? (
+            <Loader />
+          ) : error ? (
+            <Message variant='danger'>{error}</Message>
+          ) : (
+            <Form onSubmit={submitHandler}>
+              <Form.Group controlId='name'>
+                <Form.Label>Naziv</Form.Label>
+                <Form.Control
+                  type='name'
+                  placeholder='Enter name'
+                  value={name}
+                  onChange={(e) => setName(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
 
-            <Form.Group controlId='price'>
-              <Form.Label>Cijena</Form.Label>
-              <Form.Control
-                type='number'
-                placeholder='Enter price'
-                value={price}
-                onChange={(e) => setPrice(e.target.value)}
-              ></Form.Control>
-            </Form.Group>
+              <Form.Group controlId='price'>
+                <Form.Label>Cijena</Form.Label>
+                <Form.Control
+                  type='number'
+                  placeholder='Enter price'
+                  value={price}
+                  onChange={(e) => setPrice(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
 
-            <Form.Group controlId='image'>
-              <Form.Label>Slika</Form.Label>
-              <Form.Control
-                type='text'
-                placeholder='Enter image url'
-                value={image}
-                onChange={(e) => setImage(e.target.value)}
-              ></Form.Control>
-              <Form.File
-                id='image-file'
-                label='Choose File'
-                custom
-                onChange={uploadFileHandler}
-              ></Form.File>
-              {uploading && <Loader />}
-            </Form.Group>
+              <Form.Group controlId='image'>
+                <Form.Label>Slika</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='Enter image url'
+                  value={image}
+                  onChange={(e) => setImage(e.target.value)}
+                ></Form.Control>
+                <Form.File
+                  id='image-file'
+                  label='Choose File'
+                  custom
+                  onChange={uploadFileHandler}
+                ></Form.File>
+                {uploading && <Loader />}
+              </Form.Group>
 
-            <Form.Group controlId='brand'>
-              <Form.Label>Brand</Form.Label>
-              <Form.Control
-                type='text'
-                placeholder='Enter brand'
-                value={brand}
-                onChange={(e) => setBrand(e.target.value)}
-              ></Form.Control>
-            </Form.Group>
+              <Form.Group controlId='brand'>
+                <Form.Label>Brand</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='Enter brand'
+                  value={brand}
+                  onChange={(e) => setBrand(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
 
-            <Form.Group controlId='coldEff'>
-              <Form.Label>Učinak hlađenja</Form.Label>
-              <Form.Control
-                type='text'
-                placeholder='(kW)'
-                value={coldEff}
-                onChange={(e) => setColdEfficiency(e.target.value)}
-              ></Form.Control>
-            </Form.Group>
+              <Form.Group controlId='coldEff'>
+                <Form.Label>Učinak hlađenja</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='(kW)'
+                  value={coldEff}
+                  onChange={(e) => setColdEfficiency(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
 
-            <Form.Group controlId='warmEff'>
-              <Form.Label>Učinak grijanja</Form.Label>
-              <Form.Control
-                type='text'
-                placeholder='(kW)'
-                value={warmEff}
-                onChange={(e) => setWarmEfficiency(e.target.value)}
-              ></Form.Control>
-            </Form.Group>
+              <Form.Group controlId='warmEff'>
+                <Form.Label>Učinak grijanja</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='(kW)'
+                  value={warmEff}
+                  onChange={(e) => setWarmEfficiency(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
 
-            <Form.Group controlId='energyClass'>
-              <Form.Label>Energetski razred</Form.Label>
-              <Form.Control
-                type='text'
-                placeholder='npr. A++'
-                value={energyClass}
-                onChange={(e) => setEnergyClass(e.target.value)}
-              ></Form.Control>
-            </Form.Group>
+              <Form.Group controlId='energyClass'>
+                <Form.Label>Energetski razred</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='npr. A++'
+                  value={energyClass}
+                  onChange={(e) => setEnergyClass(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
 
-            <Form.Group controlId='sizeOfRoom'>
-              <Form.Label>Veličina prostora</Form.Label>
-              <Form.Control
-                type='text'
-                placeholder='npr. 16 - 25'
-                value={sizeOfRoom}
-                onChange={(e) => setSizeOfRoom(e.target.value)}
-              ></Form.Control>
-            </Form.Group>
+              <Form.Group controlId='sizeOfRoom'>
+                <Form.Label>Veličina prostora</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='npr. 16 - 25'
+                  value={sizeOfRoom}
+                  onChange={(e) => setSizeOfRoom(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
 
-            <Form.Group controlId='countInStock'>
-              <Form.Label>Count In Stock</Form.Label>
-              <Form.Control
-                type='number'
-                placeholder='Enter countInStock'
-                value={countInStock}
-                onChange={(e) => setCountInStock(e.target.value)}
-              ></Form.Control>
-            </Form.Group>
+              <Form.Group controlId='countInStock'>
+                <Form.Label>Count In Stock</Form.Label>
+                <Form.Control
+                  type='number'
+                  placeholder='Enter countInStock'
+                  value={countInStock}
+                  onChange={(e) => setCountInStock(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
 
-            <Form.Group controlId='category'>
-              <Form.Label>Category</Form.Label>
-              <Form.Control
-                type='text'
-                placeholder='Enter category'
-                value={category}
-                onChange={(e) => setCategory(e.target.value)}
-              ></Form.Control>
-            </Form.Group>
+              <Form.Group controlId='category'>
+                <Form.Label>Kategorija</Form.Label>
+                <Form.Control
+                  as='select'
+                  placeholder='Enter category'
+                  value={category}
+                  onChange={(e) => setCategory(e.target.value)}
+                >
+                  <option>Mono klima uređaj</option>
+                  <option>Dual klima uređaj</option>
+                </Form.Control>
+              </Form.Group>
 
-            <Form.Group controlId='description'>
-              <Form.Label>Description</Form.Label>
-              <Form.Control
-                type='text'
-                placeholder='Enter description'
-                value={description}
-                onChange={(e) => setDescription(e.target.value)}
-              ></Form.Control>
-            </Form.Group>
+              <Form.Group controlId='description'>
+                <Form.Label>Opis proizovda</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='Enter description'
+                  value={description}
+                  onChange={(e) => setDescription(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
 
-            <Button type='submit' variant='primary'>
-              Update
-            </Button>
-          </Form>
-        )}
-      </FormContainer>
+              <Button type='submit' variant='primary'>
+                Update
+              </Button>
+            </Form>
+          )}
+        </FormContainer>
+      </Container>
     </>
   )
 }
