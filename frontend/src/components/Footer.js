@@ -1,5 +1,5 @@
 import React from 'react'
-import { Container, Row, Col } from 'react-bootstrap'
+import { Link } from 'react-router-dom'
 import './styles/Footer.css'
 
 const Footer = () => {
@@ -9,19 +9,17 @@ const Footer = () => {
         <h3>KLIMATECH</h3>
 
         <p class='footer-links'>
-          <a href='#' class='link-1'>
-            Home
-          </a>
+          <Link class='link-1'>Home</Link>
 
-          <a href='#'>Blog</a>
+          <Link>Blog</Link>
 
-          <a href='#'>Pricing</a>
+          <Link>Pricing</Link>
 
-          <a href='#'>About</a>
+          <Link>About</Link>
 
-          <a href='#'>Faq</a>
+          <Link>Faq</Link>
 
-          <a href='#'>Contact</a>
+          <Link>Contact</Link>
         </p>
 
         <p class='footer-company-name'>Company Name © 2015</p>
@@ -43,7 +41,7 @@ const Footer = () => {
         <div>
           <i class='fa fa-envelope'></i>
           <p>
-            <a href='mailto:support@company.com'>support@company.com</a>
+            <Link>support@company.com</Link>
           </p>
         </div>
       </div>
@@ -56,18 +54,18 @@ const Footer = () => {
         </p>
 
         <div class='footer-icons'>
-          <a href='#'>
+          <Link>
             <i class='fa fa-facebook'></i>
-          </a>
-          <a href='#'>
+          </Link>
+          <Link>
             <i class='fa fa-twitter'></i>
-          </a>
-          <a href='#'>
+          </Link>
+          <Link>
             <i class='fa fa-linkedin'></i>
-          </a>
-          <a href='#'>
+          </Link>
+          <Link>
             <i class='fa fa-github'></i>
-          </a>
+          </Link>
         </div>
       </div>
     </footer>

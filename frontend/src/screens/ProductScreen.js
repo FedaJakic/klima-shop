@@ -1,17 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { useDispatch, useSelector } from 'react-redux'
-import {
-  Row,
-  Col,
-  Image,
-  ListGroup,
-  Card,
-  Button,
-  Form,
-  Container,
-} from 'react-bootstrap'
-import Rating from '../components/Rating'
+import { Row, Col, ListGroup, Container } from 'react-bootstrap'
 import Message from '../components/Message'
 import Loader from '../components/Loader'
 import Meta from '../components/Meta'
@@ -71,7 +61,7 @@ const ProductScreen = ({ history, match }) => {
   return (
     <>
       <Container>
-        <Link className='btn btn-light my-3' to='/'>
+        <Link className='btn btn-light my-3' to='/mono-klima'>
           Natrag
         </Link>
         {loading ? (
