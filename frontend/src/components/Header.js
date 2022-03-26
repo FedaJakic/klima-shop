@@ -1,5 +1,5 @@
 import React from 'react'
-import { Route } from 'react-router-dom'
+import { Link, Route } from 'react-router-dom'
 import { useDispatch, useSelector } from 'react-redux'
 import { LinkContainer } from 'react-router-bootstrap'
 import { Navbar, Nav, Container, NavDropdown } from 'react-bootstrap'
@@ -28,12 +28,10 @@ const Header = () => {
           <Route render={({ history }) => <SearchBox history={history} />} />
           <Nav className='ml-auto'>
             <NavDropdown title='Klima uređaji' id='basic-nav-dropdown'>
-              <NavDropdown.Item href='#action/3.1'>
-                Mono klima uređaji
-              </NavDropdown.Item>
-              <NavDropdown.Item href='#action/3.2'>
-                Dual klima uređaji
-              </NavDropdown.Item>
+              <LinkContainer to='/mono-klima'>
+                <NavDropdown.Item>Mono klima uređaji</NavDropdown.Item>
+              </LinkContainer>
+              <NavDropdown.Item>Dual klima uređaji</NavDropdown.Item>
             </NavDropdown>
             <LinkContainer to='/cart'>
               <Nav.Link>Montaža i servis</Nav.Link>

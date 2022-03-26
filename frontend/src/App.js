@@ -18,6 +18,7 @@ import UserEditScreen from './screens/UserEditScreen'
 import ProductListScreen from './screens/ProductListScreen'
 import ProductEditScreen from './screens/ProductEditScreen'
 import OrderListScreen from './screens/OrderListScreen'
+import MonoKlimaScreen from './screens/MonoKlimaScreen'
 
 const App = () => {
   return (
@@ -37,6 +38,7 @@ const App = () => {
         <Route path='/admin/userlist' component={UserListScreen} />
         <Route path='/admin/user/:id/edit' component={UserEditScreen} />
         <Route path='/admin/productlist' component={ProductListScreen} exact />
+        <Route path='/mono-klima' component={MonoKlimaScreen} exact />
         <Route
           path='/admin/productlist/:pageNumber'
           component={ProductListScreen}
