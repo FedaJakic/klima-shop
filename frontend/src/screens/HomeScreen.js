@@ -36,7 +36,7 @@ const HomeScreen = ({ match }) => {
           Go Back
         </Link>
       )}
-      <Container>
+      {/* <Container>
         <h1>Najprodavani modeli</h1>
         {loading ? (
           <Loader />
@@ -58,7 +58,7 @@ const HomeScreen = ({ match }) => {
             />
           </>
         )}
-      </Container>
+      </Container> */}
     </>
   )
 }
