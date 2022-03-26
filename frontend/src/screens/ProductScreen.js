@@ -113,7 +113,7 @@ const ProductScreen = ({ history, match }) => {
                         className='font-weight-bold'
                         style={{ fontSize: 'x-large' }}
                       >
-                        {product.price}
+                        {Number(product.price).toFixed(2)}
                       </span>
                     </span>
                     <br></br>
