@@ -6,7 +6,7 @@ function Hero() {
   return (
     <div className='hero-container'>
       <h1>KlimaTech</h1>
-      <p>Sve za Vaše klime!</p>
+      <p>Klime za vaš dom!</p>
       <div className='hero-btns'>
         {/* <Button
           className='btns'
