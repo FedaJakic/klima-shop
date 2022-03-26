@@ -10,6 +10,14 @@ body {
   background-color: lightpink;
 }
 
+.container-margin-top {
+  margin-top: 2rem;
+}
+
+.container-footer {
+  background-color: #343a40;
+}
+
 header {
   position: sticky;
   top: 0;

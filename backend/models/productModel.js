@@ -27,6 +27,11 @@ const productSchema = mongoose.Schema(
       type: String,
       required: true,
     },
+    sifraProizvoda: {
+      type: String,
+      required: true,
+      default: ' ',
+    },
     image: {
       type: String,
       required: true,

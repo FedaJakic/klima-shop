@@ -4,8 +4,8 @@ import { Row, ListGroup } from 'react-bootstrap'
 const ACAtributes = ({ coldEff, warmEff, energyClass, sizeOfRoom }) => {
   return (
     <>
-      <Row>
-        <ListGroup.Item className='text-center block-example border border-0 border-dark'>
+      <Row className='justify-content-center'>
+        <ListGroup.Item className='text-center block-example border border-0 border-dark justify-content-center'>
           <i class='fas fa-snowflake'></i>
           <p>Učinak hlađenja (kW)</p>
           <p>{coldEff}</p>

@@ -1,7 +1,16 @@
 import React, { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { useDispatch, useSelector } from 'react-redux'
-import { Row, Col, Image, ListGroup, Card, Button, Form } from 'react-bootstrap'
+import {
+  Row,
+  Col,
+  Image,
+  ListGroup,
+  Card,
+  Button,
+  Form,
+  Container,
+} from 'react-bootstrap'
 import Rating from '../components/Rating'
 import Message from '../components/Message'
 import Loader from '../components/Loader'
@@ -12,6 +21,7 @@ import {
   createProductReview,
 } from '../actions/productActions'
 import { PRODUCT_CREATE_REVIEW_RESET } from '../constants/productConstants'
+import ProductImageGallery from '../components/ProductImageGallery'
 
 const ProductScreen = ({ history, match }) => {
   const [qty, setQty] = useState(1)
@@ -60,44 +70,69 @@ const ProductScreen = ({ history, match }) => {
 
   return (
     <>
-      <Link className='btn btn-light my-3' to='/'>
-        Natrag
-      </Link>
-      {loading ? (
-        <Loader />
-      ) : error ? (
-        <Message variant='danger'>{error}</Message>
-      ) : (
-        <>
-          <Meta title={product.name} />
-          <Row>
-            <Col md={6}>
-              <Image src={product.image} alt={product.name} fluid />
-            </Col>
-            <Col>
-              <ListGroup variant='flush'>
-                <ListGroup.Item>
-                  <h3>{product.name}</h3>
-                </ListGroup.Item>
-                <ListGroup.Item>
-                  <Rating
-                    value={product.rating}
-                    text={`${product.numReviews} reviews`}
-                  />
-                </ListGroup.Item>
-                <ListGroup.Item>Cijena: kn {product.price}</ListGroup.Item>
-                <ListGroup.Item>
-                  <strong>Opis proizvoda:</strong> {product.description}
-                </ListGroup.Item>
-              </ListGroup>
-              <ACAtributes
-                coldEff={product.coldEff}
-                warmEff={product.warmEff}
-                energyClass={product.energyClass}
-                sizeOfRoom={product.sizeOfRoom}
-              />
-            </Col>
-            {/* <Col md={3}>
+      <Container>
+        <Link className='btn btn-light my-3' to='/'>
+          Natrag
+        </Link>
+        {loading ? (
+          <Loader />
+        ) : error ? (
+          <Message variant='danger'>{error}</Message>
+        ) : (
+          <>
+            <Meta title={product.name} />
+
+            <Row>
+              <Col md={6}>
+                {/* <Image src={product.image} alt={product.name} fluid /> */}
+                <ProductImageGallery
+                  imgList={[
+                    product.image,
+                    '/images/airpods.jpg',
+                    '/images/phone.jpg',
+                    '/images/camera.jpg',
+                  ]}
+                />
+              </Col>
+              <Col>
+                <ListGroup variant='flush'>
+                  <ListGroup.Item>
+                    <h3>{product.name}</h3>
+                    <p>Sifra proizvoda: {product.sifraProizvoda}</p>
+                  </ListGroup.Item>
+                  {/* <ListGroup.Item>
+                    <Rating
+                      value={product.rating}
+                      text={`${product.numReviews} reviews`}
+                    />
+                  </ListGroup.Item> */}
+                  <ListGroup.Item>
+                    <span>
+                      Cijena: kn{' '}
+                      <span
+                        className='font-weight-bold'
+                        style={{ fontSize: 'x-large' }}
+                      >
+                        {product.price}
+                      </span>
+                    </span>
+                    <br></br>
+                    <span>U cijenu je uključen PDV (25%)</span>
+                  </ListGroup.Item>
+                  <ListGroup.Item>
+                    <ACAtributes
+                      coldEff={product.coldEff}
+                      warmEff={product.warmEff}
+                      energyClass={product.energyClass}
+                      sizeOfRoom={product.sizeOfRoom}
+                    />
+                  </ListGroup.Item>
+                  <ListGroup.Item>
+                    <strong>Opis proizvoda:</strong> {product.description}
+                  </ListGroup.Item>
+                </ListGroup>
+              </Col>
+              {/* <Col md={3}>
               <Card>
                 <ListGroup variant='flush'>
                   <ListGroup.Item>
@@ -154,8 +189,8 @@ const ProductScreen = ({ history, match }) => {
                 </ListGroup>
               </Card>
             </Col> */}
-          </Row>
-          {/* <Row>
+            </Row>
+            {/* <Row>
             <Col md={6}>
               <h2>Reviews</h2>
               {product.reviews.length === 0 && <Message>No Reviews</Message>}
@@ -222,8 +257,9 @@ const ProductScreen = ({ history, match }) => {
               </ListGroup>
             </Col>
           </Row> */}
-        </>
-      )}
+          </>
+        )}
+      </Container>
     </>
   )
 }

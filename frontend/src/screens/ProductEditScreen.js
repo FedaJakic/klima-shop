@@ -14,6 +14,7 @@ const ProductEditScreen = ({ match, history }) => {
   const productId = match.params.id
 
   const [name, setName] = useState('')
+  const [sifraProizvoda, setSifraProizvoda] = useState('')
   const [price, setPrice] = useState(0)
   const [image, setImage] = useState('')
   const [brand, setBrand] = useState('')
@@ -47,6 +48,7 @@ const ProductEditScreen = ({ match, history }) => {
         dispatch(listProductDetails(productId))
       } else {
         setName(product.name)
+        setSifraProizvoda(product.sifraProizvoda)
         setPrice(product.price)
         setImage(product.image)
         setBrand(product.brand)
@@ -90,6 +92,7 @@ const ProductEditScreen = ({ match, history }) => {
       updateProduct({
         _id: productId,
         name,
+        sifraProizvoda,
         price,
         image,
         brand,
@@ -120,6 +123,15 @@ const ProductEditScreen = ({ match, history }) => {
             <Message variant='danger'>{error}</Message>
           ) : (
             <Form onSubmit={submitHandler}>
+              {/* <Form.Group controlId='najprodavanij'>
+                <Form.Label>Najprodavani model</Form.Label>
+                <Form.Check
+                  type='switch'
+                  id='custom-switch'
+                  label='Najprodavani'
+                />
+              </Form.Group> */}
+
               <Form.Group controlId='name'>
                 <Form.Label>Naziv</Form.Label>
                 <Form.Control
@@ -127,6 +139,16 @@ const ProductEditScreen = ({ match, history }) => {
                   placeholder='Enter name'
                   value={name}
                   onChange={(e) => setName(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
+
+              <Form.Group controlId='sifraProizvoda'>
+                <Form.Label>Sifra proizvoda</Form.Label>
+                <Form.Control
+                  type='name'
+                  placeholder='Unesite sifru'
+                  value={sifraProizvoda}
+                  onChange={(e) => setSifraProizvoda(e.target.value)}
                 ></Form.Control>
               </Form.Group>
 
@@ -139,6 +161,8 @@ const ProductEditScreen = ({ match, history }) => {
                   onChange={(e) => setPrice(e.target.value)}
                 ></Form.Control>
               </Form.Group>
+
+              {/* <Form.Check type='switch' id='custom-switch' label='Na akciji' /> */}
 
               <Form.Group controlId='image'>
                 <Form.Label>Slika</Form.Label>
@@ -158,13 +182,21 @@ const ProductEditScreen = ({ match, history }) => {
               </Form.Group>
 
               <Form.Group controlId='brand'>
-                <Form.Label>Brand</Form.Label>
+                <Form.Label>Brend</Form.Label>
                 <Form.Control
-                  type='text'
+                  as='select'
                   placeholder='Enter brand'
                   value={brand}
                   onChange={(e) => setBrand(e.target.value)}
-                ></Form.Control>
+                >
+                  <option></option>
+                  <option>Fujitsu</option>
+                  <option>Hyundai</option>
+                  <option>Mitsubishi Electric</option>
+                  <option>Olimpia Splendid</option>
+                  <option>QZEN</option>
+                  <option>Toshiba</option>
+                </Form.Control>
               </Form.Group>
 
               <Form.Group controlId='coldEff'>
@@ -190,21 +222,35 @@ const ProductEditScreen = ({ match, history }) => {
               <Form.Group controlId='energyClass'>
                 <Form.Label>Energetski razred</Form.Label>
                 <Form.Control
-                  type='text'
-                  placeholder='npr. A++'
+                  as='select'
+                  placeholder='Enter category'
                   value={energyClass}
                   onChange={(e) => setEnergyClass(e.target.value)}
-                ></Form.Control>
+                >
+                  <option>A+++</option>
+                  <option>A++</option>
+                  <option>A+</option>
+                  <option>A</option>
+                </Form.Control>
               </Form.Group>
 
               <Form.Group controlId='sizeOfRoom'>
-                <Form.Label>Veličina prostora</Form.Label>
+                <Form.Label>Za veličinu prostora (m2)</Form.Label>
                 <Form.Control
-                  type='text'
-                  placeholder='npr. 16 - 25'
+                  as='select'
+                  placeholder='Enter category'
                   value={sizeOfRoom}
                   onChange={(e) => setSizeOfRoom(e.target.value)}
-                ></Form.Control>
+                >
+                  <option>do 15</option>
+                  <option>16-25</option>
+                  <option>26-35</option>
+                  <option>36-45</option>
+                  <option>46-55</option>
+                  <option>56-65</option>
+                  <option>66-75</option>
+                  <option>više od 75</option>
+                </Form.Control>
               </Form.Group>
 
               <Form.Group controlId='countInStock'>
@@ -225,6 +271,7 @@ const ProductEditScreen = ({ match, history }) => {
                   value={category}
                   onChange={(e) => setCategory(e.target.value)}
                 >
+                  <option></option>
                   <option>Mono klima uređaj</option>
                   <option>Dual klima uređaj</option>
                 </Form.Control>

@@ -60,6 +60,7 @@ const deleteProduct = asyncHandler(async (req, res) => {
 const createProduct = asyncHandler(async (req, res) => {
   const product = new Product({
     name: 'Ime proizvoda',
+    sifraProivzoda: 'HRV',
     price: 0,
     user: req.user._id,
     image: '/images/sample.jpg',
@@ -68,7 +69,7 @@ const createProduct = asyncHandler(async (req, res) => {
     warmEff: '3.1',
     energyClass: 'A++',
     sizeOfRoom: '16-25',
-    category: 'Kategorija',
+    category: 'Navedite kategoriju',
     countInStock: 0,
     numReviews: 0,
     description: 'Opis proizvoda',
@@ -84,6 +85,7 @@ const createProduct = asyncHandler(async (req, res) => {
 const updateProduct = asyncHandler(async (req, res) => {
   const {
     name,
+    sifraProizvoda,
     price,
     description,
     image,
@@ -100,6 +102,7 @@ const updateProduct = asyncHandler(async (req, res) => {
 
   if (product) {
     product.name = name
+    product.sifraProizvoda = sifraProizvoda
     product.price = price
     product.description = description
     product.image = image

@@ -1,0 +1,46 @@
+/* .App {
+  display: flex;
+} */
+
+img {
+  display: block;
+  cursor: pointer;
+}
+
+.image-container {
+  /* margin: auto; */
+  /* width: 100%; */
+  /* max-width: 540px; */
+}
+
+.image-container .selected {
+  width: 50vh;
+  height: 50vh;
+  margin: 0 auto;
+}
+
+.image-container .imgContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  /* padding: 40px 0 0 0; */
+}
+
+.image-container .imgContainer img {
+  width: 100px;
+  height: 100px;
+  margin: 5px 0;
+}
+
+@media only screen and (max-width: 851px) {
+  .image-container .selected {
+    width: 25vh;
+    height: 25vh;
+  }
+
+  .image-container .imgContainer img {
+    width: 8vh;
+    height: 8vh;
+  }
+}
