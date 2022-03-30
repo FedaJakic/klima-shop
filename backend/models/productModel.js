@@ -64,6 +64,16 @@ const productSchema = mongoose.Schema(
       required: true,
       default: 0,
     },
+    onSale: {
+      type: Boolean,
+      required: true,
+      default: false,
+    },
+    sale: {
+      type: Number,
+      required: true,
+      default: 0,
+    },
     coldEff: {
       type: Number,
       required: true,
@@ -88,6 +98,11 @@ const productSchema = mongoose.Schema(
       type: Number,
       required: true,
       default: 0,
+    },
+    najtrazeni: {
+      type: Boolean,
+      required: true,
+      default: false,
     },
   },
   {

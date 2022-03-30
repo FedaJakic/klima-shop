@@ -25,7 +25,12 @@ const ProductEditScreen = ({ match, history }) => {
   const [category, setCategory] = useState('')
   const [countInStock, setCountInStock] = useState(0)
   const [description, setDescription] = useState('')
+  const [najtrazeni, setNajtrazeni] = useState(false)
+  const [onSale, setOnSale] = useState(false)
+  const [sale, setSale] = useState(0)
   const [uploading, setUploading] = useState(false)
+
+  const [checkedSale, setCheckedSale] = useState({ onSale })
 
   const dispatch = useDispatch()
 
@@ -59,6 +64,9 @@ const ProductEditScreen = ({ match, history }) => {
         setCategory(product.category)
         setCountInStock(product.countInStock)
         setDescription(product.description)
+        setNajtrazeni(product.najtrazeni)
+        setOnSale(product.onSale)
+        setSale(product.sale)
       }
     }
   }, [dispatch, history, productId, product, successUpdate])
@@ -103,6 +111,9 @@ const ProductEditScreen = ({ match, history }) => {
         category,
         description,
         countInStock,
+        najtrazeni,
+        onSale,
+        sale,
       })
     )
   }
@@ -123,14 +134,14 @@ const ProductEditScreen = ({ match, history }) => {
             <Message variant='danger'>{error}</Message>
           ) : (
             <Form onSubmit={submitHandler}>
-              {/* <Form.Group controlId='najprodavanij'>
-                <Form.Label>Najprodavani model</Form.Label>
+              <Form.Group controlId='najtrazeni'>
                 <Form.Check
-                  type='switch'
-                  id='custom-switch'
-                  label='Najprodavani'
-                />
-              </Form.Group> */}
+                  type='checkbox'
+                  label='Najtrazeni'
+                  checked={najtrazeni}
+                  onChange={(e) => setNajtrazeni(e.target.checked)}
+                ></Form.Check>
+              </Form.Group>
 
               <Form.Group controlId='name'>
                 <Form.Label>Naziv</Form.Label>
@@ -156,13 +167,34 @@ const ProductEditScreen = ({ match, history }) => {
                 <Form.Label>Cijena</Form.Label>
                 <Form.Control
                   type='number'
-                  placeholder='Enter price'
-                  value={price}
-                  onChange={(e) => setPrice(e.target.value)}
+                  placeholder='Unesite cijenu'
+                  value={Number(price).toFixed(2)}
+                  onChange={(e) => setPrice(Number(e.target.value).toFixed(2))}
                 ></Form.Control>
               </Form.Group>
 
-              {/* <Form.Check type='switch' id='custom-switch' label='Na akciji' /> */}
+              <Form.Group controlId='onSale'>
+                <Form.Check
+                  type='checkbox'
+                  label='Akcija'
+                  checked={onSale}
+                  onChange={(e) => {
+                    setCheckedSale(!checkedSale)
+                    setOnSale(e.target.checked)
+                  }}
+                ></Form.Check>
+              </Form.Group>
+
+              <Form.Group controlId='sale'>
+                <Form.Label>Popust</Form.Label>
+                <Form.Control
+                  disabled={checkedSale}
+                  type='number'
+                  placeholder='Unesite postotak popusta npr. (10) = 10%'
+                  value={sale}
+                  onChange={(e) => setSale(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
 
               <Form.Group controlId='image'>
                 <Form.Label>Slika</Form.Label>

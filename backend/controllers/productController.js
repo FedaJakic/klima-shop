@@ -73,6 +73,9 @@ const createProduct = asyncHandler(async (req, res) => {
     countInStock: 0,
     numReviews: 0,
     description: 'Opis proizvoda',
+    najtrazeni: false,
+    onSale: false,
+    sale: 0,
   })
 
   const createdProduct = await product.save()
@@ -96,6 +99,9 @@ const updateProduct = asyncHandler(async (req, res) => {
     sizeOfRoom,
     category,
     countInStock,
+    najtrazeni,
+    onSale,
+    sale,
   } = req.body
 
   const product = await Product.findById(req.params.id)
@@ -113,6 +119,9 @@ const updateProduct = asyncHandler(async (req, res) => {
     product.sizeOfRoom = sizeOfRoom
     product.category = category
     product.countInStock = countInStock
+    product.najtrazeni = najtrazeni
+    product.onSale = onSale
+    product.sale = sale
 
     const updatedProduct = await product.save()
     res.json(updatedProduct)

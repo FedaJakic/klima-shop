@@ -99,15 +99,38 @@ const ProductScreen = ({ history, match }) => {
                   <ListGroup.Item>
                     <span>
                       Cijena: kn{' '}
-                      <span
-                        className='font-weight-bold'
-                        style={{ fontSize: 'x-large' }}
-                      >
-                        {Number(product.price)
-                          .toFixed(2)
-                          .toString()
-                          .replace(/\B(?=(\d{3})+(?!\d))/g, ',')}
-                      </span>
+                      {product.onSale === true ? (
+                        <span
+                          className='font-weight-bold text-danger'
+                          style={{ fontSize: 'x-large' }}
+                        >
+                          <del>
+                            {Number(product.price)
+                              .toFixed(2)
+                              .toString()
+                              .replace(/\B(?=(\d{3})+(?!\d))/g, ',')}
+                          </del>
+                          <span>
+                            {' '}
+                            {Number(
+                              ((100 - product.sale) * product.price) / 100
+                            )
+                              .toFixed(2)
+                              .toString()
+                              .replace(/\B(?=(\d{3})+(?!\d))/g, ',')}
+                          </span>
+                        </span>
+                      ) : (
+                        <span
+                          className='font-weight-bold'
+                          style={{ fontSize: 'x-large' }}
+                        >
+                          {Number(product.price)
+                            .toFixed(2)
+                            .toString()
+                            .replace(/\B(?=(\d{3})+(?!\d))/g, ',')}
+                        </span>
+                      )}
                     </span>
                     <br></br>
                     <span>U cijenu je uključen PDV (25%)</span>
