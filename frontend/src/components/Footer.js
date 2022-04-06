@@ -1,6 +1,9 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import { LinkContainer } from 'react-router-bootstrap'
+import { Navbar } from 'react-bootstrap'
 import './styles/Footer.css'
+import { Nav } from 'react-bootstrap'
 
 const Footer = () => {
   return (
@@ -9,11 +12,18 @@ const Footer = () => {
         <h3>KLIMATECH</h3>
 
         <p class='footer-links'>
-          <Link class='link-1'>Home</Link>
+          {/* <Link class='link-1'>Home</Link> */}
+          <LinkContainer to='/'>
+            <Nav.Link class='link-1'>Home</Nav.Link>
+          </LinkContainer>
 
-          <Link>Blog</Link>
+          <LinkContainer to='/'>
+            <Nav.Link>Mono klima uređaji</Nav.Link>
+          </LinkContainer>
 
-          <Link>Pricing</Link>
+          <LinkContainer to='/'>
+            <Nav.Link>Dual klima uređaji</Nav.Link>
+          </LinkContainer>
 
           <Link>About</Link>
 
@@ -22,7 +32,7 @@ const Footer = () => {
           <Link>Contact</Link>
         </p>
 
-        <p class='footer-company-name'>Company Name © 2015</p>
+        <p class='footer-company-name'>KlimaTech © 2</p>
       </div>
 
       <div class='footer-center'>
