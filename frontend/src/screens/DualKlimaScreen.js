@@ -1,6 +1,6 @@
-import React, { useEffect, useState, useRef } from 'react'
+import React, { useEffect, useState } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
-import { Row, Col, Container, Form, Accordion } from 'react-bootstrap'
+import { Row, Col, Container, Form } from 'react-bootstrap'
 import Product from '../components/Product'
 import Message from '../components/Message'
 import Loader from '../components/Loader'
@@ -33,7 +33,6 @@ const MonoKlimaScreen = ({ match }) => {
   return (
     <>
       <Container>
-        {/* <div className='main-container'> */}
         <h1>Dual klima uređaji</h1>
 
         <h4>Filteri</h4>

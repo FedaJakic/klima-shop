@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import { LinkContainer } from 'react-router-bootstrap'
-import { Navbar } from 'react-bootstrap'
 import './styles/Footer.css'
 import { Nav } from 'react-bootstrap'
 
