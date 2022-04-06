@@ -30,7 +30,9 @@ const Header = () => {
               <LinkContainer to='/mono-klima'>
                 <NavDropdown.Item>Mono klima uređaji</NavDropdown.Item>
               </LinkContainer>
-              <NavDropdown.Item>Dual klima uređaji</NavDropdown.Item>
+              <LinkContainer to='/dual-klima'>
+                <NavDropdown.Item>Dual klima uređaji</NavDropdown.Item>
+              </LinkContainer>
             </NavDropdown>
             <LinkContainer to='/cart'>
               <Nav.Link>Montaža i servis</Nav.Link>
