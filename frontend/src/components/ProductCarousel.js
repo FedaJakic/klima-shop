@@ -28,7 +28,12 @@ const ProductCarousel = () => {
             <Image src={product.image} alt={product.name} fluid />
             <Carousel.Caption className='carousel-caption'>
               <h3>
-                {product.name} (${product.price})
+                {product.name} ($
+                {Number(product.price)
+                  .toFixed(2)
+                  .toString()
+                  .replace(/\B(?=(\d{3})+(?!\d))/g, ',')}
+                )
               </h3>
             </Carousel.Caption>
           </Link>
