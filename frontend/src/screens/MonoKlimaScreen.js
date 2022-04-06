@@ -38,7 +38,7 @@ const MonoKlimaScreen = ({ match }) => {
 
         <h4>Filteri</h4>
         <Tabs
-          defaultActiveKey='profile'
+          defaultActiveKey='brend'
           id='uncontrolled-tab-example'
           className='mb-3'
         >
