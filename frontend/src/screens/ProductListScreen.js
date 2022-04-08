@@ -109,7 +109,13 @@ const ProductListScreen = ({ history, match }) => {
                   <tr key={product._id}>
                     <td>{product.sifraProizvoda}</td>
                     <td>{product.name}</td>
-                    <td>kn{product.price}</td>
+                    <td>
+                      kn
+                      {Number(product.price)
+                        .toFixed(2)
+                        .toString()
+                        .replace(/\B(?=(\d{3})+(?!\d))/g, ',')}
+                    </td>
                     <td>{product.category}</td>
                     <td>{product.brand}</td>
                     <td>
