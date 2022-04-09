@@ -1,0 +1,7 @@
+.background-main-container{
+    background-color: var(--gray-dark);
+}
+
+.inner-container{
+    margin: 12px 21px;
+}

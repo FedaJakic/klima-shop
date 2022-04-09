@@ -12,6 +12,7 @@ import {
 } from '../actions/productActions'
 import { PRODUCT_CREATE_REVIEW_RESET } from '../constants/productConstants'
 import ProductImageGallery from '../components/ProductImageGallery'
+import TehnicalCharacteristics from '../components/TehnicalCharacteristics'
 
 const ProductScreen = ({ history, match }) => {
   const [qty, setQty] = useState(1)
@@ -146,6 +147,9 @@ const ProductScreen = ({ history, match }) => {
                   <ListGroup.Item>
                     <strong>Opis proizvoda:</strong> {product.description}
                   </ListGroup.Item>
+                </ListGroup>
+                <ListGroup>
+                  <TehnicalCharacteristics />
                 </ListGroup>
               </Col>
               {/* <Col md={3}>
