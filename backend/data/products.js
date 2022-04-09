@@ -107,16 +107,13 @@ const products = [
       'Osnovni model Hyundai klima uređaja hladi vrući zrak u prostoriji na željenu temperaturu i pritom odlično izgleda. Klima uređaj Hyundai Performance Inverter Plus HRH-18BMV/HRO-18BMV u prostorijama do 55 m² osigurava ugodnu klimu. Istovremeno filtrira zrak u prostoriji pomoću filtarskog sustava koji se sastoji od filtera visoke gustoće, aromatizirajućeg filtera i filtera s aktivnim ugljenom. Dodatnu kvalitetu zraka ovom modelu Hyundai klima uređaja osigurava i ionizator zraka. Također, ova serija koristi ekološki prihvatljiv rashladni medij R32 koji ne samo da pomaže pri očuvanju okoliša, već i pridonosi energetskoj učinkovitosti uređaja.',
     brand: 'Hyundai',
     category: 'Mono klima uređaj',
-    price: 7612.50,
+    price: 7612.5,
     onSale: false,
     sale: 0,
-<<<<<<< HEAD
     warmEff: 7.3,
     coldEff: 7.0,
-=======
     coldEff: 5.3,
     warmEff: 5.6,
->>>>>>> 44ecad877c772122b7034a335ed7df66c9e40c0f
     energyClass: 'A++',
     sizeOfRoom: '46-55',
     countInStock: 2,
@@ -192,7 +189,7 @@ const products = [
       'Klima uređaj Qzen Start Inverter Plus 5.3 kW predstavlja idealno rješenje ako želite štedljiv uređaj s modernim tehnologijama i dodatnim funkcijama, ali po prihvatljivoj cijeni. Ovi odlični uređaji nalaze se u energetskom razredu A++ i zahvaljujući ekološki prihvatljivijem rashladnom mediju R32 osiguravaju još veću uštedu, efikasnost i naravno manje štetan utjecaj na okolinu. Dodatno, potrošnja za vrijeme mirovanja je smanjena na samo 1W.',
     brand: 'QZEN',
     category: 'Mono klima uređaj',
-    price: 6402.50,
+    price: 6402.5,
     onSale: false,
     sale: 0,
     coldEff: 5.3,
