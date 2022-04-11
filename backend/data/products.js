@@ -201,6 +201,29 @@ const products = [
     numReviews: 0,
     najtrazeni: false,
   },
+  {
+    name: 'Qzen Start Inverter Plus 5.3 kW',
+    sifraProizvoda: 'ZE-18WSE/ZE-18OSE',
+    image: '/images/3-600ecc85d15b4_600ed64e094ed_640.png',
+    image2: '/images/1-600ed1de63f2c_600edb3be8619_640.png',
+    image3: '/images/1-600ed1de63f2c_600edb3be8619_640.png',
+    image4: '/images/1-600ed1de63f2c_600edb3be8619_640.png',
+    description:
+      'Klima uređaj Qzen Start Inverter Plus 5.3 kW predstavlja idealno rješenje ako želite štedljiv uređaj s modernim tehnologijama i dodatnim funkcijama, ali po prihvatljivoj cijeni. Ovi odlični uređaji nalaze se u energetskom razredu A++ i zahvaljujući ekološki prihvatljivijem rashladnom mediju R32 osiguravaju još veću uštedu, efikasnost i naravno manje štetan utjecaj na okolinu. Dodatno, potrošnja za vrijeme mirovanja je smanjena na samo 1W.',
+    brand: 'QZEN',
+    category: 'Mono klima uređaj',
+    price: 6402.5,
+    onSale: false,
+    sale: 0,
+    coldEff: 5.3,
+    warmEff: 5.5,
+    energyClass: 'A++',
+    sizeOfRoom: '46-55',
+    countInStock: 2,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+  },
 ]
 
 export default products

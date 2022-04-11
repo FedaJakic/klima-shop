@@ -76,14 +76,7 @@ const ProductScreen = ({ history, match }) => {
             <Row>
               <Col md={6}>
                 {/* <Image src={product.image} alt={product.name} fluid /> */}
-                <ProductImageGallery
-                  imgList={[
-                    product.image,
-                    '/images/airpods.jpg',
-                    '/images/phone.jpg',
-                    '/images/camera.jpg',
-                  ]}
-                />
+                <ProductImageGallery imgList={[product.image]} />
               </Col>
               <Col>
                 <ListGroup variant='flush'>
