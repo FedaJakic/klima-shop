@@ -1,0 +1,36 @@
+Ulazni Fujitsu Standard Eco Inverter model koji koristi rashladni medij R32 oduševit će vas jednostavnim, nenametljivim dizajnom koji skriva brojne tehnološke novitete. Uređaj postiže A++ energetski razred u hlađenju, podržava opcionalno WiFi upravljanje koje se kupuje zasebno, te može grijati sve do -15 ºC. Snagom od 7.1 kW zadovoljit će sve potrebe hlađenja i grijanja u prostorijama do 75 m².
+
+Brza i jednostavna je i sama kontrola uređaja pomoću infracrvenog daljinskog upravljača i brojnih funkcija. U slučaju potrebe klimatizacije pred ili za vrijeme spavanja možete koristiti funkciju „Sleep“, dok se recimo u odsustvu možete poslužiti funkcijom „Programski timer“ i ne brinuti o tome da li je vaš klima uređaj ostao upaljen ili ugašen. Na ovaj način dodatno ćete uštedjeti na vremenu i potrošnji električne energije pravovremenim gašenjem klima uređaja i izbjegavanjem nepotrebnog rada.
+
+Za udobnost svakodnevnog korištenja tu su i sve najbitnije programske značajke poput: Ekonomski režim rada, Režim snažnog rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.
+
+ucinak hladenja 7.1
+ucinak grijanja 8,0
+a++
+66-75
+
+cijena 13600
+
+Šifra proizvoda: ASYG24KLCA/AOYG24KLTA
+
+Tehničke karakteristike
+Radna tvar R32
+Raspon rashladnog učina (kW) 0,9 - 7,7
+SEER / Energetski razred HL 7,1 / A++
+God. potrošnja hlađenje (kWh) 350
+Raspon učina grijanja (kW) 0,9 - 9,0
+SCOP / Energetski razred GR 4,0 / A+
+God. potrošnja grijanje (kWh) 2485
+Dimenzije unut. jed (V×Š×D) mm 293×790×249
+Težina unut. jed. (Kg) 10
+Razina buke - hlađenje UJ (dBA) 33/51
+Razina buke - grijanje UJ (dBA) 37/52
+Dimenzije vanj. jed (V×Š×D) mm 632×799×290
+Težina vanj. jed. (Kg) 38
+Razina buke vanjske jed. (dBA) 55
+Promjer cijevi - tekuć. (mm/") 6,35 (1/4")
+Promjer cijevi - plin (mm/") 12,70 (1/2")
+Maksimalna duljina cijevi (m) 30
+Maksimalna vis. razlika (m) 15
+Napon priključka 230 V / 50 Hz
+Jamstvo 36 mjeseci
