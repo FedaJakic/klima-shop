@@ -321,6 +321,198 @@ const ProductEditScreen = ({ match, history }) => {
                 ></Form.Control>
               </Form.Group>
 
+              {/* <h1>Tehničke karakteristike</h1>
+
+              <Form.Group controlId='radnaTvar'>
+                <Form.Label>Radna tvar</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='npr. R32'
+                  value={radnaTvar}
+                  onChange={(e) => setRadnaTvar(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
+
+              <Form.Group controlId='rasponRashladnogUcinka'>
+                <Form.Label>Radna tvar</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='npr. 0,9 - 3,4'
+                  value={rasponRashladnogUcinka}
+                  onChange={(e) => setRasponRashladnogUcinka(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
+
+              <Form.Group controlId='SEER'>
+                <Form.Label>SEER / Energetski razred HL</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='npr. 6,2 / A++'
+                  value={SEER}
+                  onChange={(e) => setSEER(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
+
+              <Form.Group controlId='rasponUcinaGrijanja'>
+                <Form.Label>Raspon učina grijanja (kW)</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='npr. 0,8 - 3,4'
+                  value={rasponUcinaGrijanja}
+                  onChange={(e) => setRasponUcinaGrijanja(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
+
+              <Form.Group controlId='SCOP'>
+                <Form.Label>SCOP / Energetski razred GR</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='npr. 4,0 / A+'
+                  value={SCOP}
+                  onChange={(e) => setSCOP(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
+
+              <Form.Group controlId='dimenzijeUnutarnjeJedinice'>
+                <Form.Label>Dimenzije unut. jed (V×Š×D) mm</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='npr. 285×805×194'
+                  value={dimenzijeUnutarnjeJedinice}
+                  onChange={(e) =>
+                    setDimenzijeUnutarnjeJedinice(e.target.value)
+                  }
+                ></Form.Control>
+              </Form.Group>
+
+              <Form.Group controlId='tezinaUnutarnjeJedinice'>
+                <Form.Label>Težina unut. jed. (Kg)</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='npr. 7.5'
+                  value={tezinaUnutarnjeJedinice}
+                  onChange={(e) => setTezinaUnutarnjeJedinice(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
+
+              <Form.Group controlId='razinaBuke'>
+                <Form.Label>Razina buke - hlađenje UJ (dBA)</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='npr. 21/40'
+                  value={razinaBuke}
+                  onChange={(e) => setRazinaBuke(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
+
+              <Form.Group controlId='wifi'>
+                <Form.Label>Kategorija</Form.Label>
+                <Form.Control
+                  as='select'
+                  placeholder='Enter category'
+                  value={wifi}
+                  onChange={(e) => setWiFi(e.target.value)}
+                >
+                  <option></option>
+                  <option>WiFi ugrađen</option>
+                  <option>WiFi nije ugrađen</option>
+                </Form.Control>
+              </Form.Group>
+
+              <Form.Group controlId='ionizatorZraka'>
+                <Form.Label>Kategorija</Form.Label>
+                <Form.Control
+                  as='select'
+                  placeholder='Enter category'
+                  value={ionizatorZraka}
+                  onChange={(e) => setIonizatorZraka(e.target.value)}
+                >
+                  <option></option>
+                  <option>Da</option>
+                  <option>Ne</option>
+                </Form.Control>
+              </Form.Group>
+
+              <Form.Group controlId='dimenzijeVanjskeJedinice'>
+                <Form.Label>Dimenzije vanjske jed (V×Š×D) mm</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='npr. 285×805×194'
+                  value={dimenzijeVanjskeJedinice}
+                  onChange={(e) => setDimenzijeVanjskeJedinice(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
+
+              <Form.Group controlId='tezinaVanjskeJedinice'>
+                <Form.Label>Težina vanjske jed. (Kg)</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='npr. 7.5'
+                  value={tezinaVanjskeJedinice}
+                  onChange={(e) => setTezinaVanjskeJedinice(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
+
+              <Form.Group controlId='razinaBukeVanjskeJedinice'>
+                <Form.Label>Razina buke vanjske jed. (dBA)</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='npr. 50'
+                  value={razinaBukeVanjskeJedinice}
+                  onChange={(e) => setRazinaBukeVanjskeJedinice(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
+
+              <Form.Group controlId='promijerCijeviTekuc'>
+                <Form.Label>Promjer cijevi - tekuć. (mm/")</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='npr. 6,35 (1/4")'
+                  value={promijerCijeviTekuc}
+                  onChange={(e) => setPromijerCijeviTekuc(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
+
+              <Form.Group controlId='promijerCijeviPlin'>
+                <Form.Label>Promjer cijevi - plin (mm/")</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='npr. 6,35 (1/4")'
+                  value={promijerCijeviPlin}
+                  onChange={(e) => setPromijerCijeviPlin(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
+
+              <Form.Group controlId='maksimalnaDuljinaCijevi'>
+                <Form.Label>Maksimalna duljina cijevi (m)</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='npr. 25'
+                  value={maksimalnaDuljinaCijevi}
+                  onChange={(e) => setMaksimalnaDuljinaCijevi(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
+
+              <Form.Group controlId='maksimalnaVisRazlika'>
+                <Form.Label>Maksimalna vis. razlika (m)</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='npr. 25'
+                  value={maksimalnaVisRazlika}
+                  onChange={(e) => setMaksimalnaVisRazlika(e.target.value)}
+                ></Form.Control>
+              </Form.Group>
+
+              <Form.Group controlId='naponPriključka'>
+                <Form.Label>Napon priključka</Form.Label>
+                <Form.Control
+                  type='text'
+                  placeholder='npr. 230 V / 50 Hz'
+                  value={naponPriključka}
+                  onChange={(e) => setNaponPriključka(e.target.value)}
+                ></Form.Control>
+              </Form.Group> */}
+
               <Button type='submit' variant='primary'>
                 Update
               </Button>

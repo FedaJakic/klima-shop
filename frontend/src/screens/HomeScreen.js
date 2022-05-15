@@ -9,7 +9,7 @@ import Loader from '../components/Loader'
 import Product from '../components/Product'
 import Message from '../components/Message'
 import Paginate from '../components/Paginate'
-import VrsteKlimaUređaja from '../components/VrsteKlimaUređaja'
+import OurServices from '../components/OurServices'
 import { listProducts } from '../actions/productActions'
 
 const HomeScreen = ({ match }) => {
@@ -33,7 +33,7 @@ const HomeScreen = ({ match }) => {
       {!keyword ? (
         <>
           <ProductCarousel />
-          <VrsteKlimaUređaja />
+          <OurServices />
         </>
       ) : (
         <Link to='/' className='btn btn-light'>
