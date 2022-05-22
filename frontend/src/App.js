@@ -19,6 +19,7 @@ import ProductEditScreen from './screens/ProductEditScreen'
 import OrderListScreen from './screens/OrderListScreen'
 import MonoKlimaScreen from './screens/MonoKlimaScreen'
 import DualKlimaScreen from './screens/DualKlimaScreen'
+import MontazaServis from './screens/MontazaServis'
 
 const App = () => {
   return (
@@ -39,6 +40,7 @@ const App = () => {
         <Route path='/admin/productlist' component={ProductListScreen} exact />
         <Route path='/mono-klima' component={MonoKlimaScreen} exact />
         <Route path='/dual-klima' component={DualKlimaScreen} exact />
+        <Route path='/montaza-servis' component={MontazaServis} exact />
         <Route
           path='/admin/productlist/:pageNumber'
           component={ProductListScreen}
