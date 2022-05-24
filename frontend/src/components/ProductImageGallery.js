@@ -1,12 +1,11 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import './styles/ProductImageGallery.css'
 
 const ProductImageGallery = ({ imgList }) => {
-  const [selectedImg, setSelectedImg] = useState(imgList[0])
-
-  function trimImagePath(imgList) {
-    return imgList.toString().split(',')
-  }
+  // const [selectedImg, setSelectedImg] = useState(imgList[0])
+  const [selectedImg, setSelectedImg] = useState(
+    imgList.toString().split(',')[0]
+  )
 
   return (
     <>
@@ -14,7 +13,6 @@ const ProductImageGallery = ({ imgList }) => {
         <div className='image-container'>
           <img src={selectedImg} alt='selected' className='selected' />
           <div className='imgContainer'>
-            {console.log(trimImagePath(imgList))}
             {imgList
               .toString()
               .split(',')
