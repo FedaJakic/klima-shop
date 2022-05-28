@@ -18,14 +18,13 @@ function OurServices() {
               <div class='inactive'>
                 <div class='title'>Mno klima uređaji </div>
               </div>
-              o
               <div class='active'>
                 <div class='title'>Mno klima uređaji</div>
                 <div class='sub-title'>
-                  Customer interactions, study and analysis of company branding
-                  through creative briefs. Creation of mock-up designs by using
-                  UI tools that simulate actions and pre-visualize the
-                  reactions.
+                  Mono klima uređaj sastoji od jedne vanjske i jedne unutarnje
+                  jedinice. Mono split klime imaju fleksibilnu ugradnju, razina
+                  buke u sobi je smanjena s obzirom da je jedinica vani i nema
+                  nekih posebnih zahtjeva za zatvoreni prostor.
                 </div>
               </div>
             </div>
@@ -42,12 +41,13 @@ function OurServices() {
                 <div class='title'>Dual klima uređaji </div>
               </div>
               <div class='active'>
-                <div class='title'>Mobile App Development</div>
+                <div class='title'>Dual klima uređaji</div>
                 <div class='sub-title'>
-                  Customer interactions, study and analysis of company branding
-                  through creative briefs. Creation of mock-up designs by using
-                  UI tools that simulate actions and pre-visualize the
-                  reactions.
+                  Dual klima uređaj ima nekoliko unutarnjih jedinica (max. 8) i
+                  sve su povezane na jednu vanjsku jedinicu. Mogu hladiti i
+                  grijati jednu ili više prostorija. Dual klima uređaj može
+                  imati unutarnje jedinice postavljene u različitim prostorijama
+                  kuće ili stana.
                 </div>
               </div>
             </div>
@@ -61,15 +61,18 @@ function OurServices() {
                 ></Image>
               </div>
               <div class='inactive'>
-                <div class='title'>Montaža</div>
+                <div class='title'>Montaža </div>
               </div>
               <div class='active'>
-                <div class='title'>WordPress</div>
+                <div class='title'>Montaža</div>
                 <div class='sub-title'>
-                  Customer interactions, study and analysis of company branding
-                  through creative briefs. Creation of mock-up designs by using
-                  UI tools that simulate actions and pre-visualize the
-                  reactions.
+                  Klimatizacijski sustav mora biti profesionalno instaliran od
+                  strane profesionalnog stručnjaka. Ono što biste vi trebali
+                  prvo učiniti jeste razmotriti gdje želite da vanjska i
+                  unutarnje jedinice budu postavljene. Vanjsku kompresorsku
+                  jedinicu idealno bi bilo postaviti u sjeni, da nema izravne
+                  sunčeve svjetlosti te da je postavljena na čvrstu površinu ili
+                  pričvršćena na zid.
                 </div>
               </div>
             </div>
@@ -83,15 +86,18 @@ function OurServices() {
                 ></Image>
               </div>
               <div class='inactive'>
-                <div class='title'>Servis</div>
+                <div class='title'>Servis </div>
               </div>
               <div class='active'>
-                <div class='title'>Digital Marketing</div>
+                <div class='title'>Servis</div>
                 <div class='sub-title'>
-                  Customer interactions, study and analysis of company branding
-                  through creative briefs. Creation of mock-up designs by using
-                  UI tools that simulate actions and pre-visualize the
-                  reactions.
+                  Prilikom servisa vašeg klima uređaja, ovlašteni će
+                  frigomehaničar prekontrolirati ispravnost svih sklopova i
+                  kompenenata klima uređaja. Servis klima uređaja sastoji se od
+                  6 koraka, a prva dva koraka možete odraditi i vi sami. Ukoliko
+                  i dođe do kvara vašeg klima uređaja, nemate brige, jer je naš
+                  Servisni Centar izvrsno opremljen i spreman u što kraćem roku
+                  otkloniti svaki kvar.
                 </div>
               </div>
             </div>

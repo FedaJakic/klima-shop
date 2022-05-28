@@ -5,7 +5,7 @@ import './styles/Hero.css'
 function Hero() {
   return (
     <div className='hero-container'>
-      <h1>KlimaTech</h1>
+      <h1>Klima-Trgovina</h1>
       <p>Klime za vaš dom!</p>
       <div className='hero-btns'>
         {/* <Button
