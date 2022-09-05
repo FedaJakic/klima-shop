@@ -13,6 +13,7 @@ import {
 import { PRODUCT_CREATE_REVIEW_RESET } from '../constants/productConstants'
 import ProductImageGallery from '../components/ProductImageGallery'
 import TehnicalCharacteristics from '../components/TehnicalCharacteristics'
+import { FcHighPriority } from 'react-icons/fc'
 
 const ProductScreen = ({ history, match }) => {
   const [qty, setQty] = useState(1)
@@ -65,6 +66,11 @@ const ProductScreen = ({ history, match }) => {
         <Link className='btn btn-light my-3' to='/mono-klima'>
           Natrag
         </Link>
+        {product.onSale === true ? (
+       <h4
+        className = 'text-danger' 
+        >
+       Akcija <FcHighPriority /> </h4>) : <></>}
         {loading ? (
           <Loader />
         ) : error ? (
@@ -94,20 +100,26 @@ const ProductScreen = ({ history, match }) => {
                     <span>
                       Cijena: kn{' '}
                       {product.onSale === true ? (
-                        <span
+                        <span>
+                          <span
                           className='font-weight-bold text-danger'
                           style={{ fontSize: 'x-large' }}
-                        >
-                          <del>
-                            {Number(product.price)
-                              .toFixed(2)
-                              .toString()
-                              .replace(/\B(?=(\d{3})+(?!\d))/g, ',')}
-                          </del>
-                          <span>
+                          >
                             {' '}
                             {Number(
                               ((100 - product.sale) * product.price) / 100
+                            )
+                              .toFixed(2)
+                              .toString()
+                              .replace(/\B(?=(\d{3})+(?!\d))/g, ',')}
+                          </span>
+                        <span
+                            className='font-weight-bold ml-5'
+                            style={{ fontSize:'medium'}}
+                        >
+                            EUR{' '}
+                            {Number(
+                              ((100 - product.sale) * product.price) / 100 / 7.53450
                             )
                               .toFixed(2)
                               .toString()
@@ -123,6 +135,16 @@ const ProductScreen = ({ history, match }) => {
                             .toFixed(2)
                             .toString()
                             .replace(/\B(?=(\d{3})+(?!\d))/g, ',')}
+                        <span
+                          className='font-weight-bold ml-5'
+                          style={{ fontSize:'medium'}}
+                        >
+                            EUR{' '}
+                            {Number((product.price) / 7.53450)
+                              .toFixed(2)
+                              .toString()
+                              .replace(/\B(?=(\d{3})+(?!\d))/g, ',')}
+                          </span>
                         </span>
                       )}
                     </span>

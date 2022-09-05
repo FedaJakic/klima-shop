@@ -16,10 +16,10 @@ function OurServices() {
                 ></Image>
               </div>
               <div class='inactive'>
-                <div class='title'>Mno klima uređaji </div>
+                <div class='title'>Mono klima uređaji </div>
               </div>
               <div class='active'>
-                <div class='title'>Mno klima uređaji</div>
+                <div class='title'>Mono klima uređaji</div>
                 <div class='sub-title'>
                   Mono klima uređaj sastoji od jedne vanjske i jedne unutarnje
                   jedinice. Mono split klime imaju fleksibilnu ugradnju, razina
