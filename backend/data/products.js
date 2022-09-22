@@ -645,6 +645,137 @@ const products = [
     naponPrikljucka: 'jjjj',
   },
 
+  { 
+    name: 'Fujitsu Design Inverter 3.4 kW - siva ',
+    sifraProizvoda: 'ASYG12KETA-B/AOYG12KETA',
+    image:
+      '/images/Fujitsu/FujitsuDesignInverter3.4kW-siva-ASYG12KETA-BAOYG12KETA/18-60d301f0af53a_60d3285f65297,/images/Fujitsu/FujitsuDesignInverter3.4kW-siva-ASYG12KETA-BAOYG12KETA/5-5f212101cd177_5f213de2cd711',
+    description:
+      'Za ljubitelje odlične klimatizacije s naglaskom na moderan i elegantan dizajn, Fujitsu je pripremio novu seriju klima uređaja Design Inverter. Efikasnost bez kompromisa osigurava odlične rezultate energetskog razreda A++ u hlađenju, dok se novi dizajn s posebnom teksturom površine i elegantnim linijama lakoćom uklapa u okružje vašeg doma. Korištenjem najnovijeg i ekološki prihvatljivijeg rashladnog sredstva R32 postiže se još bolja energetska efikasnost i smanjuje štetnost za okoliš.Design Inverter nudi funkcionalnosti koje će osjetno olakšati korištenje, povećati udobnost i smanjiti brigu oko rada uređaja, sve kako bi vam osigurale nesmetanu ugodnost po vašim uvjetima. Od brojnih funkcionalnosti kao posebno vrijedne pažnje moramo istaknuti sljedeće: Ekonomski režim rada, Snažni režim rada, Održavanje 10 °C u prostoriji, Automatsko prebacivanje režima rada hlađenja i grijanja, Automatska kontrola ventilatora i Automatsko ponovno pokretanje. Oni zajedno nude odgovarajuće načine rada za sve potrebe jednog doma.Kontrola je iznimno laka putem bežičnog daljinskog upravljača koji vam nudi razne programske mogućnosti poput Noćnog, Programskog i Tjednog timera. Pomoću njih možete namjestiti potpunu automatizaciju rada kroz tjedan, kada želite i kako želite. Ovako velika i detaljna kontrola nad klima uređajem ne samo da olakšava korištenje, već nudi potpunu optimizaciju i maksimalno iskorištavanje mogućnosti uređaja, uz dodatnu uštedu električne energije radi ciljanog rada samo u pravo vrijeme.U ponudi je i žičani zidni daljinski upravljač koji nudi sve napredne mogućnosti kontrole u dobro poznatom stilu centralnog grijanja. Ne smijemo zaboraviti i na mogućnost ugradnje WiFi sučelja koje također nudimo u našoj ponudi. Ono vam omogućuje kontrolu nad klima uređajem gdje god se nalazili, a sve preko odlične aplikacije na nekom od vašim mobilnih pametnih uređaja. Uzmite kontrolu u svoje ruke, doslovno.',
+    brand: 'Fujitsu',
+    category: 'Mono klima uređaj',
+    price: 8200.0,
+    onSale: false,
+    sale: 0,
+    coldEff: 3.4,
+    warmEff: 4.0,
+    energyClass: 'A++',
+    sizeOfRoom: '26-35',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+  { 
+    name: 'Fujitsu Design Inverter 3.4 kW - bijela ',
+    sifraProizvoda: 'ASYG12KETA-B/AOYG12KETA',
+    image:
+      '/images/Fujitsu/FujitsuDesignInverter3.4kW-bijela-ASYG12KETAAOYG12KETA/17-60d301e6d4993_60d302648af98,/images/Fujitsu/FujitsuDesignInverter3.4kW-bijela-ASYG12KETAAOYG12KETA/6-5f2120f5db32d_5f213de28918e',
+    description:
+      'Za ljubitelje odlične klimatizacije s naglaskom na moderan i elegantan dizajn, Fujitsu je pripremio novu seriju klima uređaja Design Inverter. Efikasnost bez kompromisa osigurava odlične rezultate energetskog razreda A++ u hlađenju, dok se novi dizajn s posebnom teksturom površine i elegantnim linijama lakoćom uklapa u okružje vašeg doma. Korištenjem najnovijeg i ekološki prihvatljivijeg rashladnog sredstva R32 postiže se još bolja energetska efikasnost i smanjuje štetnost za okoliš.Design Inverter nudi funkcionalnosti koje će osjetno olakšati korištenje, povećati udobnost i smanjiti brigu oko rada uređaja, sve kako bi vam osigurale nesmetanu ugodnost po vašim uvjetima. Od brojnih funkcionalnosti kao posebno vrijedne pažnje moramo istaknuti sljedeće: Ekonomski režim rada, Snažni režim rada, Održavanje 10 °C u prostoriji, Automatsko prebacivanje režima rada hlađenja i grijanja, Automatska kontrola ventilatora i Automatsko ponovno pokretanje. Oni zajedno nude odgovarajuće načine rada za sve potrebe jednog doma.Kontrola je iznimno laka putem bežičnog daljinskog upravljača koji vam nudi razne programske mogućnosti poput Noćnog, Programskog i Tjednog timera. Pomoću njih možete namjestiti potpunu automatizaciju rada kroz tjedan, kada želite i kako želite. Ovako velika i detaljna kontrola nad klima uređajem ne samo da olakšava korištenje, već nudi potpunu optimizaciju i maksimalno iskorištavanje mogućnosti uređaja, uz dodatnu uštedu električne energije radi ciljanog rada samo u pravo vrijeme.U ponudi je i žičani zidni daljinski upravljač koji nudi sve napredne mogućnosti kontrole u dobro poznatom stilu centralnog grijanja. Ne smijemo zaboraviti i na mogućnost ugradnje WiFi sučelja koje također nudimo u našoj ponudi. Ono vam omogućuje kontrolu nad klima uređajem gdje god se nalazili, a sve preko odlične aplikacije na nekom od vašim mobilnih pametnih uređaja. Uzmite kontrolu u svoje ruke, doslovno.',
+    brand: 'Fujitsu',
+    category: 'Mono klima uređaj',
+    price: 8200.0,
+    onSale: false,
+    sale: 0,
+    coldEff: 3.4,
+    warmEff: 4.0,
+    energyClass: 'A++',
+    sizeOfRoom: '26-35',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  { 
+    name: 'Olimpia Splendid Nexya S4E Inverter 12C 3.5 kW',
+    sifraProizvoda: 'ASYG12KETA-B/AOYG12KETA',
+    image:
+      '/images/OlimpiaSplendid/OlimpiaSplendidNexyaS4EInverter12C3.5kW-OS-KENEH12EIOS-SENEH12EI/1-6151c59c51806_6151ec61993b1,/images/OlimpiaSplendid/OlimpiaSplendidNexyaS4EInverter12C3.5kW-OS-KENEH12EIOS-SENEH12EI/2-6151c59c8dbf0_6151ec61f3f1b',
+    description:
+      'Odlična energetska efikasnost razreda A++ u hlađenju i A+ u grijanju postignuta je kombinacijom najnovijeg invertera i elektronike te energetski prihvatljivijeg rashladnog plina R32. On nije zahvalan samo za bolje performanse, već i za korištenje bez brige jer s njime znate da pomažete pri očuvanju okoliša. Dok on čuva okoliš, anti korozivni premaz „Golden fin“ čuva vašu vanjsku jedinicu od atmosferskih utjecaja i osigurava dugotrajnost vašeg klima uređaja.Ne smijemo zaboraviti i na udobnost koju pružaju vrlo korisne napredne funkcije poput „Postavke za spavanje“ gdje klima uređaj sam postupno regulira temperaturu i smanjuje razinu buke kako bi vam omogućio miran san. Još jedna od njih je i „Prati me“ funkcija koja prati temperaturu na senzoru u daljinskom upravljaču te ako ga držite kraj sebe osigurava prilagodbu rada kako bi se što vjernije postigla idealna temperatura baš tamo gdje ju najviše trebate.Iz već navedene funkcionalnosti dolazi i jednako laka i napredna kontrola putem daljinskog upravljača i Wi-Fi sučelja. On je za vas besplatan i dolazi u pakiranju s klima uređajem, a potrebno ga je samo priključiti te povezati putem aplikacije na vašem pametnog uređaju (Android / iPhone). Putem Wi-Fi kontrole, svojim klima uređajem možete upravljati i dok putujete, nalazite se na poslu, školi ili nekoj drugoj aktivnosti. Možete primjerice putem „24h timer“ funkcije postaviti paljenje ili gašenje kada vam najviše odgovara, a na brigu o tome da li je klima uređaj ostao upaljen, možete slobodno zaboraviti.Kako bi se dodatno uštedila potrošnja električne energije, ovaj klima uređaj koristi Display LED ( prikaz skriven ispod prednjeg panela) kako bi vam jasno prikazao trenutni režim ili postavke klima uređaja kada vas to zanima. Ovim se putem dobiva i na estetskom dojmu klima uređaja jer je prednja površina panela glatka i čista, što naravno pridonosi i lakšem održavanju. Dobro poznate prednosti na koje smo navikli kod talijanskog dizajna.',
+    brand: 'Olimpia Splendid',
+    category: 'Mono klima uređaj',
+    price: 3700.0,
+    onSale: false,
+    sale: 0,
+    coldEff: 3.4,
+    warmEff: 3.6,
+    energyClass: 'A++',
+    sizeOfRoom: '26-35',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+
+
 
 
   
