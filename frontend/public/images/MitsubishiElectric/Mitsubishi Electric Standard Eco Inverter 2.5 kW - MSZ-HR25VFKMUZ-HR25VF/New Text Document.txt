@@ -1,0 +1,52 @@
+Srednji model iz palete uređaja Mitsubishi Electric koristi novi, ekološki prihvatljiv rashladni medij R32 i upravo zahvaljujući njemu i naprednoj inverterskoj tehnologiji spada u uređaje odlične energetske učinkovitosti razreda SEER A++ i SCOP A+. Mitsubishi Electric Standard Eco Inverter MSZ-HR25VFK/MUZ-HR25VF odlikuje se jednostavnošću korištenja, kompaktnim dimenzijama i funkcijama nužnim za visoku razinu komfora.
+
+Snagom od 2.5 kW osigurava pouzdano hlađenje i grijanje u prostorima do 25 m², a naprednim filtracijskim sustavom izuzetnu kvalitetu zraka. Zahvaljujući dodatnom filteru sa ionima srebra drastično je smanjena količina peludi, bakterija i drugih alergena.
+
+Za dodatnu ugodu prilikom korištenja tu su automatske horizontalne lamele koje osiguravaju ravnomjernu raspodjelu protoka zraka po prostoriji i Econo Cool funkcija koja prilagođava količinu zraka usmjerenu prema tijelu na temelju temperature izlaznog zraka. Zahvaljujući ovome, temperatura podešavanja može se povisiti za čak 2 °C bez gubitka udobnosti. Na taj način također se postiže i 20% -tni porast energetske učinkovitosti.
+
+Lako upravljanje omogućeno je infracrvenim daljinskim upravljačem i ugrađenim WiFi sučeljem za bežičnu kontrolu klima uređaja putem MEL Cloud aplikacije na vašem računalu, tabletu ili pametnom telefonu. Dodatno opcionalno žičano upravljačko sučelje sa proširenim mogućnostima kontrole prodaje se zasebno.
+
+Za vašu ugodu korištenja tu su funkcije poput: Automatsko ponovno pokretanje, Timer, Samodijagnostika, Automatsko podešavanje brzine ventilatora i naravno tihi rad samog klima uređaja.
+
+
+Šifra proizvoda: MSZ-HR25VFK/MUZ-HR25VF
+
+Cijena
+5.253
+
+Učin hlađenja (kW)
+2,5
+
+Učin grijanja (kW)
+3,15
+
+Energetski razred
+A++
+
+Veličina prostora (m2)
+16 - 25
+
+Tehničke karakteristike
+Radna tvar R32
+Raspon rashladnog učina (kW) 0,5 - 2,9
+SEER / Energetski razred HL 6,2 / A++
+God. potrošnja hlađenje (kWh) 141
+Raspon učina grijanja (kW) 0,7 - 3,5
+SCOP / Energetski razred GR 4,3 / A+
+God. potrošnja grijanje (kWh) 614
+Dimenzije unut. jed (V×Š×D) mm 280×838×228
+Težina unut. jed. (Kg) 8.5
+Razina buke - hlađenje UJ (dBA) 21/43
+Razina buke - grijanje UJ (dBA) 21/43
+Wi-fi Wi-fi ugrađen
+Dimenzije vanj. jed (V×Š×D) mm 538×699×249
+Težina vanj. jed. (Kg) 23
+Razina buke vanjske jed. (dBA) 50
+Promjer cijevi - tekuć. (mm/") 6,35 (1/4")
+Promjer cijevi - plin (mm/") 9,52 (3/8")
+Maksimalna duljina cijevi (m) 20
+Maksimalna vis. razlika (m) 12
+Napon priključka 230 V / 50 Hz
+Jamstvo 36 mjeseci
+Područje rada - hlađenje (°C) od -10°C do +46°C
+Područje rada - grijanje (°C) od -10°C do +24°C

@@ -1,0 +1,44 @@
+Ovaj napredni model proizvođača Mitsubishi Electric osvaja brojnim funkcionalnostima, privlačnim izgledom i kompaktnom izvedbom. Uz tih i pouzdan rad, Mitsubishi Electric Super Inverter Plus u sebi ima ugrađen WiFi sučelje i nudi opciju ugradnje dodatnog žičanog upravljačkog sučelja koji se prodaje zasebno. Također, koristi novi, ekološki prihvatljiv rashladni medij R32 i upravo zahvaljujući njemu i naprednoj inverterskoj tehnologiji spada u uređaje odlične energetske učinkovitosti razreda A++. Sa snagom od 5.0 kW pouzdano će rashladiti prostorije do 55 m².
+
+Upravljanje uređajem omogućeno je infracrvenim daljinskim upravljačem, a vaša udobnost pomoću brojnih funkcija. Vertikalne i horizontalne lamele automatski se pomiču kako bi osigurale ravnomjerni protok zraka po prostoriji a Econo Cool funkcija prilagođava količinu zraka usmjerenu prema tijelu na temelju temperature izlaznog zraka. Na taj način također se postiže i 20% -tni porast energetske učinkovitosti.
+
+Za bezbrižan rad čak i kada niste tu pobrinule su se napredne funkcije: Tjedni timer, “i save”, Automatski restart i Automatska promjena režima rada. One zajedno nude veliku kontrolu klima uređaja kroz automatsko gašenje, paljenje, promjenu zadane temperature i rad po unaprijed određenim postavkama. Na ovaj način ćete i dodatno uštedjeti na potrošnji električne energije.
+
+Zahvaljujući filerskom sustavu sa ionima srebra i dodatnim filterom za pročišćivanje i aromatiziranje zraka zaboravite na ustajali zrak, neugodne mirise, prašinu i alergene. Spavajte mirno uz osiguranu kvalitetu zraka i Noćnu postavku koja smanjuje razinu svjetlosti indikatora klima uređaja, isključuje zvučnu signalizaciju i snižava razinu buke rada vanjske jedinice za 3dB.
+
+Klima uređaj Mitsubishi Electric Super Inverter Plus 5.0 kW sastoji se od unutarnje jedinice oznake MSZ-AP50VGK, vanjske jedinice MUZ-AP50VG i infracrvenog daljinskog upravljača.
+
+
+MSZ-AP50VG/MUZ-AP50VG
+
+14006
+
+hladenje 5.0
+grijanje 5.8
+
+a++
+
+46-55
+
+Tehničke karakteristike
+Radna tvar R32
+Raspon rashladnog učina (kW) 1,4 - 5,4
+SEER / Energetski razred HL 7,4 / A++
+God. potrošnja hlađenje (kWh) 236
+Raspon učina grijanja (kW) 1,4 - 7,3
+SCOP / Energetski razred GR 4,7 / A++
+God. potrošnja grijanje (kWh) 1250
+Dimenzije unut. jed (V×Š×D) mm 299×798×219
+Razina buke - hlađenje UJ (dBA) 28/44
+Razina buke - grijanje UJ (dBA) 28/48
+Wi-fi Wi-fi ugrađen
+Dodatne opcije Tjedni programator
+Dimenzije vanj. jed (V×Š×D) mm 714×800×285
+Težina vanj. jed. (Kg) 40
+Razina buke vanjske jed. (dBA) 40
+Promjer cijevi - tekuć. (mm/") 6,35 (1/4")
+Promjer cijevi - plin (mm/") 9,52 (3/8")
+Maksimalna duljina cijevi (m) 20
+Maksimalna vis. razlika (m) 12
+Napon priključka 230 V / 50 Hz
+Jamstvo 36 mjeseci

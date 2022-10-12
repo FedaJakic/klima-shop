@@ -1,4 +1,12 @@
 const products = [
+  
+  
+  
+  //FUJITSU//
+  
+  
+  
+  
   {
     name: 'Fujitsu Advance Inverter 2.0 kW',
     sifraProizvoda: 'ASYG07KGTB/AOYG07KGCA',
@@ -729,29 +737,31 @@ const products = [
 
 
 
-
+//HYUNDAI//
 
   
 
 
 
 
+
+
   { 
-    name: 'Olimpia Splendid Nexya S4E Inverter 12C 3.5 kW',
-    sifraProizvoda: 'ASYG12KETA-B/AOYG12KETA',
+    name: 'Hyundai Elite Inverter 2.5 kW',
+    sifraProizvoda: 'HRH-09GMV2/HRO-09GMV2',
     image:
-      '/images/OlimpiaSplendid/OlimpiaSplendidNexyaS4EInverter12C3.5kW-OS-KENEH12EIOS-SENEH12EI/1-6151c59c51806_6151ec61993b1,/images/OlimpiaSplendid/OlimpiaSplendidNexyaS4EInverter12C3.5kW-OS-KENEH12EIOS-SENEH12EI/2-6151c59c8dbf0_6151ec61f3f1b',
+      '/images/Hyundai/HyundaiEliteInverter2.5kW-HRH-09GMV2HRO-09GMV2/1-600ed1de63f2c_62b9a1dda8415,/images/Hyundai/HyundaiEliteInverter2.5kW-HRH-09GMV2HRO-09GMV2/2-600ecc85b69f6_624312c4c0381,/images/Hyundai/HyundaiEliteInverter2.5kW-HRH-09GMV2HRO-09GMV2/3-600ecc85d15b4_624312c60e0ab',
     description:
-      'Odlična energetska efikasnost razreda A++ u hlađenju i A+ u grijanju postignuta je kombinacijom najnovijeg invertera i elektronike te energetski prihvatljivijeg rashladnog plina R32. On nije zahvalan samo za bolje performanse, već i za korištenje bez brige jer s njime znate da pomažete pri očuvanju okoliša. Dok on čuva okoliš, anti korozivni premaz „Golden fin“ čuva vašu vanjsku jedinicu od atmosferskih utjecaja i osigurava dugotrajnost vašeg klima uređaja.Ne smijemo zaboraviti i na udobnost koju pružaju vrlo korisne napredne funkcije poput „Postavke za spavanje“ gdje klima uređaj sam postupno regulira temperaturu i smanjuje razinu buke kako bi vam omogućio miran san. Još jedna od njih je i „Prati me“ funkcija koja prati temperaturu na senzoru u daljinskom upravljaču te ako ga držite kraj sebe osigurava prilagodbu rada kako bi se što vjernije postigla idealna temperatura baš tamo gdje ju najviše trebate.Iz već navedene funkcionalnosti dolazi i jednako laka i napredna kontrola putem daljinskog upravljača i Wi-Fi sučelja. On je za vas besplatan i dolazi u pakiranju s klima uređajem, a potrebno ga je samo priključiti te povezati putem aplikacije na vašem pametnog uređaju (Android / iPhone). Putem Wi-Fi kontrole, svojim klima uređajem možete upravljati i dok putujete, nalazite se na poslu, školi ili nekoj drugoj aktivnosti. Možete primjerice putem „24h timer“ funkcije postaviti paljenje ili gašenje kada vam najviše odgovara, a na brigu o tome da li je klima uređaj ostao upaljen, možete slobodno zaboraviti.Kako bi se dodatno uštedila potrošnja električne energije, ovaj klima uređaj koristi Display LED ( prikaz skriven ispod prednjeg panela) kako bi vam jasno prikazao trenutni režim ili postavke klima uređaja kada vas to zanima. Ovim se putem dobiva i na estetskom dojmu klima uređaja jer je prednja površina panela glatka i čista, što naravno pridonosi i lakšem održavanju. Dobro poznate prednosti na koje smo navikli kod talijanskog dizajna.',
-    brand: 'Olimpia Splendid',
+      'Klimatizacija.hr od 01.06.2020 omogućila je dodatnu pogodnost za sve Hyundai klima uređaje stambene serije. Osim osnovne garancije u trajanju od 3 godine, pružamo pogodnost dodatne 2 godine produljenog jamstva. Na ovaj način osiguravate si ukupno 5 godina garancije na cijeli uređaj i 10 godina na kompresor. Više o ovoj posebnoj pogodnosti pročitajte ovdje.Ovaj napredni model Hyundai klima uređaja s razlogom osvaja tržište. Uz svoj inovativni dizajn i moćne performanse Hyundai Elite Inverter HRH-09GMV2/HRO-09GMV2 nudi komfornu raznolikost funkcija i tehniku hlađenja najnovije generacije. Ovaj iznimni klima uređaj pobrinut će se za sve, bilo to hlađenje, odvlaživanje ili grijanje.Svojim učinkom hlađenja od 2.6 kW i učinkom grijanja od 2,9 kW, klima uređaj Elite Inverter serije preporučuje se za prostorije veličine do 25 m². Osim pouzdanog hlađenja i grijanja ovaj klima uređaj osigurava i iznimnu kvalitetu i čistoću zraka zahvaljujući kompleksnom filtarskom sustavu od više tipova filtera ( filtera visoke gustoće,filtera sa hladnim katalizatorom te višeslojnog filtera sa aktivnim ugljikom i vitaminom C ). Uz ovu iznimnu filtraciju Elite Inverter serija dolazi i s ionizatorom koji osigurava još bolju kvalitetu zraka i pomaže pri sprječavanju bolesti pluća poput astme.Klima uređaj radi potpuno automatski i nudi svojim mikroprocesorskim reguliranjem veliki broj opcija: Održavanje 8°C u prostoru, Timer, Slijedi me, 5 brzina ventilatora vanjske jedinice, Noćni način rada, Automatski restart...Upravljanje uređaja omogućeno je pomoću infracrvenog daljinskog upravljača i WiFi modula (ovaj odlični dodatak omogućuje upravljanje i podešavanje funkcija klima uređaja putem posebne aplikacije na vašem pametnom telefonu ili tabletu) koji su uključeni u cijenu proizvoda. - saznajte više informacija o funkcijama daljinskog upravljačaZahvaljujući posebno dizajniranoj elektronici uređaj može raditi čak i kada su vanjske temperature do -15 °C, a brzina ventilatora vanjske jedinice može se mijenjati automatski prema temperaturi kondenzacije. Pozlaćene lamele isparivača i kondenzatora učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente. Upravo radi svih ovih karakteristika Hyundai Elite Inverter serija nudi ekonomski prihvatljivu alternativu u grijanju.Čuvajmo novce, ali i okoliš! Elite Inverter serija koristi ekološki prihvatljiv rashladni medij R32 i upravo zahvaljujući njemu i naprednoj inverterskoj tehnologiji spada u uređaje visoke energetske učinkovitosti razreda A+++. Ugodna i zdrava klima čitave godine uz istovremenu uštedu odlika su ove serije.Brzo i jednostavno! Zahvaljujući All Easy sistemu, instaliranje i održavanje klima uređaja nikad nije bilo brže i jednostavnije.Klima uređaj Hyundai Elite Inverter 2.5 kW sastoji se od unutarnje jedinice oznake HRH-09GMV2, vanjske jedinice HRO-09GMV2, infracrvenog daljinskog upravljača i WiFi upravljačkog modula. - saznajte više o Hyundai Elite Inverter seriji klima uređaja.',
+    brand: 'Hyundai',
     category: 'Mono klima uređaj',
-    price: 3700.0,
+    price: 3997.0,
     onSale: false,
     sale: 0,
-    coldEff: 3.4,
-    warmEff: 3.6,
-    energyClass: 'A++',
-    sizeOfRoom: '26-35',
+    coldEff: 2.6,
+    warmEff: 2.9,
+    energyClass: 'A+++',
+    sizeOfRoom: '16-25',
     countInStock: 3,
     rating: 0,
     numReviews: 0,
@@ -778,6 +788,405 @@ const products = [
 
 
 
+
+
+  { 
+    name: 'Hyundai Elite Inverter 3.5 kW',
+    sifraProizvoda: 'HRH-12GMV2/HRO-12GMV2',
+    image:
+      '/images/Hyundai/HyundaiEliteInverter3.5kW-HRH-12GMV2HRO-12GMV2/20-6139d26cdd433_6165847b1ab19,/images/Hyundai/HyundaiEliteInverter3.5kW-HRH-12GMV2HRO-12GMV2/hyundai-elite-inverter-2-5cf770f5c4ac6_5cf77873b0ecd,/images/Hyundai/HyundaiEliteInverter3.5kW-HRH-12GMV2HRO-12GMV2/3-600ecc85d15b4_600edbf0513de',
+    description:
+      'Klimatizacija.hr od 01.06.2020 omogućila je dodatnu pogodnost za sve Hyundai klima uređaje stambene serije. Osim osnovne garancije u trajanju od 3 godine, pružamo pogodnost dodatne 2 godine produljenog jamstva. Na ovaj način osiguravate si ukupno 5 godina garancije na cijeli uređaj i 10 godina na kompresor. Više o ovoj posebnoj pogodnosti pročitajte ovdje.Ovaj napredni model Hyundai klima uređaja s razlogom osvaja tržište. Uz svoj inovativni dizajn i moćne performanse Hyundai Elite Inverter HRH-09GMV2/HRO-09GMV2 nudi komfornu raznolikost funkcija i tehniku hlađenja najnovije generacije. Ovaj iznimni klima uređaj pobrinut će se za sve, bilo to hlađenje, odvlaživanje ili grijanje.Svojim učinkom hlađenja od 2.6 kW i učinkom grijanja od 2,9 kW, klima uređaj Elite Inverter serije preporučuje se za prostorije veličine do 25 m². Osim pouzdanog hlađenja i grijanja ovaj klima uređaj osigurava i iznimnu kvalitetu i čistoću zraka zahvaljujući kompleksnom filtarskom sustavu od više tipova filtera ( filtera visoke gustoće,filtera sa hladnim katalizatorom te višeslojnog filtera sa aktivnim ugljikom i vitaminom C ). Uz ovu iznimnu filtraciju Elite Inverter serija dolazi i s ionizatorom koji osigurava još bolju kvalitetu zraka i pomaže pri sprječavanju bolesti pluća poput astme.Klima uređaj radi potpuno automatski i nudi svojim mikroprocesorskim reguliranjem veliki broj opcija: Održavanje 8°C u prostoru, Timer, Slijedi me, 5 brzina ventilatora vanjske jedinice, Noćni način rada, Automatski restart...Upravljanje uređaja omogućeno je pomoću infracrvenog daljinskog upravljača i WiFi modula (ovaj odlični dodatak omogućuje upravljanje i podešavanje funkcija klima uređaja putem posebne aplikacije na vašem pametnom telefonu ili tabletu) koji su uključeni u cijenu proizvoda. - saznajte više informacija o funkcijama daljinskog upravljačaZahvaljujući posebno dizajniranoj elektronici uređaj može raditi čak i kada su vanjske temperature do -15 °C, a brzina ventilatora vanjske jedinice može se mijenjati automatski prema temperaturi kondenzacije. Pozlaćene lamele isparivača i kondenzatora učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente. Upravo radi svih ovih karakteristika Hyundai Elite Inverter serija nudi ekonomski prihvatljivu alternativu u grijanju.Čuvajmo novce, ali i okoliš! Elite Inverter serija koristi ekološki prihvatljiv rashladni medij R32 i upravo zahvaljujući njemu i naprednoj inverterskoj tehnologiji spada u uređaje visoke energetske učinkovitosti razreda A+++. Ugodna i zdrava klima čitave godine uz istovremenu uštedu odlika su ove serije.Brzo i jednostavno! Zahvaljujući All Easy sistemu, instaliranje i održavanje klima uređaja nikad nije bilo brže i jednostavnije.Klima uređaj Hyundai Elite Inverter 2.5 kW sastoji se od unutarnje jedinice oznake HRH-09GMV2, vanjske jedinice HRO-09GMV2, infracrvenog daljinskog upravljača i WiFi upravljačkog modula. - saznajte više o Hyundai Elite Inverter seriji klima uređaja.',
+    brand: 'Hyundai',
+    category: 'Mono klima uređaj',
+    price: 5300.0,
+    onSale: false,
+    sale: 0,
+    coldEff: 3.5,
+    warmEff: 3.8,
+    energyClass: 'A+++',
+    sizeOfRoom: '26-35',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+
+  { 
+    name: 'Hyundai Elite Inverter 5.3 kW',
+    sifraProizvoda: 'HRH-12GMV2/HRO-12GMV2',
+    image:
+      '/images/Hyundai/HyundaiEliteInverter5.3kW-HRH-18GMV2HRO-18GMV2/gmv-u-dolasku-artikl-62f3b232e157e_62f3ca87e84c9,/images/Hyundai/HyundaiEliteInverter5.3kW-HRH-18GMV2HRO-18GMV2/2-600ecc85b69f6_62208579ca120,/images/Hyundai/HyundaiEliteInverter5.3kW-HRH-18GMV2HRO-18GMV2/3-600ecc85d15b4_6220857a795e8',
+    description:
+      'Klimatizacija.hr od 01.06.2020 omogućila je dodatnu pogodnost za zidne Hyundai klima uređaje stambene serije. Osim osnovne garancije u trajanju od 3 godine, pružamo pogodnost dodatne 2 godine produljenog jamstva. Na ovaj način osiguravate si ukupno 5 godina garancije na cijeli uređaj i 10 godina na kompresor. Više o ovoj posebnoj pogodnosti pročitajte ovdje.Ovaj napredni model Hyundai klima uređaja s razlogom osvaja tržište. Uz svoj inovativni dizajn i moćne performanse Hyundai Elite Inverter HRH-18GMV2/HRO-18GMV2 nudi komfornu raznolikost funkcija i tehniku hlađenja najnovije generacije. Ovaj iznimni klima uređaj pobrinut će se za sve, bilo to hlađenje, odvlaživanje ili grijanje.Svojim učinkom hlađenja od 5.3 kW i učinkom grijanja od 5.6 kW, klima uređaj Elite Inverter serije preporučuje se za prostorije veličine do 55 m². Osim pouzdanog hlađenja i grijanja ovaj klima uređaj osigurava i iznimnu kvalitetu i čistoću zraka zahvaljujući kompleksnom filtarskom sustavu od više tipova filtera ( filtera visoke gustoće, filtera sa hladnim katalizatorom te višeslojnog filtera sa aktivnim ugljikom i vitaminom C ). Uz ovu iznimnu filtraciju Elite Inverter serija dolazi i s ionizatorom koji osigurava još bolju kvalitetu zraka i pomaže pri sprječavanju bolesti pluća poput astme.Klima uređaj radi potpuno automatski i nudi svojim mikroprocesorskim reguliranjem veliki broj opcija: Održavanje 8°C u prostoru, Timer, Slijedi me, 5 brzina ventilatora vanjske jedinice, Noćni način rada, Automatski restart...Upravljanje uređaja omogućeno je pomoću infracrvenog daljinskog upravljača i WiFi modula (ovaj odlični dodatak omogućuje upravljanje i podešavanje funkcija klima uređaja putem posebne aplikacije na vašem pametnom telefonu ili tabletu) koji su uključeni u cijenu proizvoda. - saznajte više informacija o funkcijama daljinskog upravljačaZahvaljujući posebno dizajniranoj elektronici uređaj može raditi čak i kada su vanjske temperature do -15 °C, a brzina ventilatora vanjske jedinice može se mijenjati automatski prema temperaturi kondenzacije. Pozlaćene lamele isparivača i kondenzatora učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente. Upravo radi svih ovih karakteristika Hyundai Elite Inverter serija nudi ekonomski prihvatljivu alternativu u grijanju.Čuvajmo novce, ali i okoliš! Elite Inverter serija koristi ekološki prihvatljiv rashladni medij R32 i upravo zahvaljujući njemu i naprednoj inverterskoj tehnologiji spada u uređaje visoke energetske učinkovitosti razreda A++. Ugodna i zdrava klima čitave godine uz istovremenu uštedu odlika su ove serije.Brzo i jednostavno! Zahvaljujući All Easy sistemu, instaliranje i održavanje klima uređaja nikad nije bilo brže i jednostavnijeKlima uređaj Hyundai Elite Inverter 5.3 kW sastoji se od unutarnje jedinice oznake HRH-18GMV2, vanjske jedinice HRO-18GMV2, infracrvenog daljinskog upravljača i WiFi upravljačkog modula. - saznajte više o Hyundai Elite Inverter seriji klima uređaja.',
+    brand: 'Hyundai',
+    category: 'Mono klima uređaj',
+    price: 8200.0,
+    onSale: false,
+    sale: 0,
+    coldEff: 5.3,
+    warmEff: 5.6,
+    energyClass: 'A++',
+    sizeOfRoom: '46-55',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+  
+
+  { 
+    name: 'Hyundai Performance Inverter Plus 2.6 kW',
+    sifraProizvoda: 'HRH-09BMV/HRO-09BMV',
+    image:
+      '/images/Hyundai/HyundaiPerformanceInverterPlus2.6kW-HRH-09BMVHRO-09BMV/hyundai-600ecd1f0ece4_600ed9d042e2b,/images/Hyundai/HyundaiPerformanceInverterPlus2.6kW-HRH-09BMVHRO-09BMV/bmv-5d19f642b23a5_5d19f7b0de6a9,/images/Hyundai/HyundaiPerformanceInverterPlus2.6kW-HRH-09BMVHRO-09BMV/3-600ecc85d15b4_600ed7039f329',
+    description:
+      'Klimatizacija.hr od 01.06.2020 omogućila je dodatnu pogodnost za zidne Hyundai klima uređaje stambene serije. Osim osnovne garancije u trajanju od 3 godine, pružamo pogodnost dodatne 2 godine produljenog jamstva. Na ovaj način osiguravate si ukupno 5 godina garancije na cijeli uređaj i 10 godina na kompresor. Više o ovoj posebnoj pogodnosti pročitajte ovdje.Osnovni model Hyundai klima uređaja hladi vrući zrak u prostoriji na željenu temperaturu i pritom odlično izgleda. Klima uređaj Hyundai Performance Inverter Plus HRH-09BMV/HRO-09BMV u prostorijama do 25 m² osigurava ugodnu klimu. Istovremeno filtrira zrak u prostoriji pomoću filtarskog sustava koji se sastoji od filtera visoke gustoće, aromatizirajućeg filtera i filtera s aktivnim ugljenom. Dodatnu kvalitetu zraka ovom modelu Hyundai klima uređaja osigurava i ionizator zraka. Također, ova serija koristi ekološki prihvatljiv rashladni medij R32 koji ne samo da pomaže pri očuvanju okoliša, već i pridonosi energetskoj učinkovitosti uređaja. Ovaj moderno dizajnirani klima uređaj ima mogućnost odvlaživanja zraka u prostoriji za vrijeme vrućih ljetnih dana, a ujedno nudi i mogućnost dogrijavanja u prijelaznim razdobljima. Pozlaćene lamele isparivača i kondenzatora učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente.Klima uređaj radi potpuno automatski i nudi svojim mikroprocesorskim reguliranjem veliki broj opcija: Održavanje 8°C u prostoru, Timer, Slijedi me, 5 brzina ventilatora vanjske jedinice, Noćni način rada.Upravljanje uređaja omogućeno je pomoću infracrvenog daljinskog upravljača i WiFi modula (ovaj odlični dodatak omogućuje upravljanje i podešavanje funkcija klima uređaja putem posebne aplikacije na vašem pametnom telefonu ili tabletu) koji su uključeni u cijenu proizvoda. - saznajte više informacija o funkcijama daljinskog upravljačaSavjet za uštedu! Načini rada ventilacija i odvlaživanje mogu se odabrati čak i kada je funkcija hlađenja deaktivirana. Tako se klima uređaj Hyundai Performance Inverter Plus može upotrebljavati čitave godine kako bi se postigla ugodna i zdrava klima u stambenom prostoru - uz istovremenu uštedu energije. Time se dodatno smanjuje potrošnja energije ovog ionako štedljivog uređaja, zbog čega nećete morati kupiti zaseban odvlaživač zraka niti ventilator.Više vremena za ono bitno! Namješteni radni parametri kao što su način rada uređaja, ciljana temperatura i snaga ventilacije ostaju pohranjeni i nakon gašenja uređaja te se automatski preuzimaju pri sljedećem uključenju.Klima uređaj Hyundai Performance Inverter Plus 2.6 kW sastoji se od unutarnje jedinice oznake HRH-09BMV, vanjske jedinice HRO-09BMV, infracrvenog daljinskog upravljača i WiFi upravljačkog modula. - saznajte više o Hyundai Performance Inverter seriji klima uređaja.',
+    brand: 'Hyundai',
+    category: 'Mono klima uređaj',
+    price: 3900.0,
+    onSale: false,
+    sale: 0,
+    coldEff: 2.6,
+    warmEff: 2.9,
+    energyClass: 'A++',
+    sizeOfRoom: '16-25',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+
+
+  { 
+    name: 'Hyundai Performance Inverter Plus 3.5 kW',
+    sifraProizvoda: 'HRH-12BMV/HRO-12BMV',
+    image:
+      '/images/Hyundai/HyundaiPerformanceInverterPlus3.5kW-HRH-12BMVHRO-12BMV/hyundai-600ecd1f0ece4_600ed9d042e2b,/images/Hyundai/HyundaiPerformanceInverterPlus3.5kW-HRH-12BMVHRO-12BMV/bmv-5d19f642b23a5_5d1a05c19a859,/images/HyundaiPerformanceInverterPlus3.5kW-HRH-12BMVHRO-12BMV/3-600ecc85d15b4_600ed9d08477d',
+    description:
+      'Klimatizacija.hr od 01.06.2020 omogućila je dodatnu pogodnost za zidne Hyundai klima uređaje stambene serije. Osim osnovne garancije u trajanju od 3 godine, pružamo pogodnost dodatne 2 godine produljenog jamstva. Na ovaj način osiguravate si ukupno 5 godina garancije na cijeli uređaj i 10 godina na kompresor. Više o ovoj posebnoj pogodnosti pročitajte ovdje.  Osnovni model Hyundai klima uređaja hladi vrući zrak u prostoriji na željenu temperaturu i pritom odlično izgleda. Klima uređaj Hyundai Performance Inverter Plus HRH-12BMV/HRO-12BMV u prostorijama do 35 m² osigurava ugodnu klimu. Istovremeno filtrira zrak u prostoriji pomoću filtarskog sustava koji se sastoji od filtera visoke gustoće, aromatizirajućeg filtera i filtera s aktivnim ugljenom. Dodatnu kvalitetu zraka ovom modelu Hyundai klima uređaja osigurava i ionizator zraka. Također, ova serija koristi ekološki prihvatljiv rashladni medij R32 koji ne samo da pomaže pri očuvanju okoliša, već i pridonosi energetskoj učinkovitosti uređaja. Ovaj moderno dizajnirani klima uređaj ima mogućnost odvlaživanja zraka u prostoriji za vrijeme vrućih ljetnih dana, a ujedno nudi i mogućnost dogrijavanja u prijelaznim razdobljima. Pozlaćene lamele isparivača i kondenzatora učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente.Klima uređaj radi potpuno automatski i nudi svojim mikroprocesorskim reguliranjem veliki broj opcija: Održavanje 8°C u prostoru, Timer, Slijedi me, 5 brzina ventilatora vanjske jedinice, Noćni način rada...Upravljanje uređaja omogućeno je pomoću infracrvenog daljinskog upravljača i WiFi modula (ovaj odlični dodatak omogućuje upravljanje i podešavanje funkcija klima uređaja putem posebne aplikacije na vašem pametnom telefonu ili tabletu) koji su uključeni u cijenu proizvoda. - saznajte više informacija o funkcijama daljinskog upravljačaSavjet za uštedu! Načini rada ventilacija i odvlaživanje mogu se odabrati čak i kada je funkcija hlađenja deaktivirana. Tako se klima uređaj Hyundai Performance Inverter Plus može upotrebljavati čitave godine kako bi se postigla ugodna i zdrava klima u stambenom prostoru - uz istovremenu uštedu energije. Time se dodatno smanjuje potrošnja energije ovog ionako štedljivog uređaja, zbog čega nećete morati kupiti zaseban odvlaživač zraka niti ventilator.Više vremena za ono bitno! Namješteni radni parametri kao što su način rada uređaja, ciljana temperatura i snaga ventilacije ostaju pohranjeni i nakon gašenja uređaja te se automatski preuzimaju pri sljedećem uključenju.Klima uređaj Hyundai Performance Inverter Plus 3.5 kW sastoji se od unutarnje jedinice oznake HRH-12BMV, vanjske jedinice HRO-12BMV, infracrvenog daljinskog upravljača i WiFi upravljačkog modula. - saznajte više o Hyundai Performance Inverter seriji klima uređaja.',
+    brand: 'Hyundai',
+    category: 'Mono klima uređaj',
+    price: 4200.0,
+    onSale: false,
+    sale: 0,
+    coldEff: 3.5,
+    warmEff: 3.8,
+    energyClass: 'A++',
+    sizeOfRoom: '26-35',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+
+  
+  { 
+    name: 'Hyundai Performance Inverter Plus 5.3 kW',
+    sifraProizvoda: 'HRH-18BMV/HRO-18BMV',
+    image:
+      '/images/Hyundai/HyundaiPerformanceInverterPlus5.3kW-HRH-18BMVHRO-18BMV/hyundai-600ecd1f0ece4_600ed597da805,/images/Hyundai/HyundaiPerformanceInverterPlus5.3kW-HRH-18BMVHRO-18BMV/bmv-5d1719caee25f_5d171c6e44971,/images/HyundaiPerformanceInverterPlus5.3kW-HRH-18BMVHRO-18BMV/3-600ecc85d15b4_600ed5981a661',
+    description:
+      'Klimatizacija.hr od 01.06.2020 omogućila je dodatnu pogodnost za zidne Hyundai klima uređaje stambene serije. Osim osnovne garancije u trajanju od 3 godine, pružamo pogodnost dodatne 2 godine produljenog jamstva. Na ovaj način osiguravate si ukupno 5 godina garancije na cijeli uređaj i 10 godina na kompresor. Više o ovoj posebnoj pogodnosti pročitajte ovdje.Osnovni model Hyundai klima uređaja hladi vrući zrak u prostoriji na željenu temperaturu i pritom odlično izgleda. Klima uređaj Hyundai Performance Inverter Plus HRH-18BMV/HRO-18BMV u prostorijama do 55 m² osigurava ugodnu klimu. Istovremeno filtrira zrak u prostoriji pomoću filtarskog sustava koji se sastoji od filtera visoke gustoće, aromatizirajućeg filtera i filtera s aktivnim ugljenom. Dodatnu kvalitetu zraka ovom modelu Hyundai klima uređaja osigurava i ionizator zraka. Također, ova serija koristi ekološki prihvatljiv rashladni medij R32 koji ne samo da pomaže pri očuvanju okoliša, već i pridonosi energetskoj učinkovitosti uređaja. Ovaj moderno dizajnirani klima uređaj ima mogućnost odvlaživanja zraka u prostoriji za vrijeme vrućih ljetnih dana, a ujedno nudi i mogućnost dogrijavanja u prijelaznim razdobljima. Pozlaćene lamele isparivača i kondenzatora učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente.Klima uređaj radi potpuno automatski i nudi svojim mikroprocesorskim reguliranjem veliki broj opcija: Održavanje 8°C u prostoru, Timer, Slijedi me, 5 brzina ventilatora vanjske jedinice, Noćni način rada...Upravljanje uređaja omogućeno je pomoću infracrvenog daljinskog upravljača i WiFi modula (ovaj odlični dodatak omogućuje upravljanje i podešavanje funkcija klima uređaja putem posebne aplikacije na vašem pametnom telefonu ili tabletu) koji su uključeni u cijenu proizvoda. - saznajte više informacija o funkcijama daljinskog upravljačaSavjet za uštedu! Načini rada ventilacija i odvlaživanje mogu se odabrati čak i kada je funkcija hlađenja deaktivirana. Tako se klima uređaj Hyundai Performance Inverter Plus može upotrebljavati čitave godine kako bi se postigla ugodna i zdrava klima u stambenom prostoru - uz istovremenu uštedu energije. Time se dodatno smanjuje potrošnja energije ovog ionako štedljivog uređaja, zbog čega nećete morati kupiti zaseban odvlaživač zraka niti ventilator.Više vremena za ono bitno! Namješteni radni parametri kao što su način rada uređaja, ciljana temperatura i snaga ventilacije ostaju pohranjeni i nakon gašenja uređaja te se automatski preuzimaju pri sljedećem uključenju.Klima uređaj Hyundai Performance Inverter Plus 5.3 kW sastoji se od unutarnje jedinice oznake HRH-18BMV, vanjske jedinice HRO-18BMV, infracrvenog daljinskog upravljača i WiFi upravljačkog modula. - saznajte više o Hyundai Performance Inverter seriji klima uređaja.',
+    brand: 'Hyundai',
+    category: 'Mono klima uređaj',
+    price: 7400.0,
+    onSale: false,
+    sale: 0,
+    coldEff: 5.3,
+    warmEff: 5.6,
+    energyClass: 'A++',
+    sizeOfRoom: '46-55',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+
+
+
+
+  { 
+    name: 'Hyundai Performance Inverter Plus 7.0 kW',
+    sifraProizvoda: 'HRH-24BMV/HRO-24BMV',
+    image:
+      '/images/Hyundai/HyundaiPerformanceInverterPlus7.0kW-HRH-24BMVHRO-24BMV/hyundai-600ecd1f0ece4_600ed64dc5a5a,/images/Hyundai/HyundaiPerformanceInverterPlus7.0kW-HRH-24BMVHRO-24BMV/bmv-5d1719caee25f_5d171c709ae1c,/images/HyundaiPerformanceInverterPlus7.0kW-HRH-24BMVHRO-24BMV/3-600ecc85d15b4_600ed64e094ed',
+    description:
+      'Klimatizacija.hr od 01.06.2020 omogućila je dodatnu pogodnost za zidne Hyundai klima uređaje stambene serije. Osim osnovne garancije u trajanju od 3 godine, pružamo pogodnost dodatne 2 godine produljenog jamstva. Na ovaj način osiguravate si ukupno 5 godina garancije na cijeli uređaj i 10 godina na kompresor. Više o ovoj posebnoj pogodnosti pročitajte ovdje.Osnovni model Hyundai klima uređaja hladi vrući zrak u prostoriji na željenu temperaturu i pritom odlično izgleda. Klima uređaj Hyundai Performance Inverter Plus HRH-24BMV/HRO-24BMV u prostorijama do 75 m² osigurava ugodnu klimu. Istovremeno filtrira zrak u prostoriji pomoću filtarskog sustava koji se sastoji od filtera visoke gustoće, aromatizirajućeg filtera i filtera s aktivnim ugljenom. Dodatnu kvalitetu zraka ovom modelu Hyundai klima uređaja osigurava i ionizator zraka. Također, ova serija koristi ekološki prihvatljiv rashladni medij R32 koji ne samo da pomaže pri očuvanju okoliša, već i pridonosi energetskoj učinkovitosti uređaja. Ovaj moderno dizajnirani klima uređaj ima mogućnost odvlaživanja zraka u prostoriji za vrijeme vrućih ljetnih dana, a ujedno nudi i mogućnost dogrijavanja u prijelaznim razdobljima. Pozlaćene lamele isparivača i kondenzatora učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente.Klima uređaj radi potpuno automatski i nudi svojim mikroprocesorskim reguliranjem veliki broj opcija: Održavanje 8°C u prostoru, Timer, Slijedi me, 5 brzina ventilatora vanjske jedinice, Noćni način rada...Upravljanje uređaja omogućeno je pomoću infracrvenog daljinskog upravljača. Moguća je i ugradnja WiFi modula (ovaj odlični dodatak omogućuje upravljanje i podešavanje funkcija klima uređaja putem posebne aplikacije na vašem pametnom telefonu ili tabletu). - saznajte više informacija o funkcijama daljinskog upravljačaSavjet za uštedu! Načini rada ventilacija i odvlaživanje mogu se odabrati čak i kada je funkcija hlađenja deaktivirana. Tako se klima uređaj Hyundai Performance Inverter Plus može upotrebljavati čitave godine kako bi se postigla ugodna i zdrava klima u stambenom prostoru - uz istovremenu uštedu energije. Time se dodatno smanjuje potrošnja energije ovog ionako štedljivog uređaja, zbog čega nećete morati kupiti zaseban odvlaživač zraka niti ventilator.Više vremena za ono bitno! Namješteni radni parametri kao što su način rada uređaja, ciljana temperatura i snaga ventilacije ostaju pohranjeni i nakon gašenja uređaja te se automatski preuzimaju pri sljedećem uključenju.Klima uređaj Hyundai Performance Inverter Plus 7.0 kW sastoji se od unutarnje jedinice oznake HRH-24BMV, vanjske jedinice HRO-24BMV i infracrvenog daljinskog upravljača. - saznajte više o Hyundai Performance Inverter seriji klima uređaja.',
+    brand: 'Hyundai',
+    category: 'Mono klima uređaj',
+    price: 9500.0,
+    onSale: false,
+    sale: 0,
+    coldEff: 7.0,
+    warmEff: 7.3,
+    energyClass: 'A++',
+    sizeOfRoom: '66-75',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+
+
+  { 
+    name: 'Hyundai Premium UV Inverter 2.6 kW',
+    sifraProizvoda: 'HRH-09UVMV/HRO-09UVMV',
+    image:
+      '/images/Hyundai/HyundaiPremiumUVInverter2.6kW-HRH-09UVMVHRO-09UVMV/2-60db35a811bc3_60db5eb243508,/images/Hyundai/HyundaiPremiumUVInverter2.6kW-HRH-09UVMVHRO-09UVMV/uvmv-premium-uv-inverter-1-60dc0d19b7e87_60f83581cc33a,/images/HyundaiPremiumUVInverter2.6kW-HRH-09UVMVHRO-09UVMV/5-60db35a86340b_60db5eb309783',
+    description:
+      'Klimatizacija.hr od 01.06.2020 omogućila je dodatnu pogodnost za zidne Hyundai klima uređaje stambene serije. Osim osnovne garancije u trajanju od 3 godine, pružamo pogodnost dodatne 2 godine produljenog jamstva. Na ovaj način osiguravate si ukupno 5 godina garancije na cijeli uređaj i 10 godina na kompresor. Više o ovoj posebnoj pogodnosti pročitajte ovdje.Top model Hyundai klima uređaja koji oduševljava ponudom i inovativnim rješenjima. Odlikuje ga tihi rad, mala potrošnja električne energije i vrhunska obrada zraka. Hyundai Premium UV Inverter rashladiti će svaku prostoriju i za vrijeme iznimnih vrućina, ali se također predstavlja i kao ozbiljan kandidat za grijanje i/ili dogrijavanje u hladnim zimskim mjesecima. Naravno, ova serija koristi ekološki prihvatljiv rashladni medij R32 koji pomaže pri očuvanju okoliša.Ukoliko vas zanima pouzdano i štedljivo hlađenje, ovaj klima uređaj pravi je izbor za vas, jer s energetskom učinkovitošću u hlađenju SEER 8.8, najvišim energetskim razredom A+++ i snagom od 2.6 kW, predstavlja idealan odabir za prostorije do 25 m². No, osim pouzdanog hlađenja, kao jedan od rijetkih klima uređaja na tržištu sa energetskom učinkovitošću u grijanju SCOP 4.6 pripada razredu A++, što ga svrstava u sami vrh izbora klima uređaja za potrebe grijanja. Bez brige možete računati na grijanje i/ili dogrijavanje tokom cijele zime i najhladnijih dana, jer ovaj model dolazi s dodatnim grijačima u vanjskoj jedinici. Oni će se pobrinuti da kompresor ispravno radi i da se kondenzat u kadici ne smrzava. Na ovaj se način osigurava ispravno grijanje i dodatno smanjuje potrošnja energije.Pouzdanost rada dodatno osiguravaju pozlaćene lamele isparivača i kondenzatora koje učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente.Ono što ovaj klima uređaj čini top Hyundai modelom, uz već navedeno, je definitivno vrhunska filtracija zraka. Najnovija na tržištu, UV lampa ugrađena u ovaj model pruža nešto što se do sada nije moglo naći u ponudi, a dolazi kao odgovor na sve zahtjevnije situacije poput pandemije COVID-19. UV lampa, odnosno ultraljubičasta lampa, dobro je poznato i efikasno rješenje za sterilizaciju u brojnim industrijama i vrstama poslovanja, a od sada i u vašem klima uređaju. Neutralizira viruse, bakterije i gljivice (plijesan) te nadopunjuje već postojeću filtraciju. Uz efikasan filter visoke gustoće koji će se pobrinuti za većinu prašine i peludi tu je i dodatni kompleksni sistem filtracije. Ovaj iznimni sistem sastoji se od filtera s aktivnim ugljikom, vitaminom C, hladnim katalizatorom i ionima srebra. Zajedno pružaju visoku razinu zaštite i kvalitete zraka i pomažu u prevenciji bolesti dišnih puteva, alergija i neugodnih mirisa.Klima uređaj radi potpuno automatski i svojim mikroprocesorskim reguliranjem nudi veliki broj funkcija: Održavanje 8°C u prostoru, Timer, Slijedi me, 5 brzina ventilatora vanjske jedinice, Noćni način rada, Automatski restart, 3D protok zraka i brojne druge... Upravljanje uređaja omogućeno je pomoću infracrvenog daljinskog upravljača i WiFi modula (ovaj odlični dodatak omogućuje upravljanje i podešavanje funkcija klima uređaja putem posebne aplikacije na vašem pametnom telefonu ili tabletu) koji su uključeni u cijenu proizvoda.Klima uređaj Hyundai Premium UV Inverter 2.6 kW sastoji se od unutarnje jedinice oznake HRH-09UVMV, vanjske jedinice HRO-09UVMV, infracrvenog daljinskog upravljača i WiFi upravljačkog modula. – saznajte više o Hyundai Premium UV Inverter seriji klima uređaja.',
+    brand: 'Hyundai',
+    category: 'Mono klima uređaj',
+    price: 5300.0,
+    onSale: false,
+    sale: 0,
+    coldEff: 2.6,
+    warmEff: 2.9,
+    energyClass: 'A+++',
+    sizeOfRoom: '16-25',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+
+
+  { 
+    name: 'Hyundai Premium UV Inverter 3.5 kW',
+    sifraProizvoda: 'HRH-12UVMV/HRO-12UVMV',
+    image:
+      '/images/Hyundai/HyundaiPremiumUVInverter3.5kW-HRH-12UVMVHRO-12UVMV/2-60db35a811bc3_60db5a7b3a747,/images/Hyundai/HyundaiPremiumUVInverter3.5kW-HRH-12UVMVHRO-12UVMV/3-60db35a83470e_60db5a7b80ae5,/images/HyundaiPremiumUVInverter3.5kW-HRH-12UVMVHRO-12UVMV/5-60db35a86340b_60db5a7c2fad8',
+    description:
+      'Klimatizacija.hr od 01.06.2020 omogućila je dodatnu pogodnost za zidne Hyundai klima uređaje stambene serije. Osim osnovne garancije u trajanju od 3 godine, pružamo pogodnost dodatne 2 godine produljenog jamstva. Na ovaj način osiguravate si ukupno 5 godina garancije na cijeli uređaj i 10 godina na kompresor. Više o ovoj posebnoj pogodnosti pročitajte ovdje.Top model Hyundai klima uređaja koji oduševljava ponudom i inovativnim rješenjima. Odlikuje ga tihi rad, mala potrošnja električne energije i vrhunska obrada zraka. Hyundai Premium UV Inverter rashladiti će svaku prostoriju i za vrijeme iznimnih vrućina, ali se također predstavlja i kao ozbiljan kandidat za grijanje i/ili dogrijavanje u hladnim zimskim mjesecima. Naravno, ova serija koristi ekološki prihvatljiv rashladni medij R32 koji pomaže pri očuvanju okoliša.Ukoliko vas zanima pouzdano i štedljivo hlađenje, ovaj klima uređaj pravi je izbor za vas, jer s energetskom učinkovitošću u hlađenju SEER 8.5, najvišim energetskim razredom A+++ i snagom od 3.5 kW, predstavlja idealan odabir za prostorije do 35 m². No, osim pouzdanog hlađenja, kao jedan od rijetkih klima uređaja na tržištu sa energetskom učinkovitošću u grijanju SCOP 4.6 pripada razredu A++, što ga svrstava u sami vrh izbora klima uređaja za potrebe grijanja. Bez brige možete računati na grijanje i/ili dogrijavanje tokom cijele zime i najhladnijih dana, jer ovaj model dolazi s dodatnim grijačima u vanjskoj jedinici. Oni će se pobrinuti da kompresor ispravno radi i da se kondenzat u kadici ne smrzava. Na ovaj se način osigurava ispravno grijanje i dodatno smanjuje potrošnja energije.Pouzdanost rada dodatno osiguravaju pozlaćene lamele isparivača i kondenzatora koje učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente.Ono što ovaj klima uređaj čini top Hyundai modelom, uz već navedeno, je definitivno vrhunska filtracija zraka. Najnovija na tržištu, UV lampa ugrađena u ovaj model pruža nešto što se do sada nije moglo naći u ponudi, a dolazi kao odgovor na sve zahtjevnije situacije poput pandemije COVID-19. UV lampa, odnosno ultraljubičasta lampa, dobro je poznato i efikasno rješenje za sterilizaciju u brojnim industrijama i vrstama poslovanja, a od sada i u vašem klima uređaju. Neutralizira viruse, bakterije i gljivice (plijesan) te nadopunjuje već postojeću filtraciju. Uz efikasan filter visoke gustoće koji će se pobrinuti za većinu prašine i peludi tu je i dodatni kompleksni sistem filtracije. Ovaj iznimni sistem sastoji se od filtera s aktivnim ugljikom, vitaminom C, hladnim katalizatorom i ionima srebra. Zajedno pružaju visoku razinu zaštite i kvalitete zraka i pomažu u prevenciji bolesti dišnih puteva, alergija i neugodnih mirisa.Klima uređaj radi potpuno automatski i svojim mikroprocesorskim reguliranjem nudi veliki broj funkcija: Održavanje 8°C u prostoru, Timer, Slijedi me, 5 brzina ventilatora vanjske jedinice, Noćni način rada, Automatski restart, 3D protok zraka i brojne druge... Upravljanje uređaja omogućeno je pomoću infracrvenog daljinskog upravljača i WiFi modula (ovaj odlični dodatak omogućuje upravljanje i podešavanje funkcija klima uređaja putem posebne aplikacije na vašem pametnom telefonu ili tabletu) koji su uključeni u cijenu proizvoda.Klima uređaj Hyundai Premium UV Inverter 3.5 kW sastoji se od unutarnje jedinice oznake HRH-12UVMV, vanjske jedinice HRO-12UVMV, infracrvenog daljinskog upravljača i WiFi upravljačkog modula. – saznajte više o Hyundai Premium UV Inverter seriji klima uređaja.',
+    brand: 'Hyundai',
+    category: 'Mono klima uređaj',
+    price: 5900.0,
+    onSale: false,
+    sale: 0,
+    coldEff: 3.5,
+    warmEff: 3.8,
+    energyClass: 'A+++',
+    sizeOfRoom: '26-35',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+
+
+  { 
+    name: 'Hyundai Super Inverter 2.6 kW',
+    sifraProizvoda: 'HRH-09PMV1/HRO-09PMV1',
+    image:
+      '/images/Hyundai/HyundaiSuperInverter2.6kW-HRH-09PMV1HRO-09PMV1/hyundai-1-600ecdcab1cc1_60100f309c9bf,/images/Hyundai/HyundaiSuperInverter2.6kW-HRH-09PMV1HRO-09PMV1/pmv-5cf764102b4db_60100f30c72dd,/images/HyundaiSuperInverter2.6kW-HRH-09PMV1HRO-09PMV1/3-600ecc85d15b4_60100f310b2de',
+    description:
+      'Klimatizacija.hr od 01.06.2020 omogućila je dodatnu pogodnost za zidne Hyundai klima uređaje stambene serije. Osim osnovne garancije u trajanju od 3 godine, pružamo pogodnost dodatne 2 godine produljenog jamstva. Na ovaj način osiguravate si ukupno 5 godina garancije na cijeli uređaj i 10 godina na kompresor. Više o ovoj posebnoj pogodnosti pročitajte ovdje.Vrhunski model Hyundai klima uređaja koji oduševljava iznimnim karakteristikama. Uz tihi rad i malenu potrošnju električne energije, Hyundai Super Inverter HRH-09PMV1/HRO-09PMV1 predstavlja se i kao ozbiljan kandidat za grijanje u hladnim zimskim mjesecima. Naravno, ova serija koristi ekološki prihvatljiv rashladni medij R32 koji pomaže pri očuvanju okoliša.Energetskom učinkovitošću u hlađenju SEER 8.8, najvišim razredom A+++ i snagom od 2.6 kW hladi svaki prostor veličine do 25 m² iznimno lako i štedljivo. No, osim pouzdanog hlađenja, kao jedan od rijetkih klima uređaja na tržištu sa energetskom učinkovitošću u grijanju SCOP 4.6 pripada razredu A++, što ga svrstava u sami vrh izbora klima uređaja za potrebe grijanja. Tu su naravno i pozlaćene lamele isparivača i kondenzatora koje učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente. Bez brige možete računati na grijanje tokom cijele zime i najhladnijih dana jer ovaj model dolazi s dodatnim grijačima u vanjskoj jedinici. Oni će se pobrinuti da kompresor ispravno radi i da se kondenzat u kadici ne smrzava. Na ovaj se način osigurava ispravno grijanje i smanjuje potrošnja energije.Kako bi opravdala poziciju top modela Hyundai klima uređaja, Super Inverter serija dolazi i sa top filtracijom. Uz efikasan filter visoke gustoće koji će se pobrinuti za većinu prašine i peludi nudi i dodatni kompleksni sistem filtracije. Ovaj iznimni sistem sastoji se od filtera sa aktivnim ugljikom, vitaminom C, hladnim katalizatorom i ionima srebra. Zajedno pružaju visoku razinu zaštite i kvalitete zraka i pomažu u prevenciji bolesti dišnih puteva, alergija i neugodnih mirisa.Klima uređaj radi potpuno automatski i nudi svojim mikroprocesorskim reguliranjem veliki broj opcija: Održavanje 8°C u prostoru, Timer, Slijedi me, 5 brzina ventilatora vanjske jedinice, Noćni način rada, Automatski restart, 3D protok zraka...Upravljanje uređaja omogućeno je pomoću infracrvenog daljinskog upravljača i WiFi modula (ovaj odlični dodatak omogućuje upravljanje i podešavanje funkcija klima uređaja putem posebne aplikacije na vašem pametnom telefonu ili tabletu) koji su uključeni u cijenu proizvoda. - saznajte više informacija o funkcijama daljinskog upravljačaBrzo i jednostavno! Zahvaljujući All Easy sistemu, instaliranje i održavanje klima uređaja nikad nije bilo brže i jednostavnije.Klima uređaj Hyundai Super Inverter 2.6 kW sastoji se od unutarnje jedinice oznake HRH-09PMV1, vanjske jedinice HRO-09PMV1, infracrvenog daljinskog upravljača i WiFi upravljačkog modula. – saznajte više o Hyundai Super Inverter seriji klima uređaja.',
+    brand: 'Hyundai',
+    category: 'Mono klima uređaj',
+    price: 5000.0,
+    onSale: false,
+    sale: 0,
+    coldEff: 2.6,
+    warmEff: 2.9,
+    energyClass: 'A+++',
+    sizeOfRoom: '16-25',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+
+  { 
+    name: 'Hyundai Super Inverter 3.5 kW',
+    sifraProizvoda: 'HRH-12PMV1/HRO-12PMV1',
+    image:
+      '/images/Hyundai/HyundaiSuperInverter3.5kW-HRH-12PMV1HRO-12PMV1/hyundai-1-600ecdcab1cc1_60100f318b7b4,/images/Hyundai/HyundaiSuperInverter3.5kW-HRH-12PMV1HRO-12PMV1/pmv-5cf764102b4db_60100f31ae504,/images/HyundaiSuperInverter3.5kW-HRH-12PMV1HRO-12PMV1/3-600ecc85d15b4_60100f31e29bb',
+    description:
+      'Klimatizacija.hr od 01.06.2020 omogućila je dodatnu pogodnost za zidne Hyundai klima uređaje stambene serije. Osim osnovne garancije u trajanju od 3 godine, pružamo pogodnost dodatne 2 godine produljenog jamstva. Na ovaj način osiguravate si ukupno 5 godina garancije na cijeli uređaj i 10 godina na kompresor. Više o ovoj posebnoj pogodnosti pročitajte ovdje.Vrhunski model Hyundai klima uređaja koji oduševljava iznimnim karakteristikama. Uz tihi rad i malenu potrošnju električne energije, Hyundai Super Inverter HRH-12PMV1/HRO-12PMV1 predstavlja se i kao ozbiljan kandidat za grijanje u hladnim zimskim mjesecima. Naravno, ova serija koristi ekološki prihvatljiv rashladni medij R32 koji pomaže pri očuvanju okoliša.Energetskom učinkovitošću u hlađenju SEER 8.5, najvišim razredom A+++ i snagom od 3.5 kW hladi svaki prostor veličine do 35 m² iznimno lako i štedljivo. No, osim pouzdanog hlađenja, kao jedan od rijetkih klima uređaja na tržištu sa energetskom učinkovitošću u grijanju SCOP 4.6 pripada razredu A++, što ga svrstava u sami vrh izbora klima uređaja za potrebe grijanja. Tu su naravno i pozlaćene lamele isparivača i kondenzatora koje učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente. Bez brige možete računati na grijanje tokom cijele zime i najhladnijih dana jer ovaj model dolazi s dodatnim grijačima u vanjskoj jedinici. Oni će se pobrinuti da kompresor ispravno radi i da se kondenzat u kadici ne smrzava. Na ovaj se način osigurava ispravno grijanje i smanjuje potrošnja energije.Kako bi opravdala poziciju top modela Hyundai klima uređaja, Super Inverter serija dolazi i sa top filtracijom. Uz efikasan filter visoke gustoće koji će se pobrinuti za većinu prašine i peludi nudi i dodatni kompleksni sistem filtracije. Ovaj iznimni sistem sastoji se od filtera sa aktivnim ugljikom, vitaminom C, hladnim katalizatorom i ionima srebra. Zajedno pružaju visoku razinu zaštite i kvalitete zraka i pomažu u prevenciji bolesti dišnih puteva, alergija i neugodnih mirisa.Klima uređaj radi potpuno automatski i nudi svojim mikroprocesorskim reguliranjem veliki broj opcija: Održavanje 8°C u prostoru, Timer, Slijedi me, 5 brzina ventilatora vanjske jedinice, Noćni način rada, Automatski restart, 3D protok zraka...Upravljanje uređaja omogućeno je pomoću infracrvenog daljinskog upravljača i WiFi modula (ovaj odlični dodatak omogućuje upravljanje i podešavanje funkcija klima uređaja putem posebne aplikacije na vašem pametnom telefonu ili tabletu) koji su uključeni u cijenu proizvoda. - saznajte više informacija o funkcijama daljinskog upravljačaBrzo i jednostavno! Zahvaljujući All Easy sistemu, instaliranje i održavanje klima uređaja nikad nije bilo brže i jednostavnije.Klima uređaj Hyundai Super Inverter 3.5 kW sastoji se od unutarnje jedinice oznake HRH-12PMV1, vanjske jedinice HRO-12PMV1, infracrvenog daljinskog upravljača i WiFi upravljačkog modula. – saznajte više o Hyundai Super Inverter seriji klima uređaja.',
+    brand: 'Hyundai',
+    category: 'Mono klima uređaj',
+    price: 5500.0,
+    onSale: false,
+    sale: 0,
+    coldEff: 3.5,
+    warmEff: 3.8,
+    energyClass: 'A+++',
+    sizeOfRoom: '26-35',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
   
 
 
@@ -785,23 +1194,8 @@ const products = [
 
 
 
-  {
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  //QZEN//
 
 
 

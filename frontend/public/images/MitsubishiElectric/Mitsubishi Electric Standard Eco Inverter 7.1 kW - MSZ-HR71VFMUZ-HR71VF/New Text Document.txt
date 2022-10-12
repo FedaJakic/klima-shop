@@ -1,0 +1,46 @@
+Srednji model iz palete uređaja Mitsubishi Electric koristi novi, ekološki prihvatljiv rashladni medij R32 i upravo zahvaljujući njemu i naprednoj inverterskoj tehnologiji spada u uređaje odlične energetske učinkovitosti razreda SEER A++ i SCOP A+. Mitsubishi Electric Standard Eco Inverter MSZ-HR71VF/MUZ-HR71VF odlikuje se jednostavnošću korištenja, kompaktnim dimenzijama i funkcijama nužnim za visoku razinu komfora.
+
+Snagom od 7.1 kW osigurava pouzdano hlađenje i grijanje u prostorima do 75 m², a naprednim filtracijskim sustavom izuzetnu kvalitetu zraka. Zahvaljujući dodatnom filteru sa ionima srebra drastično je smanjena količina peludi, bakterija i drugih alergena.
+
+Za dodatnu ugodu prilikom korištenja tu su automatske horizontalne lamele koje osiguravaju ravnomjernu raspodjelu protoka zraka po prostoriji i Econo Cool funkcija koja prilagođava količinu zraka usmjerenu prema tijelu na temelju temperature izlaznog zraka. Zahvaljujući ovome, temperatura podešavanja može se povisiti za čak 2 °C bez gubitka udobnosti. Na taj način također se postiže i 20% -tni porast energetske učinkovitosti.
+
+
+MSZ-HR71VF/MUZ-HR71VF
+
+
+13.050
+
+Učin hlađenja (kW)
+7,1
+
+Učin grijanja (kW)
+8,1
+a++
+
+66-75
+
+Tehničke karakteristike
+Radna tvar R32
+Raspon rashladnog učina (kW) 1,8 - 7,3
+SEER / Energetski razred HL 7,0 / A++
+God. potrošnja hlađenje (kWh) 355
+Raspon učina grijanja (kW) 1,5 - 9,0
+SCOP / Energetski razred GR 4,3 / A+
+God. potrošnja grijanje (kWh) 1755
+Dimenzije unut. jed (V×Š×D) mm 305×923×262
+Težina unut. jed. (Kg) 12.5
+Razina buke - hlađenje UJ (dBA) 33/50
+Razina buke - grijanje UJ (dBA) 33/50
+Wi-fi Wi-fi ready
+Dodatne opcije Žičani daljinski upravljač
+Dimenzije vanj. jed (V×Š×D) mm 714×800×285
+Težina vanj. jed. (Kg) 40
+Razina buke vanjske jed. (dBA) 53
+Promjer cijevi - tekuć. (mm/") 6,35 (1/4")
+Promjer cijevi - plin (mm/") 12,70 (1/2")
+Maksimalna duljina cijevi (m) 30
+Maksimalna vis. razlika (m) 15
+Napon priključka 230 V / 50 Hz
+Jamstvo 36 mjeseci
+Područje rada - hlađenje (°C) od -10°C do +46°C
+Područje rada - grijanje (°C) od -10°C do +24°C
