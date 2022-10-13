@@ -3684,6 +3684,46 @@ const products = [
 
 
 
+  {
+    name: 'Mitsubishi Electric Comfort Inverter 2.5 kW',
+    sifraProizvoda: 'MSZ-DW25VF/MUZ-DW25VF',
+    image:
+      '/images/MitsubishiElectric/MitsubishiElectricComfortInverter2.5kW/2-3-6299eb01309d2_629a0a86aa415,/images/MitsubishiElectric/MitsubishiElectricComfortInverter2.5kW/3-2-6299eb0163bc4_629a0a8715927,/images/MitsubishiElectric/MitsubishiElectricComfortInverter2.5kW/6-1-6299eb01901ad_629a0a87dfa60',
+    description:
+      'Top model proizvođača Mitsubishi Electric novi je rekorder energetske učinkovitosti i tehnološki lider među klima uređajima na tržištu. Postiže najviše SEER i SCOP koeficijente A+++ i dobitnik je nagrade „Good Design Award“ za svoj moderan i sofisticiran dizajn koji dolazi u četiri specijalno odabrane boje. Također, Mitsubishi Electric Kirigamine Style koristi ekološki prihvatljiv rashladni medij R32 koji pomaže pri očuvanju okoliša.Ovaj model snage 5.0 kW idealan je izbor za prostorije veličine do 55 m².Kako bi vam osigurali vrhunsku kvalitetu zraka, modeli ove serije dolaze sa „Plasma Quad Plus“, najmoćnijim filterskim sustavom koji je dostupan za klima uređaje. Pouzdano uklanja 99% štetnih čestica iz 25 m³ zraka u samo 115 minuta. Bakterije, virusi, plijesan, alergeni, PM2.5 čestice i prašina više ne predstavljaju problem. Za pravilnu raspodjelu zraka po prostoriji pobrinule su se četverostruke lamele koje omogućuju dvostruki ispuh, pa čak i na dvije razine prostorije (npr. prizemlje i galerija).Kao top model, Kirigamine Style nudi sve funkcionalnosti ostalih modela Mitsubishi Electric ponude poput: Econo Cool, Tjedni timer, „i save“, Automatska promjena režima rada, Noćni rad, Tihi rad, Auto restart i mnoge druge, ali i neke potpuno nove vrhunske tehnologije i značajke. „3D I-see Senzor“ jedna je od njih. Pomoću infracrvenog senzora otkriva gdje se ljudi nalaze u prostoriji i pritom prilagođava jačinu rada, protok i smjer strujanja zraka kako bi se osigurali najpovoljniji uvjeti. Dvostruki premaz isparivača još je jedan primjer izvrsnosti ove serije. Zahvaljujući tom posebnom premazu osiguralo se smanjenje potrošnje električne energije do dodatnih 18%.Upravljanje uređajem omogućeno je infracrvenim daljinskim upravljačem, već ugrađenim WiFi sučeljem i dodatnim opcionalnim žičanim upravljačkim sučeljem koje se prodaje zasebno.',
+    brand: 'Mitsubishi Electric',
+    category: 'Mono klima uređaj',
+    price: 4.668,
+    onSale: false,
+    sale: 0,
+    coldEff: 2.5,
+    warmEff: 3.15,
+    energyClass: 'A++',
+    sizeOfRoom: '16 - 25',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+
+
 
 
 
