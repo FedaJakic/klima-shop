@@ -1,0 +1,35 @@
+
+
+RAS-B10N4KVRG-E/RAS-10J2AVSG-E
+
+8800
+
+hladenje 2.5
+grijanje 3.2
+
+a+++
+16-25
+
+Tehničke karakteristike
+Radna tvar R32
+Raspon rashladnog učina (kW) 0,9 - 3,2
+SEER / Energetski razred HL 8,6 / A+++
+Raspon učina grijanja (kW) 0,9 - 4,7
+SCOP / Energetski razred GR 5,1 / A+++
+Dimenzije unut. jed (V×Š×D) mm 300×987×210
+Težina unut. jed. (Kg) 11
+Razina buke - hlađenje UJ (dBA) 19/41
+Razina buke - grijanje UJ (dBA) 19/41
+Wi-fi Wi-fi ugrađen
+Ionizator zraka Da
+Dimenzije vanj. jed (V×Š×D) mm 550×780×290
+Težina vanj. jed. (Kg) 26
+Razina buke vanjske jed. (dBA) 44
+Promjer cijevi - tekuć. (mm/") 6,35 (1/4")
+Promjer cijevi - plin (mm/") 9,52 (3/8")
+Maksimalna duljina cijevi (m) 20
+Maksimalna vis. razlika (m) 12
+Napon priključka 230 V / 50 Hz
+Jamstvo 36 mjeseci
+Područje rada - hlađenje (°C) od -15°C do +46°C
+Područje rada - grijanje (°C) od -15°C do +24°C

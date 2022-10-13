@@ -1,0 +1,22 @@
+Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)
+
+RAV-RM561KRTP-E/RAV-GP561ATP-E
+
+16900
+
+hladenje 5.3
+grijanje 5.6
+
+Tehničke karakteristike
+Radna tvar R32
+Dimenzije unut. jed (V×Š×D) mm 320×1050×228
+Težina unut. jed. (Kg) 12
+Dodatne opcije Žičani daljinski upravljač
+Dimenzije vanj. jed (V×Š×D) mm 630×799×299
+Težina vanj. jed. (Kg) 45
+Promjer cijevi - tekuć. (mm/") 6,35 (1/4")
+Promjer cijevi - plin (mm/") 12,70 (1/2")
+Maksimalna duljina cijevi (m) 50
+Maksimalna vis. razlika (m) 30
+Napon priključka 230 V / 50 Hz
+Jamstvo 36 mjeseci

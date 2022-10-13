@@ -1,0 +1,21 @@
+Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)
+
+RAV-RM801KRTP-E/RAV-GP801AT-E
+
+20600
+hladenje 7.1
+grijanje 8.0
+
+Tehničke karakteristike
+Radna tvar R32
+Dimenzije unut. jed (V×Š×D) mm 320×1050×228
+Težina unut. jed. (Kg) 12
+Dodatne opcije Žičani daljinski upravljač
+Dimenzije vanj. jed (V×Š×D) mm 1050×1010×370
+Težina vanj. jed. (Kg) 74
+Promjer cijevi - tekuć. (mm/") 9,52 (3/8")
+Promjer cijevi - plin (mm/") 15,88 (5/8")
+Maksimalna duljina cijevi (m) 50
+Maksimalna vis. razlika (m) 30
+Napon priključka 230 V / 50 Hz
+Jamstvo 36 mjeseci

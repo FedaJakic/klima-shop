@@ -1,0 +1,35 @@
+
+
+RAS-B24J2KVSG-E/RAS-24J2AVSG-E
+
+15200
+
+hladenje 7.0
+grijanje 8.0
+
+a++
+66-75
+
+Tehničke karakteristike
+Radna tvar R32
+Raspon rashladnog učina (kW) 1,7 - 7,7
+SEER / Energetski razred HL 6,3 / A++
+Raspon učina grijanja (kW) 1,7 - 8,8
+SCOP / Energetski razred GR 4,1 / A+
+Dimenzije unut. jed (V×Š×D) mm 320×1053×245
+Težina unut. jed. (Kg) 14
+Razina buke - hlađenje UJ (dBA) 28/47
+Razina buke - grijanje UJ (dBA) 28/48
+Wi-fi Wi-fi ready
+Dodatne opcije Žičani daljinski upravljač
+Dimenzije vanj. jed (V×Š×D) mm 630×800×300
+Težina vanj. jed. (Kg) 42
+Razina buke vanjske jed. (dBA) 50
+Promjer cijevi - tekuć. (mm/") 6,35 (1/4")
+Promjer cijevi - plin (mm/") 12,70 (1/2")
+Maksimalna duljina cijevi (m) 25
+Maksimalna vis. razlika (m) 15
+Napon priključka 230 V / 50 Hz
+Jamstvo 36 mjeseci
+Područje rada - hlađenje (°C) od -15°C do +46°C
+Područje rada - grijanje (°C) od -15°C do +24°C

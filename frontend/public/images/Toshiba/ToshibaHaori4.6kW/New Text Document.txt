@@ -1,0 +1,36 @@
+
+
+RAS-B16N4KVRG-E/RAS-16J2AVSG-E
+
+
+11500
+
+hladenje 4.6
+grijanje 5.5
+
+a++
+36-45
+
+Tehničke karakteristike
+Radna tvar R32
+Raspon rashladnog učina (kW) 1,2 - 5,3
+SEER / Energetski razred HL 7,8 / A++
+Raspon učina grijanja (kW) 1,1 - 6,3
+SCOP / Energetski razred GR 4,6 / A++
+Dimenzije unut. jed (V×Š×D) mm 300×987×210
+Težina unut. jed. (Kg) 12
+Razina buke - hlađenje UJ (dBA) 21/45
+Razina buke - grijanje UJ (dBA) 22/45
+Wi-fi Wi-fi ugrađen
+Ionizator zraka Da
+Dimenzije vanj. jed (V×Š×D) mm 550×780×290
+Težina vanj. jed. (Kg) 33
+Razina buke vanjske jed. (dBA) 48
+Promjer cijevi - tekuć. (mm/") 6,35 (1/4")
+Promjer cijevi - plin (mm/") 12,70 (1/2")
+Maksimalna duljina cijevi (m) 20
+Maksimalna vis. razlika (m) 12
+Napon priključka 230 V / 50 Hz
+Jamstvo 36 mjeseci
+Područje rada - hlađenje (°C) od -15°C do +46°C
+Područje rada - grijanje (°C) od -15°C do +24°C
