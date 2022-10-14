@@ -4163,6 +4163,301 @@ const products = [
 
 
 
+  {
+    name: 'Mitsubishi Electric Kirigamine Zen Inverter 4.2 kW crni',
+    sifraProizvoda: 'MSZ-EF42VGKB/MUZ-EF42VG',
+    image:
+      '/images/MitsubishiElectric/MitsubishiElectricKirigamineZenInverter4.2kWcrni/me-ef-25-35-42-crni-5d19bf98c39d7_603ce73897ec2,/images/MitsubishiElectric/MitsubishiElectricKirigamineZenInverter4.2kWcrni/mitsubishi-electric-kirigamine-zen-5a8c2e1540562_603ce738c3d34,/images/MitsubishiElectric/MitsubishiElectricKirigamineZenInverter4.2kWcrni/muz-ef25-35-42-5a8579639b254_603ce7390719b',
+    description:
+      'Napredni model proizvođača Mitsubishi Electric dizajniran je u cijenjenom talijanskom studiju kako bi zadovoljio istančani ukus zahtjevnih korisnika. Dostupan je u tri boje kako bi se idealno uklopio baš u svaki interijer.Zahvaljujući naprednoj inverterskoj tehnologiji, Mitsubishi Electric Kirigamine Zen nalazi se u razredu energetske učinkovitosti A++, a za dodatnu uštedu energije uključena je i nova napredna funkcija “low standby power” kojom je potrošnja energije u stanju pripravnosti smanjena za 90%, odnosno na samo 1W.Snagom od 4.2 kW osigurava upravo željenu klimu u prostorijama do 45 m².Kako bi nesmetano i u svakom trenutku mogli uživati u tihom i pouzdanom radu vašeg klima uređaja, tu su dodatne funkcije poput: Tihi rad, Tjedni timer, Automatski restart, Automatska promjena režima rada, “i save”, Samodijagnoza i WiFi sučelje za bežičnu kontrolu klima uređaja putem MEL Cloud aplikacije na vašem računalu, tabletu ili pametnom telefonu. Lako upravljanje omogućeno je infracrvenim daljinskim upravljačem i dodatnim opcionalnim rješenjima koja se prodaju zasebno: WiFi sučelje za bežičnu kontrolu klima uređaja putem MEL Cloud aplikacije na vašem računalu, tabletu ili pametnom telefonu žičano upravljačko sučelje s proširenim mogućnostima kontrole Uz pouzdano hlađenje i grijanje, najvažnija značajka kod klima uređaja svakako mora biti i podizanje kvalitete zraka i njegova ravnomjerna raspodjela u prostoriji. Upravo zato Kirigamine Zen serija dolazi s naprednom filtracijom, automatskim horizontalnim lamelama ispuha zraka i Econo Cool funkcijom koja prilagođava količinu zraka usmjerenu prema tijelu na temelju temperature izlaznog zraka -na taj način također se postiže i 20% -tni porast energetske učinkovitosti. Također, moramo napomenuti da uz standardnu filtraciju Kirigamine Zen dolazi i s dodatnim filterom s ionima srebra i naprednim Nano Platinum Filterom koji zahvaljujući svojoj 3D površini iznimno učinkovito filtrira neželjene čestice i neugodne mirise.',
+    brand: 'Mitsubishi Electric',
+    category: 'Mono klima uređaj',
+    price: 14.760,
+    onSale: false,
+    sale: 0,
+    coldEff: 4.2,
+    warmEff: 5.4,
+    energyClass: 'A++',
+    sizeOfRoom: '36 - 45',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+
+
+
+  {
+    name: 'Mitsubishi Electric Kirigamine Zen Inverter 4.2 kW srebrni',
+    sifraProizvoda: 'MSZ-EF42VGKS/MUZ-EF42VG',
+    image:
+      '/images/MitsubishiElectric/MitsubishiElectricKirigamineZenInverter4.2kWsrebrni/me-ef-25-35-42-srebrni-5d19c183c2875_603ce73abd15f,/images/MitsubishiElectric/MitsubishiElectricKirigamineZenInverter4.2kWsrebrni/msz-ef25ve2s-kiri-rifl-5a8d21d941e15_603ce73aece35,/images/MitsubishiElectric/MitsubishiElectricKirigamineZenInverter4.2kWsrebrni/muz-ef25-35-42-5a8579639b254_603ce73b1ae07',
+    description:
+      'Napredni model proizvođača Mitsubishi Electric dizajniran je u cijenjenom talijanskom studiju kako bi zadovoljio istančani ukus zahtjevnih korisnika. Dostupan je u tri boje kako bi se idealno uklopio baš u svaki interijer.Zahvaljujući naprednoj inverterskoj tehnologiji, Mitsubishi Electric Kirigamine Zen nalazi se u razredu energetske učinkovitosti A++, a za dodatnu uštedu energije uključena je i nova napredna funkcija “low standby power” kojom je potrošnja energije u stanju pripravnosti smanjena za 90%, odnosno na samo 1W.Snagom od 4.2 kW osigurava upravo željenu klimu u prostorijama do 45 m².Kako bi nesmetano i u svakom trenutku mogli uživati u tihom i pouzdanom radu vašeg klima uređaja, tu su dodatne funkcije poput: Tihi rad, Tjedni timer, Automatski restart, Automatska promjena režima rada, “i save”, Samodijagnoza i WiFi sučelje za bežičnu kontrolu klima uređaja putem MEL Cloud aplikacije na vašem računalu, tabletu ili pametnom telefonu. Lako upravljanje omogućeno je infracrvenim daljinskim upravljačem i dodatnim opcionalnim rješenjima koja se prodaju zasebno: WiFi sučelje za bežičnu kontrolu klima uređaja putem MEL Cloud aplikacije na vašem računalu, tabletu ili pametnom telefonu žičano upravljačko sučelje s proširenim mogućnostima kontrole Uz pouzdano hlađenje i grijanje, najvažnija značajka kod klima uređaja svakako mora biti i podizanje kvalitete zraka i njegova ravnomjerna raspodjela u prostoriji. Upravo zato Kirigamine Zen serija dolazi s naprednom filtracijom, automatskim horizontalnim lamelama ispuha zraka i Econo Cool funkcijom koja prilagođava količinu zraka usmjerenu prema tijelu na temelju temperature izlaznog zraka -na taj način također se postiže i 20% -tni porast energetske učinkovitosti. Također, moramo napomenuti da uz standardnu filtraciju Kirigamine Zen dolazi i s dodatnim filterom s ionima srebra i naprednim Nano Platinum Filterom koji zahvaljujući svojoj 3D površini iznimno učinkovito filtrira neželjene čestice i neugodne mirise.',
+    brand: 'Mitsubishi Electric',
+    category: 'Mono klima uređaj',
+    price: 15.142,
+    onSale: false,
+    sale: 0,
+    coldEff: 4.2,
+    warmEff: 5.4,
+    energyClass: 'A++',
+    sizeOfRoom: '36 - 45',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+
+
+
+
+  {
+    name: 'Mitsubishi Electric Kirigamine Zen Inverter 5.0 kW crni',
+    sifraProizvoda: 'MSZ-EF50VGKB/MUZ-EF50VG',
+    image:
+      '/images/MitsubishiElectric/MitsubishiElectricKirigamineZenInverter5.0kWcrni/me-ef-50-crni-5d19c04ead952_603cf54a9d520,/images/MitsubishiElectric/MitsubishiElectricKirigamineZenInverter5.0kWcrni/mitsubishi-electric-kirigamine-zen-5a8c2e1540562_603cf54ac1af3,/images/MitsubishiElectric/MitsubishiElectricKirigamineZenInverter5.0kWcrni/ef50-5a8c11b16e391_603cf54ae2bef',
+    description:
+      'Napredni model proizvođača Mitsubishi Electric dizajniran je u cijenjenom talijanskom studiju kako bi zadovoljio istančani ukus zahtjevnih korisnika. Dostupan je u tri boje kako bi se idealno uklopio baš u svaki interijer.Zahvaljujući naprednoj inverterskoj tehnologiji, Mitsubishi Electric Kirigamine Zen nalazi se u razredu energetske učinkovitosti A++, a za dodatnu uštedu energije uključena je i nova napredna funkcija “low standby power” kojom je potrošnja energije u stanju pripravnosti smanjena za 90%, odnosno na samo 1W.Snagom od 5.0 kW osigurava upravo željenu klimu u prostorijama do 55 m².Kako bi nesmetano i u svakom trenutku mogli uživati u tihom i pouzdanom radu vašeg klima uređaja, tu su dodatne funkcije poput: Tihi rad, Tjedni timer, Automatski restart, Automatska promjena režima rada, “i save”, Samodijagnoza i WiFi sučelje za bežičnu kontrolu klima uređaja putem MEL Cloud aplikacije na vašem računalu, tabletu ili pametnom telefonu. Lako upravljanje omogućeno je infracrvenim daljinskim upravljačem i dodatnim opcionalnim rješenjima koja se prodaju zasebno: žičano upravljačko sučelje s proširenim mogućnostima kontrole Uz pouzdano hlađenje i grijanje, najvažnija značajka kod klima uređaja svakako mora biti i podizanje kvalitete zraka i njegova ravnomjerna raspodjela u prostoriji. Upravo zato Kirigamine Zen serija dolazi s naprednom filtracijom, automatskim horizontalnim lamelama ispuha zraka i Econo Cool funkcijom koja prilagođava količinu zraka usmjerenu prema tijelu na temelju temperature izlaznog zraka -na taj način također se postiže i 20% -tni porast energetske učinkovitosti. Također, moramo napomenuti da uz standardnu filtraciju Kirigamine Zen dolazi i s dodatnim filterom s ionima srebra i naprednim Nano Platinum Filterom koji zahvaljujući svojoj 3D površini iznimno učinkovito filtrira neželjene čestice i neugodne mirise.',
+    brand: 'Mitsubishi Electric',
+    category: 'Mono klima uređaj',
+    price: 18.067,
+    onSale: false,
+    sale: 0,
+    coldEff: 5.0,
+    warmEff: 5.8,
+    energyClass: 'A++',
+    sizeOfRoom: '46 - 55',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+
+
+
+  {
+    name: 'Mitsubishi Electric Kirigamine Zen Inverter 5.0 kW srebrni',
+    sifraProizvoda: 'MSZ-EF50VGKS/MUZ-EF50VG',
+    image:
+      '/images/MitsubishiElectric/MitsubishiElectricKirigamineZenInverter5.0kWsrebrni/me-ef-50-srebrni-5d19c23ea0cf2_603cf54ddacfd,/images/MitsubishiElectric/MitsubishiElectricKirigamineZenInverter5.0kWsrebrni/msz-ef25ve2s-kiri-rifl-5a8d21d941e15_603cf54e1da94,/images/MitsubishiElectric/MitsubishiElectricKirigamineZenInverter5.0kWsrebrni/ef50-5a8c11b16e391_603cf54e57b1f',
+    description:
+      'Napredni model proizvođača Mitsubishi Electric dizajniran je u cijenjenom talijanskom studiju kako bi zadovoljio istančani ukus zahtjevnih korisnika. Dostupan je u tri boje kako bi se idealno uklopio baš u svaki interijer.Zahvaljujući naprednoj inverterskoj tehnologiji, Mitsubishi Electric Kirigamine Zen nalazi se u razredu energetske učinkovitosti A++, a za dodatnu uštedu energije uključena je i nova napredna funkcija “low standby power” kojom je potrošnja energije u stanju pripravnosti smanjena za 90%, odnosno na samo 1W.Snagom od 5.0 kW osigurava upravo željenu klimu u prostorijama do 55 m².Kako bi nesmetano i u svakom trenutku mogli uživati u tihom i pouzdanom radu vašeg klima uređaja, tu su dodatne funkcije poput: Tihi rad, Tjedni timer, Automatski restart, Automatska promjena režima rada, “i save”, Samodijagnoza i WiFi sučelje za bežičnu kontrolu klima uređaja putem MEL Cloud aplikacije na vašem računalu, tabletu ili pametnom telefonu. Lako upravljanje omogućeno je infracrvenim daljinskim upravljačem i dodatnim opcionalnim rješenjima koja se prodaju zasebno: žičano upravljačko sučelje s proširenim mogućnostima kontrole Uz pouzdano hlađenje i grijanje, najvažnija značajka kod klima uređaja svakako mora biti i podizanje kvalitete zraka i njegova ravnomjerna raspodjela u prostoriji. Upravo zato Kirigamine Zen serija dolazi s naprednom filtracijom, automatskim horizontalnim lamelama ispuha zraka i Econo Cool funkcijom koja prilagođava količinu zraka usmjerenu prema tijelu na temelju temperature izlaznog zraka -na taj način također se postiže i 20% -tni porast energetske učinkovitosti. Također, moramo napomenuti da uz standardnu filtraciju Kirigamine Zen dolazi i s dodatnim filterom s ionima srebra i naprednim Nano Platinum Filterom koji zahvaljujući svojoj 3D površini iznimno učinkovito filtrira neželjene čestice i neugodne mirise.',
+    brand: 'Mitsubishi Electric',
+    category: 'Mono klima uređaj',
+    price: 18.405,
+    onSale: false,
+    sale: 0,
+    coldEff: 5.0,
+    warmEff: 5.8,
+    energyClass: 'A++',
+    sizeOfRoom: '46 - 55',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+
+
+
+
+
+
+  {
+    name: 'Mitsubishi Electric Power Inverter 3.6 kW zidna',
+    sifraProizvoda: 'PKA-M35HAL/PUZ-ZM35VKA',
+    image:
+      '/images/MitsubishiElectric/MitsubishiElectricPowerInverter3.6kWzidna/1-5f3a52c923c29_5f3a6a04242ba,/images/MitsubishiElectric/MitsubishiElectricPowerInverter3.6kWzidna/3-5f3a52c968b29_5f3a6a045a77f,/images/MitsubishiElectric/MitsubishiElectricPowerInverter3.6kWzidna/2-5f3a52c943966_5f3a6a048868b',
+    description:
+      'Ova jedinica dio je serije koja svojim značajkama zadovoljava potrebe najšireg spektra poslovnih prostora. Nudi vrlo praktičnu ugradnju, elegantan dizajn i visoku energetsku učinkovitost.Unutarnja jedinica čiste je bijele boje i savršeno ravnog panela koji se s lakoćom uklapa u vaš prostor. Uz postizanje elegantnijeg izgleda, ujedno je olakšano i održavanje. Upravljanje jedinicom jednostavno je korištenjem infracrvenog daljinskog upravljača s brojnim mogućnostima poput: Automatsko ponovno pokretanje, Postavka uštede energije, Timer, Samodijagnostika i Zaključavanje kontrole.U ponudi je također i opcionalni žičani upravljač koji dodatno proširuje izbor mjesta ugradnje i kontrole.Dodatna fleksibilnost instalacije povećana je mogućnošću korištenja opcionalne pumpe za odvod kondenzata, koji je moguć do visine od čak 800 mm iznad osnove unutarnje jedinice. Time je povećan stupanj slobode izbora lokacije vašeg klima uređaja.Uz navedene karakteristike, svakako moramo istaknuti one koje ovaj model pozicioniraju ispred konkurencije:Poboljšana kontrola protoka zrakaPuni nazivni kapacitet grijanja do -3 °CMaksimalna duljina cijevi do 50mJednostavna i uredna ugradnja za postizanje što boljeg vizualnog dojmaKao jedna od najbitnijih stavki kod izbora idealnog klima uređaja za vaš poslovni prostor, energetska efikasnost te time i dugoročna isplativost samog uređaja, dodatno je unaprijeđena. Korištenjem najnovijeg rashladnog medija R32 postigao se energetski rezultat razreda čak A++, što je i više nego odlična ocjena za klima uređaj poslovnog segmenta, pogotovo ako se u obzir uzmu strogi zahtjevi i dugoročna pouzdanost koju ovaj model nudi.',
+    brand: 'Mitsubishi Electric',
+    category: 'Mono klima uređaj',
+    price: 21622,
+    onSale: false,
+    sale: 0,
+    coldEff: 3.6,
+    warmEff: 4.1,
+    energyClass: 'A++',
+    sizeOfRoom: '??',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+
+
+
+
+
+  {
+    name: 'Mitsubishi Electric Kirigamine Zen Inverter 5.0 kW bijeli',
+    sifraProizvoda: 'MSZ-EF50VGKW/MUZ-EF50VG',
+    image:
+      '/images/MitsubishiElectric/MitsubishiElectricKirigamineZenInverter5.0kWbijeli/me-ef-50-bijeli-5d19c14a2f260_603cf548328cf,/images/MitsubishiElectric/MitsubishiElectricKirigamineZenInverter5.0kWbijeli/msz-ef25ve2w-5a8c02875a8e0_603cf54875534,/images/MitsubishiElectric/MitsubishiElectricKirigamineZenInverter5.0kWbijeli/ef50-5a8c11b16e391_603cf548bac02',
+    description:
+      'Napredni model proizvođača Mitsubishi Electric dizajniran je u cijenjenom talijanskom studiju kako bi zadovoljio istančani ukus zahtjevnih korisnika. Dostupan je u tri boje kako bi se idealno uklopio baš u svaki interijer.Zahvaljujući naprednoj inverterskoj tehnologiji, Mitsubishi Electric Kirigamine Zen nalazi se u razredu energetske učinkovitosti A++, a za dodatnu uštedu energije uključena je i nova napredna funkcija “low standby power” kojom je potrošnja energije u stanju pripravnosti smanjena za 90%, odnosno na samo 1W.Snagom od 5.0 kW osigurava upravo željenu klimu u prostorijama do 55 m².Kako bi nesmetano i u svakom trenutku mogli uživati u tihom i pouzdanom radu vašeg klima uređaja, tu su dodatne funkcije poput: Tihi rad, Tjedni timer, Automatski restart, Automatska promjena režima rada, “i save”, Samodijagnoza i WiFi sučelje za bežičnu kontrolu klima uređaja putem MEL Cloud aplikacije na vašem računalu, tabletu ili pametnom telefonu. Lako upravljanje omogućeno je infracrvenim daljinskim upravljačem i dodatnim opcionalnim rješenjima koja se prodaju zasebno: žičano upravljačko sučelje s proširenim mogućnostima kontrole Uz pouzdano hlađenje i grijanje, najvažnija značajka kod klima uređaja svakako mora biti i podizanje kvalitete zraka i njegova ravnomjerna raspodjela u prostoriji. Upravo zato Kirigamine Zen serija dolazi s naprednom filtracijom, automatskim horizontalnim lamelama ispuha zraka i Econo Cool funkcijom koja prilagođava količinu zraka usmjerenu prema tijelu na temelju temperature izlaznog zraka -na taj način također se postiže i 20% -tni porast energetske učinkovitosti. Također, moramo napomenuti da uz standardnu filtraciju Kirigamine Zen dolazi i s dodatnim filterom s ionima srebra i naprednim Nano Platinum Filterom koji zahvaljujući svojoj 3D površini iznimno učinkovito filtrira neželjene čestice i neugodne mirise.',
+    brand: 'Mitsubishi Electric',
+    category: 'Mono klima uređaj',
+    price: 18.067,
+    onSale: false,
+    sale: 0,
+    coldEff: 5.0,
+    warmEff: 5.8,
+    energyClass: 'A++',
+    sizeOfRoom: '46 - 55',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+
+
+
+
+
+  {
+    name: 'Mitsubishi Electric Power Inverter 6.1 kW zidna',
+    sifraProizvoda: 'PKA-M60KAL/PUZ-ZM60VHA',
+    image:
+      '/images/MitsubishiElectric/MitsubishiElectricPowerInverter6.1kWzidna/1-5f3a7b11243f8_5f3aa0dcdfe21,/images/MitsubishiElectric/MitsubishiElectricPowerInverter6.1kWzidna/3-5f3a7b113e0b9_5f3aa0dd10f53,/images/MitsubishiElectric/MitsubishiElectricPowerInverter6.1kWzidna/2-5f3a7b11543e5_5f3aa0dd30de7',
+    description:
+      'Ova jedinica dio je serije koja svojim značajkama zadovoljava potrebe najšireg spektra poslovnih prostora. Nudi vrlo praktičnu ugradnju, elegantan dizajn i visoku energetsku učinkovitost.Unutarnja jedinica čiste je bijele boje i savršeno ravnog panela koji se s lakoćom uklapa u vaš prostor. Uz postizanje elegantnijeg izgleda, ujedno je olakšano i održavanje. Upravljanje jedinicom jednostavno je korištenjem infracrvenog daljinskog upravljača s brojnim mogućnostima poput: Automatsko ponovno pokretanje, Postavka uštede energije, Timer, Samodijagnostika i Zaključavanje kontrole.U ponudi je također i opcionalni žičani upravljač koji dodatno proširuje izbor mjesta ugradnje i kontrole.Dodatna fleksibilnost instalacije povećana je mogućnošću korištenja opcionalne pumpe za odvod kondenzata, koji je moguć do visine od čak 800 mm iznad osnove unutarnje jedinice. Time je povećan stupanj slobode izbora lokacije vašeg klima uređaja.Uz navedene karakteristike, svakako moramo istaknuti one koje ovaj model pozicioniraju ispred konkurencije:Poboljšana kontrola protoka zraka Puni nazivni kapacitet grijanja do -3 °C Maksimalna duljina cijevi do 55m Jednostavna i uredna ugradnja za postizanje što boljeg vizualnog dojma Kao jedna od najbitnijih stavki kod izbora idealnog klima uređaja za vaš poslovni prostor, energetska efikasnost te time i dugoročna isplativost samog uređaja, dodatno je unaprijeđena. Korištenjem najnovijeg rashladnog medija R32 postigao se energetski rezultat razreda čak A++, što je i više nego odlična ocjena za klima uređaj poslovnog segmenta, pogotovo ako se u obzir uzmu strogi zahtjevi i dugoročna pouzdanost koju ovaj model nudi.',
+    brand: 'Mitsubishi Electric',
+    category: 'Mono klima uređaj',
+    price: 27663,
+    onSale: false,
+    sale: 0,
+    coldEff: 6.1,
+    warmEff: 7.0,
+    energyClass: 'A++',
+    sizeOfRoom: '??',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+
+
+
 
 
 

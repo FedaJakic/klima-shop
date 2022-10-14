@@ -1,0 +1,45 @@
+Novi Heating Inverter spada u sam vrh ponude Mitsubishi Electric klima uređaja, a uz odličnu energetsku učinkovitost i performanse odlikuje ga iznimna mogućnost grijanja. Zahvaljujući najnovijoj tehnologiji kompresora ova jedinica zadržava svoj nazivni učin grijanja do čak -15 ⁰C, a mogućnost grijanja do -25 ⁰C. S ovim karakteristikama možete se bezbrižno grijati čak i u najhladnijim danima.Kako bi vam osigurao nesmetano grijanje, Mitsubishi Electric u vanjsku jedinicu ovog odličnog klima uređaja ugradio je dodatni grijač koji će se pobrinuti da se kondenzacijska voda ne smrzava pri ekstremno niskim temperaturama. Uz već navedene karakteristike koje ovaj klima uređaj čine idealnim za potrebe grijanja, moramo istaknuti i odlične energetske rezultate razreda A++ i A+++, koji su u samom vrhu ponude sličnih klima uređaja. Oni osiguravaju veću uštedu električne energije i zajedno s najnovijim rashladnim plinom R32 čine ovaj klima uređaj manje štetnim za okoliš.Od programskih mogućnosti tu su sve poželjne funkcije poput dnevnog i tjednog timera, automatskog ponovnog pokretanja, automatskih lamela ispuha zraka horizontalno i vertikalno, Econo Cool za još veću uštedu energije, automatska promjena režima rada ,samodijagnostika i mnoge druge na koje smo navikli da se nalaze u Mitsubishi Electric klima uređajima visoke kvalitete. Filtracija zraka jednako je napredna, pa ovaj model dolazi s elektrostatičnim anti-alergijskim filterom koji će se pobrinuti za visoku kvalitetu zraka, naravno bez alergena.Upravljanje uređajem vrlo je jednostavno pomoću infracrvenog daljinskog upravljača i uključenog Wi-Fi modula koji pruža ugodu upravljanja i napredne mogućnosti kontrole unutar i izvan vaše kuće, stana ili ureda. Dodatno, moguće je priključiti i žičano daljinsko sučelje koje se prodaje zasebno.
+
+
+MSZ-FT50VGK/MUZ-FT50VGHZ
+
+19.316
+
+Učin hlađenja (kW)
+5,0
+
+Učin grijanja (kW)
+5,0
+
+a++
+
+46-55
+
+
+
+
+Tehničke karakteristike
+Radna tvar R32
+Raspon rashladnog učina (kW) 0,8 - 5,2
+SEER / Energetski razred HL 7,2 / A++
+God. potrošnja hlađenje (kWh) 243
+Raspon učina grijanja (kW) 0,9 - 7,8
+SCOP / Energetski razred GR 4,6 / A++
+God. potrošnja grijanje (kWh) 1625
+Dimenzije unut. jed (V×Š×D) mm 280×838×229
+Težina unut. jed. (Kg) 10
+Razina buke - hlađenje UJ (dBA) 28/48
+Razina buke - grijanje UJ (dBA) 28/54
+Wi-fi Wi-fi ugrađen
+Dodatne opcije Žičani daljinski upravljač
+Dimenzije vanj. jed (V×Š×D) mm 714×800×285
+Težina vanj. jed. (Kg) 40
+Razina buke vanjske jed. (dBA) 51
+Promjer cijevi - tekuć. (mm/") 6,35 (1/4")
+Promjer cijevi - plin (mm/") 9,52 (3/8")
+Maksimalna duljina cijevi (m) 30
+Maksimalna vis. razlika (m) 15
+Napon priključka 230 V / 50 Hz
+Jamstvo 36 mjeseci
+Područje rada - hlađenje (°C) od -10°C do +46°C
+Područje rada - grijanje (°C) od -25°C do +24°C
