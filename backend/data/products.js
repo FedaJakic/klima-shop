@@ -1195,7 +1195,7 @@ const products = [
 
 
 
-  //QZEN//
+//   //QZEN//
 
 
 
@@ -1436,7 +1436,7 @@ const products = [
 
 
 
-  //QZEN//
+//   //QZEN//
 
 
 
@@ -1581,7 +1581,7 @@ const products = [
     image:
       '/images/Toshiba/ToshibaShoraiEdge2.5kW-RAS-B10J2KVSG-ERAS-10J2AVSG-E/1-5f22b0df742b9_5f22cd3f8a524,/images/ToshibaShoraiEdge2.5kW-RAS-B10J2KVSG-ERAS-10J2AVSG-E/4-5f22b0df96318_5f22cd3fa8cd2',
     description:
-      '',
+      'Toshiba Shorai Premium model predstavlja kombinaciju vrhunskih modela klima uređaja Suzumi i Daisekai. Visoka energetska učinkovitost, napredni filterski sustav i 3D Airflow upravljanje lamelama samo su neke od brojnih karakteristika ovog primamljivog modela. Također, koristi se najnoviji rashladni medij R32 koji uz dodatnu energetsku uštedu ima i znatno smanjen negativan utjecaj na okoliš.Kako bi vam osigurali vrhunsku kvalitetu zraka, modeli ove serije uz filter prašine dolaze i s naprednim „IAQ“ filterom. Uz to, dolaze i sa Ionizatorom zraka koji negativnim ionima obuhvaća čestice poput prašine, peluda i dima, dok su se za optimalnu raspodjelu zraka po prostoriji pobrinule neovisne lamele ispuha koje pomoću 3D Airflow funkcije nude 6 obrazaca ispuha zraka.Toshiba neprestano radi na inovacijama kako bi ispunila sve zahtjeve korisnika za izvrsnom klimatizacijom. Za maksimalnu udobnost i mir Shorai Premium smanjuje razinu buke dvjema funkcijama tihog rada: Quiet na unutarnjoj jedinici omogućava vam neometani mir noću, a Silent na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba.Upravljanje standardnim i naprednim Toshiba funkcijama ovog izvrsnog klima uređaja lako je s infracrvenim daljinskim upravljačem i opcionalnim WiFi sučeljem koje se prodaje zasebno.Klima uređaj Toshiba Shorai Premium 2.5 kW sastoji se od unutarnje jedinice oznake RAS- B10J2KVRG -E, vanjske jedinice RAS- 10J2AVRG -E i infracrvenog daljinskog upravljača.',
     brand: 'Toshiba',
     category: 'Mono klima uređaj',
     price: 7200,
@@ -1622,7 +1622,7 @@ const products = [
     image:
       '/images/Toshiba/ToshibaShoraiEdge3.5kW-RAS-B13J2KVSG-ERAS-13J2AVSG-E/1-5f22b0e9e4b6b_5f22cd3fd2207,/images/ToshibaShoraiEdge3.5kW-RAS-B13J2KVSG-ERAS-13J2AVSG-E/4-5f22b0ea06ba0_5f22cd4002ada',
     description:
-      '',
+      'Toshiba Shorai Premium model predstavlja kombinaciju vrhunskih modela klima uređaja Suzumi i Daisekai. Visoka energetska učinkovitost, napredni filterski sustav i 3D Airflow upravljanje lamelama samo su neke od brojnih karakteristika ovog primamljivog modela. Također, koristi se najnoviji rashladni medij R32 koji uz dodatnu energetsku uštedu ima i znatno smanjen negativan utjecaj na okoliš.Kako bi vam osigurali vrhunsku kvalitetu zraka, modeli ove serije uz filter prašine dolaze i s naprednim „IAQ“ filterom. Uz to, dolaze i sa Ionizatorom zraka koji negativnim ionima obuhvaća čestice poput prašine, peluda i dima, dok su se za optimalnu raspodjelu zraka po prostoriji pobrinule neovisne lamele ispuha koje pomoću 3D Airflow funkcije nude 6 obrazaca ispuha zraka.Toshiba neprestano radi na inovacijama kako bi ispunila sve zahtjeve korisnika za izvrsnom klimatizacijom. Za maksimalnu udobnost i mir Shorai Premium smanjuje razinu buke dvjema funkcijama tihog rada: Quiet na unutarnjoj jedinici omogućava vam neometani mir noću, a Silent na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba.Upravljanje standardnim i naprednim Toshiba funkcijama ovog izvrsnog klima uređaja lako je s infracrvenim daljinskim upravljačem i opcionalnim WiFi sučeljem koje se prodaje zasebno.Klima uređaj Toshiba Shorai Premium 2.5 kW sastoji se od unutarnje jedinice oznake RAS- B10J2KVRG -E, vanjske jedinice RAS- 10J2AVRG -E i infracrvenog daljinskog upravljača.',
     brand: 'Toshiba',
     category: 'Mono klima uređaj',
     price: 8300,
@@ -1662,7 +1662,7 @@ const products = [
     image:
       '/images/Toshiba/ToshibaShoraiEdge4.6kW-RAS-B16J2KVSG-ERAS-16J2AVSG-E/1-5f22b0f61d1e7_5f22cd403321d,/images/ToshibaShoraiEdge4.6kW-RAS-B16J2KVSG-ERAS-16J2AVSG-E/4-5f22b0f635504_5f22cd4053ced',
     description:
-      '',
+      'Toshiba Shorai Premium model predstavlja kombinaciju vrhunskih modela klima uređaja Suzumi i Daisekai. Visoka energetska učinkovitost, napredni filterski sustav i 3D Airflow upravljanje lamelama samo su neke od brojnih karakteristika ovog primamljivog modela. Također, koristi se najnoviji rashladni medij R32 koji uz dodatnu energetsku uštedu ima i znatno smanjen negativan utjecaj na okoliš.Kako bi vam osigurali vrhunsku kvalitetu zraka, modeli ove serije uz filter prašine dolaze i s naprednim „IAQ“ filterom. Uz to, dolaze i sa Ionizatorom zraka koji negativnim ionima obuhvaća čestice poput prašine, peluda i dima, dok su se za optimalnu raspodjelu zraka po prostoriji pobrinule neovisne lamele ispuha koje pomoću 3D Airflow funkcije nude 6 obrazaca ispuha zraka.Toshiba neprestano radi na inovacijama kako bi ispunila sve zahtjeve korisnika za izvrsnom klimatizacijom. Za maksimalnu udobnost i mir Shorai Premium smanjuje razinu buke dvjema funkcijama tihog rada: Quiet na unutarnjoj jedinici omogućava vam neometani mir noću, a Silent na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba.Upravljanje standardnim i naprednim Toshiba funkcijama ovog izvrsnog klima uređaja lako je s infracrvenim daljinskim upravljačem i opcionalnim WiFi sučeljem koje se prodaje zasebno.Klima uređaj Toshiba Shorai Premium 2.5 kW sastoji se od unutarnje jedinice oznake RAS- B10J2KVRG -E, vanjske jedinice RAS- 10J2AVRG -E i infracrvenog daljinskog upravljača.',
     brand: 'Toshiba',
     category: 'Mono klima uređaj',
     price: 9700,
@@ -1702,7 +1702,7 @@ const products = [
     image:
       '/images/Toshiba/ToshibaShoraiEdge6.1kW-RAS-B22J2KVSG-ERAS-22J2AVSG-E/2-5f22b11d2bde7_5f22b82982713,/images/ToshibaShoraiEdge6.1kW-RAS-B22J2KVSG-ERAS-22J2AVSG-E/5-5f22b11d46fc7_5f22b829a392e',
     description:
-      '',
+      'Toshiba Shorai Premium model predstavlja kombinaciju vrhunskih modela klima uređaja Suzumi i Daisekai. Visoka energetska učinkovitost, napredni filterski sustav i 3D Airflow upravljanje lamelama samo su neke od brojnih karakteristika ovog primamljivog modela. Također, koristi se najnoviji rashladni medij R32 koji uz dodatnu energetsku uštedu ima i znatno smanjen negativan utjecaj na okoliš.Kako bi vam osigurali vrhunsku kvalitetu zraka, modeli ove serije uz filter prašine dolaze i s naprednim „IAQ“ filterom. Uz to, dolaze i sa Ionizatorom zraka koji negativnim ionima obuhvaća čestice poput prašine, peluda i dima, dok su se za optimalnu raspodjelu zraka po prostoriji pobrinule neovisne lamele ispuha koje pomoću 3D Airflow funkcije nude 6 obrazaca ispuha zraka.Toshiba neprestano radi na inovacijama kako bi ispunila sve zahtjeve korisnika za izvrsnom klimatizacijom. Za maksimalnu udobnost i mir Shorai Premium smanjuje razinu buke dvjema funkcijama tihog rada: Quiet na unutarnjoj jedinici omogućava vam neometani mir noću, a Silent na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba.Upravljanje standardnim i naprednim Toshiba funkcijama ovog izvrsnog klima uređaja lako je s infracrvenim daljinskim upravljačem i opcionalnim WiFi sučeljem koje se prodaje zasebno.Klima uređaj Toshiba Shorai Premium 2.5 kW sastoji se od unutarnje jedinice oznake RAS- B10J2KVRG -E, vanjske jedinice RAS- 10J2AVRG -E i infracrvenog daljinskog upravljača.',
     brand: 'Toshiba',
     category: 'Mono klima uređaj',
     price: 13200,
@@ -1742,7 +1742,7 @@ const products = [
     image:
       '/images/Toshiba/ToshibaShoraiEdge7.0kW-RAS-B24J2KVSG-ERAS-24J2AVSG-E/3-5f22b12f91bc0_5f22b82a70eed,/images/ToshibaShoraiEdge7.0kW-RAS-B24J2KVSG-ERAS-24J2AVSG-E/5-5f22b12fae4c0_5f22b82a90816',
     description:
-      '',
+      'Toshiba Shorai Premium model predstavlja kombinaciju vrhunskih modela klima uređaja Suzumi i Daisekai. Visoka energetska učinkovitost, napredni filterski sustav i 3D Airflow upravljanje lamelama samo su neke od brojnih karakteristika ovog primamljivog modela. Također, koristi se najnoviji rashladni medij R32 koji uz dodatnu energetsku uštedu ima i znatno smanjen negativan utjecaj na okoliš.Kako bi vam osigurali vrhunsku kvalitetu zraka, modeli ove serije uz filter prašine dolaze i s naprednim „IAQ“ filterom. Uz to, dolaze i sa Ionizatorom zraka koji negativnim ionima obuhvaća čestice poput prašine, peluda i dima, dok su se za optimalnu raspodjelu zraka po prostoriji pobrinule neovisne lamele ispuha koje pomoću 3D Airflow funkcije nude 6 obrazaca ispuha zraka.Toshiba neprestano radi na inovacijama kako bi ispunila sve zahtjeve korisnika za izvrsnom klimatizacijom. Za maksimalnu udobnost i mir Shorai Premium smanjuje razinu buke dvjema funkcijama tihog rada: Quiet na unutarnjoj jedinici omogućava vam neometani mir noću, a Silent na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba.Upravljanje standardnim i naprednim Toshiba funkcijama ovog izvrsnog klima uređaja lako je s infracrvenim daljinskim upravljačem i opcionalnim WiFi sučeljem koje se prodaje zasebno.Klima uređaj Toshiba Shorai Premium 2.5 kW sastoji se od unutarnje jedinice oznake RAS- B10J2KVRG -E, vanjske jedinice RAS- 10J2AVRG -E i infracrvenog daljinskog upravljača.',
     brand: 'Toshiba',
     category: 'Mono klima uređaj',
     price: 15200,
@@ -2137,7 +2137,7 @@ const products = [
     image:
       '/images/Toshiba/ToshibaHaori2.5kW/5-16-6064511060501_60645817d15af,/images/Toshiba/ToshibaHaori2.5kW/3-60645110bb5b2_606458184d2a6,/images/Toshiba/ToshibaHaori2.5kW/5-16-2-606451108cf77_6064581811d9a,/images/Toshiba/ToshibaHaori2.5kW/4-60645110e859e_6064581899a11',
     description:
-      '',
+      'Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)',
     brand: 'Toshiba',
     category: 'Mono klima uređaj',
     price: 8800,
@@ -2177,7 +2177,7 @@ const products = [
     image:
       '/images/Toshiba/ToshibaHaori3.5kW/5-16-6064511060501_608ff5b5ea77b,/images/Toshiba/ToshibaHaori3.5kW/3-60645110bb5b2_608ff5b63c8cf,/images/Toshiba/ToshibaHaori3.5kW/4-60645110e859e_608ff5b66e143',
     description:
-      '',
+      'Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)',
     brand: 'Toshiba',
     category: 'Mono klima uređaj',
     price: 10100,
@@ -2217,7 +2217,7 @@ const products = [
     image:
       '/images/Toshiba/ToshibaHaori4.6kW/5-16-6064511060501_608ff5b79aca8,/images/Toshiba/ToshibaHaori4.6kW/3-60645110bb5b2_608ff5b80669d,/images/Toshiba/ToshibaHaori4.6kW/4-60645110e859e_608ff5b82f102',
     description:
-      '',
+      'Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)',
     brand: 'Toshiba',
     category: 'Mono klima uređaj',
     price: 11500,
@@ -4453,19 +4453,7 @@ const products = [
     maksimalnaDuljinaCijevi: 222,
     maksimalnaVisRazlika: 222,
     naponPrikljucka: 'jjjj',
-  },
-
-
-
-
-
-
-
-
-
-
-
-
+  }
 ]
 
 export default products
