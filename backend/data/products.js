@@ -239,7 +239,7 @@ const products = [
     name: 'Fujitsu Super Eco Inverter 4.2 kW',
     sifraProizvoda: 'ASYG14KMCC/AOYG14KMCC',
     image:
-      '/images/Fujitsu/FujitsuSuperEcoInverter-4.2kW-ASYG14KMCCAOYG14KMCC/19-60d301ce2954d_60d30fc56ed24,/images/Fujitsu/FujitsuSuperEcoInverter-4.2kW-ASYG14KMCCAOYG14KMCC/asyg-kmta-1100px-5cb991ca978f1_5eb021c98c103',
+      '/images/Fujitsu/FujitsuSuperEcoInverter-4.2kW-ASYG14KMCCAOYG14KMCC/19-60d301ce2954d_60d30fc56ed24.png,/images/Fujitsu/FujitsuSuperEcoInverter-4.2kW-ASYG14KMCCAOYG14KMCC/asyg-kmta-1100px-5cb991ca978f1_5eb021c98c103.jpg',
     description:
       'Kompaktne dimenzije osigurale su Fujitsu Super Eco Inverter klima uređaju privlačan izgled, a ugrađena tehnologija i korištenje rashladnog medija R32 vrlo visoke performanse i nisku potrošnju električne energije razreda A++. Uređaj u radu proizvodi tek 20 dB buke a snagom od 4.2 kW osigurava optimalnu klimatizaciju prostorija veličine do 45 m².Za pouzdani rad čak i u vašoj odsutnosti tu su funkcije „Sleep“, Programski timer i Održavanje 10 °C u prostoriji, a za svakodnevni rad upravo po vašim željama Ekonomski režim rada, Režim snažnog rada, Tihi rad, Automatski režim rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.Upravljanje klima uređajem je jednostavno pomoću infracrvenog daljinskog upravljača, a opcionalno je moguća i bežična kontrola vašim pametnim telefonom ili tabletom pomoću opcionalnog WiFi sučelja koje se prodaje zasebno.',
     brand: 'Fujitsu',

@@ -149,7 +149,8 @@ const ProductScreen = ({ history, match }) => {
                       )}
                     </span>
                     <br></br>
-                    <span>U cijenu je uključen PDV (25%)</span>
+                    <span>U cijenu je uključen PDV (25%)</span><br></br>
+                    <span>Fiksni tečaj konverzije 7.53450</span>
                   </ListGroup.Item>
                   <ListGroup.Item>
                     <ACAtributes
