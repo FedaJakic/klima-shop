@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <footer class='footer-distributed'>
       <div class='footer-left'>
-        <h3>KLIMATECH</h3>
+        <h3>KlimaTrgovina</h3>
 
         <p class='footer-links'>
           {/* <Link class='link-1'>Home</Link> */}
@@ -58,8 +58,7 @@ const Footer = () => {
       <div class='footer-right'>
         <p class='footer-company-about'>
           <span>About the company</span>
-          Lorem ipsum dolor sit amet, consectateur adispicing elit. Fusce
-          euismod convallis velit, eu auctor lacus vehicula sit amet.
+           "KlimaTrgovina" u vlasništvu tvrtke SELLER j.d.o.o osnovana je 2022. godine u Splitu sa svrhom pružanja najboljih cijena i proizvoda za buduću klijentelu u cijeloj Hrvatskoj. 
         </p>
 
         <div class='footer-icons'>
