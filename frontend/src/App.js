@@ -20,6 +20,11 @@ import OrderListScreen from './screens/OrderListScreen'
 import MonoKlimaScreen from './screens/MonoKlimaScreen'
 import DualKlimaScreen from './screens/DualKlimaScreen'
 import MontazaServis from './screens/MontazaServis'
+import OpciUvjetiScreen from './screens/OpciUvjetiScreen'
+import NacinPlacanja from './screens/NacinPlacanja'
+import IzjavaOPrivatnosti from './screens/IzjavaOPrivatnosti'
+import PrivatnostKolacici from './screens/PrivatnostKolacici'
+import JamstvoNaKlimaUredjaje from './screens/JamstvoNaKlimaUredjaje'
 
 const App = () => {
   return (
@@ -41,6 +46,12 @@ const App = () => {
         <Route path='/mono-klima' component={MonoKlimaScreen} exact />
         <Route path='/dual-klima' component={DualKlimaScreen} exact />
         <Route path='/montaza-servis' component={MontazaServis} exact />
+        <Route path='/opci-uvjeti' component={OpciUvjetiScreen} exact />
+        <Route path='/nacin-placanja' component={NacinPlacanja} exact />
+        <Route path='/izjava-o-privatnosti' component={IzjavaOPrivatnosti} exact />
+        <Route path='/privatnost-i-kolacici' component={PrivatnostKolacici} exact />
+        <Route path='/jamstvo' component={JamstvoNaKlimaUredjaje} exact />
+
         <Route
           path='/admin/productlist/:pageNumber'
           component={ProductListScreen}

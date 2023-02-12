@@ -12,12 +12,12 @@ const Footer = () => {
 
         <p class='footer-links'>
           {/* <Link class='link-1'>Home</Link> */}
-          <LinkContainer to='/'>
-            <Nav.Link class='link-1'>Home</Nav.Link>
+          <LinkContainer to='/opci-uvjeti'>
+            <Nav.Link class='link-1'>Opći uvjeti</Nav.Link>
           </LinkContainer>
 
           <LinkContainer to='/'>
-            <Nav.Link>Mono klima uređaji</Nav.Link>
+            <Nav.Link>askd</Nav.Link>
           </LinkContainer>
 
           <LinkContainer to='/'>
