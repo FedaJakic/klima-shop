@@ -7,7 +7,7 @@ const NacinPlacanja = () => {
         <h1>Načini plaćanja</h1>
 
         <h2>Kupovina na web shopu</h2>
-        <p><strong>Sve cijene na web shopu Klima koncept su maloprodajne sa uključenim PDV-om.</strong></p>
+        <p><strong>Sve cijene na web shopu Klima-Trgovina su maloprodajne sa uključenim PDV-om.</strong></p>
         <h4>Uz svaki proizvod navedene su 3 cijene:</h4>
         <span>1. cijena: za jednokratno plaćanje</span><br/>
         <span>2. cijena: za plaćanje karticom 2 do 12 rata</span><br/>
