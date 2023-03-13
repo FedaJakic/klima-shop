@@ -33,7 +33,7 @@ const MonoKlimaScreen = ({ match }) => {
   return (
     <>
       <Container>
-        <h1>Dual klima uređaji</h1>
+        <h1>Multi klima uređaji</h1>
 
         <h4>Filteri</h4>
         <Tabs
