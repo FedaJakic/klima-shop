@@ -26,6 +26,8 @@ const PrivatnostKolacici = () => {
 
         <p>Više podataka možete pronaći u OPĆIM UVJETIMA KORIŠTENJA INTERNET TRGOVINE KLIMAKONCEPT.HR</p>
 
+        <p>Test</p>
+
     </Container>
   )
 }
