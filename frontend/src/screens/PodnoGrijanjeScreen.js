@@ -9,7 +9,7 @@ import { listProducts } from '../actions/productActions'
 import Tabs from 'react-bootstrap/Tabs'
 import Tab from 'react-bootstrap/Tab'
 
-const MonoKlimaScreen = ({ match }) => {
+const PodnoGrijanjeScreen = ({ match }) => {
   const keyword = match.params.keyword
 
   const pageNumber = match.params.pageNumber || 1
@@ -39,4 +39,4 @@ const MonoKlimaScreen = ({ match }) => {
   )
 }
 
-export default MonoKlimaScreen
+export default PodnoGrijanjeScreen

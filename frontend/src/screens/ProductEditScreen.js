@@ -307,7 +307,7 @@ const ProductEditScreen = ({ match, history }) => {
                 >
                   <option></option>
                   <option>Mono klima uređaj</option>
-                  <option>Dual klima uređaj</option>
+                  <option>Multi klima uređaj</option>
                 </Form.Control>
               </Form.Group>
 

@@ -1,14 +1,14 @@
 const opciUvjeti = {
-    nazivFirme: "",
-    pravniOblik: "",
-    djelatnost: "",
-    sjediste: "",
+    nazivFirme: "Seller",
+    pravniOblik: "j.d.o.o",
+    djelatnost: "Firma za internet trgovinu",
+    sjediste: "Solin",
     OIB: "",
     MB: "",
     racunDrustva: "",
-    email: "",
-    telefon: "",
-    radnoVrijemeKorisničkePodrške: "",
+    email: "seller@seller.hr",
+    telefon: "092173218735",
+    radnoVrijemeKorisničkePodrške: "7-19 sati",
     oznakaDjelatnost: "",
     dozvole: ""
 }

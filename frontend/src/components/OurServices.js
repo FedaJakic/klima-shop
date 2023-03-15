@@ -38,14 +38,14 @@ function OurServices() {
                 ></Image>
               </div>
               <div class='inactive'>
-                <div class='title'>Dual klima uređaji </div>
+                <div class='title'>Multi klima uređaji </div>
               </div>
               <div class='active'>
-                <div class='title'>Dual klima uređaji</div>
+                <div class='title'>Multi klima uređaji</div>
                 <div class='sub-title'>
-                  Dual klima uređaj ima nekoliko unutarnjih jedinica (max. 8) i
+                  Multi klima uređaj ima nekoliko unutarnjih jedinica (max. 8) i
                   sve su povezane na jednu vanjsku jedinicu. Mogu hladiti i
-                  grijati jednu ili više prostorija. Dual klima uređaj može
+                  grijati jednu ili više prostorija. Multi klima uređaj može
                   imati unutarnje jedinice postavljene u različitim prostorijama
                   kuće ili stana.
                 </div>

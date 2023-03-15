@@ -25,6 +25,7 @@ import NacinPlacanja from './screens/NacinPlacanja'
 import IzjavaOPrivatnosti from './screens/IzjavaOPrivatnosti'
 import PrivatnostKolacici from './screens/PrivatnostKolacici'
 import JamstvoNaKlimaUredjaje from './screens/JamstvoNaKlimaUredjaje'
+import PodnoGrijanjeScreen from './screens/PodnoGrijanjeScreen'
 
 const App = () => {
   return (
@@ -45,6 +46,7 @@ const App = () => {
         <Route path='/admin/productlist' component={ProductListScreen} exact />
         <Route path='/mono-klima' component={MonoKlimaScreen} exact />
         <Route path='/dual-klima' component={DualKlimaScreen} exact />
+        <Route path='/podno-grijanje' component={PodnoGrijanjeScreen} exact />
         <Route path='/montaza-servis' component={MontazaServis} exact />
         <Route path='/opci-uvjeti' component={OpciUvjetiScreen} exact />
         <Route path='/nacin-placanja' component={NacinPlacanja} exact />

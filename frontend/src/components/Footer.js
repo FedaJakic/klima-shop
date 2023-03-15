@@ -21,7 +21,7 @@ const Footer = () => {
           </LinkContainer>
 
           <LinkContainer to='/'>
-            <Nav.Link>Dual klima uređaji</Nav.Link>
+            <Nav.Link>Multi klima uređaji</Nav.Link>
           </LinkContainer>
 
           <Link>About</Link>
@@ -57,7 +57,7 @@ const Footer = () => {
 
       <div class='footer-right'>
         <p class='footer-company-about'>
-          <span>About the company</span>
+          <span>O nama</span>
            "KlimaTrgovina" u vlasništvu tvrtke SELLER j.d.o.o osnovana je 2022. godine u Splitu sa svrhom pružanja najboljih cijena i proizvoda za buduću klijentelu u cijeloj Hrvatskoj. 
         </p>
 
