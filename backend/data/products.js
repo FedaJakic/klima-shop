@@ -1132,7 +1132,7 @@ const products = [
     name: 'Qzen Start Inverter Plus 2.6 kW',
     sifraProizvoda: 'ZE-09WSE/ZE-09OSE',
     image:
-      '/images/QZEN/QzenStartInverterPlus2.6kW-ZE-09WSEZE-09OSE/6-5e8d744e1d7fa_5e8d7be7a2327.png,/images/QZEN/QzenStartInverterPlus2.6kW-ZE-09WSEZE-09OSE/za-probu-s-logom-1-6067160194458_60674650bc413.png',
+      '/images/QZEN/QzenStartInverterPlus2.6kW-ZE-09WSEZE-09OSE/za-probu-s-logom-1-6067160194458_60674650bc413.png,/images/QZEN/QzenStartInverterPlus2.6kW-ZE-09WSEZE-09OSE/6-5e8d744e1d7fa_5e8d7be7a2327.png',
     description:
       'Klima uređaj Qzen Start Inverter Plus 2.6 kW predstavlja idealno rješenje ako želite štedljiv uređaj s modernim tehnologijama i dodatnim funkcijama, ali po prihvatljivoj cijeni. Ovi odlični uređaji nalaze se u energetskom razredu A++ i zahvaljujući ekološki prihvatljivijem rashladnom mediju R32 osiguravaju još veću uštedu, efikasnost i naravno manje štetan utjecaj na okolinu. Dodatno, potrošnja za vrijeme mirovanja je smanjena na samo 1W.Na površini ovaj uređaj krasi jednostavan, elegantan i moderan dizajn, ali se ispod skriva puno više. Zahvaljujući mikroprocesorskim reguliranjem rada i brojnim tehnologijama, ovaj uređaj radi potpuno automatski. Upravljanje je iznimno jednostavno putem daljinskog upravljača, a kako je uređaj „wifi ready“, posjeduje i priključak za dodatni WiFi modul. Na ovaj način upravljati možete i putem vašeg omiljenog pametnog uređaja.Od brojnih tehnologija koje posjeduje, sljedeće se ističu kao najpogodnije i najkorištenije: Timer, Slijedi me, Noćni način rada, Automatsko horizontalno ljuljanje lamela ispuha zraka i Auto restart. Zahvaljujući njima zaboravit ćete da je klima uređaj uopće tu.Nije ni čudo da se Qzen Start Inverter Plus 2.6 kW, zahvaljujući navedenim karakteristikama i tehnologijama, pozicionirao kao „Best Value“ klima uređaj na tržištu.',
     brand: 'QZEN',
@@ -1170,7 +1170,7 @@ const products = [
     name: 'Qzen Start Inverter Plus 2.6 kW + WIFI',
     sifraProizvoda: 'ZE-09WSE/ZE-09OSE+WIFI',
     image:
-      '/images/QZEN/QzenStartInverterPlus2.6kW+WIFI-ZE-09WSEZE-09OSE+WIFI/6-5e8d744e1d7fa_5e8d7be7a2327.png,/images/QZEN/QzenStartInverterPlus2.6kW+WIFI-ZE-09WSEZE-09OSE+WIFI/za-probu-s-logom-1-6067160194458_60674650bc413.png',
+      '/images/QZEN/QzenStartInverterPlus2.6kW+WIFI-ZE-09WSEZE-09OSE+WIFI/za-probu-s-logom-606715a56e8dc_606717383a10e.png,klima-shop\frontend\public\images\QZEN\QzenStartInverterPlus2.6kW+WIFI-ZE-09WSEZE-09OSE+WIFI/6-5e8d744e1d7fa_606717386cdaf.png',
     description:
       'Klima uređaj Qzen Start Inverter Plus 2.6 kW predstavlja idealno rješenje ako želite štedljiv uređaj s modernim tehnologijama i dodatnim funkcijama, ali po prihvatljivoj cijeni. Ovi odlični uređaji nalaze se u energetskom razredu A++ i zahvaljujući ekološki prihvatljivijem rashladnom mediju R32 osiguravaju još veću uštedu, efikasnost i naravno manje štetan utjecaj na okolinu. Dodatno, potrošnja za vrijeme mirovanja je smanjena na samo 1W.možete biti sigurni da ispravno funkcionira i čuva vaše zdravlje.Na površini ovaj uređaj krasi jednostavan, elegantan i moderan dizajn, ali se ispod skriva puno više. Zahvaljujući mikroprocesorskim reguliranjem rada i brojnim tehnologijama, ovaj uređaj radi potpuno automatski. Upravljanje je iznimno jednostavno putem daljinskog upravljača, a kako se uz klima uređaj isporučuje WiFi modul možete jednostavno upravljati i putem vašeg omiljenog pametnog uređaja.Od brojnih tehnologija koje posjeduje, sljedeće se ističu kao najpogodnije i najkorištenije: Timer, Slijedi me, Noćni način rada, Automatsko horizontalno ljuljanje lamela ispuha zraka i Auto restart. Zahvaljujući njima zaboravit ćete da je klima uređaj uopće tu.Nije ni čudo da se Qzen Start Inverter Plus 2.6 kW, zahvaljujući navedenim karakteristikama i tehnologijama, pozicionirao kao „Best Value“ klima uređaj na tržištu.',
     brand: 'QZEN',
@@ -1208,7 +1208,7 @@ const products = [
     name: 'Qzen Start Inverter Plus 3.5 kW',
     sifraProizvoda: 'ZE-12WSE/ZE-12OSE',
     image:
-      '/images/QZEN/QzenStartInverterPlus3.5kW-ZE-12WSEZE-12OSE/6-5e8d744e1d7fa_5e8d97508c526.png,/images/QZEN/QzenStartInverterPlus3.5kW-ZE-12WSEZE-12OSE/za-probu-s-logom-1-6067160194458_60833463e23e9.png',
+      '/images/QZEN/QzenStartInverterPlus3.5kW-ZE-12WSEZE-12OSE/za-probu-s-logom-1-6067160194458_60833463e23e9.png,/images/QZEN/QzenStartInverterPlus3.5kW-ZE-12WSEZE-12OSE/6-5e8d744e1d7fa_5e8d97508c526.png',
     description:
       'Klima uređaj Qzen Start Inverter Plus 3.5 kW predstavlja idealno rješenje ako želite štedljiv uređaj s modernim tehnologijama i dodatnim funkcijama, ali po prihvatljivoj cijeni. Ovi odlični uređaji nalaze se u energetskom razredu A++ i zahvaljujući ekološki prihvatljivijem rashladnom mediju R32 osiguravaju još veću uštedu, efikasnost i naravno manje štetan utjecaj na okolinu. Dodatno, potrošnja za vrijeme mirovanja je smanjena na samo 1W.Na površini ovaj uređaj krasi jednostavan, elegantan i moderan dizajn, ali se ispod skriva puno više. Zahvaljujući mikroprocesorskim reguliranjem rada i brojnim tehnologijama, ovaj uređaj radi potpuno automatski. Upravljanje je iznimno jednostavno putem daljinskog upravljača, a kako je uređaj „wifi ready“, posjeduje i priključak za dodatni WiFi modul. Na ovaj način upravljati možete i putem vašeg omiljenog pametnog uređaja.Od brojnih tehnologija koje posjeduje, sljedeće se ističu kao najpogodnije i najkorištenije: Timer, Slijedi me, Noćni način rada, Automatsko horizontalno ljuljanje lamela ispuha zraka i Auto restart. Zahvaljujući njima zaboravit ćete da je klima uređaj uopće tu.Nije ni čudo da se Qzen Start Inverter Plus 3.5 kW, zahvaljujući navedenim karakteristikama i tehnologijama, pozicionirao kao „Best Value“ klima uređaj na tržištu.',
     brand: 'QZEN',
@@ -1246,7 +1246,7 @@ const products = [
     name: 'Qzen Start Inverter Plus 3.5 kW + WIFI',
     sifraProizvoda: 'ZE-12WSE/ZE-12OSE+WIFI',
     image:
-      '/images/QZEN/QzenStartInverterPlus3.5kW+WIFI-ZE-12WSEZE-12OSE+WIFI/6-5e8d744e1d7fa_60672544bbdc8.png,/images/QZEN/QzenStartInverterPlus3.5kW+WIFI-ZE-12WSEZE-12OSE+WIFI/za-probu-s-logom-606715a56e8dc_606725447d139.png',
+      '/images/QZEN/QzenStartInverterPlus3.5kW+WIFI-ZE-12WSEZE-12OSE+WIFI/za-probu-s-logom-606715a56e8dc_606725447d139.png,/images/QZEN/QzenStartInverterPlus3.5kW+WIFI-ZE-12WSEZE-12OSE+WIFI/6-5e8d744e1d7fa_60672544bbdc8.png',
     description:
       'Klima uređaj Qzen Start Inverter Plus 3.5 kW predstavlja idealno rješenje ako želite štedljiv uređaj s modernim tehnologijama i dodatnim funkcijama, ali po prihvatljivoj cijeni. Ovi odlični uređaji nalaze se u energetskom razredu A++ i zahvaljujući ekološki prihvatljivijem rashladnom mediju R32 osiguravaju još veću uštedu, efikasnost i naravno manje štetan utjecaj na okolinu. Dodatno, potrošnja za vrijeme mirovanja je smanjena na samo 1W.možete biti sigurni da ispravno funkcionira i čuva vaše zdravlje.Na površini ovaj uređaj krasi jednostavan, elegantan i moderan dizajn, ali se ispod skriva puno više. Zahvaljujući mikroprocesorskim reguliranjem rada i brojnim tehnologijama, ovaj uređaj radi potpuno automatski. Upravljanje je iznimno jednostavno putem daljinskog upravljača, a kako se uz klima uređaj isporučuje WiFi modul možete jednostavno upravljati i putem vašeg omiljenog pametnog uređaja.Od brojnih tehnologija koje posjeduje, sljedeće se ističu kao najpogodnije i najkorištenije: Timer, Slijedi me, Noćni način rada, Automatsko horizontalno ljuljanje lamela ispuha zraka i Auto restart. Zahvaljujući njima zaboravit ćete da je klima uređaj uopće tu.Nije ni čudo da se Qzen Start Inverter Plus 3.5 kW, zahvaljujući navedenim karakteristikama i tehnologijama, pozicionirao kao „Best Value“ klima uređaj na tržištu.',
     brand: 'QZEN',
@@ -1284,7 +1284,7 @@ const products = [
     name: 'Qzen Start Inverter Plus 5.3 kW',
     sifraProizvoda: 'ZE-18WSE/ZE-18OSE',
     image:
-      '/images/QZEN/QzenStartInverterPlus5.3kW-ZE-18WSEZE-18OSE/6-5e8d744e1d7fa_5e8d8729ebd09.png,/images/QzenStartInverterPlus5.3kW-ZE-18WSEZE-18OSE/za-probu-s-logom-1-6067160194458_60833464768bb.png',
+      '/images/QZEN/QzenStartInverterPlus5.3kW-ZE-18WSEZE-18OSE/za-probu-s-logom-1-6067160194458_60833464768bb.png,/images/QZEN/QzenStartInverterPlus5.3kW-ZE-18WSEZE-18OSE/6-5e8d744e1d7fa_5e8d8729ebd09.png',
     description:
       'Klima uređaj Qzen Start Inverter Plus 5.3 kW predstavlja idealno rješenje ako želite štedljiv uređaj s modernim tehnologijama i dodatnim funkcijama, ali po prihvatljivoj cijeni. Ovi odlični uređaji nalaze se u energetskom razredu A++ i zahvaljujući ekološki prihvatljivijem rashladnom mediju R32 osiguravaju još veću uštedu, efikasnost i naravno manje štetan utjecaj na okolinu. Dodatno, potrošnja za vrijeme mirovanja je smanjena na samo 1W.Na površini ovaj uređaj krasi jednostavan, elegantan i moderan dizajn, ali se ispod skriva puno više. Zahvaljujući mikroprocesorskim reguliranjem rada i brojnim tehnologijama, ovaj uređaj radi potpuno automatski. Upravljanje je iznimno jednostavno putem daljinskog upravljača, a kako je uređaj „wifi ready“, posjeduje i priključak za dodatni WiFi modul. Na ovaj način upravljati možete i putem vašeg omiljenog pametnog uređaja.Od brojnih tehnologija koje posjeduje, sljedeće se ističu kao najpogodnije i najkorištenije: Timer, Slijedi me, Noćni način rada, Automatsko horizontalno ljuljanje lamela ispuha zraka i Auto restart. Zahvaljujući njima zaboravit ćete da je klima uređaj uopće tu.Nije ni čudo da se Qzen Start Inverter Plus 5.3 kW, zahvaljujući navedenim karakteristikama i tehnologijama, pozicionirao kao „Best Value“ klima uređaj na tržištu.',
     brand: 'QZEN',
@@ -1318,11 +1318,14 @@ const products = [
     naponPrikljucka: 'jjjj',
   },
 
+
+
+
   {
     name: 'Qzen Start Inverter Plus 5.3 kW + WIFI',
     sifraProizvoda: 'ZE-18WSE/ZE-18OSE+WIFI',
     image:
-      '/images/QZEN/QzenStartInverterPlus5.3kW+WIFI-ZE-18WSEZE-18OSE+WIFI/6-5e8d744e1d7fa_606725473a0b4.png,/images/QZEN/QzenStartInverterPlus5.3kW+WIFI-ZE-18WSEZE-18OSE+WIFI/za-probu-s-logom-606715a56e8dc_60672546f1592.png',
+      '/images/QZEN/QzenStartInverterPlus5.3kW+WIFI-ZE-18WSEZE-18OSE+WIFI/za-probu-s-logom-606715a56e8dc_60672546f1592.png,/images/QZEN/QzenStartInverterPlus5.3kW+WIFI-ZE-18WSEZE-18OSE+WIFI/6-5e8d744e1d7fa_606725473a0b4.png',
     description:
       'Klima uređaj Qzen Start Inverter Plus 5.3 kW predstavlja idealno rješenje ako želite štedljiv uređaj s modernim tehnologijama i dodatnim funkcijama, ali po prihvatljivoj cijeni. Ovi odlični uređaji nalaze se u energetskom razredu A++ i zahvaljujući ekološki prihvatljivijem rashladnom mediju R32 osiguravaju još veću uštedu, efikasnost i naravno manje štetan utjecaj na okolinu. Dodatno, potrošnja za vrijeme mirovanja je smanjena na samo 1W.Na površini ovaj uređaj krasi jednostavan, elegantan i moderan dizajn, ali se ispod skriva puno više. Zahvaljujući mikroprocesorskim reguliranjem rada i brojnim tehnologijama, ovaj uređaj radi potpuno automatski. Upravljanje je iznimno jednostavno putem daljinskog upravljača, a kako je uređaj „wifi ready“, posjeduje i priključak za dodatni WiFi modul. Na ovaj način upravljati možete i putem vašeg omiljenog pametnog uređaja.Od brojnih tehnologija koje posjeduje, sljedeće se ističu kao najpogodnije i najkorištenije: Timer, Slijedi me, Noćni način rada, Automatsko horizontalno ljuljanje lamela ispuha zraka i Auto restart. Zahvaljujući njima zaboravit ćete da je klima uređaj uopće tu.Nije ni čudo da se Qzen Start Inverter Plus 5.3 kW, zahvaljujući navedenim karakteristikama i tehnologijama, pozicionirao kao „Best Value“ klima uređaj na tržištu.',
     brand: 'QZEN',
