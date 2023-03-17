@@ -84,7 +84,7 @@ const products = [
   },
 
   {
-    name: 'Fujitsu Advance Inverter 3.4 kW - ASYG12KGTBAOYG12KGCA',
+    name: 'Fujitsu Advance Inverter 3.4 kW',
     sifraProizvoda: 'ASYG12KGTB/AOYG12KGCA',
     image:
       '/images/Fujitsu/FujitsuAdvanceInverter3.4kW-ASYG12KGTBAOYG12KGCA/20-60d301865c9f3_60d31b0158028.png,/images/Fujitsu/FujitsuAdvanceInverter3.4kW-ASYG12KGTBAOYG12KGCA/wm-new-model-350-5a86e04ae45c3_5dcd198cce4ce.jpg',
@@ -137,82 +137,6 @@ const products = [
     warmEff: 5.4,
     energyClass: 'A++',
     sizeOfRoom: '36-45',
-    countInStock: 3,
-    rating: 0,
-    numReviews: 0,
-    najtrazeni: false,
-    radnaTvar: true,
-    rasponRashladnogUcinka: 'aaaaa',
-    SEER: 'sssss',
-    rasponUcinaGrijanja: 'dddddd',
-    SCOP: 'eeeeee',
-    dimenzijeUnutarnjeJedinice: 'fffff',
-    razinaBuke: 'ggggg',
-    wifi: true,
-    ionizatorZraka: true,
-    dimenzijeVanjskeJedinice: 222,
-    razinaBukeVanjskeJedinice: 222,
-    promijerCijeviTekucine: 'hhhhh',
-    promijerCijeviPlina: 'kkkk',
-    maksimalnaDuljinaCijevi: 222,
-    maksimalnaVisRazlika: 222,
-    naponPrikljucka: 'jjjj',
-  },
-
-  {
-    name: 'Fujitsu Design Inverter 2.5 kW - bijela',
-    sifraProizvoda: 'ASYG09KETA/AOYG09KETA',
-    image:
-      '/images/Fujitsu/FujitsuDesignInverter2.5kW-bijela-ASYG09KETAAOYG09KETA/6-5f21207c38d00_5f212f1f86047.png,/images/Fujitsu/FujitsuDesignInverter2.5kW-bijela-ASYG09KETAAOYG09KETA/17-60d301d779e93_60d3285ec7423.png',
-    description:
-      'Za ljubitelje odlične klimatizacije s naglaskom na moderan i elegantan dizajn, Fujitsu je pripremio novu seriju klima uređaja Design Inverter. Efikasnost bez kompromisa osigurava odlične rezultate energetskog razreda A++ u hlađenju, dok se novi dizajn s posebnom teksturom površine i elegantnim linijama lakoćom uklapa u okružje vašeg doma. Korištenjem najnovijeg i ekološki prihvatljivijeg rashladnog sredstva R32 postiže se još bolja energetska efikasnost i smanjuje štetnost za okoliš.Design Inverter nudi funkcionalnosti koje će osjetno olakšati korištenje, povećati udobnost i smanjiti brigu oko rada uređaja, sve kako bi vam osigurale nesmetanu ugodnost po vašim uvjetima. Od brojnih funkcionalnosti kao posebno vrijedne pažnje moramo istaknuti sljedeće: Ekonomski režim rada, Snažni režim rada, Održavanje 10 °C u prostoriji, Automatsko prebacivanje režima rada hlađenja i grijanja, Automatska kontrola ventilatora i Automatsko ponovno pokretanje. Oni zajedno nude odgovarajuće načine rada za sve potrebe jednog doma.Kontrola je iznimno laka putem bežičnog daljinskog upravljača koji vam nudi razne programske mogućnosti poput Noćnog, Programskog i Tjednog timera. Pomoću njih možete namjestiti potpunu automatizaciju rada kroz tjedan, kada želite i kako želite. Ovako velika i detaljna kontrola nad klima uređajem ne samo da olakšava korištenje, već nudi potpunu optimizaciju i maksimalno iskorištavanje mogućnosti uređaja, uz dodatnu uštedu električne energije radi ciljanog rada samo u pravo vrijeme.U ponudi je i žičani zidni daljinski upravljač koji nudi sve napredne mogućnosti kontrole u dobro poznatom stilu centralnog grijanja. Ne smijemo zaboraviti i na mogućnost ugradnje WiFi sučelja koje također nudimo u našoj ponudi. Ono vam omogućuje kontrolu nad klima uređajem gdje god se nalazili, a sve preko odlične aplikacije na nekom od vašim mobilnih pametnih uređaja. Uzmite kontrolu u svoje ruke, doslovno.',
-    brand: 'Fujitsu',
-    category: 'Mono klima uređaj',
-    price: 7200.0,
-    onSale: false,
-    sale: 0,
-    coldEff: 2.5,
-    warmEff: 2.8,
-    energyClass: 'A++',
-    sizeOfRoom: '16-25',
-    countInStock: 3,
-    rating: 0,
-    numReviews: 0,
-    najtrazeni: false,
-    radnaTvar: true,
-    rasponRashladnogUcinka: 'aaaaa',
-    SEER: 'sssss',
-    rasponUcinaGrijanja: 'dddddd',
-    SCOP: 'eeeeee',
-    dimenzijeUnutarnjeJedinice: 'fffff',
-    razinaBuke: 'ggggg',
-    wifi: true,
-    ionizatorZraka: true,
-    dimenzijeVanjskeJedinice: 222,
-    razinaBukeVanjskeJedinice: 222,
-    promijerCijeviTekucine: 'hhhhh',
-    promijerCijeviPlina: 'kkkk',
-    maksimalnaDuljinaCijevi: 222,
-    maksimalnaVisRazlika: 222,
-    naponPrikljucka: 'jjjj',
-  },
-
-  {
-    name: 'Fujitsu Design Inverter 2.5 kW - siva',
-    sifraProizvoda: 'ASYG09KETA-B/AOYG09KETA',
-    image:
-      '/images/Fujitsu/FujitsuDesignInverter2.5kW-siva-ASYG09KETA-BAOYG09KETA/5-5f2120abec982_5f213d2b5f96b.png,/images/Fujitsu/FujitsuDesignInverter2.5kW-siva-ASYG09KETA-BAOYG09KETA/18-60d301de56f54_60d31f3ae9a47.png',
-    description:
-      'Za ljubitelje odlične klimatizacije s naglaskom na moderan i elegantan dizajn, Fujitsu je pripremio novu seriju klima uređaja Design Inverter. Efikasnost bez kompromisa osigurava odlične rezultate energetskog razreda A++ u hlađenju, dok se novi dizajn s posebnom teksturom površine i elegantnim linijama lakoćom uklapa u okružje vašeg doma. Korištenjem najnovijeg i ekološki prihvatljivijeg rashladnog sredstva R32 postiže se još bolja energetska efikasnost i smanjuje štetnost za okoliš.Design Inverter nudi funkcionalnosti koje će osjetno olakšati korištenje, povećati udobnost i smanjiti brigu oko rada uređaja, sve kako bi vam osigurale nesmetanu ugodnost po vašim uvjetima. Od brojnih funkcionalnosti kao posebno vrijedne pažnje moramo istaknuti sljedeće: Ekonomski režim rada, Snažni režim rada, Održavanje 10 °C u prostoriji, Automatsko prebacivanje režima rada hlađenja i grijanja, Automatska kontrola ventilatora i Automatsko ponovno pokretanje. Oni zajedno nude odgovarajuće načine rada za sve potrebe jednog doma.Kontrola je iznimno laka putem bežičnog daljinskog upravljača koji vam nudi razne programske mogućnosti poput Noćnog, Programskog i Tjednog timera. Pomoću njih možete namjestiti potpunu automatizaciju rada kroz tjedan, kada želite i kako želite. Ovako velika i detaljna kontrola nad klima uređajem ne samo da olakšava korištenje, već nudi potpunu optimizaciju i maksimalno iskorištavanje mogućnosti uređaja, uz dodatnu uštedu električne energije radi ciljanog rada samo u pravo vrijeme.U ponudi je i žičani zidni daljinski upravljač koji nudi sve napredne mogućnosti kontrole u dobro poznatom stilu centralnog grijanja. Ne smijemo zaboraviti i na mogućnost ugradnje WiFi sučelja koje također nudimo u našoj ponudi. Ono vam omogućuje kontrolu nad klima uređajem gdje god se nalazili, a sve preko odlične aplikacije na nekom od vašim mobilnih pametnih uređaja. Uzmite kontrolu u svoje ruke, doslovno.',
-    brand: 'Fujitsu',
-    category: 'Mono klima uređaj',
-    price: 7200.0,
-    onSale: false,
-    sale: 0,
-    coldEff: 2.5,
-    warmEff: 2.8,
-    energyClass: 'A++',
-    sizeOfRoom: '16-25',
     countInStock: 3,
     rating: 0,
     numReviews: 0,
@@ -315,7 +239,7 @@ const products = [
     name: 'Fujitsu Super Eco Inverter 2.5kW',
     sifraProizvoda: 'ASYG09KMCC/AOYG09KMCC',
     image:
-      '/images/Fujitsu/FujitsuSuperEcoInverter-2.5kW-ASYG09KMCCAOYG09KMCC/19-60d301ab87e84_60d311de9a5ff,/images/Fujitsu/FujitsuSuperEcoInverter-2.5kW-ASYG09KMCCAOYG09KMCC/asyg-kmta-1100px-5cb991ca978f1_5eb021c7e86ca',
+      '/images/Fujitsu/FujitsuSuperEcoInverter-2.5kW-ASYG09KMCCAOYG09KMCC/19-60d301ab87e84_60d311de9a5ff.png,/images/Fujitsu/FujitsuSuperEcoInverter-2.5kW-ASYG09KMCCAOYG09KMCC/asyg-kmta-1100px-5cb991ca978f1_5eb021c7e86ca.jpg',
     description:
       'Kompaktne dimenzije osigurale su Fujitsu Super Eco Inverter klima uređaju privlačan izgled, a ugrađena tehnologija i korištenje rashladnog medija R32 vrlo visoke performanse i nisku potrošnju električne energije razreda A++. Uređaj u radu proizvodi tek 20 dB buke a snagom od 3.4 kW osigurava optimalnu klimatizaciju prostorija veličine do 35 m².Za pouzdani rad čak i u vašoj odsutnosti tu su funkcije „Sleep“, Programski timer i Održavanje 10 °C u prostoriji, a za svakodnevni rad upravo po vašim željama Ekonomski režim rada, Režim snažnog rada, Tihi rad, Automatski režim rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.Upravljanje klima uređajem je jednostavno pomoću infracrvenog daljinskog upravljača, a opcionalno je moguća i bežična kontrola vašim pametnim telefonom ili tabletom pomoću opcionalnog WiFi sučelja koje se prodaje zasebno.',
     brand: 'Fujitsu',
@@ -353,7 +277,7 @@ const products = [
     name: 'Fujitsu Super Eco Inverter 2.0 kW',
     sifraProizvoda: 'ASYG07KMCC/AOYG07KMCC',
     image:
-      '/images/Fujitsu/FujitsuSuperEcoInverter-2.0kW-ASYG07KMCCAOYG07KMCC/19-60d301a25ad3b_60d308050f647,/images/Fujitsu/FujitsuSuperEcoInverter-2.0kW-ASYG07KMCCAOYG07KMCC/asyg-kmta-1100px-5cb991ca978f1_5eb013bbe6a15',
+      '/images/Fujitsu/FujitsuSuperEcoInverter-2.0kW-ASYG07KMCCAOYG07KMCC/19-60d301a25ad3b_60d308050f647.png,/images/Fujitsu/FujitsuSuperEcoInverter-2.0kW-ASYG07KMCCAOYG07KMCC/asyg-kmta-1100px-5cb991ca978f1_5eb013bbe6a15.jpg',
     description:
       'Kompaktne dimenzije osigurale su Fujitsu Super Eco Inverter klima uređaju privlačan izgled, a ugrađena tehnologija i korištenje rashladnog medija R32 vrlo visoke performanse i nisku potrošnju električne energije razreda A++. Uređaj u radu proizvodi tek 20 dB buke a snagom od 3.4 kW osigurava optimalnu klimatizaciju prostorija veličine do 35 m².Za pouzdani rad čak i u vašoj odsutnosti tu su funkcije „Sleep“, Programski timer i Održavanje 10 °C u prostoriji, a za svakodnevni rad upravo po vašim željama Ekonomski režim rada, Režim snažnog rada, Tihi rad, Automatski režim rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.Upravljanje klima uređajem je jednostavno pomoću infracrvenog daljinskog upravljača, a opcionalno je moguća i bežična kontrola vašim pametnim telefonom ili tabletom pomoću opcionalnog WiFi sučelja koje se prodaje zasebno.',
     brand: 'Fujitsu',
@@ -391,7 +315,7 @@ const products = [
     name: 'Fujitsu Standard Eco Inverter 7.1 kW',
     sifraProizvoda: 'ASYG24KLCA/AOYG24KLTA',
     image:
-      '/images/Fujitsu/FujitsuStandardEcoInverter7.1kW-ASYG24KLCAAOYG24KLTA/22-60d3010f7a87e_60d3177d8a6b4,/images/Fujitsu/FujitsuStandardEcoInverter7.1kW-ASYG24KLCAAOYG24KLTA/fujitsu-klca-5cf7692b85dad_5cf76c88999bc',
+      '/images/Fujitsu/FujitsuStandardEcoInverter7.1kW-ASYG24KLCAAOYG24KLTA/22-60d3010f7a87e_60d3177d8a6b4.png,/images/Fujitsu/FujitsuStandardEcoInverter7.1kW-ASYG24KLCAAOYG24KLTA/fujitsu-klca-5cf7692b85dad_5cf76c88999bc.jpg',
     description:
       'Ulazni Fujitsu Standard Eco Inverter model koji koristi rashladni medij R32 oduševit će vas jednostavnim, nenametljivim dizajnom koji skriva brojne tehnološke novitete. Uređaj postiže A++ energetski razred u hlađenju, podržava opcionalno WiFi upravljanje koje se kupuje zasebno, te može grijati sve do -15 ºC. Snagom od 7.1 kW zadovoljit će sve potrebe hlađenja i grijanja u prostorijama do 75 m².Brza i jednostavna je i sama kontrola uređaja pomoću infracrvenog daljinskog upravljača i brojnih funkcija. U slučaju potrebe klimatizacije pred ili za vrijeme spavanja možete koristiti funkciju „Sleep“, dok se recimo u odsustvu možete poslužiti funkcijom „Programski timer“ i ne brinuti o tome da li je vaš klima uređaj ostao upaljen ili ugašen. Na ovaj način dodatno ćete uštedjeti na vremenu i potrošnji električne energije pravovremenim gašenjem klima uređaja i izbjegavanjem nepotrebnog rada.Za udobnost svakodnevnog korištenja tu su i sve najbitnije programske značajke poput: Ekonomski režim rada, Režim snažnog rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.',
     brand: 'Fujitsu',
@@ -429,7 +353,7 @@ const products = [
     name: 'Fujitsu Standard Eco Inverter 5.2 kW',
     sifraProizvoda: 'ASYG18KLCA/AOYG18KLCA',
     image:
-      '/images/Fujitsu/FujitsuStandardEcoInverter5.2kW-ASYG18KLCAAOYG18KLCA/22-60d3023209a78_60d31075e7f18,/images/Fujitsu/FujitsuStandardEcoInverter5.2kW-ASYG18KLCAAOYG18KLCA/fujitsu-klca-5cf7692b85dad_60251df8b8079',
+      '/images/Fujitsu/FujitsuStandardEcoInverter5.2kW-ASYG18KLCAAOYG18KLCA/22-60d3023209a78_60d31075e7f18.png,/images/Fujitsu/FujitsuStandardEcoInverter5.2kW-ASYG18KLCAAOYG18KLCA/fujitsu-klca-5cf7692b85dad_60251df8b8079.jpg',
     description:
       'Ulazni Fujitsu Standard Eco Inverter model koji koristi rashladni medij R32 oduševit će vas jednostavnim, nenametljivim dizajnom koji skriva brojne tehnološke novitete. Uređaj postiže A++ energetski razred u hlađenju, podržava opcionalno WiFi upravljanje koje se kupuje zasebno, te može grijati sve do -15 ºC. Snagom od 7.1 kW zadovoljit će sve potrebe hlađenja i grijanja u prostorijama do 75 m².Brza i jednostavna je i sama kontrola uređaja pomoću infracrvenog daljinskog upravljača i brojnih funkcija. U slučaju potrebe klimatizacije pred ili za vrijeme spavanja možete koristiti funkciju „Sleep“, dok se recimo u odsustvu možete poslužiti funkcijom „Programski timer“ i ne brinuti o tome da li je vaš klima uređaj ostao upaljen ili ugašen. Na ovaj način dodatno ćete uštedjeti na vremenu i potrošnji električne energije pravovremenim gašenjem klima uređaja i izbjegavanjem nepotrebnog rada.Za udobnost svakodnevnog korištenja tu su i sve najbitnije programske značajke poput: Ekonomski režim rada, Režim snažnog rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.',
     brand: 'Fujitsu',
@@ -467,7 +391,7 @@ const products = [
     name: 'Fujitsu Standard Eco Inverter 3.4 kW',
     sifraProizvoda: 'ASYG12KPCA/AOYG12KPCA',
     image:
-      '/images/Fujitsu/FujitsuStandardEcoInverter3.4kW-ASYG12KPCAAOYG12KPCA/21-60d300fda9767_60d30a244b201,/images/Fujitsu/FujitsuStandardEcoInverter3.4kW-ASYG12KPCAAOYG12KPCA/fujitsu-kpca-5cf768f1e50be_5cf77bf87ecc6',
+      '/images/Fujitsu/FujitsuStandardEcoInverter3.4kW-ASYG12KPCAAOYG12KPCA/21-60d300fda9767_60d30a244b201.png,/images/Fujitsu/FujitsuStandardEcoInverter3.4kW-ASYG12KPCAAOYG12KPCA/fujitsu-kpca-5cf768f1e50be_5cf77bf87ecc6.jpg',
     description:
       'Ulazni Fujitsu Standard Eco Inverter model koji koristi rashladni medij R32 oduševit će vas jednostavnim, nenametljivim dizajnom koji skriva brojne tehnološke novitete. Uređaj postiže A++ energetski razred u hlađenju, podržava opcionalno WiFi upravljanje koje se kupuje zasebno, te može grijati sve do -15 ºC. Snagom od 7.1 kW zadovoljit će sve potrebe hlađenja i grijanja u prostorijama do 75 m².Brza i jednostavna je i sama kontrola uređaja pomoću infracrvenog daljinskog upravljača i brojnih funkcija. U slučaju potrebe klimatizacije pred ili za vrijeme spavanja možete koristiti funkciju „Sleep“, dok se recimo u odsustvu možete poslužiti funkcijom „Programski timer“ i ne brinuti o tome da li je vaš klima uređaj ostao upaljen ili ugašen. Na ovaj način dodatno ćete uštedjeti na vremenu i potrošnji električne energije pravovremenim gašenjem klima uređaja i izbjegavanjem nepotrebnog rada.Za udobnost svakodnevnog korištenja tu su i sve najbitnije programske značajke poput: Ekonomski režim rada, Režim snažnog rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.',
     brand: 'Fujitsu',
@@ -505,7 +429,7 @@ const products = [
     name: 'Fujitsu Standard Eco Inverter 2.5 kW',
     sifraProizvoda: 'ASYG09KPCA/AOYG09KPCA',
     image:
-      '/images/Fujitsu/FujitsuStandardEcoInverter2.5kW-ASYG09KPCAAOYG09KPCA/21-60d300ef2b003_60d30b8b635c5,/images/Fujitsu/FujitsuStandardEcoInverter2.5kW-ASYG09KPCAAOYG09KPCA/fujitsu-kpca-5cf768f1e50be_5cf7792806991',
+      '/images/Fujitsu/FujitsuStandardEcoInverter2.5kW-ASYG09KPCAAOYG09KPCA/21-60d300ef2b003_60d30b8b635c5.png,/images/Fujitsu/FujitsuStandardEcoInverter2.5kW-ASYG09KPCAAOYG09KPCA/fujitsu-kpca-5cf768f1e50be_5cf7792806991.jpg',
     description:
       'Ulazni Fujitsu Standard Eco Inverter model koji koristi rashladni medij R32 oduševit će vas jednostavnim, nenametljivim dizajnom koji skriva brojne tehnološke novitete. Uređaj postiže A++ energetski razred u hlađenju, podržava opcionalno WiFi upravljanje koje se kupuje zasebno, te može grijati sve do -15 ºC. Snagom od 7.1 kW zadovoljit će sve potrebe hlađenja i grijanja u prostorijama do 75 m².Brza i jednostavna je i sama kontrola uređaja pomoću infracrvenog daljinskog upravljača i brojnih funkcija. U slučaju potrebe klimatizacije pred ili za vrijeme spavanja možete koristiti funkciju „Sleep“, dok se recimo u odsustvu možete poslužiti funkcijom „Programski timer“ i ne brinuti o tome da li je vaš klima uređaj ostao upaljen ili ugašen. Na ovaj način dodatno ćete uštedjeti na vremenu i potrošnji električne energije pravovremenim gašenjem klima uređaja i izbjegavanjem nepotrebnog rada.Za udobnost svakodnevnog korištenja tu su i sve najbitnije programske značajke poput: Ekonomski režim rada, Režim snažnog rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.',
     brand: 'Fujitsu',
@@ -543,7 +467,7 @@ const products = [
     name: 'Fujitsu Nocria X Inverter 3.4 kW',
     sifraProizvoda: 'ASYG12KXCA/AOYG12KXCA',
     image:
-      '/images/Fujitsu/FujitsuNocriaXInverter3.4kW-ASYG12KXCAAOYG12KXCA/16-60d3011b11032_60d30f0c33418,/images/Fujitsu/FujitsuNocriaXInverter3.4kW-ASYG12KXCAAOYG12KXCA/il-7635s-x08f-tp-5a86f03051a27_5c814312c4e4a',
+      '/images/Fujitsu/FujitsuNocriaXInverter3.4kW-ASYG12KXCAAOYG12KXCA/16-60d3011b11032_60d30f0c33418.png,/images/Fujitsu/FujitsuNocriaXInverter3.4kW-ASYG12KXCAAOYG12KXCA/il-7635s-x08f-tp-5a86f03051a27_5c814312c4e4a.jpg',
     description:
       'Legendarni Fujitsu Nocria X vratio se u ponudu ovog japanskog branda. No, ovaj puta riječ je o istinskom dragulju kojeg krase brojna tehnička rješenja o kojima konkurencija može samo maštati. Uz to, koristi ekološki prihvatljiv rashladni medij R32 koji pomaže pri očuvanju okoliša i poboljšava energetsku efikasnost, te "Human Sensor" funkciju automatskog ekonomičnog rada, pa nije ni čudo da Nocria X postiže najviše SEER i SCOP koeficijente A+++. Uz snagu od 3.4 kW stvarno se možete opustiti, jer će ovaj iznimni uređaj bez imalo problema rashladiti ili ugrijati svaku željenu prostoriju do 35 m² i pritom osigurati najvišu kvalitetu zraka. Za nju se pobrinuo "Plasma Filter", najsnažniji filterski sustav dostupan za klima uređaje koji pouzdano uklanja 99% štetnih čestica i ne samo da olakšava simptome respiratornih bolesti, već i pomaže u sprječavanju razvijanja istih.Kako bi osigurao da baš svaki kutak vašeg dnevog boravka, ureda ili spavaće sobe bude optimalno klimatiziran, ovaj model dolazi sa dvostrukim sistemom "Dual Blaster" koji sa snažnim ispuhom na bočnim stranicama klima uređaja omogućava rekordno brzo postizanje zadane temperature.  Uz brojne funkcije u ponudi Fujitsu klima uređaja poput Automatski režim rada, Automatsko ponovno pokretanje, Režim snažnog rada, Tihi rad, „Sleep timer“, Programski timer i Ekonomski režim rada, Nocria X dolazi i sa rijetkom, vrlo zahvalnom funkcijom Automatskog čišćenja zračnog filtera sa kojom ćete uštedjeti na vremenu i brizi, a dugoročno i na računu. Naime, princip rada klima uređaja je takav da u slučaju začepljenog filtera pokušava nadoknaditi izgubljenu efikasnost preko dodatnog pojačanog rada i time se naravno troši sve više električne energije.',
     brand: 'Fujitsu',
@@ -581,7 +505,7 @@ const products = [
     name: 'Fujitsu Design Inverter 4.2 kW siva',
     sifraProizvoda: 'ASYG14KETA-B/AOYG14KETA',
     image:
-      '/images/Fujitsu/FujitsuDesignInverter4.2kW-siva-ASYG14KETA-BAOYG14KETA/18-60d301f0af53a_60e434a79af46,/images/Fujitsu/FujitsuDesignInverter4.2kW-siva-ASYG14KETA-BAOYG14KETA/5-5f21212073e13_5f213de325321',
+      '/images/Fujitsu/FujitsuDesignInverter4.2kW-siva-ASYG14KETA-BAOYG14KETA/18-60d301f0af53a_60e434a79af46.png,/images/Fujitsu/FujitsuDesignInverter4.2kW-siva-ASYG14KETA-BAOYG14KETA/5-5f21212073e13_5f213de325321.png',
     description:
       'Za ljubitelje odlične klimatizacije s naglaskom na moderan i elegantan dizajn, Fujitsu je pripremio novu seriju klima uređaja Design Inverter. Efikasnost bez kompromisa osigurava odlične rezultate energetskog razreda A++ u hlađenju, dok se novi dizajn s posebnom teksturom površine i elegantnim linijama lakoćom uklapa u okružje vašeg doma. Korištenjem najnovijeg i ekološki prihvatljivijeg rashladnog sredstva R32 postiže se još bolja energetska efikasnost i smanjuje štetnost za okoliš.Design Inverter nudi funkcionalnosti koje će osjetno olakšati korištenje, povećati udobnost i smanjiti brigu oko rada uređaja, sve kako bi vam osigurale nesmetanu ugodnost po vašim uvjetima. Od brojnih funkcionalnosti kao posebno vrijedne pažnje moramo istaknuti sljedeće: Ekonomski režim rada, Snažni režim rada, Održavanje 10 °C u prostoriji, Automatsko prebacivanje režima rada hlađenja i grijanja, Automatska kontrola ventilatora i Automatsko ponovno pokretanje. Oni zajedno nude odgovarajuće načine rada za sve potrebe jednog doma.Kontrola je iznimno laka putem bežičnog daljinskog upravljača koji vam nudi razne programske mogućnosti poput Noćnog, Programskog i Tjednog timera. Pomoću njih možete namjestiti potpunu automatizaciju rada kroz tjedan, kada želite i kako želite. Ovako velika i detaljna kontrola nad klima uređajem ne samo da olakšava korištenje, već nudi potpunu optimizaciju i maksimalno iskorištavanje mogućnosti uređaja, uz dodatnu uštedu električne energije radi ciljanog rada samo u pravo vrijeme.U ponudi je i žičani zidni daljinski upravljač koji nudi sve napredne mogućnosti kontrole u dobro poznatom stilu centralnog grijanja. Ne smijemo zaboraviti i na mogućnost ugradnje WiFi sučelja koje također nudimo u našoj ponudi. Ono vam omogućuje kontrolu nad klima uređajem gdje god se nalazili, a sve preko odlične aplikacije na nekom od vašim mobilnih pametnih uređaja. Uzmite kontrolu u svoje ruke, doslovno.',
     brand: 'Fujitsu',
@@ -619,7 +543,7 @@ const products = [
     name: 'Fujitsu Design Inverter 4.2 kW bijela',
     sifraProizvoda: 'ASYG14KETA-B/AOYG14KETA',
     image:
-      '/images/Fujitsu/FujitsuDesignInverter4.2kW-bijela-ASYG14KETAAOYG14KETA/18-60d301f0af53a_60e434a79af46,/images/Fujitsu/FujitsuDesignInverter4.2kW-siva-ASYG14KETA-BAOYG14KETA/5-5f21212073e13_5f213de325321',
+      '/images/Fujitsu/FujitsuDesignInverter4.2kW-bijela-ASYG14KETAAOYG14KETA/17-60d301f68827a_60d3134c50cb3_640xr.png,/images/Fujitsu/FujitsuDesignInverter4.2kW-bijela-ASYG14KETAAOYG14KETA/6-5f21210fa65ab_5f213de367897.png',
     description:
       'Za ljubitelje odlične klimatizacije s naglaskom na moderan i elegantan dizajn, Fujitsu je pripremio novu seriju klima uređaja Design Inverter. Efikasnost bez kompromisa osigurava odlične rezultate energetskog razreda A++ u hlađenju, dok se novi dizajn s posebnom teksturom površine i elegantnim linijama lakoćom uklapa u okružje vašeg doma. Korištenjem najnovijeg i ekološki prihvatljivijeg rashladnog sredstva R32 postiže se još bolja energetska efikasnost i smanjuje štetnost za okoliš.Design Inverter nudi funkcionalnosti koje će osjetno olakšati korištenje, povećati udobnost i smanjiti brigu oko rada uređaja, sve kako bi vam osigurale nesmetanu ugodnost po vašim uvjetima. Od brojnih funkcionalnosti kao posebno vrijedne pažnje moramo istaknuti sljedeće: Ekonomski režim rada, Snažni režim rada, Održavanje 10 °C u prostoriji, Automatsko prebacivanje režima rada hlađenja i grijanja, Automatska kontrola ventilatora i Automatsko ponovno pokretanje. Oni zajedno nude odgovarajuće načine rada za sve potrebe jednog doma.Kontrola je iznimno laka putem bežičnog daljinskog upravljača koji vam nudi razne programske mogućnosti poput Noćnog, Programskog i Tjednog timera. Pomoću njih možete namjestiti potpunu automatizaciju rada kroz tjedan, kada želite i kako želite. Ovako velika i detaljna kontrola nad klima uređajem ne samo da olakšava korištenje, već nudi potpunu optimizaciju i maksimalno iskorištavanje mogućnosti uređaja, uz dodatnu uštedu električne energije radi ciljanog rada samo u pravo vrijeme.U ponudi je i žičani zidni daljinski upravljač koji nudi sve napredne mogućnosti kontrole u dobro poznatom stilu centralnog grijanja. Ne smijemo zaboraviti i na mogućnost ugradnje WiFi sučelja koje također nudimo u našoj ponudi. Ono vam omogućuje kontrolu nad klima uređajem gdje god se nalazili, a sve preko odlične aplikacije na nekom od vašim mobilnih pametnih uređaja. Uzmite kontrolu u svoje ruke, doslovno.',
     brand: 'Fujitsu',
@@ -657,7 +581,7 @@ const products = [
     name: 'Fujitsu Design Inverter 3.4 kW - siva ',
     sifraProizvoda: 'ASYG12KETA-B/AOYG12KETA',
     image:
-      '/images/Fujitsu/FujitsuDesignInverter3.4kW-siva-ASYG12KETA-BAOYG12KETA/18-60d301f0af53a_60d3285f65297,/images/Fujitsu/FujitsuDesignInverter3.4kW-siva-ASYG12KETA-BAOYG12KETA/5-5f212101cd177_5f213de2cd711',
+      '/images/Fujitsu/FujitsuDesignInverter3.4kW-siva-ASYG12KETA-BAOYG12KETA/18-60d301f0af53a_60d3285f65297.png,/images/Fujitsu/FujitsuDesignInverter3.4kW-siva-ASYG12KETA-BAOYG12KETA/5-5f212101cd177_5f213de2cd711.png',
     description:
       'Za ljubitelje odlične klimatizacije s naglaskom na moderan i elegantan dizajn, Fujitsu je pripremio novu seriju klima uređaja Design Inverter. Efikasnost bez kompromisa osigurava odlične rezultate energetskog razreda A++ u hlađenju, dok se novi dizajn s posebnom teksturom površine i elegantnim linijama lakoćom uklapa u okružje vašeg doma. Korištenjem najnovijeg i ekološki prihvatljivijeg rashladnog sredstva R32 postiže se još bolja energetska efikasnost i smanjuje štetnost za okoliš.Design Inverter nudi funkcionalnosti koje će osjetno olakšati korištenje, povećati udobnost i smanjiti brigu oko rada uređaja, sve kako bi vam osigurale nesmetanu ugodnost po vašim uvjetima. Od brojnih funkcionalnosti kao posebno vrijedne pažnje moramo istaknuti sljedeće: Ekonomski režim rada, Snažni režim rada, Održavanje 10 °C u prostoriji, Automatsko prebacivanje režima rada hlađenja i grijanja, Automatska kontrola ventilatora i Automatsko ponovno pokretanje. Oni zajedno nude odgovarajuće načine rada za sve potrebe jednog doma.Kontrola je iznimno laka putem bežičnog daljinskog upravljača koji vam nudi razne programske mogućnosti poput Noćnog, Programskog i Tjednog timera. Pomoću njih možete namjestiti potpunu automatizaciju rada kroz tjedan, kada želite i kako želite. Ovako velika i detaljna kontrola nad klima uređajem ne samo da olakšava korištenje, već nudi potpunu optimizaciju i maksimalno iskorištavanje mogućnosti uređaja, uz dodatnu uštedu električne energije radi ciljanog rada samo u pravo vrijeme.U ponudi je i žičani zidni daljinski upravljač koji nudi sve napredne mogućnosti kontrole u dobro poznatom stilu centralnog grijanja. Ne smijemo zaboraviti i na mogućnost ugradnje WiFi sučelja koje također nudimo u našoj ponudi. Ono vam omogućuje kontrolu nad klima uređajem gdje god se nalazili, a sve preko odlične aplikacije na nekom od vašim mobilnih pametnih uređaja. Uzmite kontrolu u svoje ruke, doslovno.',
     brand: 'Fujitsu',
@@ -695,7 +619,7 @@ const products = [
     name: 'Fujitsu Design Inverter 3.4 kW - bijela ',
     sifraProizvoda: 'ASYG12KETA-B/AOYG12KETA',
     image:
-      '/images/Fujitsu/FujitsuDesignInverter3.4kW-bijela-ASYG12KETAAOYG12KETA/17-60d301e6d4993_60d302648af98,/images/Fujitsu/FujitsuDesignInverter3.4kW-bijela-ASYG12KETAAOYG12KETA/6-5f2120f5db32d_5f213de28918e',
+      '/images/Fujitsu/FujitsuDesignInverter3.4kW-bijela-ASYG12KETAAOYG12KETA/17-60d301e6d4993_60d302648af98.png,/images/Fujitsu/FujitsuDesignInverter3.4kW-bijela-ASYG12KETAAOYG12KETA/6-5f2120f5db32d_5f213de28918e.png',
     description:
       'Za ljubitelje odlične klimatizacije s naglaskom na moderan i elegantan dizajn, Fujitsu je pripremio novu seriju klima uređaja Design Inverter. Efikasnost bez kompromisa osigurava odlične rezultate energetskog razreda A++ u hlađenju, dok se novi dizajn s posebnom teksturom površine i elegantnim linijama lakoćom uklapa u okružje vašeg doma. Korištenjem najnovijeg i ekološki prihvatljivijeg rashladnog sredstva R32 postiže se još bolja energetska efikasnost i smanjuje štetnost za okoliš.Design Inverter nudi funkcionalnosti koje će osjetno olakšati korištenje, povećati udobnost i smanjiti brigu oko rada uređaja, sve kako bi vam osigurale nesmetanu ugodnost po vašim uvjetima. Od brojnih funkcionalnosti kao posebno vrijedne pažnje moramo istaknuti sljedeće: Ekonomski režim rada, Snažni režim rada, Održavanje 10 °C u prostoriji, Automatsko prebacivanje režima rada hlađenja i grijanja, Automatska kontrola ventilatora i Automatsko ponovno pokretanje. Oni zajedno nude odgovarajuće načine rada za sve potrebe jednog doma.Kontrola je iznimno laka putem bežičnog daljinskog upravljača koji vam nudi razne programske mogućnosti poput Noćnog, Programskog i Tjednog timera. Pomoću njih možete namjestiti potpunu automatizaciju rada kroz tjedan, kada želite i kako želite. Ovako velika i detaljna kontrola nad klima uređajem ne samo da olakšava korištenje, već nudi potpunu optimizaciju i maksimalno iskorištavanje mogućnosti uređaja, uz dodatnu uštedu električne energije radi ciljanog rada samo u pravo vrijeme.U ponudi je i žičani zidni daljinski upravljač koji nudi sve napredne mogućnosti kontrole u dobro poznatom stilu centralnog grijanja. Ne smijemo zaboraviti i na mogućnost ugradnje WiFi sučelja koje također nudimo u našoj ponudi. Ono vam omogućuje kontrolu nad klima uređajem gdje god se nalazili, a sve preko odlične aplikacije na nekom od vašim mobilnih pametnih uređaja. Uzmite kontrolu u svoje ruke, doslovno.',
     brand: 'Fujitsu',
@@ -1436,55 +1360,6 @@ const products = [
 
 
 
-//   //QZEN//
-
-
-
-
-
-
-  {
-    name: 'Olimpia Splendid Nexya S4E Inverter 12C 3.5kW',
-    sifraProizvoda: 'OS-KENEH12EI/OS-SENEH12EI',
-    image:
-      '/images/OlimpiaSplendid/OlimpiaSplendidNexyaS4EInverter12C3.5kW-OS-KENEH12EIOS-SENEH12EI/1-6151c59c51806_6151ec61993b1,/images/OlimpiaSplendid/OlimpiaSplendidNexyaS4EInverter12C3.5kW-OS-KENEH12EIOS-SENEH12EI/2-6151c59c8dbf0_6151ec61f3f1b',
-    description:
-      'Odlična energetska efikasnost razreda A++ u hlađenju i A+ u grijanju postignuta je kombinacijom najnovijeg invertera i elektronike te energetski prihvatljivijeg rashladnog plina R32. On nije zahvalan samo za bolje performanse, već i za korištenje bez brige jer s njime znate da pomažete pri očuvanju okoliša. Dok on čuva okoliš, anti korozivni premaz „Golden fin“ čuva vašu vanjsku jedinicu od atmosferskih utjecaja i osigurava dugotrajnost vašeg klima uređaja.Ne smijemo zaboraviti i na udobnost koju pružaju vrlo korisne napredne funkcije poput „Postavke za spavanje“ gdje klima uređaj sam postupno regulira temperaturu i smanjuje razinu buke kako bi vam omogućio miran san. Još jedna od njih je i „Prati me“ funkcija koja prati temperaturu na senzoru u daljinskom upravljaču te ako ga držite kraj sebe osigurava prilagodbu rada kako bi se što vjernije postigla idealna temperatura baš tamo gdje ju najviše trebate.Iz već navedene funkcionalnosti dolazi i jednako laka i napredna kontrola putem daljinskog upravljača i Wi-Fi sučelja. On je za vas besplatan i dolazi u pakiranju s klima uređajem, a potrebno ga je samo priključiti te povezati putem aplikacije na vašem pametnog uređaju (Android / iPhone). Putem Wi-Fi kontrole, svojim klima uređajem možete upravljati i dok putujete, nalazite se na poslu, školi ili nekoj drugoj aktivnosti. Možete primjerice putem „24h timer“ funkcije postaviti paljenje ili gašenje kada vam najviše odgovara, a na brigu o tome da li je klima uređaj ostao upaljen, možete slobodno zaboraviti.Kako bi se dodatno uštedila potrošnja električne energije, ovaj klima uređaj koristi Display LED ( prikaz skriven ispod prednjeg panela) kako bi vam jasno prikazao trenutni režim ili postavke klima uređaja kada vas to zanima. Ovim se putem dobiva i na estetskom dojmu klima uređaja jer je prednja površina panela glatka i čista, što naravno pridonosi i lakšem održavanju. Dobro poznate prednosti na koje smo navikli kod talijanskog dizajna.',
-    brand: 'Olimpia Splendid',
-    category: 'Mono klima uređaj',
-    price: 3700,
-    onSale: false,
-    sale: 0,
-    coldEff: 3.4,
-    warmEff: 3.6,
-    energyClass: 'A++',
-    sizeOfRoom: '26-35',
-    countInStock: 3,
-    rating: 0,
-    numReviews: 0,
-    najtrazeni: false,
-    radnaTvar: true,
-    rasponRashladnogUcinka: 'aaaaa',
-    SEER: 'sssss',
-    rasponUcinaGrijanja: 'dddddd',
-    SCOP: 'eeeeee',
-    dimenzijeUnutarnjeJedinice: 'fffff',
-    razinaBuke: 'ggggg',
-    wifi: true,
-    ionizatorZraka: true,
-    dimenzijeVanjskeJedinice: 222,
-    razinaBukeVanjskeJedinice: 222,
-    promijerCijeviTekucine: 'hhhhh',
-    promijerCijeviPlina: 'kkkk',
-    maksimalnaDuljinaCijevi: 222,
-    maksimalnaVisRazlika: 222,
-    naponPrikljucka: 'jjjj',
-  },  
-      
- 
-
-
-
 
                 //TOSHIBA//
 
@@ -1497,7 +1372,7 @@ const products = [
     name: 'Toshiba Digital Inverter 2.5 kW R32',
     sifraProizvoda: 'OS-KENEH12EI/OS-SENEH12EI',
     image:
-      '/images/Toshiba/ToshibaDigitalInverter2.5kWR-zidnajedinicaRAV-RM301KRTP-ERAV-GM301ATP-E/toshiba-digital-inverter-5f37b282a4e49_5f37d50eb0dbf,/images/Toshiba/ToshibaDigitalInverter2.5kWR-zidnajedinicaRAV-RM301KRTP-ERAV-GM301ATP-E/di-unutarnja-1100-5b2a2030cb56c_5f37fa544862c,/images/Toshiba/ToshibaDigitalInverter2.5kWR-zidnajedinicaRAV-RM301KRTP-ERAV-GM301ATP-E/toshiba-digital-inverter-1-5f37b25324128_5f37d50eed1d6',
+      '/images/Toshiba/ToshibaDigitalInverter2.5kWR-zidnajedinicaRAV-RM301KRTP-ERAV-GM301ATP-E/toshiba-digital-inverter-5f37b282a4e49_5f37d50eb0dbf.png,/images/Toshiba/ToshibaDigitalInverter2.5kWR-zidnajedinicaRAV-RM301KRTP-ERAV-GM301ATP-E/di-unutarnja-1100-5b2a2030cb56c_5f37fa544862c.jpg',
     description:
       'Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)',
     brand: 'Toshiba',
@@ -1534,21 +1409,101 @@ const products = [
 
 
 
+
+
   {
-    name: 'Toshiba Seiya 6.5 kW ',
-    sifraProizvoda: 'RAS-24E2KVG-E/RAS-24E2AVG-E',
+    name: 'Toshiba Digital Inverter 3.6 kW',
+    sifraProizvoda: 'RAV-RM401KRTP-E/RAV-GM401ATP-E',
     image:
-      '/images/Toshiba/ToshibaSeiya6.5kW-RAS-24E2KVG-ERAS-24E2AVG-E/seiya-24-62be9ca260b08_62be9f6e0ccb6,/images/ToshibaSeiya6.5kW-RAS-24E2KVG-ERAS-24E2AVG-E/seiya-24-indoor-62be9ca2a726a_62be9f6e581a9,/images/Toshiba/ToshibaSeiya6.5kW-RAS-24E2KVG-ERAS-24E2AVG-E/seiya-16-24-outdoor-62be9ca2e8a77_62be9f6ee168f',
+      '/images/Toshiba/ToshibaDigitalInverter3.6kWR32-zidnajedinicaRAV-RM401KRTP-ERAV-GM401ATP-E/toshiba-digital-inverter-5f37b25356142_5f37d0235d37e.png,/images/Toshiba/ToshibaDigitalInverter3.6kWR32-zidnajedinicaRAV-RM401KRTP-ERAV-GM401ATP-E/di-unutarnja-1100-5b2a2030cb56c_5f383bb7917f3.jpg',
     description:
-      'Seiya Inverter predstavlja savršen ulazak u svijet klimatizacije. Početni model Toshibine palete opremljen je štedljivim inverterskim kompresorom i svim funkcionalnostima na koje su navikli korisnici premium branda poput Toshibe. Uz to, svoj rad obavlja koristeći najnoviji rashladni medij R32 koji ne samo da je ekološki prihvatljiviji, već i donosi dodatnu uštedu u potrošnji električne energije. Energetska učinkovitost razreda A++ i snagom od 6.5 kW. No, nisu samo odlične značajke te koje ovaj model čine odličnim, tu je i primjer neprestanog rada na inovacijama koje će se pobrinuti za maksimalnu udobnost i mir. Seiya smanjuje razinu buke dvjema funkcijama tihog rada: QUIET na unutarnjoj jedinici omogućava vam neometani mir noću, a SILENT na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba!Uz tih i ekonomičan rad, Seiya uređaji osigurati će vam i odličnu kvalitetu zraka zahvaljujući „IAQ“ filteru i izmjenjivaču topline Magic Coil®. Izmjenjivač topline unutarnje jedinice uvijek se održava čistim i suhim s pomoću posebnog premaza zajedno s funkcijom samočišćenja nakon završetka rada. Nema šanse za razvoj neugodnih mirisa i bakterija.Kako bi lako i pouzdano upravljali svojim novim klima uređajem tu je infracrveni daljinski upravljač i mogućnost kupnje opcionalnog WiFi sučelja RB-N104S-G pomoću kojeg uređajem možete upravljati vašim pametnim telefonom ili tabletom.Klima uređaj Toshiba Seiya Inverter 6.5 kW sastoji se od unutarnje jedinice oznake RAS-24EJ2KVG-E, vanjske jedinice RAS-24E2AVG-E i infracrvenog daljinskog upravljača.',
+      'Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)',
     brand: 'Toshiba',
     category: 'Mono klima uređaj',
-    price: 11500,
+    price: 12700,
     onSale: false,
     sale: 0,
-    coldEff: 6.5,
-    warmEff: 7.0,
-    energyClass: 'A++',
+    coldEff: 3.6,
+    warmEff: 4.0,
+    energyClass: '??',
+    sizeOfRoom: '26-35',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+
+  {
+    name: 'Toshiba Digital Inverter 5.0 kW',
+    sifraProizvoda: 'RAV-RM561KRTP-E/RAV-GM561ATP-E',
+    image:
+      '/images/Toshiba/ToshibaDigitalInverter5.0kW/toshiba-digital-inverter-2-5f37b3d8ac300_5f37bbc0c062c.png,/images/Toshiba/ToshibaDigitalInverter5.0kW/di-unutarnja-1-1100-5b2a23d4e7bbe_5f37e102cf9f3.jpg',
+    description:
+      'Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)',
+    brand: 'Toshiba',
+    category: 'Mono klima uređaj',
+    price: 14300,
+    onSale: false,
+    sale: 0,
+    coldEff: 5.0,
+    warmEff: 5.3,
+    energyClass: '??',
+    sizeOfRoom: '46-55',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+
+  {
+    name: 'Toshiba Digital Inverter 6.7 kW',
+    sifraProizvoda: 'RAV-RM801KRTP-E/RAV-GM801ATP-E',
+    image:
+      '/images/Toshiba/ToshibaDigitalInverter6.7kW/toshiba-digital-inverter-2-5f37b3d8ac300_5f37cbec59720.png,/images/Toshiba/ToshibaDigitalInverter6.7kW/di-unutarnja-1-1100-5b2a23d4e7bbe_5f37f12f10c55.jpg',
+    description:
+      'Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)',
+    brand: 'Toshiba',
+    category: 'Mono klima uređaj',
+    price: 17200,
+    onSale: false,
+    sale: 0,
+    coldEff: 6.7,
+    warmEff: 7.7,
+    energyClass: '??',
     sizeOfRoom: '56-65',
     countInStock: 3,
     rating: 0,
@@ -1573,13 +1528,14 @@ const products = [
   },
 
 
+
   
   
   {
     name: 'Toshiba Shorai Edge 2.5 kW ',
     sifraProizvoda: 'RAS-B10J2KVSG-E/RAS-10J2AVSG-E',
     image:
-      '/images/Toshiba/ToshibaShoraiEdge2.5kW-RAS-B10J2KVSG-ERAS-10J2AVSG-E/1-5f22b0df742b9_5f22cd3f8a524,/images/ToshibaShoraiEdge2.5kW-RAS-B10J2KVSG-ERAS-10J2AVSG-E/4-5f22b0df96318_5f22cd3fa8cd2',
+      '/images/Toshiba/ToshibaShoraiEdge2.5kW-RAS-B10J2KVSG-ERAS-10J2AVSG-E/1-5f22b0df742b9_5f22cd3f8a524.png,/images/Toshiba/ToshibaShoraiEdge2.5kW-RAS-B10J2KVSG-ERAS-10J2AVSG-E/4-5f22b0df96318_5f22cd3fa8cd2.png',
     description:
       'Toshiba Shorai Premium model predstavlja kombinaciju vrhunskih modela klima uređaja Suzumi i Daisekai. Visoka energetska učinkovitost, napredni filterski sustav i 3D Airflow upravljanje lamelama samo su neke od brojnih karakteristika ovog primamljivog modela. Također, koristi se najnoviji rashladni medij R32 koji uz dodatnu energetsku uštedu ima i znatno smanjen negativan utjecaj na okoliš.Kako bi vam osigurali vrhunsku kvalitetu zraka, modeli ove serije uz filter prašine dolaze i s naprednim „IAQ“ filterom. Uz to, dolaze i sa Ionizatorom zraka koji negativnim ionima obuhvaća čestice poput prašine, peluda i dima, dok su se za optimalnu raspodjelu zraka po prostoriji pobrinule neovisne lamele ispuha koje pomoću 3D Airflow funkcije nude 6 obrazaca ispuha zraka.Toshiba neprestano radi na inovacijama kako bi ispunila sve zahtjeve korisnika za izvrsnom klimatizacijom. Za maksimalnu udobnost i mir Shorai Premium smanjuje razinu buke dvjema funkcijama tihog rada: Quiet na unutarnjoj jedinici omogućava vam neometani mir noću, a Silent na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba.Upravljanje standardnim i naprednim Toshiba funkcijama ovog izvrsnog klima uređaja lako je s infracrvenim daljinskim upravljačem i opcionalnim WiFi sučeljem koje se prodaje zasebno.Klima uređaj Toshiba Shorai Premium 2.5 kW sastoji se od unutarnje jedinice oznake RAS- B10J2KVRG -E, vanjske jedinice RAS- 10J2AVRG -E i infracrvenog daljinskog upravljača.',
     brand: 'Toshiba',
@@ -1620,7 +1576,7 @@ const products = [
     name: 'Toshiba Shorai Edge 3.5 kW ',
     sifraProizvoda: 'RAS-B13J2KVSG-E/RAS-13J2AVSG-E',
     image:
-      '/images/Toshiba/ToshibaShoraiEdge3.5kW-RAS-B13J2KVSG-ERAS-13J2AVSG-E/1-5f22b0e9e4b6b_5f22cd3fd2207,/images/ToshibaShoraiEdge3.5kW-RAS-B13J2KVSG-ERAS-13J2AVSG-E/4-5f22b0ea06ba0_5f22cd4002ada',
+      '/images/Toshiba/ToshibaShoraiEdge3.5kW-RAS-B13J2KVSG-ERAS-13J2AVSG-E/1-5f22b0e9e4b6b_5f22cd3fd2207.png,/images/Toshiba/ToshibaShoraiEdge3.5kW-RAS-B13J2KVSG-ERAS-13J2AVSG-E/4-5f22b0ea06ba0_5f22cd4002ada.png',
     description:
       'Toshiba Shorai Premium model predstavlja kombinaciju vrhunskih modela klima uređaja Suzumi i Daisekai. Visoka energetska učinkovitost, napredni filterski sustav i 3D Airflow upravljanje lamelama samo su neke od brojnih karakteristika ovog primamljivog modela. Također, koristi se najnoviji rashladni medij R32 koji uz dodatnu energetsku uštedu ima i znatno smanjen negativan utjecaj na okoliš.Kako bi vam osigurali vrhunsku kvalitetu zraka, modeli ove serije uz filter prašine dolaze i s naprednim „IAQ“ filterom. Uz to, dolaze i sa Ionizatorom zraka koji negativnim ionima obuhvaća čestice poput prašine, peluda i dima, dok su se za optimalnu raspodjelu zraka po prostoriji pobrinule neovisne lamele ispuha koje pomoću 3D Airflow funkcije nude 6 obrazaca ispuha zraka.Toshiba neprestano radi na inovacijama kako bi ispunila sve zahtjeve korisnika za izvrsnom klimatizacijom. Za maksimalnu udobnost i mir Shorai Premium smanjuje razinu buke dvjema funkcijama tihog rada: Quiet na unutarnjoj jedinici omogućava vam neometani mir noću, a Silent na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba.Upravljanje standardnim i naprednim Toshiba funkcijama ovog izvrsnog klima uređaja lako je s infracrvenim daljinskim upravljačem i opcionalnim WiFi sučeljem koje se prodaje zasebno.Klima uređaj Toshiba Shorai Premium 2.5 kW sastoji se od unutarnje jedinice oznake RAS- B10J2KVRG -E, vanjske jedinice RAS- 10J2AVRG -E i infracrvenog daljinskog upravljača.',
     brand: 'Toshiba',
@@ -1660,7 +1616,7 @@ const products = [
     name: 'Toshiba Shorai Edge 4.6 kW',
     sifraProizvoda: 'RAS-B16J2KVSG-E/RAS-16J2AVSG-E',
     image:
-      '/images/Toshiba/ToshibaShoraiEdge4.6kW-RAS-B16J2KVSG-ERAS-16J2AVSG-E/1-5f22b0f61d1e7_5f22cd403321d,/images/ToshibaShoraiEdge4.6kW-RAS-B16J2KVSG-ERAS-16J2AVSG-E/4-5f22b0f635504_5f22cd4053ced',
+      '/images/Toshiba/ToshibaShoraiEdge4.6kW-RAS-B16J2KVSG-ERAS-16J2AVSG-E/1-5f22b0f61d1e7_5f22cd403321d.png,/images/Toshiba/ToshibaShoraiEdge4.6kW-RAS-B16J2KVSG-ERAS-16J2AVSG-E/4-5f22b0f635504_5f22cd4053ced.png',
     description:
       'Toshiba Shorai Premium model predstavlja kombinaciju vrhunskih modela klima uređaja Suzumi i Daisekai. Visoka energetska učinkovitost, napredni filterski sustav i 3D Airflow upravljanje lamelama samo su neke od brojnih karakteristika ovog primamljivog modela. Također, koristi se najnoviji rashladni medij R32 koji uz dodatnu energetsku uštedu ima i znatno smanjen negativan utjecaj na okoliš.Kako bi vam osigurali vrhunsku kvalitetu zraka, modeli ove serije uz filter prašine dolaze i s naprednim „IAQ“ filterom. Uz to, dolaze i sa Ionizatorom zraka koji negativnim ionima obuhvaća čestice poput prašine, peluda i dima, dok su se za optimalnu raspodjelu zraka po prostoriji pobrinule neovisne lamele ispuha koje pomoću 3D Airflow funkcije nude 6 obrazaca ispuha zraka.Toshiba neprestano radi na inovacijama kako bi ispunila sve zahtjeve korisnika za izvrsnom klimatizacijom. Za maksimalnu udobnost i mir Shorai Premium smanjuje razinu buke dvjema funkcijama tihog rada: Quiet na unutarnjoj jedinici omogućava vam neometani mir noću, a Silent na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba.Upravljanje standardnim i naprednim Toshiba funkcijama ovog izvrsnog klima uređaja lako je s infracrvenim daljinskim upravljačem i opcionalnim WiFi sučeljem koje se prodaje zasebno.Klima uređaj Toshiba Shorai Premium 2.5 kW sastoji se od unutarnje jedinice oznake RAS- B10J2KVRG -E, vanjske jedinice RAS- 10J2AVRG -E i infracrvenog daljinskog upravljača.',
     brand: 'Toshiba',
@@ -1700,7 +1656,7 @@ const products = [
     name: 'Toshiba Shorai Edge 6.1 kW',
     sifraProizvoda: 'RAS-B22J2KVSG-E/RAS-22J2AVSG-E',
     image:
-      '/images/Toshiba/ToshibaShoraiEdge6.1kW-RAS-B22J2KVSG-ERAS-22J2AVSG-E/2-5f22b11d2bde7_5f22b82982713,/images/ToshibaShoraiEdge6.1kW-RAS-B22J2KVSG-ERAS-22J2AVSG-E/5-5f22b11d46fc7_5f22b829a392e',
+      '/images/Toshiba/ToshibaShoraiEdge6.1kW-RAS-B22J2KVSG-ERAS-22J2AVSG-E/2-5f22b11d2bde7_5f22b82982713.png,/images/Toshiba/ToshibaShoraiEdge6.1kW-RAS-B22J2KVSG-ERAS-22J2AVSG-E/5-5f22b11d46fc7_5f22b829a392e.png',
     description:
       'Toshiba Shorai Premium model predstavlja kombinaciju vrhunskih modela klima uređaja Suzumi i Daisekai. Visoka energetska učinkovitost, napredni filterski sustav i 3D Airflow upravljanje lamelama samo su neke od brojnih karakteristika ovog primamljivog modela. Također, koristi se najnoviji rashladni medij R32 koji uz dodatnu energetsku uštedu ima i znatno smanjen negativan utjecaj na okoliš.Kako bi vam osigurali vrhunsku kvalitetu zraka, modeli ove serije uz filter prašine dolaze i s naprednim „IAQ“ filterom. Uz to, dolaze i sa Ionizatorom zraka koji negativnim ionima obuhvaća čestice poput prašine, peluda i dima, dok su se za optimalnu raspodjelu zraka po prostoriji pobrinule neovisne lamele ispuha koje pomoću 3D Airflow funkcije nude 6 obrazaca ispuha zraka.Toshiba neprestano radi na inovacijama kako bi ispunila sve zahtjeve korisnika za izvrsnom klimatizacijom. Za maksimalnu udobnost i mir Shorai Premium smanjuje razinu buke dvjema funkcijama tihog rada: Quiet na unutarnjoj jedinici omogućava vam neometani mir noću, a Silent na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba.Upravljanje standardnim i naprednim Toshiba funkcijama ovog izvrsnog klima uređaja lako je s infracrvenim daljinskim upravljačem i opcionalnim WiFi sučeljem koje se prodaje zasebno.Klima uređaj Toshiba Shorai Premium 2.5 kW sastoji se od unutarnje jedinice oznake RAS- B10J2KVRG -E, vanjske jedinice RAS- 10J2AVRG -E i infracrvenog daljinskog upravljača.',
     brand: 'Toshiba',
@@ -1740,7 +1696,7 @@ const products = [
     name: 'Toshiba Shorai Edge 7.0 kW',
     sifraProizvoda: 'RAS-B24J2KVSG-E/RAS-24J2AVSG-E',
     image:
-      '/images/Toshiba/ToshibaShoraiEdge7.0kW-RAS-B24J2KVSG-ERAS-24J2AVSG-E/3-5f22b12f91bc0_5f22b82a70eed,/images/ToshibaShoraiEdge7.0kW-RAS-B24J2KVSG-ERAS-24J2AVSG-E/5-5f22b12fae4c0_5f22b82a90816',
+      '/images/Toshiba/ToshibaShoraiEdge7.0kW-RAS-B24J2KVSG-ERAS-24J2AVSG-E/3-5f22b12f91bc0_5f22b82a70eed.png,/images/Toshiba/ToshibaShoraiEdge7.0kW-RAS-B24J2KVSG-ERAS-24J2AVSG-E/5-5f22b12fae4c0_5f22b82a90816.png',
     description:
       'Toshiba Shorai Premium model predstavlja kombinaciju vrhunskih modela klima uređaja Suzumi i Daisekai. Visoka energetska učinkovitost, napredni filterski sustav i 3D Airflow upravljanje lamelama samo su neke od brojnih karakteristika ovog primamljivog modela. Također, koristi se najnoviji rashladni medij R32 koji uz dodatnu energetsku uštedu ima i znatno smanjen negativan utjecaj na okoliš.Kako bi vam osigurali vrhunsku kvalitetu zraka, modeli ove serije uz filter prašine dolaze i s naprednim „IAQ“ filterom. Uz to, dolaze i sa Ionizatorom zraka koji negativnim ionima obuhvaća čestice poput prašine, peluda i dima, dok su se za optimalnu raspodjelu zraka po prostoriji pobrinule neovisne lamele ispuha koje pomoću 3D Airflow funkcije nude 6 obrazaca ispuha zraka.Toshiba neprestano radi na inovacijama kako bi ispunila sve zahtjeve korisnika za izvrsnom klimatizacijom. Za maksimalnu udobnost i mir Shorai Premium smanjuje razinu buke dvjema funkcijama tihog rada: Quiet na unutarnjoj jedinici omogućava vam neometani mir noću, a Silent na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba.Upravljanje standardnim i naprednim Toshiba funkcijama ovog izvrsnog klima uređaja lako je s infracrvenim daljinskim upravljačem i opcionalnim WiFi sučeljem koje se prodaje zasebno.Klima uređaj Toshiba Shorai Premium 2.5 kW sastoji se od unutarnje jedinice oznake RAS- B10J2KVRG -E, vanjske jedinice RAS- 10J2AVRG -E i infracrvenog daljinskog upravljača.',
     brand: 'Toshiba',
@@ -1780,7 +1736,7 @@ const products = [
     name: 'Toshiba Shorai Premium 2.5 kW',
     sifraProizvoda: 'RAS-B10J2KVRG-E/RAS-10J2AVRG-E',
     image:
-      '/images/Toshiba/ToshibaShoraiPremium2.5kW-RAS-B10J2KVRG-ERAS-10J2AVRG-E/prednje-slike-s-top-5-13-5f0451a477429_5f045a68755ad,/images/ToshibaShoraiPremium2.5kW-RAS-B10J2KVRG-ERAS-10J2AVRG-E/shorai-premium-5cee7ad51e3a9_5cee8d61e2944,/images/Toshiba/ToshibaShoraiPremium2.5kW-RAS-B10J2KVRG-ERAS-10J2AVRG-E/suzumi-plus-nadr-inv-5cee7bea7b928_5cee8d62114c2',
+      '/images/Toshiba/ToshibaShoraiPremium2.5kW-RAS-B10J2KVRG-ERAS-10J2AVRG-E/prednje-slike-s-top-5-13-5f0451a477429_5f045a68755ad.png,/images/Toshiba/ToshibaShoraiPremium2.5kW-RAS-B10J2KVRG-ERAS-10J2AVRG-E/shorai-premium-5cee7ad51e3a9_5cee8d61e2944.jpg',
     description:
       'Toshiba Shorai Premium model predstavlja kombinaciju vrhunskih modela klima uređaja Suzumi i Daisekai. Visoka energetska učinkovitost, napredni filterski sustav i 3D Airflow upravljanje lamelama samo su neke od brojnih karakteristika ovog primamljivog modela. Također, koristi se najnoviji rashladni medij R32 koji uz dodatnu energetsku uštedu ima i znatno smanjen negativan utjecaj na okoliš.Kako bi vam osigurali vrhunsku kvalitetu zraka, modeli ove serije uz filter prašine dolaze i s naprednim „IAQ“ filterom. Uz to, dolaze i sa Ionizatorom zraka koji negativnim ionima obuhvaća čestice poput prašine, peluda i dima, dok su se za optimalnu raspodjelu zraka po prostoriji pobrinule neovisne lamele ispuha koje pomoću 3D Airflow funkcije nude 6 obrazaca ispuha zraka.Toshiba neprestano radi na inovacijama kako bi ispunila sve zahtjeve korisnika za izvrsnom klimatizacijom. Za maksimalnu udobnost i mir Shorai Premium smanjuje razinu buke dvjema funkcijama tihog rada: Quiet na unutarnjoj jedinici omogućava vam neometani mir noću, a Silent na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba.Upravljanje standardnim i naprednim Toshiba funkcijama ovog izvrsnog klima uređaja lako je s infracrvenim daljinskim upravljačem i opcionalnim WiFi sučeljem koje se prodaje zasebno.Klima uređaj Toshiba Shorai Premium 2.5 kW sastoji se od unutarnje jedinice oznake RAS- B10J2KVRG -E, vanjske jedinice RAS- 10J2AVRG -E i infracrvenog daljinskog upravljača.',
     brand: 'Toshiba',
@@ -1819,7 +1775,7 @@ const products = [
     name: 'Toshiba Super Daiseikai 9 - 2.5 kW',
     sifraProizvoda: 'RAS-10PKVPG-E/RAS-10PAVPG-E R-32',
     image:
-      '/images/Toshiba/ToshibaSuperDaiseikai9-2.5kW-RAS-10PKVPG-ERAS-10PAVPG-ER-32/16-5f0436a3d0781_5f04579847624,/images/ToshibaSuperDaiseikai9-2.5kW-RAS-10PKVPG-ERAS-10PAVPG-E R-32/daisekai-9-5c599ea98b608_5cd2d4b5d4745,/images/Toshiba/ToshibaSuperDaiseikai9-2.5kW-RAS-10PKVPG-ERAS-10PAVPG-ER-32/ous-ras-savp2-f-5cd42c5c0f697_5cd43da5e5be3',
+      '/images/Toshiba/ToshibaSuperDaiseikai9-2.5kW-RAS-10PKVPG-ERAS-10PAVPG-ER-32/16-5f0436a3d0781_5f04579847624.png,/images/Toshiba/ToshibaSuperDaiseikai9-2.5kW-RAS-10PKVPG-ERAS-10PAVPG-ER-32/daisekai-9-5c599ea98b608_5cd2d4b5d4745.jpg',
     description:
       'Toshibina perjanica premium razreda Daiseikai 9 opremljena je dvostruko-rotacijskim kompresorom vrhunske efikasnosti te postiže zavidne rezultate u potrošnji električne energije. Smanjenju potrošnje pridonosi i korištenje ekološki prihvatljivijeg rashladnog medija R32, dok se za kakvoću zraka brinu ugrađeni ionizator i napredni plazma filter.Kvaliteta filtracije kod ovoga uređaja u samom je vrhu ponude na tržištu. Toshiba Plasma Filtar „Pure Mode“ iznimno je učinkovit električni pročišćivač zraka koji jamči filtriranje najsitnijih čestica budući da su njegove elektrostatske ćelije u stanju ukloniti do 99% svih štetnih tvari. Ova funkcija može se aktivirati jednim pritiskom na gumb daljinskog upravljača, koristeći više faza filtracije da bi se prostorija oslobodila od dima i neugodnih mirisa, te zarobila prašina i pelud. Drugi dio filtracije preuzeo je Super Ionizator zraka predavanjem negativnih iona u zrak koji u velikoj mjeri utječu na poboljšanje kvalitete zraka. Dodatno proizvedeni ioni srebra također imaju snažan antibakterijski učinak.Ovaj izniman uređaj predstavlja sami vrh ponude zahvaljujući performansama u svim klimatskim i vremenskim uvjetima čitave godine. Odlikuje se izuzetnim rezultatima energetske efikasnosti SEER do 10.50 i SCOP do 5.20, te nudi najveći raspoloživi raspon rada. Uz hlađenje, navedene karakteristike čine ga i odličnim izborom za grijanje.Daiseikai 9 potvrđuje kvalitetu, pouzdanost i trajnost - sve što očekujete kada vidite oznaku "Made in Japan". Ovo je kvaliteta Toshibe kojoj možete vjerovati, nudeći izvanredne performanse. Sa svojim ultra tihim sustavom, buka nikada neće biti problem. Unutarnja jedinica Daiseikai 9 izuzetno je tiha s manje od 20 dB (A) koje ljudsko uho shvaća kao šapat. Tijekom svog razvoja posvećeno je najviše pažnje tomu da se buka održi na apsolutnom minimumu. Za maksimalnu udobnost i mir Daiseikai 9 smanjuje razinu buke dvjema funkcijama tihog rada: Quiet na unutarnjoj jedinici omogućava vam neometani mir noću, a Silent na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba.Kontrola brojnim funkcijama uvijek vam je na dohvat ruke infracrvenim daljinskim upravljačem. Daiseikai 9 nudi i Wi-Fi kontrolu (sa opcionalnim modulom koji se kupuje zasebno), te se može kontrolirati bilo kada, bilo gdje, čineći ga dijelom vašeg povezanog svijeta. Optimizirajte svoju uštedu energije, poboljšajte svoje blagostanje.Neke od najvažnijih funkcija koje svakodnevni život čine jednostavnijim su: Automatski režim rada, Snažan režim rada, Automatska dijagnoza, Ekonomični režim rada, Ugodno spavanje, „One Touch“ režim rada, Programski timer i Automatsko ponovno uključivanje.Klima uređaj Toshiba Daiseikai 9 2.5 kW sastoji se od unutarnje jedinice oznake RAS-10PKVPG-E, vanjske jedinice RAS- 10PAVPG -E i infracrvenog daljinskog upravljača.',
     brand: 'Toshiba',
@@ -1859,7 +1815,7 @@ const products = [
     name: 'Toshiba Super Daiseikai 9 - 3.5 kW',
     sifraProizvoda: 'RAS-13PKVPG-E/RAS-13PAVPG-E R-32',
     image:
-      '/images/Toshiba/ToshibaSuperDaiseikai9-3.5kW-RAS-13PKVPG-ERAS-13PAVPG-ER-32/16-5f0436a3d0781_5f0458fd2c5c5,/images/Toshiba/ToshibaSuperDaiseikai9-3.5kW-RAS-13PKVPG-ERAS-13PAVPG-ER-32/daisekai-9-5c599ea98b608_5cd2d4b7101df,/images/Toshiba/ToshibaSuperDaiseikai9-3.5kW-RAS-13PKVPG-ERAS-13PAVPG-ER-32/ous-ras-savp2-f-5cd42c5c0f697_5cd43da696d1d',
+      '/images/Toshiba/ToshibaSuperDaiseikai9-3.5kW-RAS-13PKVPG-ERAS-13PAVPG-ER-32/16-5f0436a3d0781_5f0458fd2c5c5.png,/images/Toshiba/ToshibaSuperDaiseikai9-3.5kW-RAS-13PKVPG-ERAS-13PAVPG-ER-32/daisekai-9-5c599ea98b608_5cd2d4b7101df.jpg',
     description:
       'Toshibina perjanica premium razreda Daiseikai 9 opremljena je dvostruko-rotacijskim kompresorom vrhunske efikasnosti te postiže zavidne rezultate u potrošnji električne energije. Smanjenju potrošnje pridonosi i korištenje ekološki prihvatljivijeg rashladnog medija R32, dok se za kakvoću zraka brinu ugrađeni ionizator i napredni plazma filter.Kvaliteta filtracije kod ovoga uređaja u samom je vrhu ponude na tržištu. Toshiba Plasma Filtar „Pure Mode“ iznimno je učinkovit električni pročišćivač zraka koji jamči filtriranje najsitnijih čestica budući da su njegove elektrostatske ćelije u stanju ukloniti do 99% svih štetnih tvari. Ova funkcija može se aktivirati jednim pritiskom na gumb daljinskog upravljača, koristeći više faza filtracije da bi se prostorija oslobodila od dima i neugodnih mirisa, te zarobila prašina i pelud. Drugi dio filtracije preuzeo je Super Ionizator zraka predavanjem negativnih iona u zrak koji u velikoj mjeri utječu na poboljšanje kvalitete zraka. Dodatno proizvedeni ioni srebra također imaju snažan antibakterijski učinak.Ovaj izniman uređaj predstavlja sami vrh ponude zahvaljujući performansama u svim klimatskim i vremenskim uvjetima čitave godine. Odlikuje se izuzetnim rezultatima energetske efikasnosti SEER do 9.50 i SCOP do 5.10, te nudi najveći raspoloživi raspon rada. Uz hlađenje, navedene karakteristike čine ga i odličnim izborom za grijanje.Daiseikai 9 potvrđuje kvalitetu, pouzdanost i trajnost - sve što očekujete kada vidite oznaku "Made in Japan". Ovo je kvaliteta Toshibe kojoj možete vjerovati, nudeći izvanredne performanse. Sa svojim ultra tihim sustavom, buka nikada neće biti problem. Unutarnja jedinica Daiseikai 9 izuzetno je tiha s manje od 20 dB (A) koje ljudsko uho shvaća kao šapat. Tijekom svog razvoja posvećeno je najviše pažnje tomu da se buka održi na apsolutnom minimumu. Za maksimalnu udobnost i mir Daiseikai 9 smanjuje razinu buke dvjema funkcijama tihog rada: Quiet na unutarnjoj jedinici omogućava vam neometani mir noću, a Silent na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba.Kontrola brojnim funkcijama uvijek vam je na dohvat ruke infracrvenim daljinskim upravljačem. Daiseikai 9 nudi i Wi-Fi kontrolu (sa opcionalnim modulom koji se kupuje zasebno), te se može kontrolirati bilo kada, bilo gdje, čineći ga dijelom vašeg povezanog svijeta. Optimizirajte svoju uštedu energije, poboljšajte svoje blagostanje.Neke od najvažnijih funkcija koje svakodnevni život čine jednostavnijim su: Automatski režim rada, Snažan režim rada, Automatska dijagnoza, Ekonomični režim rada, Ugodno spavanje, „One Touch“ režim rada, Programski timer i Automatsko ponovno uključivanje.Klima uređaj Toshiba Daiseikai 9 3.5 kW sastoji se od unutarnje jedinice oznake RAS-13PKVPG-E, vanjske jedinice RAS- 13PAVPG -E i infracrvenog daljinskog upravljača.',
     brand: 'Toshiba',
@@ -1895,11 +1851,55 @@ const products = [
 
 
 
+
+
+  {
+    name: 'ToshibaSuper Daiseikai 9 - 4.5 kW',
+    sifraProizvoda: 'RAS-16PKVPG-E/RAS-16PAVPG-E R-32',
+    image:
+      '/images/Toshiba/ToshibaSuperDaiseikai9-4.5kW-RAS-16PKVPG-ERAS-16PAVPG-ER-32/16-5f0436a3d0781_5f0459af77a8d.png,/images/Toshiba/ToshibaSuperDaiseikai9-4.5kW-RAS-16PKVPG-ERAS-16PAVPG-ER-32/daisekai-9-5c599ea98b608_5cd2d4b80ecca.jpg',
+    description:
+      'Toshibina perjanica premium razreda Daiseikai 9 opremljena je dvostruko-rotacijskim kompresorom vrhunske efikasnosti te postiže zavidne rezultate u potrošnji električne energije. Smanjenju potrošnje pridonosi i korištenje ekološki prihvatljivijeg rashladnog medija R32, dok se za kakvoću zraka brinu ugrađeni ionizator i napredni plazma filter.Kvaliteta filtracije kod ovoga uređaja u samom je vrhu ponude na tržištu. Toshiba Plasma Filtar „Pure Mode“ iznimno je učinkovit električni pročišćivač zraka koji jamči filtriranje najsitnijih čestica budući da su njegove elektrostatske ćelije u stanju ukloniti do 99% svih štetnih tvari. Ova funkcija može se aktivirati jednim pritiskom na gumb daljinskog upravljača, koristeći više faza filtracije da bi se prostorija oslobodila od dima i neugodnih mirisa, te zarobila prašina i pelud. Drugi dio filtracije preuzeo je Super Ionizator zraka predavanjem negativnih iona u zrak koji u velikoj mjeri utječu na poboljšanje kvalitete zraka. Dodatno proizvedeni ioni srebra također imaju snažan antibakterijski učinak.Ovaj izniman uređaj predstavlja sami vrh ponude zahvaljujući performansama u svim klimatskim i vremenskim uvjetima čitave godine. Odlikuje se izuzetnim rezultatima energetske efikasnosti SEER do 8.50 i SCOP do 4.60, te nudi najveći raspoloživi raspon rada. Uz hlađenje, navedene karakteristike čine ga i odličnim izborom za grijanje.Daiseikai 9 potvrđuje kvalitetu, pouzdanost i trajnost - sve što očekujete kada vidite oznaku "Made in Japan". Ovo je kvaliteta Toshibe kojoj možete vjerovati, nudeći izvanredne performanse. Sa svojim ultra tihim sustavom, buka nikada neće biti problem. Unutarnja jedinica Daiseikai 9 izuzetno je tiha s manje od 20 dB (A) koje ljudsko uho shvaća kao šapat. Tijekom svog razvoja posvećeno je najviše pažnje tomu da se buka održi na apsolutnom minimumu. Za maksimalnu udobnost i mir Daiseikai 9 smanjuje razinu buke dvjema funkcijama tihog rada: Quiet na unutarnjoj jedinici omogućava vam neometani mir noću, a Silent na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba.Kontrola brojnim funkcijama uvijek vam je na dohvat ruke infracrvenim daljinskim upravljačem. Daiseikai 9 nudi i Wi-Fi kontrolu (sa opcionalnim modulom koji se kupuje zasebno), te se može kontrolirati bilo kada, bilo gdje, čineći ga dijelom vašeg povezanog svijeta. Optimizirajte svoju uštedu energije, poboljšajte svoje blagostanje.Neke od najvažnijih funkcija koje svakodnevni život čine jednostavnijim su: Automatski režim rada, Snažan režim rada, Automatska dijagnoza, Ekonomični režim rada, Ugodno spavanje, „One Touch“ režim rada, Programski timer i Automatsko ponovno uključivanje.Klima uređaj Toshiba Daiseikai 9 4.5 kW sastoji se od unutarnje jedinice oznake RAS-16PKVPG-E, vanjske jedinice RAS- 16PAVPG -E i infracrvenog daljinskog upravljača.',
+    brand: 'Toshiba',
+    category: 'Mono klima uređaj',
+    price: 11700,
+    onSale: false,
+    sale: 0,
+    coldEff: 4.5,
+    warmEff: 5.5,
+    energyClass: 'A+++',
+    sizeOfRoom: '36-45',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
+
+
+
+
+
   {
     name: 'Toshiba Super Digital Inverter 5.3 kW',
     sifraProizvoda: 'RAV-RM561KRTP-E/RAV-GP561ATP-E',
     image:
-      '/images/Toshiba/ToshibaSuperDigitalInverter5.3kWR32-zidnajedinicaRAV-RM561KRTP-ERAV-GP561ATP-E/18-24k-suzumiplus-fclosed-freigestellt-5c10c1ffdf5_5f37df9d4fba9,/images/ToshibaSuperDigitalInverter5.3kWR32-zidnajedinicaRAV-RM561KRTP-ERAV-GP561ATP-E/18-24k-suzumiplus-fclosed-freigestellt-5c10c1ffdf5_5f37df9d4fba9,/images/Toshiba/ToshibaSuperDigitalInverter5.3kWR32-zidnajedinicaRAV-RM561KRTP-ERAV-GP561ATP-E/toshiba-digital-inverter-3-5f37b50e51ed2_5f37ba59ce71e',
+      '/images/Toshiba/ToshibaSuperDigitalInverter5.3kWR32-zidnajedinicaRAV-RM561KRTP-ERAV-GP561ATP-E/toshiba-digital-inverter-4-5f37b50e710f6_5f37ba59a0fd6.png,/images/Toshiba/ToshibaSuperDigitalInverter5.3kWR32-zidnajedinicaRAV-RM561KRTP-ERAV-GP561ATP-E/18-24k-suzumiplus-fclosed-freigestellt-5c10c1ffdf5_5f37df9d4fba9.jpg',
     description:
       'Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)',
     brand: 'Toshiba',
@@ -1938,7 +1938,7 @@ const products = [
     name: 'Toshiba Super Digital Inverter 7.1 kW',
     sifraProizvoda: 'RAS-13PKVPG-E/RAS-13PAVPG-E R-32',
     image:
-      '/images/Toshiba/ToshibaSuperDigitalInverter7.1kWR32-zidnajedinicaRAV-RM801KRTP-ERAV-GP801AT-E/toshiba-digital-inverter-4-5f37b50e710f6_5f37ba5a218f2,/images/Toshiba/ToshibaSuperDigitalInverter7.1kWR32-zidnajedinicaRAV-RM801KRTP-ERAV-GP801AT-E/18-24k-suzumiplus-fclosed-freigestellt-5c10c1ffdf5_5f37df9db08fd,/images/Toshiba/ToshibaSuperDigitalInverter7.1kWR32-zidnajedinicaRAV-RM801KRTP-ERAV-GP801AT-E/toshiba-digital-inverter-3-5f37b50e51ed2_5f37ba5a4d343',
+      '/images/Toshiba/ToshibaSuperDigitalInverter7.1kWR32-zidnajedinicaRAV-RM801KRTP-ERAV-GP801AT-E/toshiba-digital-inverter-4-5f37b50e710f6_5f37ba5a218f2.png,/images/Toshiba/ToshibaSuperDigitalInverter7.1kWR32-zidnajedinicaRAV-RM801KRTP-ERAV-GP801AT-E/18-24k-suzumiplus-fclosed-freigestellt-5c10c1ffdf5_5f37df9db08fd.jpg',
     description:
       'Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)',
     brand: 'Toshiba',
@@ -1973,169 +1973,14 @@ const products = [
   },
 
 
-  {
-    name: 'ToshibaSuper Daiseikai 9 - 4.5 kW',
-    sifraProizvoda: 'RAS-16PKVPG-E/RAS-16PAVPG-E R-32',
-    image:
-      '/images/Toshiba/ToshibaSuperDaiseikai9-4.5kW-RAS-16PKVPG-ERAS-16PAVPG-ER-32/16-5f0436a3d0781_5f0459af77a8d,/images/Toshiba/ToshibaSuperDaiseikai9-4.5kW-RAS-16PKVPG-ERAS-16PAVPG-ER-32/daisekai-9-5c599ea98b608_5cd2d4b80ecca,/images/Toshiba/ToshibaSuperDaiseikai9-4.5kW-RAS-16PKVPG-ERAS-16PAVPG-ER-32/ous-ras-savp2-f-5cd42c5c0f697_5cd43ed16d750',
-    description:
-      'Toshibina perjanica premium razreda Daiseikai 9 opremljena je dvostruko-rotacijskim kompresorom vrhunske efikasnosti te postiže zavidne rezultate u potrošnji električne energije. Smanjenju potrošnje pridonosi i korištenje ekološki prihvatljivijeg rashladnog medija R32, dok se za kakvoću zraka brinu ugrađeni ionizator i napredni plazma filter.Kvaliteta filtracije kod ovoga uređaja u samom je vrhu ponude na tržištu. Toshiba Plasma Filtar „Pure Mode“ iznimno je učinkovit električni pročišćivač zraka koji jamči filtriranje najsitnijih čestica budući da su njegove elektrostatske ćelije u stanju ukloniti do 99% svih štetnih tvari. Ova funkcija može se aktivirati jednim pritiskom na gumb daljinskog upravljača, koristeći više faza filtracije da bi se prostorija oslobodila od dima i neugodnih mirisa, te zarobila prašina i pelud. Drugi dio filtracije preuzeo je Super Ionizator zraka predavanjem negativnih iona u zrak koji u velikoj mjeri utječu na poboljšanje kvalitete zraka. Dodatno proizvedeni ioni srebra također imaju snažan antibakterijski učinak.Ovaj izniman uređaj predstavlja sami vrh ponude zahvaljujući performansama u svim klimatskim i vremenskim uvjetima čitave godine. Odlikuje se izuzetnim rezultatima energetske efikasnosti SEER do 8.50 i SCOP do 4.60, te nudi najveći raspoloživi raspon rada. Uz hlađenje, navedene karakteristike čine ga i odličnim izborom za grijanje.Daiseikai 9 potvrđuje kvalitetu, pouzdanost i trajnost - sve što očekujete kada vidite oznaku "Made in Japan". Ovo je kvaliteta Toshibe kojoj možete vjerovati, nudeći izvanredne performanse. Sa svojim ultra tihim sustavom, buka nikada neće biti problem. Unutarnja jedinica Daiseikai 9 izuzetno je tiha s manje od 20 dB (A) koje ljudsko uho shvaća kao šapat. Tijekom svog razvoja posvećeno je najviše pažnje tomu da se buka održi na apsolutnom minimumu. Za maksimalnu udobnost i mir Daiseikai 9 smanjuje razinu buke dvjema funkcijama tihog rada: Quiet na unutarnjoj jedinici omogućava vam neometani mir noću, a Silent na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba.Kontrola brojnim funkcijama uvijek vam je na dohvat ruke infracrvenim daljinskim upravljačem. Daiseikai 9 nudi i Wi-Fi kontrolu (sa opcionalnim modulom koji se kupuje zasebno), te se može kontrolirati bilo kada, bilo gdje, čineći ga dijelom vašeg povezanog svijeta. Optimizirajte svoju uštedu energije, poboljšajte svoje blagostanje.Neke od najvažnijih funkcija koje svakodnevni život čine jednostavnijim su: Automatski režim rada, Snažan režim rada, Automatska dijagnoza, Ekonomični režim rada, Ugodno spavanje, „One Touch“ režim rada, Programski timer i Automatsko ponovno uključivanje.Klima uređaj Toshiba Daiseikai 9 4.5 kW sastoji se od unutarnje jedinice oznake RAS-16PKVPG-E, vanjske jedinice RAS- 16PAVPG -E i infracrvenog daljinskog upravljača.',
-    brand: 'Toshiba',
-    category: 'Mono klima uređaj',
-    price: 11700,
-    onSale: false,
-    sale: 0,
-    coldEff: 4.5,
-    warmEff: 5.5,
-    energyClass: 'A+++',
-    sizeOfRoom: '36-45',
-    countInStock: 3,
-    rating: 0,
-    numReviews: 0,
-    najtrazeni: false,
-    radnaTvar: true,
-    rasponRashladnogUcinka: 'aaaaa',
-    SEER: 'sssss',
-    rasponUcinaGrijanja: 'dddddd',
-    SCOP: 'eeeeee',
-    dimenzijeUnutarnjeJedinice: 'fffff',
-    razinaBuke: 'ggggg',
-    wifi: true,
-    ionizatorZraka: true,
-    dimenzijeVanjskeJedinice: 222,
-    razinaBukeVanjskeJedinice: 222,
-    promijerCijeviTekucine: 'hhhhh',
-    promijerCijeviPlina: 'kkkk',
-    maksimalnaDuljinaCijevi: 222,
-    maksimalnaVisRazlika: 222,
-    naponPrikljucka: 'jjjj',
-  },
-
-
-
-  {
-    name: 'Toshiba Digital Inverter 3.6 kW',
-    sifraProizvoda: 'RAV-RM401KRTP-E/RAV-GM401ATP-E',
-    image:
-      '/images/Toshiba/ToshibaDigitalInverter3.6kWR32-zidnajedinicaRAV-RM401KRTP-ERAV-GM401ATP-E/toshiba-digital-inverter-5f37b25356142_5f37d0235d37e,/images/Toshiba/ToshibaDigitalInverter3.6kWR32-zidnajedinicaRAV-RM401KRTP-ERAV-GM401ATP-E/di-unutarnja-1100-5b2a2030cb56c_5f383bb7917f3,/images/Toshiba/ToshibaDigitalInverter3.6kWR32-zidnajedinicaRAV-RM401KRTP-ERAV-GM401ATP-E/toshiba-digital-inverter-1-5f37b25324128_5f38188d7cc72',
-    description:
-      'Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)',
-    brand: 'Toshiba',
-    category: 'Mono klima uređaj',
-    price: 12700,
-    onSale: false,
-    sale: 0,
-    coldEff: 3.6,
-    warmEff: 4.0,
-    energyClass: '??',
-    sizeOfRoom: '26-35',
-    countInStock: 3,
-    rating: 0,
-    numReviews: 0,
-    najtrazeni: false,
-    radnaTvar: true,
-    rasponRashladnogUcinka: 'aaaaa',
-    SEER: 'sssss',
-    rasponUcinaGrijanja: 'dddddd',
-    SCOP: 'eeeeee',
-    dimenzijeUnutarnjeJedinice: 'fffff',
-    razinaBuke: 'ggggg',
-    wifi: true,
-    ionizatorZraka: true,
-    dimenzijeVanjskeJedinice: 222,
-    razinaBukeVanjskeJedinice: 222,
-    promijerCijeviTekucine: 'hhhhh',
-    promijerCijeviPlina: 'kkkk',
-    maksimalnaDuljinaCijevi: 222,
-    maksimalnaVisRazlika: 222,
-    naponPrikljucka: 'jjjj',
-  },
-
-
-  {
-    name: 'Toshiba Digital Inverter 5.0 kW',
-    sifraProizvoda: 'RAV-RM561KRTP-E/RAV-GM561ATP-E',
-    image:
-      '/images/Toshiba/ToshibaDigitalInverter5.0kW/toshiba-digital-inverter-2-5f37b3d8ac300_5f37bbc0c062c,/images/Toshiba/ToshibaDigitalInverter5.0kW/di-unutarnja-1-1100-5b2a23d4e7bbe_5f37e102cf9f3,/images/Toshiba/ToshibaDigitalInverter5.0kW/toshiba-digital-inverter-1-5f37b3d86add2_5f37bbc10196b',
-    description:
-      'Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)',
-    brand: 'Toshiba',
-    category: 'Mono klima uređaj',
-    price: 14300,
-    onSale: false,
-    sale: 0,
-    coldEff: 5.0,
-    warmEff: 5.3,
-    energyClass: '??',
-    sizeOfRoom: '46-55',
-    countInStock: 3,
-    rating: 0,
-    numReviews: 0,
-    najtrazeni: false,
-    radnaTvar: true,
-    rasponRashladnogUcinka: 'aaaaa',
-    SEER: 'sssss',
-    rasponUcinaGrijanja: 'dddddd',
-    SCOP: 'eeeeee',
-    dimenzijeUnutarnjeJedinice: 'fffff',
-    razinaBuke: 'ggggg',
-    wifi: true,
-    ionizatorZraka: true,
-    dimenzijeVanjskeJedinice: 222,
-    razinaBukeVanjskeJedinice: 222,
-    promijerCijeviTekucine: 'hhhhh',
-    promijerCijeviPlina: 'kkkk',
-    maksimalnaDuljinaCijevi: 222,
-    maksimalnaVisRazlika: 222,
-    naponPrikljucka: 'jjjj',
-  },
-
-
-  {
-    name: 'Toshiba Digital Inverter 6.7 kW',
-    sifraProizvoda: 'RAV-RM801KRTP-E/RAV-GM801ATP-E',
-    image:
-      '/images/Toshiba/ToshibaDigitalInverter6.7kW/toshiba-digital-inverter-1-5f37b3d86add2_5f37cbeca111e,/images/Toshiba/ToshibaDigitalInverter6.7kW/di-unutarnja-1-1100-5b2a23d4e7bbe_5f37f12f10c55,/images/Toshiba/ToshibaDigitalInverter6.7kW/toshiba-digital-inverter-1-5f37b3d86add2_5f37cbeca111e',
-    description:
-      'Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)',
-    brand: 'Toshiba',
-    category: 'Mono klima uređaj',
-    price: 17200,
-    onSale: false,
-    sale: 0,
-    coldEff: 6.7,
-    warmEff: 7.7,
-    energyClass: '??',
-    sizeOfRoom: '56-65',
-    countInStock: 3,
-    rating: 0,
-    numReviews: 0,
-    najtrazeni: false,
-    radnaTvar: true,
-    rasponRashladnogUcinka: 'aaaaa',
-    SEER: 'sssss',
-    rasponUcinaGrijanja: 'dddddd',
-    SCOP: 'eeeeee',
-    dimenzijeUnutarnjeJedinice: 'fffff',
-    razinaBuke: 'ggggg',
-    wifi: true,
-    ionizatorZraka: true,
-    dimenzijeVanjskeJedinice: 222,
-    razinaBukeVanjskeJedinice: 222,
-    promijerCijeviTekucine: 'hhhhh',
-    promijerCijeviPlina: 'kkkk',
-    maksimalnaDuljinaCijevi: 222,
-    maksimalnaVisRazlika: 222,
-    naponPrikljucka: 'jjjj',
-  },
-
+  
 
 
   {
     name: 'Toshiba Haori 2.5 kW ',
     sifraProizvoda: 'RAS-B10N4KVRG-E/RAS-10J2AVSG-E',
     image:
-      '/images/Toshiba/ToshibaHaori2.5kW/5-16-6064511060501_60645817d15af,/images/Toshiba/ToshibaHaori2.5kW/3-60645110bb5b2_606458184d2a6,/images/Toshiba/ToshibaHaori2.5kW/5-16-2-606451108cf77_6064581811d9a,/images/Toshiba/ToshibaHaori2.5kW/4-60645110e859e_6064581899a11',
+      '/images/Toshiba/ToshibaHaori2.5kW/5-16-6064511060501_60645817d15af.png,/images/Toshiba/ToshibaHaori2.5kW/4-60645110e859e_6064581899a11.png,/images/Toshiba/ToshibaHaori2.5kW/3-60645110bb5b2_606458184d2a6.png',
     description:
       'Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)',
     brand: 'Toshiba',
@@ -2175,7 +2020,7 @@ const products = [
     name: 'Toshiba Haori 3.5 kW',
     sifraProizvoda: 'RAS-B13N4KVRG-E/RAS-13J2AVSG-E',
     image:
-      '/images/Toshiba/ToshibaHaori3.5kW/5-16-6064511060501_608ff5b5ea77b,/images/Toshiba/ToshibaHaori3.5kW/3-60645110bb5b2_608ff5b63c8cf,/images/Toshiba/ToshibaHaori3.5kW/4-60645110e859e_608ff5b66e143',
+      '/images/Toshiba/ToshibaHaori3.5kW/5-16-6064511060501_608ff5b5ea77b.png,/images/Toshiba/ToshibaHaori3.5kW/4-60645110e859e_608ff5b66e143.png,/images/Toshiba/ToshibaHaori3.5kW/3-60645110bb5b2_608ff5b63c8cf.png',
     description:
       'Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)',
     brand: 'Toshiba',
@@ -2215,7 +2060,7 @@ const products = [
     name: 'Toshiba Haori 4.6 kW',
     sifraProizvoda: 'RAS-B16N4KVRG-E/RAS-16J2AVSG-E',
     image:
-      '/images/Toshiba/ToshibaHaori4.6kW/5-16-6064511060501_608ff5b79aca8,/images/Toshiba/ToshibaHaori4.6kW/3-60645110bb5b2_608ff5b80669d,/images/Toshiba/ToshibaHaori4.6kW/4-60645110e859e_608ff5b82f102',
+      '/images/Toshiba/ToshibaHaori4.6kW/5-16-6064511060501_608ff5b79aca8.png,/images/Toshiba/ToshibaHaori4.6kW/4-60645110e859e_608ff5b82f102.png,/images/Toshiba/ToshibaHaori4.6kW/3-60645110bb5b2_608ff5b80669d.png',
     description:
       'Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)',
     brand: 'Toshiba',
@@ -2255,7 +2100,7 @@ const products = [
     name: 'Toshiba Seiya 2.0 kW',
     sifraProizvoda: 'RAS-B07E2KVG-E/RAS-07E2AVG-E',
     image:
-      '/images/Toshiba/ToshibaSeiya2.0kW/seiya-07-10-13-62be93c481622_62bebe5e2666f,/images/Toshiba/ToshibaSeiya2.0kW/seiya-7-18-indoor-62be93c4dde83_62bebe5e89862,/images/Toshiba/ToshibaSeiya2.0kW/seiya-7-13-outdoor-62be93c532fa6_62bebe5f9bef7',
+      '/images/Toshiba/ToshibaSeiya2.0kW/seiya-07-10-13-62be93c481622_62bebe5e2666f.png,/images/Toshiba/ToshibaSeiya2.0kW/seiya-7-18-indoor-62be93c4dde83_62bebe5e89862.png,',
     description:
       'Seiya Inverter predstavlja savršen ulazak u svijet klimatizacije. Početni model Toshibine palete opremljen je štedljivim inverterskim kompresorom i svim funkcionalnostima na koje su navikli korisnici premium branda poput Toshibe. Uz to, svoj rad obavlja koristeći najnoviji rashladni medij R32 koji ne samo da je ekološki prihvatljiviji, već i donosi dodatnu uštedu u potrošnji električne energije. Energetska učinkovitost u hlađenju s razredom A++ i snagom 2 kW.No, nisu samo odlične značajke te koje ovaj model čine odličnim, tu je i primjer neprestanog rada na inovacijama koje će se pobrinuti za maksimalnu udobnost i mir. Seiya smanjuje razinu buke dvjema funkcijama tihog rada: QUIET na unutarnjoj jedinici omogućava vam neometani mir noću, a SILENT na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba!Uz tih i ekonomičan rad, Seiya uređaji osigurati će vam i odličnu kvalitetu zraka zahvaljujući „IAQ“ filteru i izmjenjivaču topline Magic Coil®. Izmjenjivač topline unutarnje jedinice uvijek se održava čistim i suhim s pomoću posebnog premaza zajedno s funkcijom samočišćenja nakon završetka rada. Nema šanse za razvoj neugodnih mirisa i bakterija.Kako bi lako i pouzdano upravljali svojim novim klima uređajem tu je infracrveni daljinski upravljač i mogućnost kupnje opcionalnog WiFi sučelja RB-N104S-G pomoću kojeg uređajem možete upravljati vašim pametnim telefonom ili tabletom.Klima uređaj Toshiba Seiya Inverter 2.0 kW sastoji se od unutarnje jedinice oznake RAS-B07E2KVG-E, vanjske jedinice RAS-07E2AVG-E i infracrvenog daljinskog upravljača.',
     brand: 'Toshiba',
@@ -2295,7 +2140,7 @@ const products = [
     name: 'Toshiba Seiya 2.5 kW',
     sifraProizvoda: 'RAS-B10E2KVG-E/RAS-10E2AVG-E',
     image:
-      '/images/Toshiba/ToshibaSeiya2.5kW/seiya-07-10-13-62be93c481622_62bebe60d0eea,/images/Toshiba/ToshibaSeiya2.5kW/seiya-7-18-indoor-62be93c4dde83_62bebe6136255,/images/Toshiba/ToshibaSeiya2.5kW/seiya-7-13-outdoor-62be93c532fa6_62bebe61afbab',
+      '/images/Toshiba/ToshibaSeiya2.5kW/seiya-07-10-13-62be93c481622_62bebe60d0eea.png,/images/Toshiba/ToshibaSeiya2.5kW/seiya-7-18-indoor-62be93c4dde83_62bebe6136255.png',
     description:
       'Seiya Inverter predstavlja savršen ulazak u svijet klimatizacije. Početni model Toshibine palete opremljen je štedljivim inverterskim kompresorom i svim funkcionalnostima na koje su navikli korisnici premium branda poput Toshibe. Uz to, svoj rad obavlja koristeći najnoviji rashladni medij R32 koji ne samo da je ekološki prihvatljiviji, već i donosi dodatnu uštedu u potrošnji električne energije. Energetska učinkovitost je u razredu A++ te ima snagu od 2.5 kW.No, nisu samo odlične značajke te koje ovaj model čine odličnim, tu je i primjer neprestanog rada na inovacijama koje će se pobrinuti za maksimalnu udobnost i mir. Seiya smanjuje razinu buke dvjema funkcijama tihog rada: QUIET na unutarnjoj jedinici omogućava vam neometani mir noću, a SILENT na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba!Uz tih i ekonomičan rad, Seiya uređaji osigurati će vam i odličnu kvalitetu zraka zahvaljujući „IAQ“ filteru i izmjenjivaču topline Magic Coil®. Izmjenjivač topline unutarnje jedinice uvijek se održava čistim i suhim s pomoću posebnog premaza zajedno s funkcijom samočišćenja nakon završetka rada. Nema šanse za razvoj neugodnih mirisa i bakterija.Kako bi lako i pouzdano upravljali svojim novim klima uređajem tu je infracrveni daljinski upravljač i mogućnost kupnje opcionalnog WiFi sučelja RB-N104S-G pomoću kojeg uređajem možete upravljati vašim pametnim telefonom ili tabletom.Klima uređaj Toshiba Seiya Inverter 2.5 kW sastoji se od unutarnje jedinice oznake RAS-B10E2KVG-E, vanjske jedinice RAS-10E2AVG-E i infracrvenog daljinskog upravljača.',
     brand: 'Toshiba',
@@ -2334,7 +2179,7 @@ const products = [
     name: 'Toshiba Seiya 3.3 kW',
     sifraProizvoda: 'RAS-B13E2KVG-E/RAS-13E2AVG-E',
     image:
-      '/images/Toshiba/ToshibaSeiya3.3kW/seiya-07-10-13-62be93c481622_62bebe627fe1e,/images/Toshiba/ToshibaSeiya3.3kW/seiya-7-18-indoor-62be93c4dde83_62bebe62c52dd,/images/Toshiba/ToshibaSeiya3.3kW/seiya-7-13-outdoor-62be93c532fa6_62bebe634c864',
+      '/images/Toshiba/ToshibaSeiya3.3kW/seiya-07-10-13-62be93c481622_62bebe627fe1e.png,/images/Toshiba/ToshibaSeiya3.3kW/seiya-7-18-indoor-62be93c4dde83_62bebe62c52dd.png',
     description:
       'Seiya Inverter predstavlja savršen ulazak u svijet klimatizacije. Početni model Toshibine palete opremljen je štedljivim inverterskim kompresorom i svim funkcionalnostima na koje su navikli korisnici premium branda poput Toshibe. Uz to, svoj rad obavlja koristeći najnoviji rashladni medij R32 koji ne samo da je ekološki prihvatljiviji, već i donosi dodatnu uštedu u potrošnji električne energije. Energetska učinkovitost razreda A++ i snagom od 3.3 kW. No, nisu samo odlične značajke te koje ovaj model čine odličnim, tu je i primjer neprestanog rada na inovacijama koje će se pobrinuti za maksimalnu udobnost i mir. Seiya smanjuje razinu buke dvjema funkcijama tihog rada: QUIET na unutarnjoj jedinici omogućava vam neometani mir noću, a SILENT na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba!Uz tih i ekonomičan rad, Seiya uređaji osigurati će vam i odličnu kvalitetu zraka zahvaljujući „IAQ“ filteru i izmjenjivaču topline Magic Coil®. Izmjenjivač topline unutarnje jedinice uvijek se održava čistim i suhim s pomoću posebnog premaza zajedno s funkcijom samočišćenja nakon završetka rada. Nema šanse za razvoj neugodnih mirisa i bakterija.Kako bi lako i pouzdano upravljali svojim novim klima uređajem tu je infracrveni daljinski upravljač i mogućnost kupnje opcionalnog WiFi sučelja RB-N104S-G pomoću kojeg uređajem možete upravljati vašim pametnim telefonom ili tabletom.Klima uređaj Toshiba Seiya Inverter 3.3 kW sastoji se od unutarnje jedinice oznake RAS-13EJ2KVG-E, vanjske jedinice RAS-13E2AVG-E i infracrvenog daljinskog upravljača.',
     brand: 'Toshiba',
@@ -2374,7 +2219,7 @@ const products = [
     name: 'Toshiba Seiya 4.2 kW',
     sifraProizvoda: 'RAS-B16E2KVG-E/RAS-16E2AVG-E',
     image:
-      '/images/Toshiba/ToshibaSeiya4.2kW/seiya-16-18-62be9ce930aa9_62bebf134f031,/images/Toshiba/ToshibaSeiya4.2kW/seiya-7-18-indoor-62be93c4dde83_62bebf13a208e,/images/Toshiba/ToshibaSeiya4.2kW/seiya-16-24-outdoor-62be9ca2e8a77_62bebf1456c7a',
+      '/images/Toshiba/ToshibaSeiya4.2kW/seiya-16-18-62be9ce930aa9_62bebf134f031.png,/images/Toshiba/ToshibaSeiya4.2kW/seiya-7-18-indoor-62be93c4dde83_62bebf13a208e.png',
     description:
       'Seiya Inverter predstavlja savršen ulazak u svijet klimatizacije. Početni model Toshibine palete opremljen je štedljivim inverterskim kompresorom i svim funkcionalnostima na koje su navikli korisnici premium branda poput Toshibe. Uz to, svoj rad obavlja koristeći najnoviji rashladni medij R32 koji ne samo da je ekološki prihvatljiviji, već i donosi dodatnu uštedu u potrošnji električne energije. Energetska učinkovitost razreda A++ i snagom od 4.2 kW. No, nisu samo odlične značajke te koje ovaj model čine odličnim, tu je i primjer neprestanog rada na inovacijama koje će se pobrinuti za maksimalnu udobnost i mir. Seiya smanjuje razinu buke dvjema funkcijama tihog rada: QUIET na unutarnjoj jedinici omogućava vam neometani mir noću, a SILENT na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba!Uz tih i ekonomičan rad, Seiya uređaji osigurati će vam i odličnu kvalitetu zraka zahvaljujući „IAQ“ filteru i izmjenjivaču topline Magic Coil®. Izmjenjivač topline unutarnje jedinice uvijek se održava čistim i suhim s pomoću posebnog premaza zajedno s funkcijom samočišćenja nakon završetka rada. Nema šanse za razvoj neugodnih mirisa i bakterija.Kako bi lako i pouzdano upravljali svojim novim klima uređajem tu je infracrveni daljinski upravljač i mogućnost kupnje opcionalnog WiFi sučelja RB-N104S-G pomoću kojeg uređajem možete upravljati vašim pametnim telefonom ili tabletom.Klima uređaj Toshiba Seiya Inverter 4.2 kW sastoji se od unutarnje jedinice oznake RAS-B16E2KVG-E, vanjske jedinice RAS-16E2AVG-E i infracrvenog daljinskog upravljača.',
     brand: 'Toshiba',
@@ -2413,7 +2258,7 @@ const products = [
     name: 'Toshiba Seiya 5.0 kW',
     sifraProizvoda: 'RAS-18E2KVG-E/RAS-18E2AVG-E',
     image:
-      '/images/Toshiba/ToshibaSeiya5.0kW/seiya-16-18-62be9ce930aa9_62be9ebaced3c,/images/Toshiba/ToshibaSeiya5.0kW/seiya-7-18-indoor-62be93c4dde83_62be9ebb2a6c0,/images/Toshiba/ToshibaSeiya5.0kW/seiya-16-24-outdoor-62be9ca2e8a77_62be9ebbb305d',
+      '/images/Toshiba/ToshibaSeiya5.0kW/seiya-16-18-62be9ce930aa9_62be9ebaced3c.png,/images/Toshiba/ToshibaSeiya5.0kW/seiya-7-18-indoor-62be93c4dde83_62be9ebb2a6c0.png',
     description:
       'Seiya Inverter predstavlja savršen ulazak u svijet klimatizacije. Početni model Toshibine palete opremljen je štedljivim inverterskim kompresorom i svim funkcionalnostima na koje su navikli korisnici premium branda poput Toshibe. Uz to, svoj rad obavlja koristeći najnoviji rashladni medij R32 koji ne samo da je ekološki prihvatljiviji, već i donosi dodatnu uštedu u potrošnji električne energije. Energetska učinkovitost razreda A++ i snagom od 5.0 kW. No, nisu samo odlične značajke te koje ovaj model čine odličnim, tu je i primjer neprestanog rada na inovacijama koje će se pobrinuti za maksimalnu udobnost i mir. Seiya smanjuje razinu buke dvjema funkcijama tihog rada: QUIET na unutarnjoj jedinici omogućava vam neometani mir noću, a SILENT na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba!Uz tih i ekonomičan rad, Seiya uređaji osigurati će vam i odličnu kvalitetu zraka zahvaljujući „IAQ“ filteru i izmjenjivaču topline Magic Coil®. Izmjenjivač topline unutarnje jedinice uvijek se održava čistim i suhim s pomoću posebnog premaza zajedno s funkcijom samočišćenja nakon završetka rada. Nema šanse za razvoj neugodnih mirisa i bakterija.Kako bi lako i pouzdano upravljali svojim novim klima uređajem tu je infracrveni daljinski upravljač i mogućnost kupnje opcionalnog WiFi sučelja RB-N104S-G pomoću kojeg uređajem možete upravljati vašim pametnim telefonom ili tabletom.Klima uređaj Toshiba Seiya Inverter 5.0 kW sastoji se od unutarnje jedinice oznake RAS-18E2KVG-E, vanjske jedinice RAS-18E2AVG-E i infracrvenog daljinskog upravljača.',
     brand: 'Toshiba',
@@ -2448,6 +2293,44 @@ const products = [
   },
 
 
+
+  {
+    name: 'Toshiba Seiya 6.5 kW ',
+    sifraProizvoda: 'RAS-24E2KVG-E/RAS-24E2AVG-E',
+    image:
+      '/images/Toshiba/ToshibaSeiya6.5kW-RAS-24E2KVG-ERAS-24E2AVG-E/seiya-24-62be9ca260b08_62be9f6e0ccb6.png,/images/Toshiba/ToshibaSeiya6.5kW-RAS-24E2KVG-ERAS-24E2AVG-E/seiya-24-indoor-62be9ca2a726a_62be9f6e581a9.png',
+    description:
+      'Seiya Inverter predstavlja savršen ulazak u svijet klimatizacije. Početni model Toshibine palete opremljen je štedljivim inverterskim kompresorom i svim funkcionalnostima na koje su navikli korisnici premium branda poput Toshibe. Uz to, svoj rad obavlja koristeći najnoviji rashladni medij R32 koji ne samo da je ekološki prihvatljiviji, već i donosi dodatnu uštedu u potrošnji električne energije. Energetska učinkovitost razreda A++ i snagom od 6.5 kW. No, nisu samo odlične značajke te koje ovaj model čine odličnim, tu je i primjer neprestanog rada na inovacijama koje će se pobrinuti za maksimalnu udobnost i mir. Seiya smanjuje razinu buke dvjema funkcijama tihog rada: QUIET na unutarnjoj jedinici omogućava vam neometani mir noću, a SILENT na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba!Uz tih i ekonomičan rad, Seiya uređaji osigurati će vam i odličnu kvalitetu zraka zahvaljujući „IAQ“ filteru i izmjenjivaču topline Magic Coil®. Izmjenjivač topline unutarnje jedinice uvijek se održava čistim i suhim s pomoću posebnog premaza zajedno s funkcijom samočišćenja nakon završetka rada. Nema šanse za razvoj neugodnih mirisa i bakterija.Kako bi lako i pouzdano upravljali svojim novim klima uređajem tu je infracrveni daljinski upravljač i mogućnost kupnje opcionalnog WiFi sučelja RB-N104S-G pomoću kojeg uređajem možete upravljati vašim pametnim telefonom ili tabletom.Klima uređaj Toshiba Seiya Inverter 6.5 kW sastoji se od unutarnje jedinice oznake RAS-24EJ2KVG-E, vanjske jedinice RAS-24E2AVG-E i infracrvenog daljinskog upravljača.',
+    brand: 'Toshiba',
+    category: 'Mono klima uređaj',
+    price: 11500,
+    onSale: false,
+    sale: 0,
+    coldEff: 6.5,
+    warmEff: 7.0,
+    energyClass: 'A++',
+    sizeOfRoom: '56-65',
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: 'aaaaa',
+    SEER: 'sssss',
+    rasponUcinaGrijanja: 'dddddd',
+    SCOP: 'eeeeee',
+    dimenzijeUnutarnjeJedinice: 'fffff',
+    razinaBuke: 'ggggg',
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: 'hhhhh',
+    promijerCijeviPlina: 'kkkk',
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: 'jjjj',
+  },
 
 
 
