@@ -1,5 +1,5 @@
-import React from 'react'
-import { Table } from 'react-bootstrap'
+import React from "react";
+import { Table } from "react-bootstrap";
 
 const TehnicalCharacteristics = ({ product }) => {
   return (
@@ -20,6 +20,10 @@ const TehnicalCharacteristics = ({ product }) => {
             <td>6.2 / A++</td>
           </tr>
           <tr>
+            <td>Godišnja potrošnja hlađenja (kW)</td>
+            <td>101</td>
+          </tr>
+          <tr>
             <td>Raspon učinka grijanja (kW)</td>
             <td>0.8 - 3.4</td>
           </tr>
@@ -32,11 +36,11 @@ const TehnicalCharacteristics = ({ product }) => {
             <td>285×805×194</td>
           </tr>
           <tr>
-            <td>Težina unutarnje jedinice (kg)</td>
-            <td>7.5</td>
+            <td>Razina buke - hlađenje UJ (dBA)</td>
+            <td>21/40</td>
           </tr>
           <tr>
-            <td>Razina buke - hlađenje UJ (dBA)</td>
+            <td>Razina buke - grijanje UJ (dBA)</td>
             <td>21/40</td>
           </tr>
           <tr>
@@ -44,8 +48,8 @@ const TehnicalCharacteristics = ({ product }) => {
             <td>Wi-Fi ugrađen</td>
           </tr>
           <tr>
-            <td>Ionizator zraka</td>
-            <td>Da</td>
+            <td>Dodatne opcije</td>
+            <td>tjedni programator</td>
           </tr>
           <tr>
             <td>Dimenzije vanjske jedinice (VxŠxD) mm</td>
@@ -79,10 +83,14 @@ const TehnicalCharacteristics = ({ product }) => {
             <td>Napon priključka</td>
             <td>230 V / 50 Hz</td>
           </tr>
+          <tr>
+            <td>Jamstvo</td>
+            <td>36 mjeseci</td>
+          </tr>
         </tbody>
       </Table>
     </>
-  )
-}
+  );
+};
 
-export default TehnicalCharacteristics
+export default TehnicalCharacteristics;

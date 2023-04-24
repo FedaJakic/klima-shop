@@ -1,80 +1,82 @@
-import React, { useState, useEffect } from 'react'
-import { Link } from 'react-router-dom'
-import { useDispatch, useSelector } from 'react-redux'
-import { Row, Col, ListGroup, Container, Image } from 'react-bootstrap'
-import Message from '../components/Message'
-import Loader from '../components/Loader'
-import Meta from '../components/Meta'
-import ACAtributes from '../components/ACAtributes'
+import React, { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
+import { useDispatch, useSelector } from "react-redux";
+import { Row, Col, ListGroup, Container, Image } from "react-bootstrap";
+import Message from "../components/Message";
+import Loader from "../components/Loader";
+import Meta from "../components/Meta";
+import ACAtributes from "../components/ACAtributes";
 import {
   listProductDetails,
   createProductReview,
-} from '../actions/productActions'
-import { PRODUCT_CREATE_REVIEW_RESET } from '../constants/productConstants'
-import ProductImageGallery from '../components/ProductImageGallery'
-import TehnicalCharacteristics from '../components/TehnicalCharacteristics'
-import { FcHighPriority } from 'react-icons/fc'
+} from "../actions/productActions";
+import { PRODUCT_CREATE_REVIEW_RESET } from "../constants/productConstants";
+import ProductImageGallery from "../components/ProductImageGallery";
+import TehnicalCharacteristics from "../components/TehnicalCharacteristics";
+import { FcHighPriority } from "react-icons/fc";
 
 const ProductScreen = ({ history, match }) => {
-  const [qty, setQty] = useState(1)
-  const [rating, setRating] = useState(0)
-  const [comment, setComment] = useState('')
+  const [qty, setQty] = useState(1);
+  const [rating, setRating] = useState(0);
+  const [comment, setComment] = useState("");
 
-  const dispatch = useDispatch()
+  const dispatch = useDispatch();
 
-  const productDetails = useSelector((state) => state.productDetails)
-  const { loading, error, product } = productDetails
+  const productDetails = useSelector((state) => state.productDetails);
+  const { loading, error, product } = productDetails;
 
-  const userLogin = useSelector((state) => state.userLogin)
-  const { userInfo } = userLogin
+  const userLogin = useSelector((state) => state.userLogin);
+  const { userInfo } = userLogin;
 
-  const productReviewCreate = useSelector((state) => state.productReviewCreate)
+  const productReviewCreate = useSelector((state) => state.productReviewCreate);
   const {
     success: successProductReview,
     loading: loadingProductReview,
     error: errorProductReview,
-  } = productReviewCreate
+  } = productReviewCreate;
 
   useEffect(() => {
     if (successProductReview) {
-      setRating(0)
-      setComment('')
+      setRating(0);
+      setComment("");
     }
     if (!product._id || product._id !== match.params.id) {
-      dispatch(listProductDetails(match.params.id))
-      dispatch({ type: PRODUCT_CREATE_REVIEW_RESET })
+      dispatch(listProductDetails(match.params.id));
+      dispatch({ type: PRODUCT_CREATE_REVIEW_RESET });
     }
-  }, [dispatch, match, successProductReview])
+  }, [dispatch, match, successProductReview]);
 
   const addToCartHandler = () => {
-    history.push(`/cart/${match.params.id}?qty=${qty}`)
-  }
+    history.push(`/cart/${match.params.id}?qty=${qty}`);
+  };
 
   const submitHandler = (e) => {
-    e.preventDefault()
+    e.preventDefault();
     dispatch(
       createProductReview(match.params.id, {
         rating,
         comment,
       })
-    )
-  }
+    );
+  };
 
   return (
     <>
       <Container>
-        <Link className='btn btn-light my-3' to='/mono-klima'>
+        <Link className="btn btn-light my-3" to="/mono-klima">
           Natrag
         </Link>
         {product.onSale === true ? (
-       <h4
-        className = 'text-danger' 
-        >
-       Akcija <FcHighPriority /> </h4>) : <></>}
+          <h4 className="text-danger">
+            Akcija <FcHighPriority />{" "}
+          </h4>
+        ) : (
+          <></>
+        )}
         {loading ? (
           <Loader />
         ) : error ? (
-          <Message variant='danger'>{error}</Message>
+          <Message variant="danger">{error}</Message>
         ) : (
           <>
             <Meta title={product.name} />
@@ -83,9 +85,12 @@ const ProductScreen = ({ history, match }) => {
               <Col md={6}>
                 {/* <Image src={product.image} alt={product.name} fluid /> */}
                 <ProductImageGallery imgList={[product.image]} />
+                <ListGroup>
+                  <TehnicalCharacteristics />
+                </ListGroup>
               </Col>
               <Col>
-                <ListGroup variant='flush'>
+                <ListGroup variant="flush">
                   <ListGroup.Item>
                     <h3>{product.name}</h3>
                     <p>Sifra proizvoda: {product.sifraProizvoda}</p>
@@ -98,58 +103,61 @@ const ProductScreen = ({ history, match }) => {
                   </ListGroup.Item> */}
                   <ListGroup.Item>
                     <span>
-                      Cijena: kn{' '}
+                      Cijena: kn{" "}
                       {product.onSale === true ? (
                         <span>
                           <span
-                          className='font-weight-bold text-danger'
-                          style={{ fontSize: 'x-large' }}
+                            className="font-weight-bold text-danger"
+                            style={{ fontSize: "x-large" }}
                           >
-                            {' '}
+                            {" "}
                             {Number(
                               ((100 - product.sale) * product.price) / 100
                             )
                               .toFixed(2)
                               .toString()
-                              .replace(/\B(?=(\d{3})+(?!\d))/g, ',')}
+                              .replace(/\B(?=(\d{3})+(?!\d))/g, ",")}
                           </span>
-                        <span
-                            className='font-weight-bold ml-5'
-                            style={{ fontSize:'medium'}}
-                        >
-                            EUR{' '}
+                          <span
+                            className="font-weight-bold ml-5"
+                            style={{ fontSize: "medium" }}
+                          >
+                            EUR{" "}
                             {Number(
-                              ((100 - product.sale) * product.price) / 100 / 7.53450
+                              ((100 - product.sale) * product.price) /
+                                100 /
+                                7.5345
                             )
                               .toFixed(2)
                               .toString()
-                              .replace(/\B(?=(\d{3})+(?!\d))/g, ',')}
+                              .replace(/\B(?=(\d{3})+(?!\d))/g, ",")}
                           </span>
                         </span>
                       ) : (
                         <span
-                          className='font-weight-bold'
-                          style={{ fontSize: 'x-large' }}
+                          className="font-weight-bold"
+                          style={{ fontSize: "x-large" }}
                         >
                           {Number(product.price)
                             .toFixed(2)
                             .toString()
-                            .replace(/\B(?=(\d{3})+(?!\d))/g, ',')}
-                        <span
-                          className='font-weight-bold ml-5'
-                          style={{ fontSize:'medium'}}
-                        >
-                            EUR{' '}
-                            {Number((product.price) / 7.53450)
+                            .replace(/\B(?=(\d{3})+(?!\d))/g, ",")}
+                          <span
+                            className="font-weight-bold ml-5"
+                            style={{ fontSize: "medium" }}
+                          >
+                            EUR{" "}
+                            {Number(product.price / 7.5345)
                               .toFixed(2)
                               .toString()
-                              .replace(/\B(?=(\d{3})+(?!\d))/g, ',')}
+                              .replace(/\B(?=(\d{3})+(?!\d))/g, ",")}
                           </span>
                         </span>
                       )}
                     </span>
                     <br></br>
-                    <span>U cijenu je uključen PDV (25%)</span><br></br>
+                    <span>U cijenu je uključen PDV (25%)</span>
+                    <br></br>
                     <span>Fiksni tečaj konverzije 7.53450</span>
                   </ListGroup.Item>
                   <ListGroup.Item>
@@ -164,9 +172,9 @@ const ProductScreen = ({ history, match }) => {
                     <strong>Opis proizvoda:</strong> {product.description}
                   </ListGroup.Item>
                 </ListGroup>
-                <ListGroup>
+                {/* <ListGroup>
                   <TehnicalCharacteristics />
-                </ListGroup>
+                </ListGroup> */}
               </Col>
               {/* <Col md={3}>
               <Card>
@@ -297,7 +305,7 @@ const ProductScreen = ({ history, match }) => {
         )}
       </Container>
     </>
-  )
-}
+  );
+};
 
-export default ProductScreen
+export default ProductScreen;
