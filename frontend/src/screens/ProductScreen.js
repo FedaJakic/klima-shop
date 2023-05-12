@@ -168,7 +168,7 @@ const ProductScreen = ({ history, match }) => {
                       sizeOfRoom={product.sizeOfRoom}
                     />
                   </ListGroup.Item>
-                  <ListGroup.Item>
+                  <ListGroup.Item style={{ whiteSpace: "pre-wrap" }}>
                     <strong>Opis proizvoda:</strong> {product.description}
                   </ListGroup.Item>
                 </ListGroup>
