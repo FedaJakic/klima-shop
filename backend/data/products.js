@@ -6,7 +6,7 @@ const products = [
     sifraProizvoda: "ASYG07KGTB/AOYG07KGCA",
     image:
       "/images/Fujitsu/FujitsuAdvanceInverter2.0kW-ASYG07KGTBAOYG07KGCA/20-60d3017c57d8f_60d316c75ddf4.png,/images/Fujitsu/FujitsuAdvanceInverter2.0kW-ASYG07KGTBAOYG07KGCA/wm-new-model-350-5a86e04ae45c3_5dcd198968076.jpg",
-    description: "Opis nije valjan\nPotrebno izmijeniti",
+    description: "Rashladni medij R32 koji pogoni novu Fujitsu Advance Inverter seriju klima uređaja osigurava iznimnu energetsku učinkovitost, no usprkos tome, dizajn uređaja je nenametljiv a dimenzije vrlo skromne. Suprotno tome, tehničke karakteristike i funkcije su maksimalno raskošne.Ovaj klima uređaj snage 2.0 kW predstavlja idealan izbor za prostorije veličine do 15m².\nUz tihi rad, ovaj klima uređaj može se pohvaliti funkcijom „Ekonomski režim rada“ , "Human Sensor" funkcijom automatskog ekonomičnog rada u odsustvu ljudi u prostoriji, te SEER/SCOP koeficijentom A+++. Upravo zbog navedenih štedljivih funkcija i visokog učinka grijanja, Advance Inverter serija pokazuje svoju vrijednost ne samo u hlađenju, već i kao odlična alternativa u grijanju, dogrijavanju i  sprječavanju smrzavanja održavanjem temperature ne niže od 10 °C. Zaokružimo li sve ove značajke, pouzdano možemo reći da klima uređaji sa ovakvim karakteristikama predstavljaju rijetko pravo cjelogodišnje rješenje.\nKako bi se osiguralo optimalno iskustvo korištenja ovog odličnog klima uređaja, tu su za vas sve najbitnije funkcije: Režim snažnog rada, Automatski režim rada, Automatsko ponovno pokretanje, „Sleep timer“, Programski i tjedni timer.\nZa lako upravljanje tu je infracrveni daljinski upravljač i mogućnost ugradnje WiFi sučelja koje se prodaje zasebno, a za lako održavanje uklonjivi prednji panel koji olakšava pristup filteru. Kako biste na vrijeme znali da je vrijeme za čišćenje filtera, upaliti će se signalni znak da vas o tome obavijesti.\nKlima uređaj Fujitsu Advance Inverter 2.0 kW sastoji se od unutarnje jedinice oznake ASYG07KGTE, vanjske jedinice AOYG07KGCB i infracrvenog daljinskog upravljača.",
     brand: "Fujitsu",
     category: "Mono klima uređaj",
     price: 7000.0,
@@ -47,7 +47,7 @@ const products = [
     image:
       "/images/Fujitsu/FujitsuAdvanceInverter2.5kW-ASYG09KGTBAOYG09KGCA/20-60d3020829f1a_60d31344e6996.png,/images/Fujitsu/FujitsuAdvanceInverter2.5kW-ASYG09KGTBAOYG09KGCA/wm-new-model-350-5a86e04ae45c3_60251deb9eaa8.jpg",
     description:
-      'Rashladni medij R32 koji pogoni novu Fujitsu Advance Inverter seriju klima uređaja osigurava iznimnu energetsku učinkovitost, no usprkos tome, dizajn uređaja je nenametljiv a dimenzije vrlo skromne. Suprotno tome, tehničke karakteristike i funkcije su maksimalno raskošne.Uz tihi rad, ovaj klima uređaj može se pohvaliti funkcijom „Ekonomski režim rada“ , "Human Sensor" funkcijom automatskog ekonomičnog rada u odsustvu ljudi u prostoriji, te SEER/SCOP koeficijentom A+++.\n\n Upravo zbog navedenih štedljivih funkcija i visokog učinka grijanja, Advance Inverter serija pokazuje svoju vrijednost ne samo u hlađenju, već i kao odlična alternativa u grijanju, dogrijavanju i  sprječavanju smrzavanja održavanjem temperature ne niže od 10 °C. Zaokružimo li sve ove značajke, pouzdano možemo reći da klima uređaji sa ovakvim karakteristikama predstavljaju rijetko pravo cjelogodišnje rješenje.\n\nKako bi se osiguralo optimalno iskustvo korištenja ovog odličnog klima uređaja, tu su za vas sve najbitnije funkcije: Režim snažnog rada, Automatski režim rada, Automatsko ponovno pokretanje, „Sleep timer“, Programski i tjedni timer.Za lako upravljanje tu je infracrveni daljinski upravljač i mogućnost ugradnje WiFi sučelja koje se prodaje zasebno, a za lako održavanje uklonjivi prednji panel koji olakšava pristup filteru. Kako biste na vrijeme znali da je vrijeme za čišćenje filtera, upaliti će se signalni znak da vas o tome obavijesti.',
+      'Rashladni medij R32 koji pogoni novu Fujitsu Advance Inverter seriju klima uređaja osigurava iznimnu energetsku učinkovitost, no usprkos tome, dizajn uređaja je nenametljiv a dimenzije vrlo skromne. Suprotno tome, tehničke karakteristike i funkcije su maksimalno raskošne.Ovaj klima uređaj snage 2.5 kW predstavlja idealan izbor za prostorije veličine do 25m².\nUz tihi rad, ovaj klima uređaj može se pohvaliti funkcijom „Ekonomski režim rada“ , "Human Sensor" funkcijom automatskog ekonomičnog rada u odsustvu ljudi u prostoriji, te SEER/SCOP koeficijentom A+++. Upravo zbog navedenih štedljivih funkcija i visokog učinka grijanja, Advance Inverter serija pokazuje svoju vrijednost ne samo u hlađenju, već i kao odlična alternativa u grijanju, dogrijavanju i  sprječavanju smrzavanja održavanjem temperature ne niže od 10 °C. Zaokružimo li sve ove značajke, pouzdano možemo reći da klima uređaji sa ovakvim karakteristikama predstavljaju rijetko pravo cjelogodišnje rješenje.\nKako bi se osiguralo optimalno iskustvo korištenja ovog odličnog klima uređaja, tu su za vas sve najbitnije funkcije: Režim snažnog rada, Automatski režim rada, Automatsko ponovno pokretanje, „Sleep timer“, Programski i tjedni timer.\nZa lako upravljanje tu je infracrveni daljinski upravljač i mogućnost ugradnje WiFi sučelja koje se prodaje zasebno, a za lako održavanje uklonjivi prednji panel koji olakšava pristup filteru. Kako biste na vrijeme znali da je vrijeme za čišćenje filtera, upaliti će se signalni znak da vas o tome obavijesti.\nKlima uređaj Fujitsu Advance Inverter 2.5 kW sastoji se od unutarnje jedinice oznake ASYG09KGTE, vanjske jedinice AOYG09KGCA i infracrvenog daljinskog upravljača.',
     brand: "Fujitsu",
     category: "Mono klima uređaj",
     price: 7500.0,
@@ -85,7 +85,7 @@ const products = [
     image:
       "/images/Fujitsu/FujitsuAdvanceInverter3.4kW-ASYG12KGTBAOYG12KGCA/20-60d301865c9f3_60d31b0158028.png,/images/Fujitsu/FujitsuAdvanceInverter3.4kW-ASYG12KGTBAOYG12KGCA/wm-new-model-350-5a86e04ae45c3_5dcd198cce4ce.jpg",
     description:
-      'Rashladni medij R32 koji pogoni novu Fujitsu Advance Inverter seriju klima uređaja osigurava iznimnu energetsku učinkovitost, no usprkos tome, dizajn uređaja je nenametljiv a dimenzije vrlo skromne. Suprotno tome, tehničke karakteristike i funkcije su maksimalno raskošne.Uz tihi rad, ovaj klima uređaj može se pohvaliti funkcijom „Ekonomski režim rada“ , "Human Sensor" funkcijom automatskog ekonomičnog rada u odsustvu ljudi u prostoriji, te SEER/SCOP koeficijentom A+++.\n\n Upravo zbog navedenih štedljivih funkcija i visokog učinka grijanja, Advance Inverter serija pokazuje svoju vrijednost ne samo u hlađenju, već i kao odlična alternativa u grijanju, dogrijavanju i  sprječavanju smrzavanja održavanjem temperature ne niže od 10 °C. Zaokružimo li sve ove značajke, pouzdano možemo reći da klima uređaji sa ovakvim karakteristikama predstavljaju rijetko pravo cjelogodišnje rješenje.\n\nKako bi se osiguralo optimalno iskustvo korištenja ovog odličnog klima uređaja, tu su za vas sve najbitnije funkcije: Režim snažnog rada, Automatski režim rada, Automatsko ponovno pokretanje, „Sleep timer“, Programski i tjedni timer.Za lako upravljanje tu je infracrveni daljinski upravljač i mogućnost ugradnje WiFi sučelja koje se prodaje zasebno, a za lako održavanje uklonjivi prednji panel koji olakšava pristup filteru. Kako biste na vrijeme znali da je vrijeme za čišćenje filtera, upaliti će se signalni znak da vas o tome obavijesti.',
+      'Rashladni medij R32 koji pogoni novu Fujitsu Advance Inverter seriju klima uređaja osigurava iznimnu energetsku učinkovitost, no usprkos tome, dizajn uređaja je nenametljiv a dimenzije vrlo skromne. Suprotno tome, tehničke karakteristike i funkcije su maksimalno raskošne.Ovaj klima uređaj snage 3.4 kW predstavlja idealan izbor za prostorije veličine do 35m².\nUz tihi rad, ovaj klima uređaj može se pohvaliti funkcijom „Ekonomski režim rada“ , "Human Sensor" funkcijom automatskog ekonomičnog rada u odsustvu ljudi u prostoriji, te SEER/SCOP koeficijentom A+++. Upravo zbog navedenih štedljivih funkcija i visokog učinka grijanja, Advance Inverter serija pokazuje svoju vrijednost ne samo u hlađenju, već i kao odlična alternativa u grijanju, dogrijavanju i  sprječavanju smrzavanja održavanjem temperature ne niže od 10 °C. Zaokružimo li sve ove značajke, pouzdano možemo reći da klima uređaji sa ovakvim karakteristikama predstavljaju rijetko pravo cjelogodišnje rješenje.\nKako bi se osiguralo optimalno iskustvo korištenja ovog odličnog klima uređaja, tu su za vas sve najbitnije funkcije: Režim snažnog rada, Automatski režim rada, Automatsko ponovno pokretanje, „Sleep timer“, Programski i tjedni timer.\nZa lako upravljanje tu je infracrveni daljinski upravljač i mogućnost ugradnje WiFi sučelja koje se prodaje zasebno, a za lako održavanje uklonjivi prednji panel koji olakšava pristup filteru. Kako biste na vrijeme znali da je vrijeme za čišćenje filtera, upaliti će se signalni znak da vas o tome obavijesti.\nKlima uređaj Fujitsu Advance Inverter 3.4 kW sastoji se od unutarnje jedinice oznake ASYG12KGTE, vanjske jedinice AOYG12KGCB i infracrvenog daljinskog upravljača.',
     brand: "Fujitsu",
     category: "Mono klima uređaj",
     price: 8700.0,
@@ -123,7 +123,7 @@ const products = [
     image:
       "/images/Fujitsu/FujitsuAdvanceInverter4.2kW-ASYG14KGTBAOYG14KGCA/20-60d30217399d8_60d3128fcdf81.png,/images/Fujitsu/FujitsuAdvanceInverter4.2kW-ASYG14KGTBAOYG14KGCA/wm-new-model-350-5a86e04ae45c3_60251dee87d0c.jpg",
     description:
-      'Rashladni medij R32 koji pogoni novu Fujitsu Advance Inverter seriju klima uređaja osigurava iznimnu energetsku učinkovitost, no usprkos tome, dizajn uređaja je nenametljiv a dimenzije vrlo skromne. Suprotno tome, tehničke karakteristike i funkcije su maksimalno raskošne.Uz tihi rad, ovaj klima uređaj može se pohvaliti funkcijom „Ekonomski režim rada“ , "Human Sensor" funkcijom automatskog ekonomičnog rada u odsustvu ljudi u prostoriji, te SEER/SCOP koeficijentom A++.\n\n Upravo zbog navedenih štedljivih funkcija i visokog učinka grijanja, Advance Inverter serija pokazuje svoju vrijednost ne samo u hlađenju, već i kao odlična alternativa u grijanju, dogrijavanju i  sprječavanju smrzavanja održavanjem temperature ne niže od 10 °C. Zaokružimo li sve ove značajke, pouzdano možemo reći da klima uređaji sa ovakvim karakteristikama predstavljaju rijetko pravo cjelogodišnje rješenje.\n\nKako bi se osiguralo optimalno iskustvo korištenja ovog odličnog klima uređaja, tu su za vas sve najbitnije funkcije: Režim snažnog rada, Automatski režim rada, Automatsko ponovno pokretanje, „Sleep timer“, Programski i tjedni timer.Za lako upravljanje tu je infracrveni daljinski upravljač i mogućnost ugradnje WiFi sučelja koje se prodaje zasebno, a za lako održavanje uklonjivi prednji panel koji olakšava pristup filteru. Kako biste na vrijeme znali da je vrijeme za čišćenje filtera, upaliti će se signalni znak da vas o tome obavijesti.',
+      'Rashladni medij R32 koji pogoni novu Fujitsu Advance Inverter seriju klima uređaja osigurava iznimnu energetsku učinkovitost, no usprkos tome, dizajn uređaja je nenametljiv a dimenzije vrlo skromne. Suprotno tome, tehničke karakteristike i funkcije su maksimalno raskošne.Ovaj klima uređaj snage 4.2 kW predstavlja idealan izbor za prostorije veličine do 45m².\nUz tihi rad, ovaj klima uređaj može se pohvaliti funkcijom „Ekonomski režim rada“ , "Human Sensor" funkcijom automatskog ekonomičnog rada u odsustvu ljudi u prostoriji, te SEER/SCOP koeficijentom A++. Upravo zbog navedenih štedljivih funkcija i visokog učinka grijanja, Advance Inverter serija pokazuje svoju vrijednost ne samo u hlađenju, već i kao odlična alternativa u grijanju, dogrijavanju i  sprječavanju smrzavanja održavanjem temperature ne niže od 10 °C. Zaokružimo li sve ove značajke, pouzdano možemo reći da klima uređaji sa ovakvim karakteristikama predstavljaju rijetko pravo cjelogodišnje rješenje.\nKako bi se osiguralo optimalno iskustvo korištenja ovog odličnog klima uređaja, tu su za vas sve najbitnije funkcije: Režim snažnog rada, Automatski režim rada, Automatsko ponovno pokretanje, „Sleep timer“, Programski i tjedni timer.\nZa lako upravljanje tu je infracrveni daljinski upravljač i mogućnost ugradnje WiFi sučelja koje se prodaje zasebno, a za lako održavanje uklonjivi prednji panel koji olakšava pristup filteru. Kako biste na vrijeme znali da je vrijeme za čišćenje filtera, upaliti će se signalni znak da vas o tome obavijesti.\nKlima uređaj Fujitsu Advance Inverter 4.2 kW sastoji se od unutarnje jedinice oznake ASYG14KGTE, vanjske jedinice AOYG14KGCB i infracrvenog daljinskog upravljača.',
     brand: "Fujitsu",
     category: "Mono klima uređaj",
     price: 10700.0,
@@ -161,7 +161,7 @@ const products = [
     image:
       "/images/Fujitsu/FujitsuSuperEcoInverter-4.2kW-ASYG14KMCCAOYG14KMCC/19-60d301ce2954d_60d30fc56ed24.png,/images/Fujitsu/FujitsuSuperEcoInverter-4.2kW-ASYG14KMCCAOYG14KMCC/asyg-kmta-1100px-5cb991ca978f1_5eb021c98c103.jpg",
     description:
-      "Kompaktne dimenzije osigurale su Fujitsu Super Eco Inverter klima uređaju privlačan izgled, a ugrađena tehnologija i korištenje rashladnog medija R32 vrlo visoke performanse i nisku potrošnju električne energije razreda A++.\n\n Uređaj u radu proizvodi tek 20 dB buke a snagom od 4.2 kW osigurava optimalnu klimatizaciju prostorija veličine do 45 m².Za pouzdani rad čak i u vašoj odsutnosti tu su funkcije „Sleep“, Programski timer i Održavanje 10 °C u prostoriji, a za svakodnevni rad upravo po vašim željama Ekonomski režim rada, Režim snažnog rada, Tihi rad, Automatski režim rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.\n\nUpravljanje klima uređajem je jednostavno pomoću infracrvenog daljinskog upravljača, a opcionalno je moguća i bežična kontrola vašim pametnim telefonom ili tabletom pomoću opcionalnog WiFi sučelja koje se prodaje zasebno.",
+      "Kompaktne dimenzije osigurale su Fujitsu Super Eco Inverter klima uređaju privlačan izgled, a ugrađena tehnologija i korištenje rashladnog medija R32 vrlo visoke performanse i nisku potrošnju električne energije razreda A++. Uređaj u radu proizvodi tek 20 dB buke a snagom od 4.2 kW osigurava optimalnu klimatizaciju prostorija veličine do 45 m².\nTihi rad postiže se velikom lamelom ispuha koja ujedno savršeno raspoređuje zrak po prostoriji korisnika, počevši od poda pa sve do stropa. Upravo radi ovih karakteristika moći ćete uživati u odličnoj klimatizaciji i u vašoj spavaćoj sobi.Za pouzdani rad čak i u vašoj odsutnosti tu su funkcije „Sleep“, Programski timer i Održavanje 10 °C u prostoriji, a za svakodnevni rad upravo po vašim željama Ekonomski režim rada, Režim snažnog rada, Tihi rad, Automatski režim rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.\nUpravljanje klima uređajem je jednostavno pomoću infracrvenog daljinskog upravljača, a opcionalno je moguća i bežična kontrola vašim pametnim telefonom ili tabletom pomoću opcionalnog WiFi sučelja koje se prodaje zasebno.\nKlima uređaj Fujitsu Super Eco Inverter 4.2 kW sastoji se od unutarnje jedinice oznake ASYG14KMCE, vanjske jedinice AOYG14KMCC i infracrvenog daljinskog upravljača.",
     brand: "Fujitsu",
     category: "Mono klima uređaj",
     price: 9400.0,
@@ -199,7 +199,7 @@ const products = [
     image:
       "/images/Fujitsu/FujitsuSuperEcoInverter-3.4kW-ASYG12KMCCAOYG12KMCC/19-60d301c4845b0_60d30fc408905.png",
     description:
-      "Kompaktne dimenzije osigurale su Fujitsu Super Eco Inverter klima uređaju privlačan izgled, a ugrađena tehnologija i korištenje rashladnog medija R32 vrlo visoke performanse i nisku potrošnju električne energije razreda A++.\n\n Uređaj u radu proizvodi tek 20 dB buke a snagom od 4.2 kW osigurava optimalnu klimatizaciju prostorija veličine do 45 m².Za pouzdani rad čak i u vašoj odsutnosti tu su funkcije „Sleep“, Programski timer i Održavanje 10 °C u prostoriji, a za svakodnevni rad upravo po vašim željama Ekonomski režim rada, Režim snažnog rada, Tihi rad, Automatski režim rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.\n\nUpravljanje klima uređajem je jednostavno pomoću infracrvenog daljinskog upravljača, a opcionalno je moguća i bežična kontrola vašim pametnim telefonom ili tabletom pomoću opcionalnog WiFi sučelja koje se prodaje zasebno.",
+      "Kompaktne dimenzije osigurale su Fujitsu Super Eco Inverter klima uređaju privlačan izgled, a ugrađena tehnologija i korištenje rashladnog medija R32 vrlo visoke performanse i nisku potrošnju električne energije razreda A++. Uređaj u radu proizvodi tek 20 dB buke a snagom od 3.4 kW osigurava optimalnu klimatizaciju prostorija veličine do 35 m².\nTihi rad postiže se velikom lamelom ispuha koja ujedno savršeno raspoređuje zrak po prostoriji korisnika, počevši od poda pa sve do stropa. Upravo radi ovih karakteristika moći ćete uživati u odličnoj klimatizaciji i u vašoj spavaćoj sobi.Za pouzdani rad čak i u vašoj odsutnosti tu su funkcije „Sleep“, Programski timer i Održavanje 10 °C u prostoriji, a za svakodnevni rad upravo po vašim željama Ekonomski režim rada, Režim snažnog rada, Tihi rad, Automatski režim rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.\nUpravljanje klima uređajem je jednostavno pomoću infracrvenog daljinskog upravljača, a opcionalno je moguća i bežična kontrola vašim pametnim telefonom ili tabletom pomoću opcionalnog WiFi sučelja koje se prodaje zasebno.\nKlima uređaj Fujitsu Super Eco Inverter 3.4 kW sastoji se od unutarnje jedinice oznake ASYG12KMCE, vanjske jedinice AOYG12KMCC i infracrvenog daljinskog upravljača.",
     brand: "Fujitsu",
     category: "Mono klima uređaj",
     price: 7000.0,
@@ -237,7 +237,7 @@ const products = [
     image:
       "/images/Fujitsu/FujitsuSuperEcoInverter-2.5kW-ASYG09KMCCAOYG09KMCC/19-60d301ab87e84_60d311de9a5ff.png,/images/Fujitsu/FujitsuSuperEcoInverter-2.5kW-ASYG09KMCCAOYG09KMCC/asyg-kmta-1100px-5cb991ca978f1_5eb021c7e86ca.jpg",
     description:
-      "Kompaktne dimenzije osigurale su Fujitsu Super Eco Inverter klima uređaju privlačan izgled, a ugrađena tehnologija i korištenje rashladnog medija R32 vrlo visoke performanse i nisku potrošnju električne energije razreda A++.\n\n Uređaj u radu proizvodi tek 20 dB buke a snagom od 4.2 kW osigurava optimalnu klimatizaciju prostorija veličine do 45 m².Za pouzdani rad čak i u vašoj odsutnosti tu su funkcije „Sleep“, Programski timer i Održavanje 10 °C u prostoriji, a za svakodnevni rad upravo po vašim željama Ekonomski režim rada, Režim snažnog rada, Tihi rad, Automatski režim rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.\n\nUpravljanje klima uređajem je jednostavno pomoću infracrvenog daljinskog upravljača, a opcionalno je moguća i bežična kontrola vašim pametnim telefonom ili tabletom pomoću opcionalnog WiFi sučelja koje se prodaje zasebno.",
+      "Kompaktne dimenzije osigurale su Fujitsu Super Eco Inverter klima uređaju privlačan izgled, a ugrađena tehnologija i korištenje rashladnog medija R32 vrlo visoke performanse i nisku potrošnju električne energije razreda A++. Uređaj u radu proizvodi tek 20 dB buke a snagom od 2.5 kW osigurava optimalnu klimatizaciju prostorija veličine do 25 m².\nTihi rad postiže se velikom lamelom ispuha koja ujedno savršeno raspoređuje zrak po prostoriji korisnika, počevši od poda pa sve do stropa. Upravo radi ovih karakteristika moći ćete uživati u odličnoj klimatizaciji i u vašoj spavaćoj sobi.Za pouzdani rad čak i u vašoj odsutnosti tu su funkcije „Sleep“, Programski timer i Održavanje 10 °C u prostoriji, a za svakodnevni rad upravo po vašim željama Ekonomski režim rada, Režim snažnog rada, Tihi rad, Automatski režim rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.\nUpravljanje klima uređajem je jednostavno pomoću infracrvenog daljinskog upravljača, a opcionalno je moguća i bežična kontrola vašim pametnim telefonom ili tabletom pomoću opcionalnog WiFi sučelja koje se prodaje zasebno.\nKlima uređaj Fujitsu Super Eco Inverter 2.5 kW sastoji se od unutarnje jedinice oznake ASYG09KMCE, vanjske jedinice AOYG09KMCC i infracrvenog daljinskog upravljača.",
     brand: "Fujitsu",
     category: "Mono klima uređaj",
     price: 7000.0,
@@ -270,12 +270,12 @@ const products = [
   },
 
   {
-    name: "Fujitsu Super Eco Inverter 2.0 kW",
+    name: "Fujitsu Super Eco Inverter 5.2 kW",
     sifraProizvoda: "ASYG07KMCC/AOYG07KMCC",
     image:
       "/images/Fujitsu/FujitsuSuperEcoInverter-2.0kW-ASYG07KMCCAOYG07KMCC/19-60d301a25ad3b_60d308050f647.png,/images/Fujitsu/FujitsuSuperEcoInverter-2.0kW-ASYG07KMCCAOYG07KMCC/asyg-kmta-1100px-5cb991ca978f1_5eb013bbe6a15.jpg",
     description:
-      "Kompaktne dimenzije osigurale su Fujitsu Super Eco Inverter klima uređaju privlačan izgled, a ugrađena tehnologija i korištenje rashladnog medija R32 vrlo visoke performanse i nisku potrošnju električne energije razreda A++.\n\n Uređaj u radu proizvodi tek 20 dB buke a snagom od 4.2 kW osigurava optimalnu klimatizaciju prostorija veličine do 45 m².Za pouzdani rad čak i u vašoj odsutnosti tu su funkcije „Sleep“, Programski timer i Održavanje 10 °C u prostoriji, a za svakodnevni rad upravo po vašim željama Ekonomski režim rada, Režim snažnog rada, Tihi rad, Automatski režim rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.\n\nUpravljanje klima uređajem je jednostavno pomoću infracrvenog daljinskog upravljača, a opcionalno je moguća i bežična kontrola vašim pametnim telefonom ili tabletom pomoću opcionalnog WiFi sučelja koje se prodaje zasebno.",
+      "Kompaktne dimenzije osigurale su Fujitsu Super Eco Inverter klima uređaju privlačan izgled, a ugrađena tehnologija korištenje rashladnog medija R32 vrlo visoke performanse i nisku potrošnju električne energije razreda A++. Snagom od 5.2 kW osigurava optimalnu klimatizaciju prostorija veličine do 55 m².\nTihi rad postiže se velikom lamelom ispuha koja ujedno savršeno raspoređuje zrak po prostoriji u četiri smjera, gore-dolje i lijevo-desno. Upravo radi ovih karakteristika moći ćete uživati u odličnoj klimatizaciji i u vašoj spavaćoj sobi.Kvaliteta zraka osigurana je naprednom filtracijom katehinskim filterom i filterom s ionima srebra, a za lako održavanje filtera zaslužan je lako uklonjivi prednji panel.\nZa pouzdani rad čak i u vašoj odsutnosti tu su funkcije „Sleep“, Programski timer , Tjedni timer i Održavanje 10 °C u prostoriji, a za svakodnevni rad upravo po vašim željama Ekonomski režim rada, Režim snažnog rada, Tihi rad, Automatski režim rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.\nUpravljanje klima uređajem je jednostavno pomoću infracrvenog daljinskog upravljača, a opcionalno je moguća i bežična kontrola vašim pametnim telefonom ili tabletom pomoću opcionalnog WiFi sučelja koje se prodaje zasebno.\nKlima uređaj Fujitsu Super Eco Inverter 5.2 kW sastoji se od unutarnje jedinice oznake ASYG18KMTE, vanjske jedinice AOYG18KMTA i infracrvenog daljinskog upravljača.",
     brand: "Fujitsu",
     category: "Mono klima uređaj",
     price: 5800.0,
@@ -307,13 +307,58 @@ const products = [
     naponPrikljucka: "jjjj",
   },
 
+
+
+
+  {
+    name: "Fujitsu Super Eco Inverter 7.1 kW",
+    sifraProizvoda: "ASYG07KMCC/AOYG07KMCC",
+    image:
+      "/images/Fujitsu/FujitsuSuperEcoInverter-2.0kW-ASYG07KMCCAOYG07KMCC/19-60d301a25ad3b_60d308050f647.png,/images/Fujitsu/FujitsuSuperEcoInverter-2.0kW-ASYG07KMCCAOYG07KMCC/asyg-kmta-1100px-5cb991ca978f1_5eb013bbe6a15.jpg",
+    description:
+      "Kompaktne dimenzije osigurale su Fujitsu Super Eco Inverter klima uređaju privlačan izgled, a ugrađena tehnologija korištenje rashladnog medija R32 vrlo visoke performanse i nisku potrošnju električne energije razreda A++. Snagom od 7.1 kW osigurava optimalnu klimatizaciju prostorija veličine do 75 m².\nTihi rad postiže se velikom lamelom ispuha koja ujedno savršeno raspoređuje zrak po prostoriji u četiri smjera, gore-dolje i lijevo-desno. Upravo radi ovih karakteristika moći ćete uživati u odličnoj klimatizaciji i u vašoj spavaćoj sobi.Kvaliteta zraka osigurana je naprednom filtracijom katehinskim filterom i filterom s ionima srebra, a za lako održavanje filtera zaslužan je lako uklonjivi prednji panel.\nZa pouzdani rad čak i u vašoj odsutnosti tu su funkcije „Sleep“, Programski timer , Tjedni timer i Održavanje 10 °C u prostoriji, a za svakodnevni rad upravo po vašim željama Ekonomski režim rada, Režim snažnog rada, Tihi rad, Automatski režim rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.\nUpravljanje klima uređajem je jednostavno pomoću infracrvenog daljinskog upravljača, a opcionalno je moguća i bežična kontrola vašim pametnim telefonom ili tabletom pomoću opcionalnog WiFi sučelja koje se prodaje zasebno.\nKlima uređaj Fujitsu Super Eco Inverter 7.1 kW sastoji se od unutarnje jedinice oznake ASYG24KMTE, vanjske jedinice AOYG24KMTA i infracrvenog daljinskog upravljača.",
+    brand: "Fujitsu",
+    category: "Mono klima uređaj",
+    price: 5800.0,
+    onSale: false,
+    sale: 0,
+    coldEff: 2.0,
+    warmEff: 2.5,
+    energyClass: "A++",
+    sizeOfRoom: "16-25",
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: "aaaaa",
+    SEER: "sssss",
+    rasponUcinaGrijanja: "dddddd",
+    SCOP: "eeeeee",
+    dimenzijeUnutarnjeJedinice: "fffff",
+    razinaBuke: "ggggg",
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: "hhhhh",
+    promijerCijeviPlina: "kkkk",
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: "jjjj",
+  },
+
+
+
+
+
   {
     name: "Fujitsu Standard Eco Inverter 7.1 kW",
     sifraProizvoda: "ASYG24KLCA/AOYG24KLTA",
     image:
       "/images/Fujitsu/FujitsuStandardEcoInverter7.1kW-ASYG24KLCAAOYG24KLTA/22-60d3010f7a87e_60d3177d8a6b4.png,/images/Fujitsu/FujitsuStandardEcoInverter7.1kW-ASYG24KLCAAOYG24KLTA/fujitsu-klca-5cf7692b85dad_5cf76c88999bc.jpg",
     description:
-      "Ulazni Fujitsu Standard Eco Inverter model koji koristi rashladni medij R32 oduševit će vas jednostavnim, nenametljivim dizajnom koji skriva brojne tehnološke novitete. Uređaj postiže A++ energetski razred u hlađenju, podržava opcionalno WiFi upravljanje koje se kupuje zasebno, te može grijati sve do -15 ºC. Snagom od 7.1 kW zadovoljit će sve potrebe hlađenja i grijanja u prostorijama do 75 m².\n\nBrza i jednostavna je i sama kontrola uređaja pomoću infracrvenog daljinskog upravljača i brojnih funkcija. U slučaju potrebe klimatizacije pred ili za vrijeme spavanja možete koristiti funkciju „Sleep“, dok se recimo u odsustvu možete poslužiti funkcijom „Programski timer“ i ne brinuti o tome da li je vaš klima uređaj ostao upaljen ili ugašen.\n\nNa ovaj način dodatno ćete uštedjeti na vremenu i potrošnji električne energije pravovremenim gašenjem klima uređaja i izbjegavanjem nepotrebnog rada.Za udobnost svakodnevnog korištenja tu su i sve najbitnije programske značajke poput: Ekonomski režim rada, Režim snažnog rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.",
+      "Ulazni Fujitsu Standard Eco Inverter model koji koristi rashladni medij R32 oduševit će vas jednostavnim, nenametljivim dizajnom koji skriva brojne tehnološke novitete. Uređaj postiže A++ energetski razred u hlađenju, podržava opcionalno WiFi upravljanje koje se kupuje zasebno, te može grijati sve do -15 ºC. Snagom od 7.1 kW zadovoljit će sve potrebe hlađenja i grijanja u prostorijama do 75 m².\nOdličnim filterskim sustavom osigurati će svjež i čist zrak a velikom lamelom tih rad i ugodan ispuh zraka po čitavoj prostoriji. Također, prednji panel lako je ukloniv pa će održavanje čistoće filtera biti brzo i jednostavno, a za pravovremeno čišćenje biti ćete obavješteni na vrijeme pomoću signalne lampice u znaku filtera.\nBrza i jednostavna je i sama kontrola uređaja pomoću infracrvenog daljinskog upravljača i brojnih funkcija. U slučaju potrebe klimatizacije pred ili za vrijeme spavanja možete koristiti funkciju „Sleep“, dok se recimo u odsustvu možete poslužiti funkcijom „Programski timer“ i ne brinuti o tome da li je vaš klima uređaj ostao upaljen ili ugašen. Na ovaj način dodatno ćete uštedjeti na vremenu i potrošnji električne energije pravovremenim gašenjem klima uređaja i izbjegavanjem nepotrebnog rada.\nZa udobnost svakodnevnog korištenja tu su i sve najbitnije programske značajke poput: Ekonomski režim rada, Režim snažnog rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.\nKlima uređaj Fujitsu Standard Eco Inverter 7.1 kW sastoji se od unutarnje jedinice oznake ASYG24KLCA, vanjske jedinice AOYG24KLCA i infracrvenog daljinskog upravljača.",
     brand: "Fujitsu",
     category: "Mono klima uređaj",
     price: 13600.0,
@@ -351,7 +396,7 @@ const products = [
     image:
       "/images/Fujitsu/FujitsuStandardEcoInverter5.2kW-ASYG18KLCAAOYG18KLCA/22-60d3023209a78_60d31075e7f18.png,/images/Fujitsu/FujitsuStandardEcoInverter5.2kW-ASYG18KLCAAOYG18KLCA/fujitsu-klca-5cf7692b85dad_60251df8b8079.jpg",
     description:
-      "Ulazni Fujitsu Standard Eco Inverter model koji koristi rashladni medij R32 oduševit će vas jednostavnim, nenametljivim dizajnom koji skriva brojne tehnološke novitete. Uređaj postiže A++ energetski razred u hlađenju, podržava opcionalno WiFi upravljanje koje se kupuje zasebno, te može grijati sve do -15 ºC. Snagom od 7.1 kW zadovoljit će sve potrebe hlađenja i grijanja u prostorijama do 75 m².\n\nBrza i jednostavna je i sama kontrola uređaja pomoću infracrvenog daljinskog upravljača i brojnih funkcija. U slučaju potrebe klimatizacije pred ili za vrijeme spavanja možete koristiti funkciju „Sleep“, dok se recimo u odsustvu možete poslužiti funkcijom „Programski timer“ i ne brinuti o tome da li je vaš klima uređaj ostao upaljen ili ugašen.\n\nNa ovaj način dodatno ćete uštedjeti na vremenu i potrošnji električne energije pravovremenim gašenjem klima uređaja i izbjegavanjem nepotrebnog rada.Za udobnost svakodnevnog korištenja tu su i sve najbitnije programske značajke poput: Ekonomski režim rada, Režim snažnog rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.",
+      "Ulazni Fujitsu Standard Eco Inverter model koji koristi rashladni medij R32 oduševit će vas jednostavnim, nenametljivim dizajnom koji skriva brojne tehnološke novitete. Uređaj postiže A++ energetski razred u hlađenju, podržava opcionalno WiFi upravljanje koje se kupuje zasebno, te može grijati sve do -15 ºC. Snagom od 5.2 kW zadovoljit će sve potrebe hlađenja i grijanja u prostorijama do 55 m².\nOdličnim filterskim sustavom osigurati će svjež i čist zrak a velikom lamelom tih rad i ugodan ispuh zraka po čitavoj prostoriji. Također, prednji panel lako je ukloniv pa će održavanje čistoće filtera biti brzo i jednostavno, a za pravovremeno čišćenje biti ćete obavješteni na vrijeme pomoću signalne lampice u znaku filtera.\nBrza i jednostavna je i sama kontrola uređaja pomoću infracrvenog daljinskog upravljača i brojnih funkcija. U slučaju potrebe klimatizacije pred ili za vrijeme spavanja možete koristiti funkciju „Sleep“, dok se recimo u odsustvu možete poslužiti funkcijom „Programski timer“ i ne brinuti o tome da li je vaš klima uređaj ostao upaljen ili ugašen. Na ovaj način dodatno ćete uštedjeti na vremenu i potrošnji električne energije pravovremenim gašenjem klima uređaja i izbjegavanjem nepotrebnog rada.Za udobnost svakodnevnog korištenja tu su i sve najbitnije programske značajke poput: Ekonomski režim rada, Režim snažnog rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.\nKlima uređaj Fujitsu Standard Eco Inverter 5.2 kW sastoji se od unutarnje jedinice oznake ASYG18KLCA, vanjske jedinice AOYG18KLCA i infracrvenog daljinskog upravljača.",
     brand: "Fujitsu",
     category: "Mono klima uređaj",
     price: 13600.0,
@@ -389,7 +434,7 @@ const products = [
     image:
       "/images/Fujitsu/FujitsuStandardEcoInverter3.4kW-ASYG12KPCAAOYG12KPCA/21-60d300fda9767_60d30a244b201.png,/images/Fujitsu/FujitsuStandardEcoInverter3.4kW-ASYG12KPCAAOYG12KPCA/fujitsu-kpca-5cf768f1e50be_5cf77bf87ecc6.jpg",
     description:
-      "Ulazni Fujitsu Standard Eco Inverter model koji koristi rashladni medij R32 oduševit će vas jednostavnim, nenametljivim dizajnom koji skriva brojne tehnološke novitete. Uređaj postiže A++ energetski razred u hlađenju, podržava opcionalno WiFi upravljanje koje se kupuje zasebno, te može grijati sve do -15 ºC. Snagom od 7.1 kW zadovoljit će sve potrebe hlađenja i grijanja u prostorijama do 75 m².\n\nBrza i jednostavna je i sama kontrola uređaja pomoću infracrvenog daljinskog upravljača i brojnih funkcija. U slučaju potrebe klimatizacije pred ili za vrijeme spavanja možete koristiti funkciju „Sleep“, dok se recimo u odsustvu možete poslužiti funkcijom „Programski timer“ i ne brinuti o tome da li je vaš klima uređaj ostao upaljen ili ugašen.\n\nNa ovaj način dodatno ćete uštedjeti na vremenu i potrošnji električne energije pravovremenim gašenjem klima uređaja i izbjegavanjem nepotrebnog rada.Za udobnost svakodnevnog korištenja tu su i sve najbitnije programske značajke poput: Ekonomski režim rada, Režim snažnog rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.",
+      "Ulazni Fujitsu Standard Eco Inverter model koji koristi rashladni medij R32 oduševit će vas jednostavnim, nenametljivim dizajnom koji skriva brojne tehnološke novitete. Uređaj postiže A++ energetski razred u hlađenju, podržava opcionalno WiFi upravljanje koje se kupuje zasebno, te može grijati sve do -15 ºC. Snagom od 3.4 kW zadovoljit će sve potrebe hlađenja i grijanja u prostorijama do 35 m².\nOdličnim filterskim sustavom osigurati će svjež i čist zrak a velikom lamelom tih rad i ugodan ispuh zraka po čitavoj prostoriji. Također, prednji panel lako je ukloniv pa će održavanje čistoće filtera biti brzo i jednostavno, a za pravovremeno čišćenje biti ćete obavješteni na vrijeme pomoću signalne lampice u znaku filtera.\nBrza i jednostavna je i sama kontrola uređaja pomoću infracrvenog daljinskog upravljača i brojnih funkcija. U slučaju potrebe klimatizacije pred ili za vrijeme spavanja možete koristiti funkciju „Sleep“, dok se recimo u odsustvu možete poslužiti funkcijom „Programski timer“ i ne brinuti o tome da li je vaš klima uređaj ostao upaljen ili ugašen. Na ovaj način dodatno ćete uštedjeti na vremenu i potrošnji električne energije pravovremenim gašenjem klima uređaja i izbjegavanjem nepotrebnog rada.Za udobnost svakodnevnog korištenja tu su i sve najbitnije programske značajke poput: Ekonomski režim rada, Režim snažnog rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.\nKlima uređaj Fujitsu Standard Eco Inverter 3.4 kW sastoji se od unutarnje jedinice oznake ASYG12KPCE, vanjske jedinice AOYG12KPCA i infracrvenog daljinskog upravljača.",
     brand: "Fujitsu",
     category: "Mono klima uređaj",
     price: 5100.0,
@@ -427,7 +472,7 @@ const products = [
     image:
       "/images/Fujitsu/FujitsuStandardEcoInverter2.5kW-ASYG09KPCAAOYG09KPCA/21-60d300ef2b003_60d30b8b635c5.png,/images/Fujitsu/FujitsuStandardEcoInverter2.5kW-ASYG09KPCAAOYG09KPCA/fujitsu-kpca-5cf768f1e50be_5cf7792806991.jpg",
     description:
-      "Ulazni Fujitsu Standard Eco Inverter model koji koristi rashladni medij R32 oduševit će vas jednostavnim, nenametljivim dizajnom koji skriva brojne tehnološke novitete. Uređaj postiže A++ energetski razred u hlađenju, podržava opcionalno WiFi upravljanje koje se kupuje zasebno, te može grijati sve do -15 ºC. Snagom od 7.1 kW zadovoljit će sve potrebe hlađenja i grijanja u prostorijama do 75 m².\n\nBrza i jednostavna je i sama kontrola uređaja pomoću infracrvenog daljinskog upravljača i brojnih funkcija. U slučaju potrebe klimatizacije pred ili za vrijeme spavanja možete koristiti funkciju „Sleep“, dok se recimo u odsustvu možete poslužiti funkcijom „Programski timer“ i ne brinuti o tome da li je vaš klima uređaj ostao upaljen ili ugašen.\n\nNa ovaj način dodatno ćete uštedjeti na vremenu i potrošnji električne energije pravovremenim gašenjem klima uređaja i izbjegavanjem nepotrebnog rada.Za udobnost svakodnevnog korištenja tu su i sve najbitnije programske značajke poput: Ekonomski režim rada, Režim snažnog rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.",
+      "Ulazni Fujitsu Standard Eco Inverter model koji koristi rashladni medij R32 oduševit će vas jednostavnim, nenametljivim dizajnom koji skriva brojne tehnološke novitete. Uređaj postiže A++ energetski razred u hlađenju, podržava opcionalno WiFi upravljanje koje se kupuje zasebno, te može grijati sve do -15 ºC. Snagom od 2.5 kW zadovoljit će sve potrebe hlađenja i grijanja u prostorijama do 25 m².\nOdličnim filterskim sustavom osigurati će svjež i čist zrak a velikom lamelom tih rad i ugodan ispuh zraka po čitavoj prostoriji. Također, prednji panel lako je ukloniv pa će održavanje čistoće filtera biti brzo i jednostavno, a za pravovremeno čišćenje biti ćete obavješteni na vrijeme pomoću signalne lampice u znaku filtera.\nBrza i jednostavna je i sama kontrola uređaja pomoću infracrvenog daljinskog upravljača i brojnih funkcija. U slučaju potrebe klimatizacije pred ili za vrijeme spavanja možete koristiti funkciju „Sleep“, dok se recimo u odsustvu možete poslužiti funkcijom „Programski timer“ i ne brinuti o tome da li je vaš klima uređaj ostao upaljen ili ugašen. Na ovaj način dodatno ćete uštedjeti na vremenu i potrošnji električne energije pravovremenim gašenjem klima uređaja i izbjegavanjem nepotrebnog rada.Za udobnost svakodnevnog korištenja tu su i sve najbitnije programske značajke poput: Ekonomski režim rada, Režim snažnog rada, Automatska brzina ventilatora i Automatsko ponovno pokretanje.\nKlima uređaj Fujitsu Standard Eco Inverter 2.5 kW sastoji se od unutarnje jedinice oznake ASYG09KPCE, vanjske jedinice AOYG09KPCA i infracrvenog daljinskog upravljača.",
     brand: "Fujitsu",
     category: "Mono klima uređaj",
     price: 4500.0,
@@ -459,51 +504,19 @@ const products = [
     naponPrikljucka: "jjjj",
   },
 
-  {
-    name: "Fujitsu Nocria X Inverter 3.4 kW",
-    sifraProizvoda: "ASYG12KXCA/AOYG12KXCA",
-    image:
-      "/images/Fujitsu/FujitsuNocriaXInverter3.4kW-ASYG12KXCAAOYG12KXCA/16-60d3011b11032_60d30f0c33418.png,/images/Fujitsu/FujitsuNocriaXInverter3.4kW-ASYG12KXCAAOYG12KXCA/il-7635s-x08f-tp-5a86f03051a27_5c814312c4e4a.jpg",
-    description:
-      'Legendarni Fujitsu Nocria X vratio se u ponudu ovog japanskog branda. No, ovaj puta riječ je o istinskom dragulju kojeg krase brojna tehnička rješenja o kojima konkurencija može samo maštati. Uz to, koristi ekološki prihvatljiv rashladni medij R32 koji pomaže pri očuvanju okoliša i poboljšava energetsku efikasnost, te "Human Sensor" funkciju automatskog ekonomičnog rada, pa nije ni čudo da Nocria X postiže najviše SEER i SCOP koeficijente A+++.\n\n Uz snagu od 3.4 kW stvarno se možete opustiti, jer će ovaj iznimni uređaj bez imalo problema rashladiti ili ugrijati svaku željenu prostoriju do 35 m² i pritom osigurati najvišu kvalitetu zraka. Za nju se pobrinuo "Plasma Filter", najsnažniji filterski sustav dostupan za klima uređaje koji pouzdano uklanja 99% štetnih čestica i ne samo da olakšava simptome respiratornih bolesti, već i pomaže u sprječavanju razvijanja istih.Kako bi osigurao da baš svaki kutak vašeg dnevog boravka, ureda ili spavaće sobe bude optimalno klimatiziran, ovaj model dolazi sa dvostrukim sistemom "Dual Blaster" koji sa snažnim ispuhom na bočnim stranicama klima uređaja omogućava rekordno brzo postizanje zadane temperature.\n\n  Uz brojne funkcije u ponudi Fujitsu klima uređaja poput Automatski režim rada, Automatsko ponovno pokretanje, Režim snažnog rada, Tihi rad, „Sleep timer“, Programski timer i Ekonomski režim rada, Nocria X dolazi i sa rijetkom, vrlo zahvalnom funkcijom Automatskog čišćenja zračnog filtera sa kojom ćete uštedjeti na vremenu i brizi, a dugoročno i na računu. Naime, princip rada klima uređaja je takav da u slučaju začepljenog filtera pokušava nadoknaditi izgubljenu efikasnost preko dodatnog pojačanog rada i time se naravno troši sve više električne energije.',
-    brand: "Fujitsu",
-    category: "Mono klima uređaj",
-    price: 17200.0,
-    onSale: false,
-    sale: 0,
-    coldEff: 3.4,
-    warmEff: 5.0,
-    energyClass: "A+++",
-    sizeOfRoom: "26-35",
-    countInStock: 3,
-    rating: 0,
-    numReviews: 0,
-    najtrazeni: false,
-    radnaTvar: true,
-    rasponRashladnogUcinka: "aaaaa",
-    SEER: "sssss",
-    rasponUcinaGrijanja: "dddddd",
-    SCOP: "eeeeee",
-    dimenzijeUnutarnjeJedinice: "fffff",
-    razinaBuke: "ggggg",
-    wifi: true,
-    ionizatorZraka: true,
-    dimenzijeVanjskeJedinice: 222,
-    razinaBukeVanjskeJedinice: 222,
-    promijerCijeviTekucine: "hhhhh",
-    promijerCijeviPlina: "kkkk",
-    maksimalnaDuljinaCijevi: 222,
-    maksimalnaVisRazlika: 222,
-    naponPrikljucka: "jjjj",
-  },
+  
 
+
+
+  
+w
   {
     name: "Fujitsu Design Inverter 4.2 kW siva",
     sifraProizvoda: "ASYG14KETA-B/AOYG14KETA",
     image:
       "/images/Fujitsu/FujitsuDesignInverter4.2kW-siva-ASYG14KETA-BAOYG14KETA/18-60d301f0af53a_60e434a79af46.png,/images/Fujitsu/FujitsuDesignInverter4.2kW-siva-ASYG14KETA-BAOYG14KETA/5-5f21212073e13_5f213de325321.png",
     description:
-      "Za ljubitelje odlične klimatizacije s naglaskom na moderan i elegantan dizajn, Fujitsu je pripremio novu seriju klima uređaja Design Inverter. Efikasnost bez kompromisa osigurava odlične rezultate energetskog razreda A++ u hlađenju, dok se novi dizajn s posebnom teksturom površine i elegantnim linijama lakoćom uklapa u okružje vašeg doma. Korištenjem najnovijeg i ekološki prihvatljivijeg rashladnog sredstva R32 postiže se još bolja energetska efikasnost i smanjuje štetnost za okoliš.\n\nDesign Inverter nudi funkcionalnosti koje će osjetno olakšati korištenje, povećati udobnost i smanjiti brigu oko rada uređaja, sve kako bi vam osigurale nesmetanu ugodnost po vašim uvjetima. Od brojnih funkcionalnosti kao posebno vrijedne pažnje moramo istaknuti sljedeće: Ekonomski režim rada, Snažni režim rada, Održavanje 10 °C u prostoriji, Automatsko prebacivanje režima rada hlađenja i grijanja, Automatska kontrola ventilatora i Automatsko ponovno pokretanje. Oni zajedno nude odgovarajuće načine rada za sve potrebe jednog doma.Kontrola je iznimno laka putem bežičnog daljinskog upravljača koji vam nudi razne programske mogućnosti poput Noćnog, Programskog i Tjednog timera. Pomoću njih možete namjestiti potpunu automatizaciju rada kroz tjedan, kada želite i kako želite. Ovako velika i detaljna kontrola nad klima uređajem ne samo da olakšava korištenje, već nudi potpunu optimizaciju i maksimalno iskorištavanje mogućnosti uređaja, uz dodatnu uštedu električne energije radi ciljanog rada samo u pravo vrijeme.\n\nU ponudi je i žičani zidni daljinski upravljač koji nudi sve napredne mogućnosti kontrole u dobro poznatom stilu centralnog grijanja. Ne smijemo zaboraviti i na mogućnost ugradnje WiFi sučelja koje također nudimo u našoj ponudi. Ono vam omogućuje kontrolu nad klima uređajem gdje god se nalazili, a sve preko odlične aplikacije na nekom od vašim mobilnih pametnih uređaja. Uzmite kontrolu u svoje ruke, doslovno.",
+      "Za ljubitelje odlične klimatizacije s naglaskom na moderan i elegantan dizajn, Fujitsu je pripremio novu seriju klima uređaja Design Inverter. Efikasnost bez kompromisa osigurava odlične rezultate energetskog razreda A++ u hlađenju, dok se novi dizajn s posebnom teksturom površine i elegantnim linijama lakoćom uklapa u okružje vašeg doma. Korištenjem najnovijeg i ekološki prihvatljivijeg rashladnog sredstva R32 postiže se još bolja energetska efikasnost i smanjuje štetnost za okoliš.\nDesign Inverter nudi funkcionalnosti koje će osjetno olakšati korištenje, povećati udobnost i smanjiti brigu oko rada uređaja, sve kako bi vam osigurale nesmetanu ugodnost po vašim uvjetima. Od brojnih funkcionalnosti kao posebno vrijedne pažnje moramo istaknuti sljedeće: Ekonomski režim rada, Snažni režim rada, Održavanje 10 °C u prostoriji, Automatsko prebacivanje režima rada hlađenja i grijanja, Automatska kontrola ventilatora i Automatsko ponovno pokretanje. Oni zajedno nude odgovarajuće načine rada za sve potrebe jednog doma.\nKontrola je iznimno laka putem bežičnog daljinskog upravljača koji vam nudi razne programske mogućnosti poput Noćnog, Programskog i Tjednog timera. Pomoću njih možete namjestiti potpunu automatizaciju rada kroz tjedan, kada želite i kako želite. Ovako velika i detaljna kontrola nad klima uređajem ne samo da olakšava korištenje, već nudi potpunu optimizaciju i maksimalno iskorištavanje mogućnosti uređaja, uz dodatnu uštedu električne energije radi ciljanog rada samo u pravo vrijeme.\nU ponudi je i žičani zidni daljinski upravljač koji nudi sve napredne mogućnosti kontrole u dobro poznatom stilu centralnog grijanja. Ne smijemo zaboraviti i na mogućnost ugradnje WiFi sučelja koje također nudimo u našoj ponudi. Ono vam omogućuje kontrolu nad klima uređajem gdje god se nalazili, a sve preko odlične aplikacije na nekom od vašim mobilnih pametnih uređaja. Uzmite kontrolu u svoje ruke, doslovno.\nKlima uređaj Fujitsu Design Inverter 4.2 kW sastoji se od unutarnje jedinice oznake ASYG14KETE-B, vanjske jedinice AOYG14KETA i infracrvenog daljinskog upravljača.",
     brand: "Fujitsu",
     category: "Mono klima uređaj",
     price: 11100.0,
@@ -541,7 +554,7 @@ const products = [
     image:
       "/images/Fujitsu/FujitsuDesignInverter4.2kW-bijela-ASYG14KETAAOYG14KETA/17-60d301f68827a_60d3134c50cb3_640xr.png,/images/Fujitsu/FujitsuDesignInverter4.2kW-bijela-ASYG14KETAAOYG14KETA/6-5f21210fa65ab_5f213de367897.png",
     description:
-      "Za ljubitelje odlične klimatizacije s naglaskom na moderan i elegantan dizajn, Fujitsu je pripremio novu seriju klima uređaja Design Inverter. Efikasnost bez kompromisa osigurava odlične rezultate energetskog razreda A++ u hlađenju, dok se novi dizajn s posebnom teksturom površine i elegantnim linijama lakoćom uklapa u okružje vašeg doma. Korištenjem najnovijeg i ekološki prihvatljivijeg rashladnog sredstva R32 postiže se još bolja energetska efikasnost i smanjuje štetnost za okoliš.\n\nDesign Inverter nudi funkcionalnosti koje će osjetno olakšati korištenje, povećati udobnost i smanjiti brigu oko rada uređaja, sve kako bi vam osigurale nesmetanu ugodnost po vašim uvjetima. Od brojnih funkcionalnosti kao posebno vrijedne pažnje moramo istaknuti sljedeće: Ekonomski režim rada, Snažni režim rada, Održavanje 10 °C u prostoriji, Automatsko prebacivanje režima rada hlađenja i grijanja, Automatska kontrola ventilatora i Automatsko ponovno pokretanje. Oni zajedno nude odgovarajuće načine rada za sve potrebe jednog doma.Kontrola je iznimno laka putem bežičnog daljinskog upravljača koji vam nudi razne programske mogućnosti poput Noćnog, Programskog i Tjednog timera. Pomoću njih možete namjestiti potpunu automatizaciju rada kroz tjedan, kada želite i kako želite. Ovako velika i detaljna kontrola nad klima uređajem ne samo da olakšava korištenje, već nudi potpunu optimizaciju i maksimalno iskorištavanje mogućnosti uređaja, uz dodatnu uštedu električne energije radi ciljanog rada samo u pravo vrijeme.\n\nU ponudi je i žičani zidni daljinski upravljač koji nudi sve napredne mogućnosti kontrole u dobro poznatom stilu centralnog grijanja. Ne smijemo zaboraviti i na mogućnost ugradnje WiFi sučelja koje također nudimo u našoj ponudi. Ono vam omogućuje kontrolu nad klima uređajem gdje god se nalazili, a sve preko odlične aplikacije na nekom od vašim mobilnih pametnih uređaja. Uzmite kontrolu u svoje ruke, doslovno.",
+      "Za ljubitelje odlične klimatizacije s naglaskom na moderan i elegantan dizajn, Fujitsu je pripremio novu seriju klima uređaja Design Inverter. Efikasnost bez kompromisa osigurava odlične rezultate energetskog razreda A++ u hlađenju, dok se novi dizajn s posebnom teksturom površine i elegantnim linijama lakoćom uklapa u okružje vašeg doma. Korištenjem najnovijeg i ekološki prihvatljivijeg rashladnog sredstva R32 postiže se još bolja energetska efikasnost i smanjuje štetnost za okoliš.\nDesign Inverter nudi funkcionalnosti koje će osjetno olakšati korištenje, povećati udobnost i smanjiti brigu oko rada uređaja, sve kako bi vam osigurale nesmetanu ugodnost po vašim uvjetima. Od brojnih funkcionalnosti kao posebno vrijedne pažnje moramo istaknuti sljedeće: Ekonomski režim rada, Snažni režim rada, Održavanje 10 °C u prostoriji, Automatsko prebacivanje režima rada hlađenja i grijanja, Automatska kontrola ventilatora i Automatsko ponovno pokretanje. Oni zajedno nude odgovarajuće načine rada za sve potrebe jednog doma.\nKontrola je iznimno laka putem bežičnog daljinskog upravljača koji vam nudi razne programske mogućnosti poput Noćnog, Programskog i Tjednog timera. Pomoću njih možete namjestiti potpunu automatizaciju rada kroz tjedan, kada želite i kako želite. Ovako velika i detaljna kontrola nad klima uređajem ne samo da olakšava korištenje, već nudi potpunu optimizaciju i maksimalno iskorištavanje mogućnosti uređaja, uz dodatnu uštedu električne energije radi ciljanog rada samo u pravo vrijeme.\nU ponudi je i žičani zidni daljinski upravljač koji nudi sve napredne mogućnosti kontrole u dobro poznatom stilu centralnog grijanja. Ne smijemo zaboraviti i na mogućnost ugradnje WiFi sučelja koje također nudimo u našoj ponudi. Ono vam omogućuje kontrolu nad klima uređajem gdje god se nalazili, a sve preko odlične aplikacije na nekom od vašim mobilnih pametnih uređaja. Uzmite kontrolu u svoje ruke, doslovno.\nKlima uređaj Fujitsu Design Inverter 4.2 kW sastoji se od unutarnje jedinice oznake ASYG14KETE-B, vanjske jedinice AOYG14KETA i infracrvenog daljinskog upravljača.",
     brand: "Fujitsu",
     category: "Mono klima uređaj",
     price: 11100.0,
@@ -579,8 +592,7 @@ const products = [
     image:
       "/images/Fujitsu/FujitsuDesignInverter3.4kW-siva-ASYG12KETA-BAOYG12KETA/18-60d301f0af53a_60d3285f65297.png,/images/Fujitsu/FujitsuDesignInverter3.4kW-siva-ASYG12KETA-BAOYG12KETA/5-5f212101cd177_5f213de2cd711.png",
     description:
-      "Za ljubitelje odlične klimatizacije s naglaskom na moderan i elegantan dizajn, Fujitsu je pripremio novu seriju klima uređaja Design Inverter. Efikasnost bez kompromisa osigurava odlične rezultate energetskog razreda A++ u hlađenju, dok se novi dizajn s posebnom teksturom površine i elegantnim linijama lakoćom uklapa u okružje vašeg doma. Korištenjem najnovijeg i ekološki prihvatljivijeg rashladnog sredstva R32 postiže se još bolja energetska efikasnost i smanjuje štetnost za okoliš.\n\nDesign Inverter nudi funkcionalnosti koje će osjetno olakšati korištenje, povećati udobnost i smanjiti brigu oko rada uređaja, sve kako bi vam osigurale nesmetanu ugodnost po vašim uvjetima. Od brojnih funkcionalnosti kao posebno vrijedne pažnje moramo istaknuti sljedeće: Ekonomski režim rada, Snažni režim rada, Održavanje 10 °C u prostoriji, Automatsko prebacivanje režima rada hlađenja i grijanja, Automatska kontrola ventilatora i Automatsko ponovno pokretanje. Oni zajedno nude odgovarajuće načine rada za sve potrebe jednog doma.Kontrola je iznimno laka putem bežičnog daljinskog upravljača koji vam nudi razne programske mogućnosti poput Noćnog, Programskog i Tjednog timera. Pomoću njih možete namjestiti potpunu automatizaciju rada kroz tjedan, kada želite i kako želite. Ovako velika i detaljna kontrola nad klima uređajem ne samo da olakšava korištenje, već nudi potpunu optimizaciju i maksimalno iskorištavanje mogućnosti uređaja, uz dodatnu uštedu električne energije radi ciljanog rada samo u pravo vrijeme.\n\nU ponudi je i žičani zidni daljinski upravljač koji nudi sve napredne mogućnosti kontrole u dobro poznatom stilu centralnog grijanja. Ne smijemo zaboraviti i na mogućnost ugradnje WiFi sučelja koje također nudimo u našoj ponudi. Ono vam omogućuje kontrolu nad klima uređajem gdje god se nalazili, a sve preko odlične aplikacije na nekom od vašim mobilnih pametnih uređaja. Uzmite kontrolu u svoje ruke, doslovno.",
-    brand: "Fujitsu",
+      "Za ljubitelje odlične klimatizacije s naglaskom na moderan i elegantan dizajn, Fujitsu je pripremio novu seriju klima uređaja Design Inverter. Efikasnost bez kompromisa osigurava odlične rezultate energetskog razreda A++ u hlađenju, dok se novi dizajn s posebnom teksturom površine i elegantnim linijama lakoćom uklapa u okružje vašeg doma. Korištenjem najnovijeg i ekološki prihvatljivijeg rashladnog sredstva R32 postiže se još bolja energetska efikasnost i smanjuje štetnost za okoliš.\nDesign Inverter nudi funkcionalnosti koje će osjetno olakšati korištenje, povećati udobnost i smanjiti brigu oko rada uređaja, sve kako bi vam osigurale nesmetanu ugodnost po vašim uvjetima. Od brojnih funkcionalnosti kao posebno vrijedne pažnje moramo istaknuti sljedeće: Ekonomski režim rada, Snažni režim rada, Održavanje 10 °C u prostoriji, Automatsko prebacivanje režima rada hlađenja i grijanja, Automatska kontrola ventilatora i Automatsko ponovno pokretanje. Oni zajedno nude odgovarajuće načine rada za sve potrebe jednog doma.\nKontrola je iznimno laka putem bežičnog daljinskog upravljača koji vam nudi razne programske mogućnosti poput Noćnog, Programskog i Tjednog timera. Pomoću njih možete namjestiti potpunu automatizaciju rada kroz tjedan, kada želite i kako želite. Ovako velika i detaljna kontrola nad klima uređajem ne samo da olakšava korištenje, već nudi potpunu optimizaciju i maksimalno iskorištavanje mogućnosti uređaja, uz dodatnu uštedu električne energije radi ciljanog rada samo u pravo vrijeme.\nU ponudi je i žičani zidni daljinski upravljač koji nudi sve napredne mogućnosti kontrole u dobro poznatom stilu centralnog grijanja. Ne smijemo zaboraviti i na mogućnost ugradnje WiFi sučelja koje također nudimo u našoj ponudi. Ono vam omogućuje kontrolu nad klima uređajem gdje god se nalazili, a sve preko odlične aplikacije na nekom od vašim mobilnih pametnih uređaja. Uzmite kontrolu u svoje ruke, doslovno.\nKlima uređaj Fujitsu Design Inverter 3.4 kW sastoji se od unutarnje jedinice oznake ASYG12KETE-B, vanjske jedinice AOYG12KETA i infracrvenog daljinskog upravljača.",
     category: "Mono klima uređaj",
     price: 8200.0,
     onSale: false,
@@ -612,12 +624,12 @@ const products = [
   },
 
   {
-    name: "Fujitsu Design Inverter 3.4 kW - bijela ",
+    name: "Fujitsu Design Inverter 2.5 kW - siva ",
     sifraProizvoda: "ASYG12KETA-B/AOYG12KETA",
     image:
       "/images/Fujitsu/FujitsuDesignInverter3.4kW-bijela-ASYG12KETAAOYG12KETA/17-60d301e6d4993_60d302648af98.png,/images/Fujitsu/FujitsuDesignInverter3.4kW-bijela-ASYG12KETAAOYG12KETA/6-5f2120f5db32d_5f213de28918e.png",
     description:
-      "Za ljubitelje odlične klimatizacije s naglaskom na moderan i elegantan dizajn, Fujitsu je pripremio novu seriju klima uređaja Design Inverter. Efikasnost bez kompromisa osigurava odlične rezultate energetskog razreda A++ u hlađenju, dok se novi dizajn s posebnom teksturom površine i elegantnim linijama lakoćom uklapa u okružje vašeg doma. Korištenjem najnovijeg i ekološki prihvatljivijeg rashladnog sredstva R32 postiže se još bolja energetska efikasnost i smanjuje štetnost za okoliš.\n\nDesign Inverter nudi funkcionalnosti koje će osjetno olakšati korištenje, povećati udobnost i smanjiti brigu oko rada uređaja, sve kako bi vam osigurale nesmetanu ugodnost po vašim uvjetima. Od brojnih funkcionalnosti kao posebno vrijedne pažnje moramo istaknuti sljedeće: Ekonomski režim rada, Snažni režim rada, Održavanje 10 °C u prostoriji, Automatsko prebacivanje režima rada hlađenja i grijanja, Automatska kontrola ventilatora i Automatsko ponovno pokretanje. Oni zajedno nude odgovarajuće načine rada za sve potrebe jednog doma.Kontrola je iznimno laka putem bežičnog daljinskog upravljača koji vam nudi razne programske mogućnosti poput Noćnog, Programskog i Tjednog timera. Pomoću njih možete namjestiti potpunu automatizaciju rada kroz tjedan, kada želite i kako želite. Ovako velika i detaljna kontrola nad klima uređajem ne samo da olakšava korištenje, već nudi potpunu optimizaciju i maksimalno iskorištavanje mogućnosti uređaja, uz dodatnu uštedu električne energije radi ciljanog rada samo u pravo vrijeme.\n\nU ponudi je i žičani zidni daljinski upravljač koji nudi sve napredne mogućnosti kontrole u dobro poznatom stilu centralnog grijanja. Ne smijemo zaboraviti i na mogućnost ugradnje WiFi sučelja koje također nudimo u našoj ponudi. Ono vam omogućuje kontrolu nad klima uređajem gdje god se nalazili, a sve preko odlične aplikacije na nekom od vašim mobilnih pametnih uređaja. Uzmite kontrolu u svoje ruke, doslovno.",
+      "Za ljubitelje odlične klimatizacije s naglaskom na moderan i elegantan dizajn, Fujitsu je pripremio novu seriju klima uređaja Design Inverter. Efikasnost bez kompromisa osigurava odlične rezultate energetskog razreda A++ u hlađenju, dok se novi dizajn s posebnom teksturom površine i elegantnim linijama lakoćom uklapa u okružje vašeg doma. Korištenjem najnovijeg i ekološki prihvatljivijeg rashladnog sredstva R32 postiže se još bolja energetska efikasnost i smanjuje štetnost za okoliš.\nDesign Inverter nudi funkcionalnosti koje će osjetno olakšati korištenje, povećati udobnost i smanjiti brigu oko rada uređaja, sve kako bi vam osigurale nesmetanu ugodnost po vašim uvjetima. Od brojnih funkcionalnosti kao posebno vrijedne pažnje moramo istaknuti sljedeće: Ekonomski režim rada, Snažni režim rada, Održavanje 10 °C u prostoriji, Automatsko prebacivanje režima rada hlađenja i grijanja, Automatska kontrola ventilatora i Automatsko ponovno pokretanje. Oni zajedno nude odgovarajuće načine rada za sve potrebe jednog doma.\nKontrola je iznimno laka putem bežičnog daljinskog upravljača koji vam nudi razne programske mogućnosti poput Noćnog, Programskog i Tjednog timera. Pomoću njih možete namjestiti potpunu automatizaciju rada kroz tjedan, kada želite i kako želite. Ovako velika i detaljna kontrola nad klima uređajem ne samo da olakšava korištenje, već nudi potpunu optimizaciju i maksimalno iskorištavanje mogućnosti uređaja, uz dodatnu uštedu električne energije radi ciljanog rada samo u pravo vrijeme.\nU ponudi je i žičani zidni daljinski upravljač koji nudi sve napredne mogućnosti kontrole u dobro poznatom stilu centralnog grijanja. Ne smijemo zaboraviti i na mogućnost ugradnje WiFi sučelja koje također nudimo u našoj ponudi. Ono vam omogućuje kontrolu nad klima uređajem gdje god se nalazili, a sve preko odlične aplikacije na nekom od vašim mobilnih pametnih uređaja. Uzmite kontrolu u svoje ruke, doslovno.\nKlima uređaj Fujitsu Design Inverter 2.5 kW sastoji se od unutarnje jedinice oznake ASYG09KETE, vanjske jedinice AOYG09KETA i infracrvenog daljinskog upravljača.",
     brand: "Fujitsu",
     category: "Mono klima uređaj",
     price: 8200.0,
@@ -649,8 +661,104 @@ const products = [
     naponPrikljucka: "jjjj",
   },
 
+
+
+
+
+
+  {
+    name: "Fujitsu Design Inverter 2.5 kW - bijela ",
+    sifraProizvoda: "ASYG12KETA-B/AOYG12KETA",
+    image:
+      "",
+    description:
+      "Za ljubitelje odlične klimatizacije s naglaskom na moderan i elegantan dizajn, Fujitsu je pripremio novu seriju klima uređaja Design Inverter. Efikasnost bez kompromisa osigurava odlične rezultate energetskog razreda A++ u hlađenju, dok se novi dizajn s posebnom teksturom površine i elegantnim linijama lakoćom uklapa u okružje vašeg doma. Korištenjem najnovijeg i ekološki prihvatljivijeg rashladnog sredstva R32 postiže se još bolja energetska efikasnost i smanjuje štetnost za okoliš.\nDesign Inverter nudi funkcionalnosti koje će osjetno olakšati korištenje, povećati udobnost i smanjiti brigu oko rada uređaja, sve kako bi vam osigurale nesmetanu ugodnost po vašim uvjetima. Od brojnih funkcionalnosti kao posebno vrijedne pažnje moramo istaknuti sljedeće: Ekonomski režim rada, Snažni režim rada, Održavanje 10 °C u prostoriji, Automatsko prebacivanje režima rada hlađenja i grijanja, Automatska kontrola ventilatora i Automatsko ponovno pokretanje. Oni zajedno nude odgovarajuće načine rada za sve potrebe jednog doma.\nKontrola je iznimno laka putem bežičnog daljinskog upravljača koji vam nudi razne programske mogućnosti poput Noćnog, Programskog i Tjednog timera. Pomoću njih možete namjestiti potpunu automatizaciju rada kroz tjedan, kada želite i kako želite. Ovako velika i detaljna kontrola nad klima uređajem ne samo da olakšava korištenje, već nudi potpunu optimizaciju i maksimalno iskorištavanje mogućnosti uređaja, uz dodatnu uštedu električne energije radi ciljanog rada samo u pravo vrijeme.\nU ponudi je i žičani zidni daljinski upravljač koji nudi sve napredne mogućnosti kontrole u dobro poznatom stilu centralnog grijanja. Ne smijemo zaboraviti i na mogućnost ugradnje WiFi sučelja koje također nudimo u našoj ponudi. Ono vam omogućuje kontrolu nad klima uređajem gdje god se nalazili, a sve preko odlične aplikacije na nekom od vašim mobilnih pametnih uređaja. Uzmite kontrolu u svoje ruke, doslovno.\nKlima uređaj Fujitsu Design Inverter 2.5 kW sastoji se od unutarnje jedinice oznake ASYG09KETE, vanjske jedinice AOYG09KETA i infracrvenog daljinskog upravljača.",
+    brand: "Fujitsu",
+    category: "Mono klima uređaj",
+    price: 8200.0,
+    onSale: false,
+    sale: 0,
+    coldEff: 3.4,
+    warmEff: 4.0,
+    energyClass: "A++",
+    sizeOfRoom: "26-35",
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: "aaaaa",
+    SEER: "sssss",
+    rasponUcinaGrijanja: "dddddd",
+    SCOP: "eeeeee",
+    dimenzijeUnutarnjeJedinice: "fffff",
+    razinaBuke: "ggggg",
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: "hhhhh",
+    promijerCijeviPlina: "kkkk",
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: "jjjj",
+  },
+
+
+
+
+  {
+    name: "Fujitsu Design Inverter 3.4 kW - bijela ",
+    sifraProizvoda: "ASYG12KETA-B/AOYG12KETA",
+    image:
+      "/images/Fujitsu/FujitsuDesignInverter3.4kW-bijela-ASYG12KETAAOYG12KETA/17-60d301e6d4993_60d302648af98.png,/images/Fujitsu/FujitsuDesignInverter3.4kW-bijela-ASYG12KETAAOYG12KETA/6-5f2120f5db32d_5f213de28918e.png",
+    description:
+      "Za ljubitelje odlične klimatizacije s naglaskom na moderan i elegantan dizajn, Fujitsu je pripremio novu seriju klima uređaja Design Inverter. Efikasnost bez kompromisa osigurava odlične rezultate energetskog razreda A++ u hlađenju, dok se novi dizajn s posebnom teksturom površine i elegantnim linijama lakoćom uklapa u okružje vašeg doma. Korištenjem najnovijeg i ekološki prihvatljivijeg rashladnog sredstva R32 postiže se još bolja energetska efikasnost i smanjuje štetnost za okoliš.\nDesign Inverter nudi funkcionalnosti koje će osjetno olakšati korištenje, povećati udobnost i smanjiti brigu oko rada uređaja, sve kako bi vam osigurale nesmetanu ugodnost po vašim uvjetima. Od brojnih funkcionalnosti kao posebno vrijedne pažnje moramo istaknuti sljedeće: Ekonomski režim rada, Snažni režim rada, Održavanje 10 °C u prostoriji, Automatsko prebacivanje režima rada hlađenja i grijanja, Automatska kontrola ventilatora i Automatsko ponovno pokretanje. Oni zajedno nude odgovarajuće načine rada za sve potrebe jednog doma.\nKontrola je iznimno laka putem bežičnog daljinskog upravljača koji vam nudi razne programske mogućnosti poput Noćnog, Programskog i Tjednog timera. Pomoću njih možete namjestiti potpunu automatizaciju rada kroz tjedan, kada želite i kako želite. Ovako velika i detaljna kontrola nad klima uređajem ne samo da olakšava korištenje, već nudi potpunu optimizaciju i maksimalno iskorištavanje mogućnosti uređaja, uz dodatnu uštedu električne energije radi ciljanog rada samo u pravo vrijeme.\nU ponudi je i žičani zidni daljinski upravljač koji nudi sve napredne mogućnosti kontrole u dobro poznatom stilu centralnog grijanja. Ne smijemo zaboraviti i na mogućnost ugradnje WiFi sučelja koje također nudimo u našoj ponudi. Ono vam omogućuje kontrolu nad klima uređajem gdje god se nalazili, a sve preko odlične aplikacije na nekom od vašim mobilnih pametnih uređaja. Uzmite kontrolu u svoje ruke, doslovno.\nKlima uređaj Fujitsu Design Inverter 3.4 kW sastoji se od unutarnje jedinice oznake ASYG12KETE-B, vanjske jedinice AOYG12KETA i infracrvenog daljinskog upravljača.",
+    brand: "Fujitsu",
+    category: "Mono klima uređaj",
+    price: 8200.0,
+    onSale: false,
+    sale: 0,
+    coldEff: 3.4,
+    warmEff: 4.0,
+    energyClass: "A++",
+    sizeOfRoom: "26-35",
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    najtrazeni: false,
+    radnaTvar: true,
+    rasponRashladnogUcinka: "aaaaa",
+    SEER: "sssss",
+    rasponUcinaGrijanja: "dddddd",
+    SCOP: "eeeeee",
+    dimenzijeUnutarnjeJedinice: "fffff",
+    razinaBuke: "ggggg",
+    wifi: true,
+    ionizatorZraka: true,
+    dimenzijeVanjskeJedinice: 222,
+    razinaBukeVanjskeJedinice: 222,
+    promijerCijeviTekucine: "hhhhh",
+    promijerCijeviPlina: "kkkk",
+    maksimalnaDuljinaCijevi: 222,
+    maksimalnaVisRazlika: 222,
+    naponPrikljucka: "jjjj",
+  },
+
+
+
+
+
+
+
+
+
   //AUX//
 
+
+
+
+  
   {
     name: "AUX ",
     sifraProizvoda: "ASYG12KETA-B/AOYG12KETA",
@@ -689,119 +797,20 @@ const products = [
     naponPrikljucka: "jjjj",
   },
 
+
+
+
+
+
+
+
   //HYUNDAI//
 
-  {
-    name: "Hyundai Elite Inverter 2.5 kW",
-    sifraProizvoda: "HRH-09GMV2/HRO-09GMV2",
-    image:
-      "/images/Hyundai/HyundaiEliteInverter2.5kW-HRH-09GMV2HRO-09GMV2/1-600ed1de63f2c_62b9a1dda8415.png,/images/Hyundai/HyundaiEliteInverter2.5kW-HRH-09GMV2HRO-09GMV2/2-600ecc85b69f6_624312c4c0381.png",
-    description:
-      "Ovaj napredni model Hyundai klima uređaja s razlogom osvaja tržište. Uz svoj inovativni dizajn i moćne performanse Hyundai Elite Inverter HRH-09GMV2/HRO-09GMV2 nudi komfornu raznolikost funkcija i tehniku hlađenja najnovije generacije. Ovaj iznimni klima uređaj pobrinut će se za sve, bilo to hlađenje, odvlaživanje ili grijanje.Svojim učinkom hlađenja od 2.6 kW i učinkom grijanja od 2,9 kW, klima uređaj Elite Inverter serije preporučuje se za prostorije veličine do 25 m². Osim pouzdanog hlađenja i grijanja ovaj klima uređaj osigurava i iznimnu kvalitetu i čistoću zraka zahvaljujući kompleksnom filtarskom sustavu od više tipova filtera ( filtera visoke gustoće, filtera sa hladnim katalizatorom te višeslojnog filtera sa aktivnim ugljikom i vitaminom C ). Uz ovu iznimnu filtraciju Elite Inverter serija dolazi i s ionizatorom koji osigurava još bolju kvalitetu zraka i pomaže pri sprječavanju bolesti pluća poput astme.Klima uređaj radi potpuno automatski i nudi svojim mikroprocesorskim reguliranjem veliki broj opcija: Održavanje 8°C u prostoru, Timer, Slijedi me, 5 brzina ventilatora vanjske jedinice, Noćni način rada, Automatski restart...Upravljanje uređaja omogućeno je pomoću infracrvenog daljinskog upravljača i WiFi modula (ovaj odlični dodatak omogućuje upravljanje i podešavanje funkcija klima uređaja putem posebne aplikacije na vašem pametnom telefonu ili tabletu) koji su uključeni u cijenu proizvoda.Zahvaljujući posebno dizajniranoj elektronici uređaj može raditi čak i kada su vanjske temperature do -15 °C, a brzina ventilatora vanjske jedinice može se mijenjati automatski prema temperaturi kondenzacije. Pozlaćene lamele isparivača i kondenzatora učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente. Upravo radi svih ovih karakteristika Hyundai Elite Inverter serija nudi ekonomski prihvatljivu alternativu u grijanju.Čuvajmo novce, ali i okoliš! Elite Inverter serija koristi ekološki prihvatljiv rashladni medij R32 i upravo zahvaljujući njemu i naprednoj inverterskoj tehnologiji spada u uređaje visoke energetske učinkovitosti razreda A+++. Ugodna i zdrava klima čitave godine uz istovremenu uštedu odlika su ove serije.Brzo i jednostavno! Zahvaljujući All Easy sistemu, instaliranje i održavanje klima uređaja nikad nije bilo brže i jednostavnije.",
-    brand: "Hyundai",
-    category: "Mono klima uređaj",
-    price: 3997.0,
-    onSale: false,
-    sale: 0,
-    coldEff: 2.6,
-    warmEff: 2.9,
-    energyClass: "A+++",
-    sizeOfRoom: "16-25",
-    countInStock: 3,
-    rating: 0,
-    numReviews: 0,
-    najtrazeni: false,
-    radnaTvar: true,
-    rasponRashladnogUcinka: "aaaaa",
-    SEER: "sssss",
-    rasponUcinaGrijanja: "dddddd",
-    SCOP: "eeeeee",
-    dimenzijeUnutarnjeJedinice: "fffff",
-    razinaBuke: "ggggg",
-    wifi: true,
-    ionizatorZraka: true,
-    dimenzijeVanjskeJedinice: 222,
-    razinaBukeVanjskeJedinice: 222,
-    promijerCijeviTekucine: "hhhhh",
-    promijerCijeviPlina: "kkkk",
-    maksimalnaDuljinaCijevi: 222,
-    maksimalnaVisRazlika: 222,
-    naponPrikljucka: "jjjj",
-  },
+  
 
-  {
-    name: "Hyundai Elite Inverter 3.5 kW",
-    sifraProizvoda: "HRH-12GMV2/HRO-12GMV2",
-    image:
-      "/images/Hyundai/HyundaiEliteInverter3.5kW-HRH-12GMV2HRO-12GMV2/20-6139d26cdd433_6165847b1ab19.png,klima-shop\frontendpublicimagesHyundaiHyundaiEliteInverter3.5kW-HRH-12GMV2HRO-12GMV2/2-600ecc85b69f6_600edbefe563e.png",
-    description: "Opis nije valjanog formata\nPotrebno zamijeniti",
-    brand: "Hyundai",
-    category: "Mono klima uređaj",
-    price: 5300.0,
-    onSale: false,
-    sale: 0,
-    coldEff: 3.5,
-    warmEff: 3.8,
-    energyClass: "A+++",
-    sizeOfRoom: "26-35",
-    countInStock: 3,
-    rating: 0,
-    numReviews: 0,
-    najtrazeni: false,
-    radnaTvar: true,
-    rasponRashladnogUcinka: "aaaaa",
-    SEER: "sssss",
-    rasponUcinaGrijanja: "dddddd",
-    SCOP: "eeeeee",
-    dimenzijeUnutarnjeJedinice: "fffff",
-    razinaBuke: "ggggg",
-    wifi: true,
-    ionizatorZraka: true,
-    dimenzijeVanjskeJedinice: 222,
-    razinaBukeVanjskeJedinice: 222,
-    promijerCijeviTekucine: "hhhhh",
-    promijerCijeviPlina: "kkkk",
-    maksimalnaDuljinaCijevi: 222,
-    maksimalnaVisRazlika: 222,
-    naponPrikljucka: "jjjj",
-  },
+  
 
-  {
-    name: "Hyundai Elite Inverter 5.3 kW",
-    sifraProizvoda: "HRH-12GMV2/HRO-12GMV2",
-    image:
-      "/images/Hyundai/HyundaiEliteInverter5.3kW-HRH-18GMV2HRO-18GMV2/gmv-u-dolasku-artikl-62f3b232e157e_62f3ca87e84c9.png,/images/Hyundai/HyundaiEliteInverter5.3kW-HRH-18GMV2HRO-18GMV2/2-600ecc85b69f6_62208579ca120.png",
-    description: "Opis nije valjanog formata\nPotrebno zamijeniti",
-    brand: "Hyundai",
-    category: "Mono klima uređaj",
-    price: 8200.0,
-    onSale: false,
-    sale: 0,
-    coldEff: 5.3,
-    warmEff: 5.6,
-    energyClass: "A++",
-    sizeOfRoom: "46-55",
-    countInStock: 3,
-    rating: 0,
-    numReviews: 0,
-    najtrazeni: false,
-    radnaTvar: true,
-    rasponRashladnogUcinka: "aaaaa",
-    SEER: "sssss",
-    rasponUcinaGrijanja: "dddddd",
-    SCOP: "eeeeee",
-    dimenzijeUnutarnjeJedinice: "fffff",
-    razinaBuke: "ggggg",
-    wifi: true,
-    ionizatorZraka: true,
-    dimenzijeVanjskeJedinice: 222,
-    razinaBukeVanjskeJedinice: 222,
-    promijerCijeviTekucine: "hhhhh",
-    promijerCijeviPlina: "kkkk",
-    maksimalnaDuljinaCijevi: 222,
-    maksimalnaVisRazlika: 222,
-    naponPrikljucka: "jjjj",
-  },
+  
 
   {
     name: "Hyundai Performance Inverter Plus 2.6 kW",
@@ -809,7 +818,7 @@ const products = [
     image:
       "/images/Hyundai/HyundaiPerformanceInverterPlus2.6kW-HRH-09BMVHRO-09BMV/hyundai-600ecd1f0ece4_600ed9d042e2b.png,/images/Hyundai/HyundaiPerformanceInverterPlus2.6kW-HRH-09BMVHRO-09BMV/bmv-5d19f642b23a5_5d19f7b0de6a9.jpg,/images/Hyundai/HyundaiPerformanceInverterPlus2.6kW-HRH-09BMVHRO-09BMV/daljinski-pmv-bmv-5d19f642d7fae_5d19f7b109c3e.jpg",
     description:
-      "Osnovni model Hyundai klima uređaja hladi vrući zrak u prostoriji na željenu temperaturu i pritom odlično izgleda. Klima uređaj Hyundai Performance Inverter Plus HRH-09BMV/HRO-09BMV u prostorijama do 25 m² osigurava ugodnu klimu. Istovremeno filtrira zrak u prostoriji pomoću filtarskog sustava koji se sastoji od filtera visoke gustoće, aromatizirajućeg filtera i filtera s aktivnim ugljenom. Dodatnu kvalitetu zraka ovom modelu Hyundai klima uređaja osigurava i ionizator zraka. Također, ova serija koristi ekološki prihvatljiv rashladni medij R32 koji ne samo da pomaže pri očuvanju okoliša, već i pridonosi energetskoj učinkovitosti uređaja.Ovaj moderno dizajnirani klima uređaj ima mogućnost odvlaživanja zraka u prostoriji za vrijeme vrućih ljetnih dana, a ujedno nudi i mogućnost dogrijavanja u prijelaznim razdobljima. Pozlaćene lamele isparivača i kondenzatora učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente.Klima uređaj radi potpuno automatski i nudi svojim mikroprocesorskim reguliranjem veliki broj opcija: Održavanje 8°C u prostoru, Timer, Slijedi me, 5 brzina ventilatora vanjske jedinice, Noćni način rada.Upravljanje uređaja omogućeno je pomoću infracrvenog daljinskog upravljača i WiFi modula (ovaj odlični dodatak omogućuje upravljanje i podešavanje funkcija klima uređaja putem posebne aplikacije na vašem pametnom telefonu ili tabletu) koji su uključeni u cijenu proizvoda.Savjet za uštedu! Načini rada ventilacija i odvlaživanje mogu se odabrati čak i kada je funkcija hlađenja deaktivirana. Tako se klima uređaj Hyundai Performance Inverter Plus može upotrebljavati čitave godine kako bi se postigla ugodna i zdrava klima u stambenom prostoru - uz istovremenu uštedu energije. Time se dodatno smanjuje potrošnja energije ovog ionako štedljivog uređaja, zbog čega nećete morati kupiti zaseban odvlaživač zraka niti ventilator.Više vremena za ono bitno! Namješteni radni parametri kao što su način rada uređaja, ciljana temperatura i snaga ventilacije ostaju pohranjeni i nakon gašenja uređaja te se automatski preuzimaju pri sljedećem uključenju.Klima uređaj Hyundai Performance Inverter Plus 2.6 kW sastoji se od unutarnje jedinice oznake HRH-09BMV, vanjske jedinice HRO-09BMV, infracrvenog daljinskog upravljača i WiFi upravljačkog modula.",
+      "Osnovni model Hyundai klima uređaja hladi vrući zrak u prostoriji na željenu temperaturu i pritom odlično izgleda. Klima uređaj Hyundai Performance Inverter Plus HRH-09BMV/HRO-09BMV u prostorijama do 25 m² osigurava ugodnu klimu. Istovremeno filtrira zrak u prostoriji pomoću filtarskog sustava koji se sastoji od filtera visoke gustoće, aromatizirajućeg filtera i filtera s aktivnim ugljenom. Dodatnu kvalitetu zraka ovom modelu Hyundai klima uređaja osigurava i ionizator zraka. Također, ova serija koristi ekološki prihvatljiv rashladni medij R32 koji ne samo da pomaže pri očuvanju okoliša, već i pridonosi energetskoj učinkovitosti uređaja.\nOvaj moderno dizajnirani klima uređaj ima mogućnost odvlaživanja zraka u prostoriji za vrijeme vrućih ljetnih dana, a ujedno nudi i mogućnost dogrijavanja u prijelaznim razdobljima. Pozlaćene lamele isparivača i kondenzatora učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente.\nKlima uređaj radi potpuno automatski i nudi svojim mikroprocesorskim reguliranjem veliki broj opcija: Održavanje 8°C u prostoru, Timer, Slijedi me, 5 brzina ventilatora vanjske jedinice, Noćni način rada.\nUpravljanje uređaja omogućeno je pomoću infracrvenog daljinskog upravljača i WiFi modula (ovaj odlični dodatak omogućuje upravljanje i podešavanje funkcija klima uređaja putem posebne aplikacije na vašem pametnom telefonu ili tabletu) koji su uključeni u cijenu proizvoda.\nSavjet za uštedu! Načini rada ventilacija i odvlaživanje mogu se odabrati čak i kada je funkcija hlađenja deaktivirana. Tako se klima uređaj Hyundai Performance Inverter Plus može upotrebljavati čitave godine kako bi se postigla ugodna i zdrava klima u stambenom prostoru - uz istovremenu uštedu energije. Time se dodatno smanjuje potrošnja energije ovog ionako štedljivog uređaja, zbog čega nećete morati kupiti zaseban odvlaživač zraka niti ventilator.\nViše vremena za ono bitno! Namješteni radni parametri kao što su način rada uređaja, ciljana temperatura i snaga ventilacije ostaju pohranjeni i nakon gašenja uređaja te se automatski preuzimaju pri sljedećem uključenju.\nKlima uređaj Hyundai Performance Inverter Plus 2.6 kW sastoji se od unutarnje jedinice oznake HRH-09BMV, vanjske jedinice HRO-09BMV, infracrvenog daljinskog upravljača i WiFi upravljačkog modula.",
     brand: "Hyundai",
     category: "Mono klima uređaj",
     price: 3900.0,
@@ -847,7 +856,7 @@ const products = [
     image:
       "/images/Hyundai/HyundaiPerformanceInverterPlus3.5kW-HRH-12BMVHRO-12BMV/hyundai-600ecd1f0ece4_600ed9d042e2b.png,/images/Hyundai/HyundaiPerformanceInverterPlus3.5kW-HRH-12BMVHRO-12BMV/bmv-5d19f642b23a5_5d1a05c19a859.jpg",
     description:
-      "Osnovni model Hyundai klima uređaja hladi vrući zrak u prostoriji na željenu temperaturu i pritom odlično izgleda. Klima uređaj Hyundai Performance Inverter Plus HRH-12BMV/HRO-12BMV u prostorijama do 35 m² osigurava ugodnu klimu. Istovremeno filtrira zrak u prostoriji pomoću filtarskog sustava koji se sastoji od filtera visoke gustoće, aromatizirajućeg filtera i filtera s aktivnim ugljenom. Dodatnu kvalitetu zraka ovom modelu Hyundai klima uređaja osigurava i ionizator zraka. Također, ova serija koristi ekološki prihvatljiv rashladni medij R32 koji ne samo da pomaže pri očuvanju okoliša, već i pridonosi energetskoj učinkovitosti uređaja. Ovaj moderno dizajnirani klima uređaj ima mogućnost odvlaživanja zraka u prostoriji za vrijeme vrućih ljetnih dana, a ujedno nudi i mogućnost dogrijavanja u prijelaznim razdobljima. Pozlaćene lamele isparivača i kondenzatora učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente.Klima uređaj radi potpuno automatski i nudi svojim mikroprocesorskim reguliranjem veliki broj opcija: Održavanje 8°C u prostoru, Timer, Slijedi me, 5 brzina ventilatora vanjske jedinice, Noćni način rada...Upravljanje uređaja omogućeno je pomoću infracrvenog daljinskog upravljača i WiFi modula (ovaj odlični dodatak omogućuje upravljanje i podešavanje funkcija klima uređaja putem posebne aplikacije na vašem pametnom telefonu ili tabletu) koji su uključeni u cijenu proizvoda.Savjet za uštedu! Načini rada ventilacija i odvlaživanje mogu se odabrati čak i kada je funkcija hlađenja deaktivirana. Tako se klima uređaj Hyundai Performance Inverter Plus može upotrebljavati čitave godine kako bi se postigla ugodna i zdrava klima u stambenom prostoru - uz istovremenu uštedu energije. Time se dodatno smanjuje potrošnja energije ovog ionako štedljivog uređaja, zbog čega nećete morati kupiti zaseban odvlaživač zraka niti ventilator.Više vremena za ono bitno! Namješteni radni parametri kao što su način rada uređaja, ciljana temperatura i snaga ventilacije ostaju pohranjeni i nakon gašenja uređaja te se automatski preuzimaju pri sljedećem uključenju.Klima uređaj Hyundai Performance Inverter Plus 3.5 kW sastoji se od unutarnje jedinice oznake HRH-12BMV, vanjske jedinice HRO-12BMV, infracrvenog daljinskog upravljača i WiFi upravljačkog modula.",
+      "Osnovni model Hyundai klima uređaja hladi vrući zrak u prostoriji na željenu temperaturu i pritom odlično izgleda. Klima uređaj Hyundai Performance Inverter Plus HRH-12BMV/HRO-12BMV u prostorijama do 35 m² osigurava ugodnu klimu. Istovremeno filtrira zrak u prostoriji pomoću filtarskog sustava koji se sastoji od filtera visoke gustoće, aromatizirajućeg filtera i filtera s aktivnim ugljenom. Dodatnu kvalitetu zraka ovom modelu Hyundai klima uređaja osigurava i ionizator zraka. Također, ova serija koristi ekološki prihvatljiv rashladni medij R32 koji ne samo da pomaže pri očuvanju okoliša, već i pridonosi energetskoj učinkovitosti uređaja.\nOvaj moderno dizajnirani klima uređaj ima mogućnost odvlaživanja zraka u prostoriji za vrijeme vrućih ljetnih dana, a ujedno nudi i mogućnost dogrijavanja u prijelaznim razdobljima. Pozlaćene lamele isparivača i kondenzatora učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente.\nKlima uređaj radi potpuno automatski i nudi svojim mikroprocesorskim reguliranjem veliki broj opcija: Održavanje 8°C u prostoru, Timer, Slijedi me, 5 brzina ventilatora vanjske jedinice, Noćni način rada.\nUpravljanje uređaja omogućeno je pomoću infracrvenog daljinskog upravljača i WiFi modula (ovaj odlični dodatak omogućuje upravljanje i podešavanje funkcija klima uređaja putem posebne aplikacije na vašem pametnom telefonu ili tabletu) koji su uključeni u cijenu proizvoda.\nSavjet za uštedu! Načini rada ventilacija i odvlaživanje mogu se odabrati čak i kada je funkcija hlađenja deaktivirana. Tako se klima uređaj Hyundai Performance Inverter Plus može upotrebljavati čitave godine kako bi se postigla ugodna i zdrava klima u stambenom prostoru - uz istovremenu uštedu energije. Time se dodatno smanjuje potrošnja energije ovog ionako štedljivog uređaja, zbog čega nećete morati kupiti zaseban odvlaživač zraka niti ventilator.\nViše vremena za ono bitno! Namješteni radni parametri kao što su način rada uređaja, ciljana temperatura i snaga ventilacije ostaju pohranjeni i nakon gašenja uređaja te se automatski preuzimaju pri sljedećem uključenju.\nKlima uređaj Hyundai Performance Inverter Plus 3.5 kW sastoji se od unutarnje jedinice oznake HRH-12BMV, vanjske jedinice HRO-12BMV, infracrvenog daljinskog upravljača i WiFi upravljačkog modula.",
     brand: "Hyundai",
     category: "Mono klima uređaj",
     price: 4200.0,
@@ -885,7 +894,7 @@ const products = [
     image:
       "/images/Hyundai/HyundaiPerformanceInverterPlus5.3kW-HRH-18BMVHRO-18BMV/hyundai-600ecd1f0ece4_600ed597da805.png,/images/Hyundai/HyundaiPerformanceInverterPlus5.3kW-HRH-18BMVHRO-18BMV/bmv-5d1719caee25f_5d171c6e44971.jpg",
     description:
-      "Osnovni model Hyundai klima uređaja hladi vrući zrak u prostoriji na željenu temperaturu i pritom odlično izgleda. Klima uređaj Hyundai Performance Inverter Plus HRH-18BMV/HRO-18BMV u prostorijama do 55 m² osigurava ugodnu klimu. Istovremeno filtrira zrak u prostoriji pomoću filtarskog sustava koji se sastoji od filtera visoke gustoće, aromatizirajućeg filtera i filtera s aktivnim ugljenom. Dodatnu kvalitetu zraka ovom modelu Hyundai klima uređaja osigurava i ionizator zraka. Također, ova serija koristi ekološki prihvatljiv rashladni medij R32 koji ne samo da pomaže pri očuvanju okoliša, već i pridonosi energetskoj učinkovitosti uređaja. Ovaj moderno dizajnirani klima uređaj ima mogućnost odvlaživanja zraka u prostoriji za vrijeme vrućih ljetnih dana, a ujedno nudi i mogućnost dogrijavanja u prijelaznim razdobljima. Pozlaćene lamele isparivača i kondenzatora učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente.Klima uređaj radi potpuno automatski i nudi svojim mikroprocesorskim reguliranjem veliki broj opcija: Održavanje 8°C u prostoru, Timer, Slijedi me, 5 brzina ventilatora vanjske jedinice, Noćni način rada...Upravljanje uređaja omogućeno je pomoću infracrvenog daljinskog upravljača i WiFi modula (ovaj odlični dodatak omogućuje upravljanje i podešavanje funkcija klima uređaja putem posebne aplikacije na vašem pametnom telefonu ili tabletu) koji su uključeni u cijenu proizvoda.Savjet za uštedu! Načini rada ventilacija i odvlaživanje mogu se odabrati čak i kada je funkcija hlađenja deaktivirana. Tako se klima uređaj Hyundai Performance Inverter Plus može upotrebljavati čitave godine kako bi se postigla ugodna i zdrava klima u stambenom prostoru - uz istovremenu uštedu energije. Time se dodatno smanjuje potrošnja energije ovog ionako štedljivog uređaja, zbog čega nećete morati kupiti zaseban odvlaživač zraka niti ventilator.Više vremena za ono bitno! Namješteni radni parametri kao što su način rada uređaja, ciljana temperatura i snaga ventilacije ostaju pohranjeni i nakon gašenja uređaja te se automatski preuzimaju pri sljedećem uključenju.Klima uređaj Hyundai Performance Inverter Plus 5.3 kW sastoji se od unutarnje jedinice oznake HRH-18BMV, vanjske jedinice HRO-18BMV, infracrvenog daljinskog upravljača i WiFi upravljačkog modula.",
+      "Osnovni model Hyundai klima uređaja hladi vrući zrak u prostoriji na željenu temperaturu i pritom odlično izgleda. Klima uređaj Hyundai Performance Inverter Plus HRH-18BMV/HRO-18BMV u prostorijama do 55 m² osigurava ugodnu klimu. Istovremeno filtrira zrak u prostoriji pomoću filtarskog sustava koji se sastoji od filtera visoke gustoće, aromatizirajućeg filtera i filtera s aktivnim ugljenom. Dodatnu kvalitetu zraka ovom modelu Hyundai klima uređaja osigurava i ionizator zraka. Također, ova serija koristi ekološki prihvatljiv rashladni medij R32 koji ne samo da pomaže pri očuvanju okoliša, već i pridonosi energetskoj učinkovitosti uređaja.\nOvaj moderno dizajnirani klima uređaj ima mogućnost odvlaživanja zraka u prostoriji za vrijeme vrućih ljetnih dana, a ujedno nudi i mogućnost dogrijavanja u prijelaznim razdobljima. Pozlaćene lamele isparivača i kondenzatora učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente.\nKlima uređaj radi potpuno automatski i nudi svojim mikroprocesorskim reguliranjem veliki broj opcija: Održavanje 8°C u prostoru, Timer, Slijedi me, 5 brzina ventilatora vanjske jedinice, Noćni način rada...\nUpravljanje uređaja omogućeno je pomoću infracrvenog daljinskog upravljača i WiFi modula (ovaj odlični dodatak omogućuje upravljanje i podešavanje funkcija klima uređaja putem posebne aplikacije na vašem pametnom telefonu ili tabletu) koji su uključeni u cijenu proizvoda.\nSavjet za uštedu! Načini rada ventilacija i odvlaživanje mogu se odabrati čak i kada je funkcija hlađenja deaktivirana. Tako se klima uređaj Hyundai Performance Inverter Plus može upotrebljavati čitave godine kako bi se postigla ugodna i zdrava klima u stambenom prostoru - uz istovremenu uštedu energije. Time se dodatno smanjuje potrošnja energije ovog ionako štedljivog uređaja, zbog čega nećete morati kupiti zaseban odvlaživač zraka niti ventilator.\nViše vremena za ono bitno! Namješteni radni parametri kao što su način rada uređaja, ciljana temperatura i snaga ventilacije ostaju pohranjeni i nakon gašenja uređaja te se automatski preuzimaju pri sljedećem uključenju.\nKlima uređaj Hyundai Performance Inverter Plus 5.3 kW sastoji se od unutarnje jedinice oznake HRH-18BMV, vanjske jedinice HRO-18BMV, infracrvenog daljinskog upravljača i WiFi upravljačkog modula.",
     brand: "Hyundai",
     category: "Mono klima uređaj",
     price: 7400.0,
@@ -923,7 +932,7 @@ const products = [
     image:
       "/images/Hyundai/HyundaiPerformanceInverterPlus7.0kW-HRH-24BMVHRO-24BMV/hyundai-600ecd1f0ece4_600ed64dc5a5a.png,/images/Hyundai/HyundaiPerformanceInverterPlus7.0kW-HRH-24BMVHRO-24BMV/bmv-5d1719caee25f_5d171c709ae1c.jpg",
     description:
-      "Osnovni model Hyundai klima uređaja hladi vrući zrak u prostoriji na željenu temperaturu i pritom odlično izgleda. Klima uređaj Hyundai Performance Inverter Plus HRH-24BMV/HRO-24BMV u prostorijama do 75 m² osigurava ugodnu klimu. Istovremeno filtrira zrak u prostoriji pomoću filtarskog sustava koji se sastoji od filtera visoke gustoće, aromatizirajućeg filtera i filtera s aktivnim ugljenom. Dodatnu kvalitetu zraka ovom modelu Hyundai klima uređaja osigurava i ionizator zraka. Također, ova serija koristi ekološki prihvatljiv rashladni medij R32 koji ne samo da pomaže pri očuvanju okoliša, već i pridonosi energetskoj učinkovitosti uređaja. Ovaj moderno dizajnirani klima uređaj ima mogućnost odvlaživanja zraka u prostoriji za vrijeme vrućih ljetnih dana, a ujedno nudi i mogućnost dogrijavanja u prijelaznim razdobljima. Pozlaćene lamele isparivača i kondenzatora učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente.Klima uređaj radi potpuno automatski i nudi svojim mikroprocesorskim reguliranjem veliki broj opcija: Održavanje 8°C u prostoru, Timer, Slijedi me, 5 brzina ventilatora vanjske jedinice, Noćni način rada...Upravljanje uređaja omogućeno je pomoću infracrvenog daljinskog upravljača. Moguća je i ugradnja WiFi modula (ovaj odlični dodatak omogućuje upravljanje i podešavanje funkcija klima uređaja putem posebne aplikacije na vašem pametnom telefonu ili tabletu).Savjet za uštedu! Načini rada ventilacija i odvlaživanje mogu se odabrati čak i kada je funkcija hlađenja deaktivirana. Tako se klima uređaj Hyundai Performance Inverter Plus može upotrebljavati čitave godine kako bi se postigla ugodna i zdrava klima u stambenom prostoru - uz istovremenu uštedu energije. Time se dodatno smanjuje potrošnja energije ovog ionako štedljivog uređaja, zbog čega nećete morati kupiti zaseban odvlaživač zraka niti ventilator.Više vremena za ono bitno! Namješteni radni parametri kao što su način rada uređaja, ciljana temperatura i snaga ventilacije ostaju pohranjeni i nakon gašenja uređaja te se automatski preuzimaju pri sljedećem uključenju.Klima uređaj Hyundai Performance Inverter Plus 7.0 kW sastoji se od unutarnje jedinice oznake HRH-24BMV, vanjske jedinice HRO-24BMV i infracrvenog daljinskog upravljača.",
+      "Osnovni model Hyundai klima uređaja hladi vrući zrak u prostoriji na željenu temperaturu i pritom odlično izgleda. Klima uređaj Hyundai Performance Inverter Plus HRH-24BMV/HRO-24BMV u prostorijama do 75 m² osigurava ugodnu klimu. Istovremeno filtrira zrak u prostoriji pomoću filtarskog sustava koji se sastoji od filtera visoke gustoće, aromatizirajućeg filtera i filtera s aktivnim ugljenom. Dodatnu kvalitetu zraka ovom modelu Hyundai klima uređaja osigurava i ionizator zraka. Također, ova serija koristi ekološki prihvatljiv rashladni medij R32 koji ne samo da pomaže pri očuvanju okoliša, već i pridonosi energetskoj učinkovitosti uređaja.\nOvaj moderno dizajnirani klima uređaj ima mogućnost odvlaživanja zraka u prostoriji za vrijeme vrućih ljetnih dana, a ujedno nudi i mogućnost dogrijavanja u prijelaznim razdobljima. Pozlaćene lamele isparivača i kondenzatora učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente.\nKlima uređaj radi potpuno automatski i nudi svojim mikroprocesorskim reguliranjem veliki broj opcija: Održavanje 8°C u prostoru, Timer, Slijedi me, 5 brzina ventilatora vanjske jedinice, Noćni način rada...\nUpravljanje uređaja omogućeno je pomoću infracrvenog daljinskog upravljača. Moguća je i ugradnja WiFi modula (ovaj odlični dodatak omogućuje upravljanje i podešavanje funkcija klima uređaja putem posebne aplikacije na vašem pametnom telefonu ili tabletu).\nSavjet za uštedu! Načini rada ventilacija i odvlaživanje mogu se odabrati čak i kada je funkcija hlađenja deaktivirana. Tako se klima uređaj Hyundai Performance Inverter Plus može upotrebljavati čitave godine kako bi se postigla ugodna i zdrava klima u stambenom prostoru - uz istovremenu uštedu energije. Time se dodatno smanjuje potrošnja energije ovog ionako štedljivog uređaja, zbog čega nećete morati kupiti zaseban odvlaživač zraka niti ventilator.\nViše vremena za ono bitno! Namješteni radni parametri kao što su način rada uređaja, ciljana temperatura i snaga ventilacije ostaju pohranjeni i nakon gašenja uređaja te se automatski preuzimaju pri sljedećem uključenju.\nKlima uređaj Hyundai Performance Inverter Plus 7.0 kW sastoji se od unutarnje jedinice oznake HRH-24BMV, vanjske jedinice HRO-24BMV i infracrvenog daljinskog upravljača.",
     brand: "Hyundai",
     category: "Mono klima uređaj",
     price: 9500.0,
@@ -955,86 +964,14 @@ const products = [
     naponPrikljucka: "jjjj",
   },
 
-  {
-    name: "Hyundai Premium UV Inverter 2.6 kW",
-    sifraProizvoda: "HRH-09UVMV/HRO-09UVMV",
-    image:
-      "/images/Hyundai/HyundaiPremiumUVInverter2.6kW-HRH-09UVMVHRO-09UVMV/2-60db35a811bc3_60db5eb243508.png,/images/Hyundai/HyundaiPremiumUVInverter2.6kW-HRH-09UVMVHRO-09UVMV/3-60db35a83470e_60db5eb279112.png",
-    description: "Opis nije zadovoljen\nPotrebno zamijeniti",
-    brand: "Hyundai",
-    category: "Mono klima uređaj",
-    price: 5300.0,
-    onSale: false,
-    sale: 0,
-    coldEff: 2.6,
-    warmEff: 2.9,
-    energyClass: "A+++",
-    sizeOfRoom: "16-25",
-    countInStock: 3,
-    rating: 0,
-    numReviews: 0,
-    najtrazeni: false,
-    radnaTvar: true,
-    rasponRashladnogUcinka: "aaaaa",
-    SEER: "sssss",
-    rasponUcinaGrijanja: "dddddd",
-    SCOP: "eeeeee",
-    dimenzijeUnutarnjeJedinice: "fffff",
-    razinaBuke: "ggggg",
-    wifi: true,
-    ionizatorZraka: true,
-    dimenzijeVanjskeJedinice: 222,
-    razinaBukeVanjskeJedinice: 222,
-    promijerCijeviTekucine: "hhhhh",
-    promijerCijeviPlina: "kkkk",
-    maksimalnaDuljinaCijevi: 222,
-    maksimalnaVisRazlika: 222,
-    naponPrikljucka: "jjjj",
-  },
-
-  {
-    name: "Hyundai Premium UV Inverter 3.5 kW",
-    sifraProizvoda: "HRH-12UVMV/HRO-12UVMV",
-    image:
-      "/images/Hyundai/HyundaiSuperInverter2.6kW-HRH-09PMV1HRO-09PMV1/hyundai-1-600ecdcab1cc1_60100f309c9bf.png,/images/Hyundai/HyundaiSuperInverter2.6kW-HRH-09PMV1HRO-09PMV1/pmv-5cf764102b4db_60100f30c72dd.jpg",
-    description: "Opis nije uredu\nPotrebno je zamijeniti",
-    brand: "Hyundai",
-    category: "Mono klima uređaj",
-    price: 5900.0,
-    onSale: false,
-    sale: 0,
-    coldEff: 3.5,
-    warmEff: 3.8,
-    energyClass: "A+++",
-    sizeOfRoom: "26-35",
-    countInStock: 3,
-    rating: 0,
-    numReviews: 0,
-    najtrazeni: false,
-    radnaTvar: true,
-    rasponRashladnogUcinka: "aaaaa",
-    SEER: "sssss",
-    rasponUcinaGrijanja: "dddddd",
-    SCOP: "eeeeee",
-    dimenzijeUnutarnjeJedinice: "fffff",
-    razinaBuke: "ggggg",
-    wifi: true,
-    ionizatorZraka: true,
-    dimenzijeVanjskeJedinice: 222,
-    razinaBukeVanjskeJedinice: 222,
-    promijerCijeviTekucine: "hhhhh",
-    promijerCijeviPlina: "kkkk",
-    maksimalnaDuljinaCijevi: 222,
-    maksimalnaVisRazlika: 222,
-    naponPrikljucka: "jjjj",
-  },
+  
 
   {
     name: "Hyundai Super Inverter 2.6 kW",
     sifraProizvoda: "HRH-09PMV1/HRO-09PMV1",
     image:
       "/images/Hyundai/HyundaiSuperInverter2.6kW-HRH-09PMV1HRO-09PMV1/hyundai-1-600ecdcab1cc1_60100f309c9bf.png,/images/Hyundai/HyundaiSuperInverter2.6kW-HRH-09PMV1HRO-09PMV1/pmv-5cf764102b4db_60100f30c72dd.jpg",
-    description: "Opis nije uredu\nPotrebno je zamijeniti",
+    description: "Vrhunski model Hyundai klima uređaja koji oduševljava iznimnim karakteristikama. Uz tihi rad i malenu potrošnju električne energije, Hyundai Super Inverter HRH-09PMV1/HRO-09PMV1 predstavlja se i kao ozbiljan kandidat za grijanje u hladnim zimskim mjesecima. Naravno, ova serija koristi ekološki prihvatljiv rashladni medij R32 koji pomaže pri očuvanju okoliša.Energetskom učinkovitošću u hlađenju SEER 8.8, najvišim razredom A+++ i snagom od 2.6 kW hladi svaki prostor veličine do 25 m² iznimno lako i štedljivo. No, osim pouzdanog hlađenja, kao jedan od rijetkih klima uređaja na tržištu sa energetskom učinkovitošću u grijanju SCOP 4.6 pripada razredu A++, što ga svrstava u sami vrh izbora klima uređaja za potrebe grijanja. Tu su naravno i pozlaćene lamele isparivača i kondenzatora koje učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente. Bez brige možete računati na grijanje tokom cijele zime i najhladnijih dana jer ovaj model dolazi s dodatnim grijačima kompresora i kadice u vanjskoj jedinici. Oni će se pobrinuti da kompresor ispravno radi i da se kondenzat u kadici ne smrzava. Na ovaj se način osigurava ispravno grijanje i smanjuje potrošnja energije.Kako bi opravdala poziciju top modela Hyundai klima uređaja, Super Inverter serija dolazi i sa top filtracijom. Uz efikasan filter visoke gustoće koji će se pobrinuti za većinu prašine i peludi nudi i dodatni kompleksni sistem filtracije. Ovaj iznimni sistem sastoji se od filtera sa aktivnim ugljikom, vitaminom C, hladnim katalizatorom i ionima srebra. Zajedno pružaju visoku razinu zaštite i kvalitete zraka i pomažu u prevenciji bolesti dišnih puteva, alergija i neugodnih mirisa.Klima uređaj radi potpuno automatski i nudi svojim mikroprocesorskim reguliranjem veliki broj opcija: Održavanje 8°C u prostoru, Timer, Slijedi me, 5 brzina ventilatora vanjske jedinice, Noćni način rada, Automatski restart, 3D protok zraka...Upravljanje uređaja omogućeno je pomoću infracrvenog daljinskog upravljača i WiFi modula (ovaj odlični dodatak omogućuje upravljanje i podešavanje funkcija klima uređaja putem posebne aplikacije na vašem pametnom telefonu ili tabletu) koji su uključeni u cijenu proizvoda.Klima uređaj Hyundai Super Inverter 2.6 kW sastoji se od unutarnje jedinice oznake HRH-09PMV1, vanjske jedinice HRO-09PMV1, infracrvenog daljinskog upravljača i WiFi upravljačkog modula.",
     brand: "Hyundai",
     category: "Mono klima uređaj",
     price: 5000.0,
@@ -1066,42 +1003,7 @@ const products = [
     naponPrikljucka: "jjjj",
   },
 
-  {
-    name: "Hyundai Super Inverter 3.5 kW",
-    sifraProizvoda: "HRH-12PMV1/HRO-12PMV1",
-    image:
-      "/images/Hyundai/HyundaiSuperInverter3.5kW-HRH-12PMV1HRO-12PMV1/hyundai-1-600ecdcab1cc1_60100f318b7b4,/images/Hyundai/HyundaiSuperInverter3.5kW-HRH-12PMV1HRO-12PMV1/pmv-5cf764102b4db_60100f31ae504,/images/HyundaiSuperInverter3.5kW-HRH-12PMV1HRO-12PMV1/3-600ecc85d15b4_60100f31e29bb",
-    description: "Opis nije uredu\nPotrebno je zamijeniti",
-    brand: "Hyundai",
-    category: "Mono klima uređaj",
-    price: 5500.0,
-    onSale: false,
-    sale: 0,
-    coldEff: 3.5,
-    warmEff: 3.8,
-    energyClass: "A+++",
-    sizeOfRoom: "26-35",
-    countInStock: 3,
-    rating: 0,
-    numReviews: 0,
-    najtrazeni: false,
-    radnaTvar: true,
-    rasponRashladnogUcinka: "aaaaa",
-    SEER: "sssss",
-    rasponUcinaGrijanja: "dddddd",
-    SCOP: "eeeeee",
-    dimenzijeUnutarnjeJedinice: "fffff",
-    razinaBuke: "ggggg",
-    wifi: true,
-    ionizatorZraka: true,
-    dimenzijeVanjskeJedinice: 222,
-    razinaBukeVanjskeJedinice: 222,
-    promijerCijeviTekucine: "hhhhh",
-    promijerCijeviPlina: "kkkk",
-    maksimalnaDuljinaCijevi: 222,
-    maksimalnaVisRazlika: 222,
-    naponPrikljucka: "jjjj",
-  },
+  
 
   //   //QZEN//
 
@@ -1111,7 +1013,7 @@ const products = [
     image:
       "/images/QZEN/QzenStartInverterPlus2.6kW-ZE-09WSEZE-09OSE/za-probu-s-logom-1-6067160194458_60674650bc413.png,/images/QZEN/QzenStartInverterPlus2.6kW-ZE-09WSEZE-09OSE/6-5e8d744e1d7fa_5e8d7be7a2327.png",
     description:
-      "Klima uređaj Qzen Start Inverter Plus 2.6 kW predstavlja idealno rješenje ako želite štedljiv uređaj s modernim tehnologijama i dodatnim funkcijama, ali po prihvatljivoj cijeni. Ovi odlični uređaji nalaze se u energetskom razredu A++ i zahvaljujući ekološki prihvatljivijem rashladnom mediju R32 osiguravaju još veću uštedu, efikasnost i naravno manje štetan utjecaj na okolinu. Dodatno, potrošnja za vrijeme mirovanja je smanjena na samo 1W.Na površini ovaj uređaj krasi jednostavan, elegantan i moderan dizajn, ali se ispod skriva puno više. Zahvaljujući mikroprocesorskim reguliranjem rada i brojnim tehnologijama, ovaj uređaj radi potpuno automatski. Upravljanje je iznimno jednostavno putem daljinskog upravljača, a kako je uređaj „wifi ready“, posjeduje i priključak za dodatni WiFi modul. Na ovaj način upravljati možete i putem vašeg omiljenog pametnog uređaja.Od brojnih tehnologija koje posjeduje, sljedeće se ističu kao najpogodnije i najkorištenije: Timer, Slijedi me, Noćni način rada, Automatsko horizontalno ljuljanje lamela ispuha zraka i Auto restart. Zahvaljujući njima zaboravit ćete da je klima uređaj uopće tu.Nije ni čudo da se Qzen Start Inverter Plus 2.6 kW, zahvaljujući navedenim karakteristikama i tehnologijama, pozicionirao kao „Best Value“ klima uređaj na tržištu.",
+      "Klima uređaj Qzen Start Inverter Plus 2.6 kW predstavlja idealno rješenje ako želite štedljiv uređaj s modernim tehnologijama i dodatnim funkcijama, ali po prihvatljivoj cijeni. Ovi odlični uređaji nalaze se u energetskom razredu A++ i zahvaljujući ekološki prihvatljivijem rashladnom mediju R32 osiguravaju još veću uštedu, efikasnost i naravno manje štetan utjecaj na okolinu. Dodatno, potrošnja za vrijeme mirovanja je smanjena na samo 1W.\nUz to što će s lakoćom rashladiti željenu prostoriju, ovaj klima uređaj može vam poslužiti i u funkcijama poput ventilacije, odvlaživanja i naravno grijanja. Pogotovo u prijelaznim razdobljima kada temperature drastično variraju, idealno rješenje je poslužiti se klima uređajem za kratkotrajno grijanje prostorija. Kako bi se ugodno osjećali u prostoriji i ne bi došlo do alergijskih reakcija na prašinu, pelud i ostale alergene, potrebna je i filtracija zraka, koju ovaj uređaj nudi pomoću dvostruke filtracije i funkcije samočišćenja. Dodatnu pogodnost nudi vam perivi filtar prašine, pa uvijek možete biti sigurni da ispravno funkcionira i čuva vaše zdravlje.\nNa površini ovaj uređaj krasi jednostavan, elegantan i moderan dizajn, ali se ispod skriva puno više. Zahvaljujući mikroprocesorskim reguliranjem rada i brojnim tehnologijama, ovaj uređaj radi potpuno automatski. Upravljanje je iznimno jednostavno putem daljinskog upravljača, a kako je uređaj „wifi ready“, posjeduje i priključak za dodatni WiFi modul. Na ovaj način upravljati možete i putem vašeg omiljenog pametnog uređaja.\nOd brojnih tehnologija koje posjeduje, sljedeće se ističu kao najpogodnije i najkorištenije: Timer, Slijedi me, Noćni način rada, Automatsko horizontalno ljuljanje lamela ispuha zraka i Auto restart. Zahvaljujući njima zaboravit ćete da je klima uređaj uopće tu.\nZahvaljujući napretku tehnologije i ulaganjima koje je Qzen uložio u razvoj što boljeg uređaja, klima uređaji ove serije dolaze s pozlaćenim lamelama isparivača i kondenzatora. One učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente. Također, uređaj sam detektira moguće curenje rashladnog sredstva i o tome vas automatski obavještava. Isto vrijedi za moguće greške u radu vašeg klima uređaja.\nNije ni čudo da se Qzen Start Inverter Plus 2.6 kW, zahvaljujući navedenim karakteristikama i tehnologijama, pozicionirao kao „Best Value“ klima uređaj na tržištu.",
     brand: "QZEN",
     category: "Mono klima uređaj",
     price: 3500,
@@ -1149,7 +1051,7 @@ const products = [
     image:
       "/images/QZEN/QzenStartInverterPlus2.6kW+WIFI-ZE-09WSEZE-09OSE+WIFI/za-probu-s-logom-606715a56e8dc_606717383a10e.png,klima-shop\frontendpublicimagesQZENQzenStartInverterPlus2.6kW+WIFI-ZE-09WSEZE-09OSE+WIFI/6-5e8d744e1d7fa_606717386cdaf.png",
     description:
-      "Klima uređaj Qzen Start Inverter Plus 2.6 kW predstavlja idealno rješenje ako želite štedljiv uređaj s modernim tehnologijama i dodatnim funkcijama, ali po prihvatljivoj cijeni. Ovi odlični uređaji nalaze se u energetskom razredu A++ i zahvaljujući ekološki prihvatljivijem rashladnom mediju R32 osiguravaju još veću uštedu, efikasnost i naravno manje štetan utjecaj na okolinu. Dodatno, potrošnja za vrijeme mirovanja je smanjena na samo 1W.možete biti sigurni da ispravno funkcionira i čuva vaše zdravlje.Na površini ovaj uređaj krasi jednostavan, elegantan i moderan dizajn, ali se ispod skriva puno više. Zahvaljujući mikroprocesorskim reguliranjem rada i brojnim tehnologijama, ovaj uređaj radi potpuno automatski. Upravljanje je iznimno jednostavno putem daljinskog upravljača, a kako se uz klima uređaj isporučuje WiFi modul možete jednostavno upravljati i putem vašeg omiljenog pametnog uređaja.Od brojnih tehnologija koje posjeduje, sljedeće se ističu kao najpogodnije i najkorištenije: Timer, Slijedi me, Noćni način rada, Automatsko horizontalno ljuljanje lamela ispuha zraka i Auto restart. Zahvaljujući njima zaboravit ćete da je klima uređaj uopće tu.Nije ni čudo da se Qzen Start Inverter Plus 2.6 kW, zahvaljujući navedenim karakteristikama i tehnologijama, pozicionirao kao „Best Value“ klima uređaj na tržištu.",
+      "Klima uređaj Qzen Start Inverter Plus 2.6 kW predstavlja idealno rješenje ako želite štedljiv uređaj s modernim tehnologijama i dodatnim funkcijama, ali po prihvatljivoj cijeni. Ovi odlični uređaji nalaze se u energetskom razredu A++ i zahvaljujući ekološki prihvatljivijem rashladnom mediju R32 osiguravaju još veću uštedu, efikasnost i naravno manje štetan utjecaj na okolinu. Dodatno, potrošnja za vrijeme mirovanja je smanjena na samo 1W.\nUz to što će s lakoćom rashladiti željenu prostoriju, ovaj klima uređaj može vam poslužiti i u funkcijama poput ventilacije, odvlaživanja i naravno grijanja. Pogotovo u prijelaznim razdobljima kada temperature drastično variraju, idealno rješenje je poslužiti se klima uređajem za kratkotrajno grijanje prostorija. Kako bi se ugodno osjećali u prostoriji i ne bi došlo do alergijskih reakcija na prašinu, pelud i ostale alergene, potrebna je i filtracija zraka, koju ovaj uređaj nudi pomoću dvostruke filtracije i funkcije samočišćenja. Dodatnu pogodnost nudi vam perivi filtar prašine, pa uvijek možete biti sigurni da ispravno funkcionira i čuva vaše zdravlje.\nNa površini ovaj uređaj krasi jednostavan, elegantan i moderan dizajn, ali se ispod skriva puno više. Zahvaljujući mikroprocesorskim reguliranjem rada i brojnim tehnologijama, ovaj uređaj radi potpuno automatski. Upravljanje je iznimno jednostavno putem daljinskog upravljača, a kako se uz klima uređaj isporučuje WiFi modul možete jednostavno upravljati i putem vašeg omiljenog pametnog uređaja.\nOd brojnih tehnologija koje posjeduje, sljedeće se ističu kao najpogodnije i najkorištenije: Timer, Slijedi me, Noćni način rada, Automatsko horizontalno ljuljanje lamela ispuha zraka i Auto restart. Zahvaljujući njima zaboravit ćete da je klima uređaj uopće tu.\nZahvaljujući napretku tehnologije i ulaganjima koje je Qzen uložio u razvoj što boljeg uređaja, klima uređaji ove serije dolaze s pozlaćenim lamelama isparivača i kondenzatora. One učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente. Također, uređaj sam detektira moguće curenje rashladnog sredstva i o tome vas automatski obavještava. Isto vrijedi za moguće greške u radu vašeg klima uređaja.\nNije ni čudo da se Qzen Start Inverter Plus 2.6 kW, zahvaljujući navedenim karakteristikama i tehnologijama, pozicionirao kao „Best Value“ klima uređaj na tržištu.",
     brand: "QZEN",
     category: "Mono klima uređaj",
     price: 3600,
@@ -1187,7 +1089,7 @@ const products = [
     image:
       "/images/QZEN/QzenStartInverterPlus3.5kW-ZE-12WSEZE-12OSE/za-probu-s-logom-1-6067160194458_60833463e23e9.png,/images/QZEN/QzenStartInverterPlus3.5kW-ZE-12WSEZE-12OSE/6-5e8d744e1d7fa_5e8d97508c526.png",
     description:
-      "Klima uređaj Qzen Start Inverter Plus 3.5 kW predstavlja idealno rješenje ako želite štedljiv uređaj s modernim tehnologijama i dodatnim funkcijama, ali po prihvatljivoj cijeni. Ovi odlični uređaji nalaze se u energetskom razredu A++ i zahvaljujući ekološki prihvatljivijem rashladnom mediju R32 osiguravaju još veću uštedu, efikasnost i naravno manje štetan utjecaj na okolinu. Dodatno, potrošnja za vrijeme mirovanja je smanjena na samo 1W.Na površini ovaj uređaj krasi jednostavan, elegantan i moderan dizajn, ali se ispod skriva puno više. Zahvaljujući mikroprocesorskim reguliranjem rada i brojnim tehnologijama, ovaj uređaj radi potpuno automatski. Upravljanje je iznimno jednostavno putem daljinskog upravljača, a kako je uređaj „wifi ready“, posjeduje i priključak za dodatni WiFi modul. Na ovaj način upravljati možete i putem vašeg omiljenog pametnog uređaja.Od brojnih tehnologija koje posjeduje, sljedeće se ističu kao najpogodnije i najkorištenije: Timer, Slijedi me, Noćni način rada, Automatsko horizontalno ljuljanje lamela ispuha zraka i Auto restart. Zahvaljujući njima zaboravit ćete da je klima uređaj uopće tu.Nije ni čudo da se Qzen Start Inverter Plus 3.5 kW, zahvaljujući navedenim karakteristikama i tehnologijama, pozicionirao kao „Best Value“ klima uređaj na tržištu.",
+      "Klima uređaj Qzen Start Inverter Plus 3.5 kW predstavlja idealno rješenje ako želite štedljiv uređaj s modernim tehnologijama i dodatnim funkcijama, ali po prihvatljivoj cijeni. Ovi odlični uređaji nalaze se u energetskom razredu A++ i zahvaljujući ekološki prihvatljivijem rashladnom mediju R32 osiguravaju još veću uštedu, efikasnost i naravno manje štetan utjecaj na okolinu. Dodatno, potrošnja za vrijeme mirovanja je smanjena na samo 1W.\nUz to što će s lakoćom rashladiti željenu prostoriju, ovaj klima uređaj može vam poslužiti i u funkcijama poput ventilacije, odvlaživanja i naravno grijanja. Pogotovo u prijelaznim razdobljima kada temperature drastično variraju, idealno rješenje je poslužiti se klima uređajem za kratkotrajno grijanje prostorija. Kako bi se ugodno osjećali u prostoriji i ne bi došlo do alergijskih reakcija na prašinu, pelud i ostale alergene, potrebna je i filtracija zraka, koju ovaj uređaj nudi pomoću dvostruke filtracije i funkcije samočišćenja. Dodatnu pogodnost nudi vam perivi filtar prašine, pa uvijek možete biti sigurni da ispravno funkcionira i čuva vaše zdravlje.\nNa površini ovaj uređaj krasi jednostavan, elegantan i moderan dizajn, ali se ispod skriva puno više. Zahvaljujući mikroprocesorskim reguliranjem rada i brojnim tehnologijama, ovaj uređaj radi potpuno automatski. Upravljanje je iznimno jednostavno putem daljinskog upravljača, a kako je uređaj „wifi ready“, posjeduje i priključak za dodatni WiFi modul. Na ovaj način upravljati možete i putem vašeg omiljenog pametnog uređaja.\nOd brojnih tehnologija koje posjeduje, sljedeće se ističu kao najpogodnije i najkorištenije: Timer, Slijedi me, Noćni način rada, Automatsko horizontalno ljuljanje lamela ispuha zraka i Auto restart. Zahvaljujući njima zaboravit ćete da je klima uređaj uopće tu.\nZahvaljujući napretku tehnologije i ulaganjima koje je Qzen uložio u razvoj što boljeg uređaja, klima uređaji ove serije dolaze s pozlaćenim lamelama isparivača i kondenzatora. One učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente. Također, uređaj sam detektira moguće curenje rashladnog sredstva i o tome vas automatski obavještava. Isto vrijedi za moguće greške u radu vašeg klima uređaja.\nNije ni čudo da se Qzen Start Inverter Plus 3.5 kW, zahvaljujući navedenim karakteristikama i tehnologijama, pozicionirao kao „Best Value“ klima uređaj na tržištu.",
     brand: "QZEN",
     category: "Mono klima uređaj",
     price: 3700,
@@ -1225,7 +1127,7 @@ const products = [
     image:
       "/images/QZEN/QzenStartInverterPlus3.5kW+WIFI-ZE-12WSEZE-12OSE+WIFI/za-probu-s-logom-606715a56e8dc_606725447d139.png,/images/QZEN/QzenStartInverterPlus3.5kW+WIFI-ZE-12WSEZE-12OSE+WIFI/6-5e8d744e1d7fa_60672544bbdc8.png",
     description:
-      "Klima uređaj Qzen Start Inverter Plus 3.5 kW predstavlja idealno rješenje ako želite štedljiv uređaj s modernim tehnologijama i dodatnim funkcijama, ali po prihvatljivoj cijeni. Ovi odlični uređaji nalaze se u energetskom razredu A++ i zahvaljujući ekološki prihvatljivijem rashladnom mediju R32 osiguravaju još veću uštedu, efikasnost i naravno manje štetan utjecaj na okolinu. Dodatno, potrošnja za vrijeme mirovanja je smanjena na samo 1W.možete biti sigurni da ispravno funkcionira i čuva vaše zdravlje.Na površini ovaj uređaj krasi jednostavan, elegantan i moderan dizajn, ali se ispod skriva puno više. Zahvaljujući mikroprocesorskim reguliranjem rada i brojnim tehnologijama, ovaj uređaj radi potpuno automatski. Upravljanje je iznimno jednostavno putem daljinskog upravljača, a kako se uz klima uređaj isporučuje WiFi modul možete jednostavno upravljati i putem vašeg omiljenog pametnog uređaja.Od brojnih tehnologija koje posjeduje, sljedeće se ističu kao najpogodnije i najkorištenije: Timer, Slijedi me, Noćni način rada, Automatsko horizontalno ljuljanje lamela ispuha zraka i Auto restart. Zahvaljujući njima zaboravit ćete da je klima uređaj uopće tu.Nije ni čudo da se Qzen Start Inverter Plus 3.5 kW, zahvaljujući navedenim karakteristikama i tehnologijama, pozicionirao kao „Best Value“ klima uređaj na tržištu.",
+      "Klima uređaj Qzen Start Inverter Plus 3.5 kW predstavlja idealno rješenje ako želite štedljiv uređaj s modernim tehnologijama i dodatnim funkcijama, ali po prihvatljivoj cijeni. Ovi odlični uređaji nalaze se u energetskom razredu A++ i zahvaljujući ekološki prihvatljivijem rashladnom mediju R32 osiguravaju još veću uštedu, efikasnost i naravno manje štetan utjecaj na okolinu. Dodatno, potrošnja za vrijeme mirovanja je smanjena na samo 1W.\nUz to što će s lakoćom rashladiti željenu prostoriju, ovaj klima uređaj može vam poslužiti i u funkcijama poput ventilacije, odvlaživanja i naravno grijanja. Pogotovo u prijelaznim razdobljima kada temperature drastično variraju, idealno rješenje je poslužiti se klima uređajem za kratkotrajno grijanje prostorija. Kako bi se ugodno osjećali u prostoriji i ne bi došlo do alergijskih reakcija na prašinu, pelud i ostale alergene, potrebna je i filtracija zraka, koju ovaj uređaj nudi pomoću dvostruke filtracije i funkcije samočišćenja. Dodatnu pogodnost nudi vam perivi filtar prašine, pa uvijek možete biti sigurni da ispravno funkcionira i čuva vaše zdravlje.\nNa površini ovaj uređaj krasi jednostavan, elegantan i moderan dizajn, ali se ispod skriva puno više. Zahvaljujući mikroprocesorskim reguliranjem rada i brojnim tehnologijama, ovaj uređaj radi potpuno automatski. Upravljanje je iznimno jednostavno putem daljinskog upravljača, a kako se uz klima uređaj isporučuje WiFi modul možete jednostavno upravljati i putem vašeg omiljenog pametnog uređaja.\nOd brojnih tehnologija koje posjeduje, sljedeće se ističu kao najpogodnije i najkorištenije: Timer, Slijedi me, Noćni način rada, Automatsko horizontalno ljuljanje lamela ispuha zraka i Auto restart. Zahvaljujući njima zaboravit ćete da je klima uređaj uopće tu.\nZahvaljujući napretku tehnologije i ulaganjima koje je Qzen uložio u razvoj što boljeg uređaja, klima uređaji ove serije dolaze s pozlaćenim lamelama isparivača i kondenzatora. One učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente. Također, uređaj sam detektira moguće curenje rashladnog sredstva i o tome vas automatski obavještava. Isto vrijedi za moguće greške u radu vašeg klima uređaja.\nNije ni čudo da se Qzen Start Inverter Plus 3.5 kW, zahvaljujući navedenim karakteristikama i tehnologijama, pozicionirao kao „Best Value“ klima uređaj na tržištu.",
     brand: "QZEN",
     category: "Mono klima uređaj",
     price: 3800,
@@ -1263,7 +1165,7 @@ const products = [
     image:
       "/images/QZEN/QzenStartInverterPlus5.3kW-ZE-18WSEZE-18OSE/za-probu-s-logom-1-6067160194458_60833464768bb.png,/images/QZEN/QzenStartInverterPlus5.3kW-ZE-18WSEZE-18OSE/6-5e8d744e1d7fa_5e8d8729ebd09.png",
     description:
-      "Klima uređaj Qzen Start Inverter Plus 5.3 kW predstavlja idealno rješenje ako želite štedljiv uređaj s modernim tehnologijama i dodatnim funkcijama, ali po prihvatljivoj cijeni. Ovi odlični uređaji nalaze se u energetskom razredu A++ i zahvaljujući ekološki prihvatljivijem rashladnom mediju R32 osiguravaju još veću uštedu, efikasnost i naravno manje štetan utjecaj na okolinu. Dodatno, potrošnja za vrijeme mirovanja je smanjena na samo 1W.Na površini ovaj uređaj krasi jednostavan, elegantan i moderan dizajn, ali se ispod skriva puno više. Zahvaljujući mikroprocesorskim reguliranjem rada i brojnim tehnologijama, ovaj uređaj radi potpuno automatski. Upravljanje je iznimno jednostavno putem daljinskog upravljača, a kako je uređaj „wifi ready“, posjeduje i priključak za dodatni WiFi modul. Na ovaj način upravljati možete i putem vašeg omiljenog pametnog uređaja.Od brojnih tehnologija koje posjeduje, sljedeće se ističu kao najpogodnije i najkorištenije: Timer, Slijedi me, Noćni način rada, Automatsko horizontalno ljuljanje lamela ispuha zraka i Auto restart. Zahvaljujući njima zaboravit ćete da je klima uređaj uopće tu.Nije ni čudo da se Qzen Start Inverter Plus 5.3 kW, zahvaljujući navedenim karakteristikama i tehnologijama, pozicionirao kao „Best Value“ klima uređaj na tržištu.",
+      "Klima uređaj Qzen Start Inverter Plus 5.3 kW predstavlja idealno rješenje ako želite štedljiv uređaj s modernim tehnologijama i dodatnim funkcijama, ali po prihvatljivoj cijeni. Ovi odlični uređaji nalaze se u energetskom razredu A++ i zahvaljujući ekološki prihvatljivijem rashladnom mediju R32 osiguravaju još veću uštedu, efikasnost i naravno manje štetan utjecaj na okolinu. Dodatno, potrošnja za vrijeme mirovanja je smanjena na samo 1W.\nUz to što će s lakoćom rashladiti željenu prostoriju, ovaj klima uređaj može vam poslužiti i u funkcijama poput ventilacije, odvlaživanja i naravno grijanja. Pogotovo u prijelaznim razdobljima kada temperature drastično variraju, idealno rješenje je poslužiti se klima uređajem za kratkotrajno grijanje prostorija. Kako bi se ugodno osjećali u prostoriji i ne bi došlo do alergijskih reakcija na prašinu, pelud i ostale alergene, potrebna je i filtracija zraka, koju ovaj uređaj nudi pomoću dvostruke filtracije i funkcije samočišćenja. Dodatnu pogodnost nudi vam perivi filtar prašine, pa uvijek možete biti sigurni da ispravno funkcionira i čuva vaše zdravlje.\nNa površini ovaj uređaj krasi jednostavan, elegantan i moderan dizajn, ali se ispod skriva puno više. Zahvaljujući mikroprocesorskim reguliranjem rada i brojnim tehnologijama, ovaj uređaj radi potpuno automatski. Upravljanje je iznimno jednostavno putem daljinskog upravljača, a kako je uređaj „wifi ready“, posjeduje i priključak za dodatni WiFi modul. Na ovaj način upravljati možete i putem vašeg omiljenog pametnog uređaja.\nOd brojnih tehnologija koje posjeduje, sljedeće se ističu kao najpogodnije i najkorištenije: Timer, Slijedi me, Noćni način rada, Automatsko horizontalno ljuljanje lamela ispuha zraka i Auto restart. Zahvaljujući njima zaboravit ćete da je klima uređaj uopće tu.\nZahvaljujući napretku tehnologije i ulaganjima koje je Qzen uložio u razvoj što boljeg uređaja, klima uređaji ove serije dolaze s pozlaćenim lamelama isparivača i kondenzatora. One učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente. Također, uređaj sam detektira moguće curenje rashladnog sredstva i o tome vas automatski obavještava. Isto vrijedi za moguće greške u radu vašeg klima uređaja.\nNije ni čudo da se Qzen Start Inverter Plus 5.3 kW, zahvaljujući navedenim karakteristikama i tehnologijama, pozicionirao kao „Best Value“ klima uređaj na tržištu.",
     brand: "QZEN",
     category: "Mono klima uređaj",
     price: 5800,
@@ -1301,7 +1203,7 @@ const products = [
     image:
       "/images/QZEN/QzenStartInverterPlus5.3kW+WIFI-ZE-18WSEZE-18OSE+WIFI/za-probu-s-logom-606715a56e8dc_60672546f1592.png,/images/QZEN/QzenStartInverterPlus5.3kW+WIFI-ZE-18WSEZE-18OSE+WIFI/6-5e8d744e1d7fa_606725473a0b4.png",
     description:
-      "Klima uređaj Qzen Start Inverter Plus 5.3 kW predstavlja idealno rješenje ako želite štedljiv uređaj s modernim tehnologijama i dodatnim funkcijama, ali po prihvatljivoj cijeni. Ovi odlični uređaji nalaze se u energetskom razredu A++ i zahvaljujući ekološki prihvatljivijem rashladnom mediju R32 osiguravaju još veću uštedu, efikasnost i naravno manje štetan utjecaj na okolinu. Dodatno, potrošnja za vrijeme mirovanja je smanjena na samo 1W.Na površini ovaj uređaj krasi jednostavan, elegantan i moderan dizajn, ali se ispod skriva puno više. Zahvaljujući mikroprocesorskim reguliranjem rada i brojnim tehnologijama, ovaj uređaj radi potpuno automatski. Upravljanje je iznimno jednostavno putem daljinskog upravljača, a kako je uređaj „wifi ready“, posjeduje i priključak za dodatni WiFi modul. Na ovaj način upravljati možete i putem vašeg omiljenog pametnog uređaja.Od brojnih tehnologija koje posjeduje, sljedeće se ističu kao najpogodnije i najkorištenije: Timer, Slijedi me, Noćni način rada, Automatsko horizontalno ljuljanje lamela ispuha zraka i Auto restart. Zahvaljujući njima zaboravit ćete da je klima uređaj uopće tu.Nije ni čudo da se Qzen Start Inverter Plus 5.3 kW, zahvaljujući navedenim karakteristikama i tehnologijama, pozicionirao kao „Best Value“ klima uređaj na tržištu.",
+      "Klima uređaj Qzen Start Inverter Plus 5.3 kW predstavlja idealno rješenje ako želite štedljiv uređaj s modernim tehnologijama i dodatnim funkcijama, ali po prihvatljivoj cijeni. Ovi odlični uređaji nalaze se u energetskom razredu A++ i zahvaljujući ekološki prihvatljivijem rashladnom mediju R32 osiguravaju još veću uštedu, efikasnost i naravno manje štetan utjecaj na okolinu. Dodatno, potrošnja za vrijeme mirovanja je smanjena na samo 1W.\nUz to što će s lakoćom rashladiti željenu prostoriju, ovaj klima uređaj može vam poslužiti i u funkcijama poput ventilacije, odvlaživanja i naravno grijanja. Pogotovo u prijelaznim razdobljima kada temperature drastično variraju, idealno rješenje je poslužiti se klima uređajem za kratkotrajno grijanje prostorija. Kako bi se ugodno osjećali u prostoriji i ne bi došlo do alergijskih reakcija na prašinu, pelud i ostale alergene, potrebna je i filtracija zraka, koju ovaj uređaj nudi pomoću dvostruke filtracije i funkcije samočišćenja. Dodatnu pogodnost nudi vam perivi filtar prašine, pa uvijek možete biti sigurni da ispravno funkcionira i čuva vaše zdravlje.\nNa površini ovaj uređaj krasi jednostavan, elegantan i moderan dizajn, ali se ispod skriva puno više. Zahvaljujući mikroprocesorskim reguliranjem rada i brojnim tehnologijama, ovaj uređaj radi potpuno automatski. Upravljanje je iznimno jednostavno putem daljinskog upravljača, a kako se uz klima uređaj isporučuje WiFi modul možete jednostavno upravljati i putem vašeg omiljenog pametnog uređaja.\nOd brojnih tehnologija koje posjeduje, sljedeće se ističu kao najpogodnije i najkorištenije: Timer, Slijedi me, Noćni način rada, Automatsko horizontalno ljuljanje lamela ispuha zraka i Auto restart. Zahvaljujući njima zaboravit ćete da je klima uređaj uopće tu.\nZahvaljujući napretku tehnologije i ulaganjima koje je Qzen uložio u razvoj što boljeg uređaja, klima uređaji ove serije dolaze s pozlaćenim lamelama isparivača i kondenzatora. One učinkovito sprječavaju razvoj bakterija, poboljšavaju učinkovitost grijanja ubrzanim odmrzavanjem vanjske jedinice, te mogu izdržati slani zrak, kišu i druge korozivne elemente. Također, uređaj sam detektira moguće curenje rashladnog sredstva i o tome vas automatski obavještava. Isto vrijedi za moguće greške u radu vašeg klima uređaja.\nNije ni čudo da se Qzen Start Inverter Plus 5.3 kW, zahvaljujući navedenim karakteristikama i tehnologijama, pozicionirao kao „Best Value“ klima uređaj na tržištu.",
     brand: "QZEN",
     category: "Mono klima uređaj",
     price: 6600,
@@ -1333,7 +1235,22 @@ const products = [
     naponPrikljucka: "jjjj",
   },
 
+
+
+
+
+
+
+
+
   //TOSHIBA//
+
+
+
+
+
+
+
 
   {
     name: "Toshiba Digital Inverter 2.5 kW R32",
@@ -1341,7 +1258,7 @@ const products = [
     image:
       "/images/Toshiba/ToshibaDigitalInverter2.5kWR-zidnajedinicaRAV-RM301KRTP-ERAV-GM301ATP-E/toshiba-digital-inverter-5f37b282a4e49_5f37d50eb0dbf.png,/images/Toshiba/ToshibaDigitalInverter2.5kWR-zidnajedinicaRAV-RM301KRTP-ERAV-GM301ATP-E/di-unutarnja-1100-5b2a2030cb56c_5f37fa544862c.jpg",
     description:
-      "Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)",
+      "Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanju.\nInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem).",
     brand: "Toshiba",
     category: "Mono klima uređaj",
     price: 10900,
@@ -1379,7 +1296,7 @@ const products = [
     image:
       "/images/Toshiba/ToshibaDigitalInverter3.6kWR32-zidnajedinicaRAV-RM401KRTP-ERAV-GM401ATP-E/toshiba-digital-inverter-5f37b25356142_5f37d0235d37e.png,/images/Toshiba/ToshibaDigitalInverter3.6kWR32-zidnajedinicaRAV-RM401KRTP-ERAV-GM401ATP-E/di-unutarnja-1100-5b2a2030cb56c_5f383bb7917f3.jpg",
     description:
-      "Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)",
+      "Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanju.\nInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem).",
     brand: "Toshiba",
     category: "Mono klima uređaj",
     price: 12700,
@@ -1417,7 +1334,7 @@ const products = [
     image:
       "/images/Toshiba/ToshibaDigitalInverter5.0kW/toshiba-digital-inverter-2-5f37b3d8ac300_5f37bbc0c062c.png,/images/Toshiba/ToshibaDigitalInverter5.0kW/di-unutarnja-1-1100-5b2a23d4e7bbe_5f37e102cf9f3.jpg",
     description:
-      "Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)",
+      "Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanju.\nInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem).",
     brand: "Toshiba",
     category: "Mono klima uređaj",
     price: 14300,
@@ -1455,7 +1372,7 @@ const products = [
     image:
       "/images/Toshiba/ToshibaDigitalInverter6.7kW/toshiba-digital-inverter-2-5f37b3d8ac300_5f37cbec59720.png,/images/Toshiba/ToshibaDigitalInverter6.7kW/di-unutarnja-1-1100-5b2a23d4e7bbe_5f37f12f10c55.jpg",
     description:
-      "Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)",
+      "Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanju.\nInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem).",
     brand: "Toshiba",
     category: "Mono klima uređaj",
     price: 17200,
@@ -1487,6 +1404,8 @@ const products = [
     naponPrikljucka: "jjjj",
   },
 
+
+  
   {
     name: "Toshiba Shorai Edge 2.5 kW ",
     sifraProizvoda: "RAS-B10J2KVSG-E/RAS-10J2AVSG-E",
@@ -1677,50 +1596,14 @@ const products = [
     naponPrikljucka: "jjjj",
   },
 
-  {
-    name: "Toshiba Shorai Premium 2.5 kW",
-    sifraProizvoda: "RAS-B10J2KVRG-E/RAS-10J2AVRG-E",
-    image:
-      "/images/Toshiba/ToshibaShoraiPremium2.5kW-RAS-B10J2KVRG-ERAS-10J2AVRG-E/prednje-slike-s-top-5-13-5f0451a477429_5f045a68755ad.png,/images/Toshiba/ToshibaShoraiPremium2.5kW-RAS-B10J2KVRG-ERAS-10J2AVRG-E/shorai-premium-5cee7ad51e3a9_5cee8d61e2944.jpg",
-    description:
-      "Toshiba Shorai Premium model predstavlja kombinaciju vrhunskih modela klima uređaja Suzumi i Daisekai. Visoka energetska učinkovitost, napredni filterski sustav i 3D Airflow upravljanje lamelama samo su neke od brojnih karakteristika ovog primamljivog modela. Također, koristi se najnoviji rashladni medij R32 koji uz dodatnu energetsku uštedu ima i znatno smanjen negativan utjecaj na okoliš.Kako bi vam osigurali vrhunsku kvalitetu zraka, modeli ove serije uz filter prašine dolaze i s naprednim „IAQ“ filterom. Uz to, dolaze i sa Ionizatorom zraka koji negativnim ionima obuhvaća čestice poput prašine, peluda i dima, dok su se za optimalnu raspodjelu zraka po prostoriji pobrinule neovisne lamele ispuha koje pomoću 3D Airflow funkcije nude 6 obrazaca ispuha zraka.Toshiba neprestano radi na inovacijama kako bi ispunila sve zahtjeve korisnika za izvrsnom klimatizacijom. Za maksimalnu udobnost i mir Shorai Premium smanjuje razinu buke dvjema funkcijama tihog rada: Quiet na unutarnjoj jedinici omogućava vam neometani mir noću, a Silent na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba.Upravljanje standardnim i naprednim Toshiba funkcijama ovog izvrsnog klima uređaja lako je s infracrvenim daljinskim upravljačem i opcionalnim WiFi sučeljem koje se prodaje zasebno.Klima uređaj Toshiba Shorai Premium 2.5 kW sastoji se od unutarnje jedinice oznake RAS- B10J2KVRG -E, vanjske jedinice RAS- 10J2AVRG -E i infracrvenog daljinskog upravljača.",
-    brand: "Toshiba",
-    category: "Mono klima uređaj",
-    price: 6600,
-    onSale: false,
-    sale: 0,
-    coldEff: 2.5,
-    warmEff: 3.2,
-    energyClass: "A++",
-    sizeOfRoom: "15-25",
-    countInStock: 3,
-    rating: 0,
-    numReviews: 0,
-    najtrazeni: false,
-    radnaTvar: true,
-    rasponRashladnogUcinka: "aaaaa",
-    SEER: "sssss",
-    rasponUcinaGrijanja: "dddddd",
-    SCOP: "eeeeee",
-    dimenzijeUnutarnjeJedinice: "fffff",
-    razinaBuke: "ggggg",
-    wifi: true,
-    ionizatorZraka: true,
-    dimenzijeVanjskeJedinice: 222,
-    razinaBukeVanjskeJedinice: 222,
-    promijerCijeviTekucine: "hhhhh",
-    promijerCijeviPlina: "kkkk",
-    maksimalnaDuljinaCijevi: 222,
-    maksimalnaVisRazlika: 222,
-    naponPrikljucka: "jjjj",
-  },
+  
 
   {
     name: "Toshiba Super Daiseikai 9 - 2.5 kW",
     sifraProizvoda: "RAS-10PKVPG-E/RAS-10PAVPG-E R-32",
     image:
       "/images/Toshiba/ToshibaSuperDaiseikai9-2.5kW-RAS-10PKVPG-ERAS-10PAVPG-ER-32/16-5f0436a3d0781_5f04579847624.png,/images/Toshiba/ToshibaSuperDaiseikai9-2.5kW-RAS-10PKVPG-ERAS-10PAVPG-ER-32/daisekai-9-5c599ea98b608_5cd2d4b5d4745.jpg",
-    description: "Opis nije valjanog formata\nPotrebno zamijeniti",
+    description: "Toshibina perjanica premium razreda Daiseikai 9 opremljena je dvostruko-rotacijskim kompresorom vrhunske efikasnosti te postiže zavidne rezultate u potrošnji električne energije. Smanjenju potrošnje pridonosi i korištenje ekološki prihvatljivijeg rashladnog medija R32, dok se za kakvoću zraka brinu ugrađeni ionizator i napredni plazma filter.\nKvaliteta filtracije kod ovoga uređaja u samom je vrhu ponude na tržištu. Toshiba Plasma Filtar „Pure Mode“ iznimno je učinkovit električni pročišćivač zraka koji jamči filtriranje najsitnijih čestica budući da su njegove elektrostatske ćelije u stanju ukloniti do 99% svih štetnih tvari. Ova funkcija može se aktivirati jednim pritiskom na gumb daljinskog upravljača, koristeći više faza filtracije da bi se prostorija oslobodila od dima i neugodnih mirisa, te zarobila prašina i pelud. Drugi dio filtracije preuzeo je Super Ionizator zraka predavanjem negativnih iona u zrak koji u velikoj mjeri utječu na poboljšanje kvalitete zraka. Dodatno proizvedeni ioni srebra također imaju snažan antibakterijski učinak.\nOvo je kvaliteta Toshibe kojoj možete vjerovati, nudeći izvanredne performanse. Sa svojim ultra tihim sustavom, buka nikada neće biti problem. Unutarnja jedinica Daiseikai 9 izuzetno je tiha s manje od 20 dB (A) koje ljudsko uho shvaća kao šapat. Tijekom svog razvoja posvećeno je najviše pažnje tomu da se buka održi na apsolutnom minimumu. Za maksimalnu udobnost i mir Daiseikai 9 smanjuje razinu buke dvjema funkcijama tihog rada: Quiet na unutarnjoj jedinici omogućava vam neometani mir noću, a Silent na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba.\nKontrola brojnim funkcijama uvijek vam je na dohvat ruke infracrvenim daljinskim upravljačem. Daiseikai 9 nudi i Wi-Fi kontrolu (sa opcionalnim modulom koji se kupuje zasebno), te se može kontrolirati bilo kada, bilo gdje, čineći ga dijelom vašeg povezanog svijeta. Optimizirajte svoju uštedu energije, poboljšajte svoje blagostanje.\nNeke od najvažnijih funkcija koje svakodnevni život čine jednostavnijim su: Automatski režim rada, Snažan režim rada, Automatska dijagnoza, Ekonomični režim rada, Ugodno spavanje, One Touch režim rada, Programski timer i Automatsko ponovno uključivanje.\nKlima uređaj Toshiba Daiseikai 9 2.5 kW sastoji se od unutarnje jedinice oznake RAS-10PKVPG-E, vanjske jedinice RAS- 10PAVPG -E i infracrvenog daljinskog upravljača.",
     brand: "Toshiba",
     category: "Mono klima uređaj",
     price: 10400,
@@ -1757,7 +1640,7 @@ const products = [
     sifraProizvoda: "RAS-13PKVPG-E/RAS-13PAVPG-E R-32",
     image:
       "/images/Toshiba/ToshibaSuperDaiseikai9-3.5kW-RAS-13PKVPG-ERAS-13PAVPG-ER-32/16-5f0436a3d0781_5f0458fd2c5c5.png,/images/Toshiba/ToshibaSuperDaiseikai9-3.5kW-RAS-13PKVPG-ERAS-13PAVPG-ER-32/daisekai-9-5c599ea98b608_5cd2d4b7101df.jpg",
-    description: "Opis nije valjanog formata\nPotrebno zamijeniti",
+    description: "Toshibina perjanica premium razreda Daiseikai 9 opremljena je dvostruko-rotacijskim kompresorom vrhunske efikasnosti te postiže zavidne rezultate u potrošnji električne energije. Smanjenju potrošnje pridonosi i korištenje ekološki prihvatljivijeg rashladnog medija R32, dok se za kakvoću zraka brinu ugrađeni ionizator i napredni plazma filter.\nKvaliteta filtracije kod ovoga uređaja u samom je vrhu ponude na tržištu. Toshiba Plasma Filtar „Pure Mode“ iznimno je učinkovit električni pročišćivač zraka koji jamči filtriranje najsitnijih čestica budući da su njegove elektrostatske ćelije u stanju ukloniti do 99% svih štetnih tvari. Ova funkcija može se aktivirati jednim pritiskom na gumb daljinskog upravljača, koristeći više faza filtracije da bi se prostorija oslobodila od dima i neugodnih mirisa, te zarobila prašina i pelud. Drugi dio filtracije preuzeo je Super Ionizator zraka predavanjem negativnih iona u zrak koji u velikoj mjeri utječu na poboljšanje kvalitete zraka. Dodatno proizvedeni ioni srebra također imaju snažan antibakterijski učinak.\nOvo je kvaliteta Toshibe kojoj možete vjerovati, nudeći izvanredne performanse. Sa svojim ultra tihim sustavom, buka nikada neće biti problem. Unutarnja jedinica Daiseikai 9 izuzetno je tiha s manje od 20 dB (A) koje ljudsko uho shvaća kao šapat. Tijekom svog razvoja posvećeno je najviše pažnje tomu da se buka održi na apsolutnom minimumu. Za maksimalnu udobnost i mir Daiseikai 9 smanjuje razinu buke dvjema funkcijama tihog rada: Quiet na unutarnjoj jedinici omogućava vam neometani mir noću, a Silent na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba.\nKontrola brojnim funkcijama uvijek vam je na dohvat ruke infracrvenim daljinskim upravljačem. Daiseikai 9 nudi i Wi-Fi kontrolu (sa opcionalnim modulom koji se kupuje zasebno), te se može kontrolirati bilo kada, bilo gdje, čineći ga dijelom vašeg povezanog svijeta. Optimizirajte svoju uštedu energije, poboljšajte svoje blagostanje.\nNeke od najvažnijih funkcija koje svakodnevni život čine jednostavnijim su: Automatski režim rada, Snažan režim rada, Automatska dijagnoza, Ekonomični režim rada, Ugodno spavanje, One Touch režim rada, Programski timer i Automatsko ponovno uključivanje.\nKlima uređaj Toshiba Daiseikai 9 2.5 kW sastoji se od unutarnje jedinice oznake RAS-10PKVPG-E, vanjske jedinice RAS- 10PAVPG -E i infracrvenog daljinskog upravljača.",
     brand: "Toshiba",
     category: "Mono klima uređaj",
     price: 11500,
@@ -1790,11 +1673,11 @@ const products = [
   },
 
   {
-    name: "ToshibaSuper Daiseikai 9 - 4.5 kW",
+    name: "Toshiba Super Daiseikai 9 - 4.5 kW",
     sifraProizvoda: "RAS-16PKVPG-E/RAS-16PAVPG-E R-32",
     image:
       "/images/Toshiba/ToshibaSuperDaiseikai9-4.5kW-RAS-16PKVPG-ERAS-16PAVPG-ER-32/16-5f0436a3d0781_5f0459af77a8d.png,/images/Toshiba/ToshibaSuperDaiseikai9-4.5kW-RAS-16PKVPG-ERAS-16PAVPG-ER-32/daisekai-9-5c599ea98b608_5cd2d4b80ecca.jpg",
-    description: "Opis nije zadovoljavajuceg formata\nPotrebno zamijeniti",
+    description: "Toshibina perjanica premium razreda Daiseikai 9 opremljena je dvostruko-rotacijskim kompresorom vrhunske efikasnosti te postiže zavidne rezultate u potrošnji električne energije. Smanjenju potrošnje pridonosi i korištenje ekološki prihvatljivijeg rashladnog medija R32, dok se za kakvoću zraka brinu ugrađeni ionizator i napredni plazma filter.\nKvaliteta filtracije kod ovoga uređaja u samom je vrhu ponude na tržištu. Toshiba Plasma Filtar „Pure Mode“ iznimno je učinkovit električni pročišćivač zraka koji jamči filtriranje najsitnijih čestica budući da su njegove elektrostatske ćelije u stanju ukloniti do 99% svih štetnih tvari. Ova funkcija može se aktivirati jednim pritiskom na gumb daljinskog upravljača, koristeći više faza filtracije da bi se prostorija oslobodila od dima i neugodnih mirisa, te zarobila prašina i pelud. Drugi dio filtracije preuzeo je Super Ionizator zraka predavanjem negativnih iona u zrak koji u velikoj mjeri utječu na poboljšanje kvalitete zraka. Dodatno proizvedeni ioni srebra također imaju snažan antibakterijski učinak.\nOvo je kvaliteta Toshibe kojoj možete vjerovati, nudeći izvanredne performanse. Sa svojim ultra tihim sustavom, buka nikada neće biti problem. Unutarnja jedinica Daiseikai 9 izuzetno je tiha s manje od 20 dB (A) koje ljudsko uho shvaća kao šapat. Tijekom svog razvoja posvećeno je najviše pažnje tomu da se buka održi na apsolutnom minimumu. Za maksimalnu udobnost i mir Daiseikai 9 smanjuje razinu buke dvjema funkcijama tihog rada: Quiet na unutarnjoj jedinici omogućava vam neometani mir noću, a Silent na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba.\nKontrola brojnim funkcijama uvijek vam je na dohvat ruke infracrvenim daljinskim upravljačem. Daiseikai 9 nudi i Wi-Fi kontrolu (sa opcionalnim modulom koji se kupuje zasebno), te se može kontrolirati bilo kada, bilo gdje, čineći ga dijelom vašeg povezanog svijeta. Optimizirajte svoju uštedu energije, poboljšajte svoje blagostanje.\nNeke od najvažnijih funkcija koje svakodnevni život čine jednostavnijim su: Automatski režim rada, Snažan režim rada, Automatska dijagnoza, Ekonomični režim rada, Ugodno spavanje, One Touch režim rada, Programski timer i Automatsko ponovno uključivanje.\nKlima uređaj Toshiba Daiseikai 9 2.5 kW sastoji se od unutarnje jedinice oznake RAS-10PKVPG-E, vanjske jedinice RAS- 10PAVPG -E i infracrvenog daljinskog upravljača.",
     brand: "Toshiba",
     category: "Mono klima uređaj",
     price: 11700,
@@ -1832,7 +1715,7 @@ const products = [
     image:
       "/images/Toshiba/ToshibaSuperDigitalInverter5.3kWR32-zidnajedinicaRAV-RM561KRTP-ERAV-GP561ATP-E/toshiba-digital-inverter-4-5f37b50e710f6_5f37ba59a0fd6.png,/images/Toshiba/ToshibaSuperDigitalInverter5.3kWR32-zidnajedinicaRAV-RM561KRTP-ERAV-GP561ATP-E/18-24k-suzumiplus-fclosed-freigestellt-5c10c1ffdf5_5f37df9d4fba9.jpg",
     description:
-      "Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)",
+      "Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanju.\nInfracrveni upravljač uključen (moguće upravljanje zidnim daljinskim upravljačem).",
     brand: "Toshiba",
     category: "Mono klima uređaj",
     price: 16900,
@@ -1870,7 +1753,7 @@ const products = [
     image:
       "/images/Toshiba/ToshibaSuperDigitalInverter7.1kWR32-zidnajedinicaRAV-RM801KRTP-ERAV-GP801AT-E/toshiba-digital-inverter-4-5f37b50e710f6_5f37ba5a218f2.png,/images/Toshiba/ToshibaSuperDigitalInverter7.1kWR32-zidnajedinicaRAV-RM801KRTP-ERAV-GP801AT-E/18-24k-suzumiplus-fclosed-freigestellt-5c10c1ffdf5_5f37df9db08fd.jpg",
     description:
-      "Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)",
+      "Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanju.\nInfracrveni upravljač uključen (moguće upravljanje zidnim daljinskim upravljačem).",
     brand: "Toshiba",
     category: "Mono klima uređaj",
     price: 20600,
@@ -1908,7 +1791,7 @@ const products = [
     image:
       "/images/Toshiba/ToshibaHaori2.5kW/5-16-6064511060501_60645817d15af.png,/images/Toshiba/ToshibaHaori2.5kW/4-60645110e859e_6064581899a11.png,/images/Toshiba/ToshibaHaori2.5kW/3-60645110bb5b2_606458184d2a6.png",
     description:
-      "Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)",
+      "",
     brand: "Toshiba",
     category: "Mono klima uređaj",
     price: 8800,
@@ -1946,7 +1829,7 @@ const products = [
     image:
       "/images/Toshiba/ToshibaHaori3.5kW/5-16-6064511060501_608ff5b5ea77b.png,/images/Toshiba/ToshibaHaori3.5kW/4-60645110e859e_608ff5b66e143.png,/images/Toshiba/ToshibaHaori3.5kW/3-60645110bb5b2_608ff5b63c8cf.png",
     description:
-      "Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)",
+      "",
     brand: "Toshiba",
     category: "Mono klima uređaj",
     price: 10100,
@@ -1984,7 +1867,7 @@ const products = [
     image:
       "/images/Toshiba/ToshibaHaori4.6kW/5-16-6064511060501_608ff5b79aca8.png,/images/Toshiba/ToshibaHaori4.6kW/4-60645110e859e_608ff5b82f102.png,/images/Toshiba/ToshibaHaori4.6kW/3-60645110bb5b2_608ff5b80669d.png",
     description:
-      "Najefikasnije profesionalne jedinice tehničkim će karakteristikama ispuniti najstrože zahtjeve zahvaljujući naprednom IPDU inverterskom upravljanjuInfracrveni upravljač ukjlučen (moguće upravljanje zidnim daljinskim upravljačem)",
+      "",
     brand: "Toshiba",
     category: "Mono klima uređaj",
     price: 11500,
@@ -2022,7 +1905,7 @@ const products = [
     image:
       "/images/Toshiba/ToshibaSeiya2.0kW/seiya-07-10-13-62be93c481622_62bebe5e2666f.png,/images/Toshiba/ToshibaSeiya2.0kW/seiya-7-18-indoor-62be93c4dde83_62bebe5e89862.png,",
     description:
-      "Seiya Inverter predstavlja savršen ulazak u svijet klimatizacije. Početni model Toshibine palete opremljen je štedljivim inverterskim kompresorom i svim funkcionalnostima na koje su navikli korisnici premium branda poput Toshibe. Uz to, svoj rad obavlja koristeći najnoviji rashladni medij R32 koji ne samo da je ekološki prihvatljiviji, već i donosi dodatnu uštedu u potrošnji električne energije. Energetska učinkovitost u hlađenju s razredom A++ i snagom 2 kW.No, nisu samo odlične značajke te koje ovaj model čine odličnim, tu je i primjer neprestanog rada na inovacijama koje će se pobrinuti za maksimalnu udobnost i mir. Seiya smanjuje razinu buke dvjema funkcijama tihog rada: QUIET na unutarnjoj jedinici omogućava vam neometani mir noću, a SILENT na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba!Uz tih i ekonomičan rad, Seiya uređaji osigurati će vam i odličnu kvalitetu zraka zahvaljujući „IAQ“ filteru i izmjenjivaču topline Magic Coil®. Izmjenjivač topline unutarnje jedinice uvijek se održava čistim i suhim s pomoću posebnog premaza zajedno s funkcijom samočišćenja nakon završetka rada. Nema šanse za razvoj neugodnih mirisa i bakterija.Kako bi lako i pouzdano upravljali svojim novim klima uređajem tu je infracrveni daljinski upravljač i mogućnost kupnje opcionalnog WiFi sučelja RB-N104S-G pomoću kojeg uređajem možete upravljati vašim pametnim telefonom ili tabletom.Klima uređaj Toshiba Seiya Inverter 2.0 kW sastoji se od unutarnje jedinice oznake RAS-B07E2KVG-E, vanjske jedinice RAS-07E2AVG-E i infracrvenog daljinskog upravljača.",
+      "Seiya Inverter predstavlja savršen ulazak u svijet klimatizacije. Početni model Toshibine palete opremljen je štedljivim inverterskim kompresorom i svim funkcionalnostima na koje su navikli korisnici premium branda poput Toshibe. Uz to, svoj rad obavlja koristeći najnoviji rashladni medij R32 koji ne samo da je ekološki prihvatljiviji, već i donosi dodatnu uštedu u potrošnji električne energije.Energetska učinkovitost u hlađenju s razredom A++ i snagom 2 kW.   \nNo, nisu samo odlične značajke te koje ovaj model čine odličnim, tu je i primjer neprestanog rada na inovacijama koje će se pobrinuti za maksimalnu udobnost i mir. Seiya smanjuje razinu buke dvjema funkcijama tihog rada: QUIET na unutarnjoj jedinici omogućava vam neometani mir noću, a SILENT na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba!\nUz tih i ekonomičan rad, Seiya uređaji osigurati će vam i odličnu kvalitetu zraka zahvaljujući „IAQ“ filteru i izmjenjivaču topline Magic Coil®. Izmjenjivač topline unutarnje jedinice uvijek se održava čistim i suhim s pomoću posebnog premaza zajedno s funkcijom samočišćenja nakon završetka rada. Nema šanse za razvoj neugodnih mirisa i bakterija.\nKako bi lako i pouzdano upravljali svojim novim klima uređajem tu je infracrveni daljinski upravljač i mogućnost kupnje opcionalnog WiFi sučelja RB-N104S-G pomoću kojeg uređajem možete upravljati vašim pametnim telefonom ili tabletom.\nKlima uređaj Toshiba Seiya Inverter 2.0 kW sastoji se od unutarnje jedinice oznake RAS-B07E2KVG-E, vanjske jedinice RAS-07E2AVG-E i infracrvenog daljinskog upravljača.",
     brand: "Toshiba",
     category: "Mono klima uređaj",
     price: 5300,
@@ -2060,7 +1943,7 @@ const products = [
     image:
       "/images/Toshiba/ToshibaSeiya2.5kW/seiya-07-10-13-62be93c481622_62bebe60d0eea.png,/images/Toshiba/ToshibaSeiya2.5kW/seiya-7-18-indoor-62be93c4dde83_62bebe6136255.png",
     description:
-      "Seiya Inverter predstavlja savršen ulazak u svijet klimatizacije. Početni model Toshibine palete opremljen je štedljivim inverterskim kompresorom i svim funkcionalnostima na koje su navikli korisnici premium branda poput Toshibe. Uz to, svoj rad obavlja koristeći najnoviji rashladni medij R32 koji ne samo da je ekološki prihvatljiviji, već i donosi dodatnu uštedu u potrošnji električne energije. Energetska učinkovitost je u razredu A++ te ima snagu od 2.5 kW.No, nisu samo odlične značajke te koje ovaj model čine odličnim, tu je i primjer neprestanog rada na inovacijama koje će se pobrinuti za maksimalnu udobnost i mir. Seiya smanjuje razinu buke dvjema funkcijama tihog rada: QUIET na unutarnjoj jedinici omogućava vam neometani mir noću, a SILENT na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba!Uz tih i ekonomičan rad, Seiya uređaji osigurati će vam i odličnu kvalitetu zraka zahvaljujući „IAQ“ filteru i izmjenjivaču topline Magic Coil®. Izmjenjivač topline unutarnje jedinice uvijek se održava čistim i suhim s pomoću posebnog premaza zajedno s funkcijom samočišćenja nakon završetka rada. Nema šanse za razvoj neugodnih mirisa i bakterija.Kako bi lako i pouzdano upravljali svojim novim klima uređajem tu je infracrveni daljinski upravljač i mogućnost kupnje opcionalnog WiFi sučelja RB-N104S-G pomoću kojeg uređajem možete upravljati vašim pametnim telefonom ili tabletom.Klima uređaj Toshiba Seiya Inverter 2.5 kW sastoji se od unutarnje jedinice oznake RAS-B10E2KVG-E, vanjske jedinice RAS-10E2AVG-E i infracrvenog daljinskog upravljača.",
+      "Seiya Inverter predstavlja savršen ulazak u svijet klimatizacije. Početni model Toshibine palete opremljen je štedljivim inverterskim kompresorom i svim funkcionalnostima na koje su navikli korisnici premium branda poput Toshibe. Uz to, svoj rad obavlja koristeći najnoviji rashladni medij R32 koji ne samo da je ekološki prihvatljiviji, već i donosi dodatnu uštedu u potrošnji električne energije. Energetska učinkovitost je u razredu A++ te ima snagu od 2.5 kW. \nNo, nisu samo odlične značajke te koje ovaj model čine odličnim, tu je i primjer neprestanog rada na inovacijama koje će se pobrinuti za maksimalnu udobnost i mir. Seiya smanjuje razinu buke dvjema funkcijama tihog rada: QUIET na unutarnjoj jedinici omogućava vam neometani mir noću, a SILENT na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba!\nUz tih i ekonomičan rad, Seiya uređaji osigurati će vam i odličnu kvalitetu zraka zahvaljujući „IAQ“ filteru i izmjenjivaču topline Magic Coil®. Izmjenjivač topline unutarnje jedinice uvijek se održava čistim i suhim s pomoću posebnog premaza zajedno s funkcijom samočišćenja nakon završetka rada. Nema šanse za razvoj neugodnih mirisa i bakterija.\nKako bi lako i pouzdano upravljali svojim novim klima uređajem tu je infracrveni daljinski upravljač i mogućnost kupnje opcionalnog WiFi sučelja RB-N104S-G pomoću kojeg uređajem možete upravljati vašim pametnim telefonom ili tabletom.\nKlima uređaj Toshiba Seiya Inverter 2.5 kW sastoji se od unutarnje jedinice oznake RAS-B10E2KVG-E, vanjske jedinice RAS-10E2AVG-E i infracrvenog daljinskog upravljača.",
     brand: "Toshiba",
     category: "Mono klima uređaj",
     price: 5800,
@@ -2098,7 +1981,7 @@ const products = [
     image:
       "/images/Toshiba/ToshibaSeiya3.3kW/seiya-07-10-13-62be93c481622_62bebe627fe1e.png,/images/Toshiba/ToshibaSeiya3.3kW/seiya-7-18-indoor-62be93c4dde83_62bebe62c52dd.png",
     description:
-      "Seiya Inverter predstavlja savršen ulazak u svijet klimatizacije. Početni model Toshibine palete opremljen je štedljivim inverterskim kompresorom i svim funkcionalnostima na koje su navikli korisnici premium branda poput Toshibe. Uz to, svoj rad obavlja koristeći najnoviji rashladni medij R32 koji ne samo da je ekološki prihvatljiviji, već i donosi dodatnu uštedu u potrošnji električne energije. Energetska učinkovitost razreda A++ i snagom od 3.3 kW. No, nisu samo odlične značajke te koje ovaj model čine odličnim, tu je i primjer neprestanog rada na inovacijama koje će se pobrinuti za maksimalnu udobnost i mir. Seiya smanjuje razinu buke dvjema funkcijama tihog rada: QUIET na unutarnjoj jedinici omogućava vam neometani mir noću, a SILENT na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba!Uz tih i ekonomičan rad, Seiya uređaji osigurati će vam i odličnu kvalitetu zraka zahvaljujući „IAQ“ filteru i izmjenjivaču topline Magic Coil®. Izmjenjivač topline unutarnje jedinice uvijek se održava čistim i suhim s pomoću posebnog premaza zajedno s funkcijom samočišćenja nakon završetka rada. Nema šanse za razvoj neugodnih mirisa i bakterija.Kako bi lako i pouzdano upravljali svojim novim klima uređajem tu je infracrveni daljinski upravljač i mogućnost kupnje opcionalnog WiFi sučelja RB-N104S-G pomoću kojeg uređajem možete upravljati vašim pametnim telefonom ili tabletom.Klima uređaj Toshiba Seiya Inverter 3.3 kW sastoji se od unutarnje jedinice oznake RAS-13EJ2KVG-E, vanjske jedinice RAS-13E2AVG-E i infracrvenog daljinskog upravljača.",
+      "Seiya Inverter predstavlja savršen ulazak u svijet klimatizacije. Početni model Toshibine palete opremljen je štedljivim inverterskim kompresorom i svim funkcionalnostima na koje su navikli korisnici premium branda poput Toshibe. Uz to, svoj rad obavlja koristeći najnoviji rashladni medij R32 koji ne samo da je ekološki prihvatljiviji, već i donosi dodatnu uštedu u potrošnji električne energije.  Energetska učinkovitost razreda A++ i snagom od 3.3 kW.  \nNo, nisu samo odlične značajke te koje ovaj model čine odličnim, tu je i primjer neprestanog rada na inovacijama koje će se pobrinuti za maksimalnu udobnost i mir. Seiya smanjuje razinu buke dvjema funkcijama tihog rada: QUIET na unutarnjoj jedinici omogućava vam neometani mir noću, a SILENT na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba!\nUz tih i ekonomičan rad, Seiya uređaji osigurati će vam i odličnu kvalitetu zraka zahvaljujući „IAQ“ filteru i izmjenjivaču topline Magic Coil®. Izmjenjivač topline unutarnje jedinice uvijek se održava čistim i suhim s pomoću posebnog premaza zajedno s funkcijom samočišćenja nakon završetka rada. Nema šanse za razvoj neugodnih mirisa i bakterija.\nKako bi lako i pouzdano upravljali svojim novim klima uređajem tu je infracrveni daljinski upravljač i mogućnost kupnje opcionalnog WiFi sučelja RB-N104S-G pomoću kojeg uređajem možete upravljati vašim pametnim telefonom ili tabletom.\nKlima uređaj Toshiba Seiya Inverter 3.3 kW sastoji se od unutarnje jedinice oznake RAS-B13E2KVG-E, vanjske jedinice RAS-13E2AVG-E i infracrvenog daljinskog upravljača.",
     brand: "Toshiba",
     category: "Mono klima uređaj",
     price: 6200,
@@ -2136,7 +2019,7 @@ const products = [
     image:
       "/images/Toshiba/ToshibaSeiya4.2kW/seiya-16-18-62be9ce930aa9_62bebf134f031.png,/images/Toshiba/ToshibaSeiya4.2kW/seiya-7-18-indoor-62be93c4dde83_62bebf13a208e.png",
     description:
-      "Seiya Inverter predstavlja savršen ulazak u svijet klimatizacije. Početni model Toshibine palete opremljen je štedljivim inverterskim kompresorom i svim funkcionalnostima na koje su navikli korisnici premium branda poput Toshibe. Uz to, svoj rad obavlja koristeći najnoviji rashladni medij R32 koji ne samo da je ekološki prihvatljiviji, već i donosi dodatnu uštedu u potrošnji električne energije. Energetska učinkovitost razreda A++ i snagom od 4.2 kW. No, nisu samo odlične značajke te koje ovaj model čine odličnim, tu je i primjer neprestanog rada na inovacijama koje će se pobrinuti za maksimalnu udobnost i mir. Seiya smanjuje razinu buke dvjema funkcijama tihog rada: QUIET na unutarnjoj jedinici omogućava vam neometani mir noću, a SILENT na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba!Uz tih i ekonomičan rad, Seiya uređaji osigurati će vam i odličnu kvalitetu zraka zahvaljujući „IAQ“ filteru i izmjenjivaču topline Magic Coil®. Izmjenjivač topline unutarnje jedinice uvijek se održava čistim i suhim s pomoću posebnog premaza zajedno s funkcijom samočišćenja nakon završetka rada. Nema šanse za razvoj neugodnih mirisa i bakterija.Kako bi lako i pouzdano upravljali svojim novim klima uređajem tu je infracrveni daljinski upravljač i mogućnost kupnje opcionalnog WiFi sučelja RB-N104S-G pomoću kojeg uređajem možete upravljati vašim pametnim telefonom ili tabletom.Klima uređaj Toshiba Seiya Inverter 4.2 kW sastoji se od unutarnje jedinice oznake RAS-B16E2KVG-E, vanjske jedinice RAS-16E2AVG-E i infracrvenog daljinskog upravljača.",
+      "Seiya Inverter predstavlja savršen ulazak u svijet klimatizacije. Početni model Toshibine palete opremljen je štedljivim inverterskim kompresorom i svim funkcionalnostima na koje su navikli korisnici premium branda poput Toshibe. Uz to, svoj rad obavlja koristeći najnoviji rashladni medij R32 koji ne samo da je ekološki prihvatljiviji, već i donosi dodatnu uštedu u potrošnji električne energije.Energetska učinkovitost razreda A++ i snagom od 4.2 kW.   \nNo, nisu samo odlične značajke te koje ovaj model čine odličnim, tu je i primjer neprestanog rada na inovacijama koje će se pobrinuti za maksimalnu udobnost i mir. Seiya smanjuje razinu buke dvjema funkcijama tihog rada: QUIET na unutarnjoj jedinici omogućava vam neometani mir noću, a SILENT na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba!\nUz tih i ekonomičan rad, Seiya uređaji osigurati će vam i odličnu kvalitetu zraka zahvaljujući „IAQ“ filteru i izmjenjivaču topline Magic Coil®. Izmjenjivač topline unutarnje jedinice uvijek se održava čistim i suhim s pomoću posebnog premaza zajedno s funkcijom samočišćenja nakon završetka rada. Nema šanse za razvoj neugodnih mirisa i bakterija.\nKako bi lako i pouzdano upravljali svojim novim klima uređajem tu je infracrveni daljinski upravljač i mogućnost kupnje opcionalnog WiFi sučelja RB-N104S-G pomoću kojeg uređajem možete upravljati vašim pametnim telefonom ili tabletom.\nKlima uređaj Toshiba Seiya Inverter 4.2 kW sastoji se od unutarnje jedinice oznake RAS-B16E2KVG-E, vanjske jedinice RAS-16E2AVG-E i infracrvenog daljinskog upravljača.",
     brand: "Toshiba",
     category: "Mono klima uređaj",
     price: 7900,
@@ -2174,7 +2057,7 @@ const products = [
     image:
       "/images/Toshiba/ToshibaSeiya5.0kW/seiya-16-18-62be9ce930aa9_62be9ebaced3c.png,/images/Toshiba/ToshibaSeiya5.0kW/seiya-7-18-indoor-62be93c4dde83_62be9ebb2a6c0.png",
     description:
-      "Seiya Inverter predstavlja savršen ulazak u svijet klimatizacije. Početni model Toshibine palete opremljen je štedljivim inverterskim kompresorom i svim funkcionalnostima na koje su navikli korisnici premium branda poput Toshibe. Uz to, svoj rad obavlja koristeći najnoviji rashladni medij R32 koji ne samo da je ekološki prihvatljiviji, već i donosi dodatnu uštedu u potrošnji električne energije. Energetska učinkovitost razreda A++ i snagom od 5.0 kW. No, nisu samo odlične značajke te koje ovaj model čine odličnim, tu je i primjer neprestanog rada na inovacijama koje će se pobrinuti za maksimalnu udobnost i mir. Seiya smanjuje razinu buke dvjema funkcijama tihog rada: QUIET na unutarnjoj jedinici omogućava vam neometani mir noću, a SILENT na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba!Uz tih i ekonomičan rad, Seiya uređaji osigurati će vam i odličnu kvalitetu zraka zahvaljujući „IAQ“ filteru i izmjenjivaču topline Magic Coil®. Izmjenjivač topline unutarnje jedinice uvijek se održava čistim i suhim s pomoću posebnog premaza zajedno s funkcijom samočišćenja nakon završetka rada. Nema šanse za razvoj neugodnih mirisa i bakterija.Kako bi lako i pouzdano upravljali svojim novim klima uređajem tu je infracrveni daljinski upravljač i mogućnost kupnje opcionalnog WiFi sučelja RB-N104S-G pomoću kojeg uređajem možete upravljati vašim pametnim telefonom ili tabletom.Klima uređaj Toshiba Seiya Inverter 5.0 kW sastoji se od unutarnje jedinice oznake RAS-18E2KVG-E, vanjske jedinice RAS-18E2AVG-E i infracrvenog daljinskog upravljača.",
+      "Seiya Inverter predstavlja savršen ulazak u svijet klimatizacije. Početni model Toshibine palete opremljen je štedljivim inverterskim kompresorom i svim funkcionalnostima na koje su navikli korisnici premium branda poput Toshibe. Uz to, svoj rad obavlja koristeći najnoviji rashladni medij R32 koji ne samo da je ekološki prihvatljiviji, već i donosi dodatnu uštedu u potrošnji električne energije.Energetska učinkovitost razreda A++ i snagom od 5.0 kW.    \nNo, nisu samo odlične značajke te koje ovaj model čine odličnim, tu je i primjer neprestanog rada na inovacijama koje će se pobrinuti za maksimalnu udobnost i mir. Seiya smanjuje razinu buke dvjema funkcijama tihog rada: QUIET na unutarnjoj jedinici omogućava vam neometani mir noću, a SILENT na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba!\nUz tih i ekonomičan rad, Seiya uređaji osigurati će vam i odličnu kvalitetu zraka zahvaljujući „IAQ“ filteru i izmjenjivaču topline Magic Coil®. Izmjenjivač topline unutarnje jedinice uvijek se održava čistim i suhim s pomoću posebnog premaza zajedno s funkcijom samočišćenja nakon završetka rada. Nema šanse za razvoj neugodnih mirisa i bakterija.\nKako bi lako i pouzdano upravljali svojim novim klima uređajem tu je infracrveni daljinski upravljač i mogućnost kupnje opcionalnog WiFi sučelja RB-N104S-G pomoću kojeg uređajem možete upravljati vašim pametnim telefonom ili tabletom.\nKlima uređaj Toshiba Seiya Inverter 5.0 kW sastoji se od unutarnje jedinice oznake RAS-18E2KVG-E, vanjske jedinice RAS-18E2AVG-E i infracrvenog daljinskog upravljača.",
     brand: "Toshiba",
     category: "Mono klima uređaj",
     price: 9500,
@@ -2212,7 +2095,7 @@ const products = [
     image:
       "/images/Toshiba/ToshibaSeiya6.5kW-RAS-24E2KVG-ERAS-24E2AVG-E/seiya-24-62be9ca260b08_62be9f6e0ccb6.png,/images/Toshiba/ToshibaSeiya6.5kW-RAS-24E2KVG-ERAS-24E2AVG-E/seiya-24-indoor-62be9ca2a726a_62be9f6e581a9.png",
     description:
-      "Seiya Inverter predstavlja savršen ulazak u svijet klimatizacije. Početni model Toshibine palete opremljen je štedljivim inverterskim kompresorom i svim funkcionalnostima na koje su navikli korisnici premium branda poput Toshibe. Uz to, svoj rad obavlja koristeći najnoviji rashladni medij R32 koji ne samo da je ekološki prihvatljiviji, već i donosi dodatnu uštedu u potrošnji električne energije. Energetska učinkovitost razreda A++ i snagom od 6.5 kW. No, nisu samo odlične značajke te koje ovaj model čine odličnim, tu je i primjer neprestanog rada na inovacijama koje će se pobrinuti za maksimalnu udobnost i mir. Seiya smanjuje razinu buke dvjema funkcijama tihog rada: QUIET na unutarnjoj jedinici omogućava vam neometani mir noću, a SILENT na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba!Uz tih i ekonomičan rad, Seiya uređaji osigurati će vam i odličnu kvalitetu zraka zahvaljujući „IAQ“ filteru i izmjenjivaču topline Magic Coil®. Izmjenjivač topline unutarnje jedinice uvijek se održava čistim i suhim s pomoću posebnog premaza zajedno s funkcijom samočišćenja nakon završetka rada. Nema šanse za razvoj neugodnih mirisa i bakterija.Kako bi lako i pouzdano upravljali svojim novim klima uređajem tu je infracrveni daljinski upravljač i mogućnost kupnje opcionalnog WiFi sučelja RB-N104S-G pomoću kojeg uređajem možete upravljati vašim pametnim telefonom ili tabletom.Klima uređaj Toshiba Seiya Inverter 6.5 kW sastoji se od unutarnje jedinice oznake RAS-24EJ2KVG-E, vanjske jedinice RAS-24E2AVG-E i infracrvenog daljinskog upravljača.",
+      "Seiya Inverter predstavlja savršen ulazak u svijet klimatizacije. Početni model Toshibine palete opremljen je štedljivim inverterskim kompresorom i svim funkcionalnostima na koje su navikli korisnici premium branda poput Toshibe. Uz to, svoj rad obavlja koristeći najnoviji rashladni medij R32 koji ne samo da je ekološki prihvatljiviji, već i donosi dodatnu uštedu u potrošnji električne energije.Energetska učinkovitost razreda A++ i snagom od 6.5 kW.     \nNo, nisu samo odlične značajke te koje ovaj model čine odličnim, tu je i primjer neprestanog rada na inovacijama koje će se pobrinuti za maksimalnu udobnost i mir. Seiya smanjuje razinu buke dvjema funkcijama tihog rada: QUIET na unutarnjoj jedinici omogućava vam neometani mir noću, a SILENT na vanjskoj jedinici vašim susjedima. I to sve samo jednim pritiskom gumba!\nUz tih i ekonomičan rad, Seiya uređaji osigurati će vam i odličnu kvalitetu zraka zahvaljujući „IAQ“ filteru i izmjenjivaču topline Magic Coil®. Izmjenjivač topline unutarnje jedinice uvijek se održava čistim i suhim s pomoću posebnog premaza zajedno s funkcijom samočišćenja nakon završetka rada. Nema šanse za razvoj neugodnih mirisa i bakterija.\nKako bi lako i pouzdano upravljali svojim novim klima uređajem tu je infracrveni daljinski upravljač i mogućnost kupnje opcionalnog WiFi sučelja RB-N104S-G pomoću kojeg uređajem možete upravljati vašim pametnim telefonom ili tabletom.\nKlima uređaj Toshiba Seiya Inverter 6.5 kW sastoji se od unutarnje jedinice oznake RAS-24E2KVG-E, vanjske jedinice RAS-24E2AVG-E i infracrvenog daljinskog upravljača.",
     brand: "Toshiba",
     category: "Mono klima uređaj",
     price: 11500,
